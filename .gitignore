@@ -1,0 +1,23 @@
+# Raw and bulky public transcriptomic files
+data/raw/*
+!data/raw/.gitkeep
+data/metadata_raw/*
+!data/metadata_raw/.gitkeep
+*.fastq.gz
+*.fq.gz
+*.bam
+*.bai
+*.tar
+*.gz
+
+# R project/environment temporary output
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+renv/library/
+renv/staging/
+
+# OS/editor
+.DS_Store
+Thumbs.db
