@@ -21,3 +21,13 @@
 - Caution flags: three counts-key-only samples are provisionally retained for technical rehearsal because they have usable cohort/key metadata, but they must be revisited before any formal external validation use.
 - Firewall: This GSE161731 subset is for technical workflow mastery only. It must not influence GSE211567 discovery-module selection, module orientation, module weighting or biological interpretation.
 
+
+## 2026-05-30 — GSE161731 technical rehearsal closeout
+- Decision: Close the GSE161731 count-level technical rehearsal phase as successful for workflow-mastery purposes.
+- Full rehearsal subset: 102 samples comprising 24 bacterial and 78 non-COVID viral samples.
+- Sensitivity rehearsal subset: 99 samples after excluding the three counts-key-only caution samples 434482, 434741 and 94478.
+- Technical result: count import, metadata alignment, gene filtering, TMM normalization, voom transformation, PCA/MDS plotting, session capture and QC reporting all executed successfully.
+- Stability note: `filterByExpr` retained 20,561 genes in both the full and caution-sample-excluded sensitivity rehearsals.
+- QC note: the full rehearsal identified metadata-caution samples with QC concerns; the sensitivity rehearsal resolved the metadata-integrity concern, although ordinary IQR-defined technical outliers remained and are documented.
+- Firewall: GSE161731 has served only as a count-level workflow rehearsal resource. It must not influence GSE211567 discovery-module selection, module orientation, module weighting or biological interpretation.
+- Next action: proceed to GSE211567 discovery-side metadata and sample-structure audit before any discovery modelling.
