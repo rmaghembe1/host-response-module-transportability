@@ -1,0 +1,7 @@
+rna_id	in_count_matrix	in_counts_key	in_sample_key	metadata_usability_status	subject_id	cohort	broad_group_preliminary	primary_non_covid_external_candidate_preliminary	age	gender	race	time_since_onset	hospitalized	batch
+434482	True	True	False	mapped_to_counts_key_only	B4E5B1	CoV other	other_or_unclear	review	19		White			2
+434741	True	True	False	mapped_to_counts_key_only	613015	CoV other	other_or_unclear	review	18	Female	White			2
+94478	True	True	False	mapped_to_counts_key_only	896282	Bacterial	bacterial	yes	68	Female	Black/African American			2
+DU09-02S0000150_batch2	True	False	False	count_matrix_only_unmapped			missing_metadata	no						
+DU09-02S0000154_batch2	True	False	False	count_matrix_only_unmapped			missing_metadata	no						
+DU09-02S0000158_batch2	True	False	False	count_matrix_only_unmapped			missing_metadata	no						

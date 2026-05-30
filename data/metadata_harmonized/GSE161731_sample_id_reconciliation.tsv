@@ -1,0 +1,202 @@
+rna_id	in_count_matrix	in_counts_key	in_sample_key	metadata_usability_status	subject_id	cohort	broad_group_preliminary	primary_non_covid_external_candidate_preliminary	age	gender	race	time_since_onset	hospitalized	batch
+00943	True	True	True	mapped_to_sample_key	4F8A8C	CoV other	other_or_unclear	review	47	Male	White			1
+105791	True	True	True	mapped_to_sample_key	35278C	CoV other	other_or_unclear	review	18	Male	White			1
+105824	True	True	True	mapped_to_sample_key	85F5DA	CoV other	other_or_unclear	review	18	Female	Asian			1
+105834	True	True	True	mapped_to_sample_key	631013	CoV other	other_or_unclear	review	18	Female	White			1
+105841	True	True	True	mapped_to_sample_key	1EDB6C	Influenza	non_covid_viral	yes	18	Male	White			1
+105842	True	True	True	mapped_to_sample_key	7E956E	Influenza	non_covid_viral	yes	18	Female	American Indian/Alaska Native			1
+105847	True	True	True	mapped_to_sample_key	51312F	Influenza	non_covid_viral	yes	14	Male	White			1
+105848	True	True	True	mapped_to_sample_key	477FBB	Influenza	non_covid_viral	yes	16	Male	White			1
+105853	True	True	True	mapped_to_sample_key	7E7003	Influenza	non_covid_viral	yes	16	Female	Unknown/Not reported			2
+105861	True	True	True	mapped_to_sample_key	1ABCEB	Influenza	non_covid_viral	yes	0	Male	White			1
+105920	True	True	True	mapped_to_sample_key	61DE97	Influenza	non_covid_viral	yes	21	Female	White			1
+105927	True	True	True	mapped_to_sample_key	F181B3	Influenza	non_covid_viral	yes	18	Male	White			1
+105929	True	True	True	mapped_to_sample_key	8302D4	Influenza	non_covid_viral	yes	51	Female	Black/African American			1
+234301	True	True	True	mapped_to_sample_key	4735F6	CoV other	other_or_unclear	review	18	Female	White			1
+234326	True	True	True	mapped_to_sample_key	A34BBC	CoV other	other_or_unclear	review	18	Male	Asian			1
+234330	True	True	True	mapped_to_sample_key	FFB007	CoV other	other_or_unclear	review	18	Male	White			1
+234376	True	True	True	mapped_to_sample_key	693EE8	CoV other	other_or_unclear	review	18	Male	Asian			1
+234377	True	True	True	mapped_to_sample_key	693EE8	CoV other	other_or_unclear	review	18	Male	Asian			1
+234432	True	True	True	mapped_to_sample_key	5AD864	CoV other	other_or_unclear	review	18	Female	Black/African American			1
+234435	True	True	True	mapped_to_sample_key	E2CEAC	CoV other	other_or_unclear	review	18	Female	White			1
+434294	True	True	True	mapped_to_sample_key	BBAB00	CoV other	other_or_unclear	review	18	Male	White			1
+434316	True	True	True	mapped_to_sample_key	1ABC70	CoV other	other_or_unclear	review	18	Male	Asian			1
+434323	True	True	True	mapped_to_sample_key	2A9E18	CoV other	other_or_unclear	review	18	Female	Black/African American			2
+434325	True	True	True	mapped_to_sample_key	E3BBAF	CoV other	other_or_unclear	review	19	Male	White			1
+434330	True	True	True	mapped_to_sample_key	575E4D	CoV other	other_or_unclear	review	19	Female	White			1
+434333	True	True	True	mapped_to_sample_key	502974	CoV other	other_or_unclear	review	18	Female	Asian			1
+434335	True	True	True	mapped_to_sample_key	499496	CoV other	other_or_unclear	review	18	Male	White			1
+434393	True	True	True	mapped_to_sample_key	83689A	CoV other	other_or_unclear	review	19		White			1
+434399	True	True	True	mapped_to_sample_key	F6087E	CoV other	other_or_unclear	review	18		White			1
+434482	True	True	False	mapped_to_counts_key_only	B4E5B1	CoV other	other_or_unclear	review	19		White			2
+434486	True	True	True	mapped_to_sample_key	4A7852	CoV other	other_or_unclear	review	18		White			1
+434517	True	True	True	mapped_to_sample_key	284AEB	CoV other	other_or_unclear	review	18		White			1
+434518	True	True	True	mapped_to_sample_key	204833	CoV other	other_or_unclear	review	18		White			1
+434532	True	True	True	mapped_to_sample_key	F702D7	CoV other	other_or_unclear	review	18		Asian			1
+434537	True	True	True	mapped_to_sample_key	A3EC2E	CoV other	other_or_unclear	review	19		White			1
+434557	True	True	True	mapped_to_sample_key	6ED61C	CoV other	other_or_unclear	review	19		White			2
+434567	True	True	True	mapped_to_sample_key	6ED61C	CoV other	other_or_unclear	review	19		White			2
+434570	True	True	True	mapped_to_sample_key	6ED61C	CoV other	other_or_unclear	review	19		White			2
+434596	True	True	True	mapped_to_sample_key	FE32AB	CoV other	other_or_unclear	review	18		White			1
+434597	True	True	True	mapped_to_sample_key	C04C8C	CoV other	other_or_unclear	review	18	Female	White			1
+434602	True	True	True	mapped_to_sample_key	F012BA	CoV other	other_or_unclear	review	18	Female	Asian			2
+434619	True	True	True	mapped_to_sample_key	36322F	CoV other	other_or_unclear	review	18	Female	White			2
+434735	True	True	True	mapped_to_sample_key	CEFC9F	CoV other	other_or_unclear	review	18	Male	Asian			2
+434740	True	True	True	mapped_to_sample_key	3FFD15	CoV other	other_or_unclear	review	18	Male	White			1
+434741	True	True	False	mapped_to_counts_key_only	613015	CoV other	other_or_unclear	review	18	Female	White			2
+434756	True	True	True	mapped_to_sample_key	84FA52	CoV other	other_or_unclear	review	18	Female	Native Hawaiian/Pacific Islander			1
+434757	True	True	True	mapped_to_sample_key	CEFC9F	CoV other	other_or_unclear	review	18	Male	Asian			1
+434766	True	True	True	mapped_to_sample_key	1282BB	CoV other	other_or_unclear	review	18	Female	White			1
+434768	True	True	True	mapped_to_sample_key	7D825F	CoV other	other_or_unclear	review	18	Female	Asian			1
+434777	True	True	True	mapped_to_sample_key	42175C	CoV other	other_or_unclear	review	18	Female	White			1
+434794	True	True	True	mapped_to_sample_key	023856	CoV other	other_or_unclear	review	18	Male	Other/More than one race			1
+434809	True	True	True	mapped_to_sample_key	F492AC	CoV other	other_or_unclear	review	18	Male	White			2
+434859	True	True	True	mapped_to_sample_key	DCB025	CoV other	other_or_unclear	review	21	Male	Asian			1
+94189	True	True	True	mapped_to_sample_key	A1BD46	Bacterial	bacterial	yes	57	Female	Black/African American			1
+94478	True	True	False	mapped_to_counts_key_only	896282	Bacterial	bacterial	yes	68	Female	Black/African American			2
+94486	True	True	True	mapped_to_sample_key	4F4B07	Bacterial	bacterial	yes	38	Male	Black/African American			1
+95967	True	True	True	mapped_to_sample_key	9C7138	Bacterial	bacterial	yes	38	Female	Black/African American			1
+95968	True	True	True	mapped_to_sample_key	3E4D81	Bacterial	bacterial	yes	76	Male	Black/African American			1
+95969	True	True	True	mapped_to_sample_key	8C773D	Bacterial	bacterial	yes	55	Male	Black/African American			1
+95970	True	True	True	mapped_to_sample_key	BFC68B	Bacterial	bacterial	yes	79	Male	Black/African American			1
+95971	True	True	True	mapped_to_sample_key	F222E4	Bacterial	bacterial	yes	33	Female	Black/African American			2
+95981	True	True	True	mapped_to_sample_key	5DD4F4	Bacterial	bacterial	yes	53	Male	Black/African American			1
+95982	True	True	True	mapped_to_sample_key	5835FC	Bacterial	bacterial	yes	35	Female	Black/African American			1
+95986	True	True	True	mapped_to_sample_key	BE5D74	Bacterial	bacterial	yes	74	Female	White			1
+95994	True	True	True	mapped_to_sample_key	0782B0	Bacterial	bacterial	yes	51	Female	Unknown/Not reported			1
+95996	True	True	True	mapped_to_sample_key	13DB02	Bacterial	bacterial	yes	60	Female	White			1
+95997	True	True	True	mapped_to_sample_key	0FD2F9	Bacterial	bacterial	yes	52	Female	Black/African American			1
+96004	True	True	True	mapped_to_sample_key	CDF6C5	Bacterial	bacterial	yes	37	Male	Black/African American			1
+97389	True	True	True	mapped_to_sample_key	ADC430	Bacterial	bacterial	yes	69	Male	Unknown/Not reported			1
+97392	True	True	True	mapped_to_sample_key	8304CA	Bacterial	bacterial	yes	75	Female	Black/African American			1
+97394	True	True	True	mapped_to_sample_key	A48B6B	Bacterial	bacterial	yes	87	Female	Black/African American			1
+97395	True	True	True	mapped_to_sample_key	A76F44	Bacterial	bacterial	yes	84	Male	Black/African American			1
+97403	True	True	True	mapped_to_sample_key	26BA6E	Bacterial	bacterial	yes	80	Male	Black/African American			1
+97406	True	True	True	mapped_to_sample_key	2D444D	Bacterial	bacterial	yes	85	Female	Black/African American			1
+97407	True	True	True	mapped_to_sample_key	A983BF	Bacterial	bacterial	yes	81	Male	Black/African American			1
+DU09-02S0000101	True	True	True	mapped_to_sample_key	ADEA56	healthy	healthy_contextual	contextual_only	19	Female	Asian			1
+DU09-02S0000103	True	True	True	mapped_to_sample_key	161D38	healthy	healthy_contextual	contextual_only	18	Male	White			1
+DU09-02S0000105	True	True	True	mapped_to_sample_key	A34BBC	healthy	healthy_contextual	contextual_only	18	Male	Asian			1
+DU09-02S0000106	True	True	True	mapped_to_sample_key	F1D2AB	healthy	healthy_contextual	contextual_only	19	Male	White			1
+DU09-02S0000111	True	True	True	mapped_to_sample_key	3C422E	healthy	healthy_contextual	contextual_only	18	Male	White			1
+DU09-02S0000113	True	True	True	mapped_to_sample_key	32A2DF	healthy	healthy_contextual	contextual_only	19	Male	White			1
+DU09-02S0000114	True	True	True	mapped_to_sample_key	E77BE3	healthy	healthy_contextual	contextual_only	18	Female	White			1
+DU09-02S0000115	True	True	True	mapped_to_sample_key	802B93	healthy	healthy_contextual	contextual_only	18	Female	White			1
+DU09-02S0000116	True	True	True	mapped_to_sample_key	B6068D	healthy	healthy_contextual	contextual_only	18	Male	White			1
+DU09-02S0000120	True	True	True	mapped_to_sample_key	21345A	healthy	healthy_contextual	contextual_only	18	Male	Other/More than one race			1
+DU09-02S0000141	True	True	True	mapped_to_sample_key	228661	CoV other	other_or_unclear	review	18	Female	Black/African American			1
+DU09-02S0000142	True	True	True	mapped_to_sample_key	2958E6	Influenza	non_covid_viral	yes	18	Female	White			1
+DU09-02S0000143	True	True	True	mapped_to_sample_key	C49FF2	Influenza	non_covid_viral	yes	18	Male	White			1
+DU09-02S0000144	True	True	True	mapped_to_sample_key	55F502	CoV other	other_or_unclear	review	18	Male	White			2
+DU09-02S0000145	True	True	True	mapped_to_sample_key	E2CEAC	CoV other	other_or_unclear	review	18	Female	White			1
+DU09-02S0000146	True	True	True	mapped_to_sample_key	E77BE3	CoV other	other_or_unclear	review	18	Female	White			2
+DU09-02S0000149	True	True	True	mapped_to_sample_key	6AA2B5	healthy	healthy_contextual	contextual_only	18	Female	Asian			1
+DU09-02S0000150	True	True	True	mapped_to_sample_key	7F13CD	healthy	healthy_contextual	contextual_only	18	Female	White			1
+DU09-02S0000150_batch2	True	False	False	count_matrix_only_unmapped			missing_metadata	no						
+DU09-02S0000151	True	True	True	mapped_to_sample_key	6509F9	healthy	healthy_contextual	contextual_only	18	Female	Asian			1
+DU09-02S0000153	True	True	True	mapped_to_sample_key	052022	healthy	healthy_contextual	contextual_only	18	Male	White			1
+DU09-02S0000154	True	True	True	mapped_to_sample_key	C82C18	healthy	healthy_contextual	contextual_only	18	Female	Asian			1
+DU09-02S0000154_batch2	True	False	False	count_matrix_only_unmapped			missing_metadata	no						
+DU09-02S0000155	True	True	True	mapped_to_sample_key	BDB9A1	healthy	healthy_contextual	contextual_only	19	Male	White			1
+DU09-02S0000156	True	True	True	mapped_to_sample_key	C15597	healthy	healthy_contextual	contextual_only	18	Female	White			2
+DU09-02S0000157	True	True	True	mapped_to_sample_key	2EA10A	healthy	healthy_contextual	contextual_only	19	Male	Asian			1
+DU09-02S0000158	True	True	True	mapped_to_sample_key	237BC6	healthy	healthy_contextual	contextual_only	20	Male	Asian			1
+DU09-02S0000158_batch2	True	False	False	count_matrix_only_unmapped			missing_metadata	no						
+DU09-03S0000604	True	True	True	mapped_to_sample_key	44DF6B	Influenza	non_covid_viral	yes	19	Male	Black/African American			2
+DU09-03S0000611	True	True	True	mapped_to_sample_key	658A11	Influenza	non_covid_viral	yes	14	Male	White			2
+DU09-03S0000632	True	True	True	mapped_to_sample_key	48842A	Influenza	non_covid_viral	yes	15	Male	White			1
+DU09-03S0000774	True	True	True	mapped_to_sample_key	4D4F7C	Influenza	non_covid_viral	yes	50	Female	Black/African American			1
+DU09-03S0000775	True	True	True	mapped_to_sample_key	C4D511	Influenza	non_covid_viral	yes	39	Female	Black/African American			1
+DU09-03S19475	True	True	True	mapped_to_sample_key	736488	Bacterial	bacterial	yes	39	Female	Black/African American			1
+DU09-03S19478	True	True	True	mapped_to_sample_key	A1470A	Influenza	non_covid_viral	yes	23	Female	Black/African American			1
+DU09-03S19498	True	True	True	mapped_to_sample_key	AB87B2	Bacterial	bacterial	yes	72	Female	Black/African American			1
+DU10-01S0000032	True	True	True	mapped_to_sample_key	F917BC	CoV other	other_or_unclear	review	59	Female	Black/African American			1
+DU10-01S0000709	True	True	True	mapped_to_sample_key	245418	CoV other	other_or_unclear	review	21	Female	White			1
+DU14-02S0000001	True	True	True	mapped_to_sample_key	FB8714	CoV other	other_or_unclear	review	19		White			2
+DU14-02S0000002	True	True	True	mapped_to_sample_key	FB8714	CoV other	other_or_unclear	review	19		White			2
+DU14-02S0000003	True	True	True	mapped_to_sample_key	2096A5	CoV other	other_or_unclear	review	18		White			1
+DU14-02S0000004	True	True	True	mapped_to_sample_key	2096A5	CoV other	other_or_unclear	review	18		White			1
+DU14-02S0000005	True	True	True	mapped_to_sample_key	7190A0	CoV other	other_or_unclear	review	18		White			1
+DU14-02S0000006	True	True	True	mapped_to_sample_key	7190A0	CoV other	other_or_unclear	review	18		White			1
+DU14-02S0000007	True	True	True	mapped_to_sample_key	DFC78E	CoV other	other_or_unclear	review	18		White			1
+DU14-02S0000008	True	True	True	mapped_to_sample_key	7190A0	CoV other	other_or_unclear	review	18		White			1
+DU14-02S0000009	True	True	True	mapped_to_sample_key	DFC78E	CoV other	other_or_unclear	review	18		White			1
+DU14-03S0000878	True	True	True	mapped_to_sample_key	325AEE	CoV other	other_or_unclear	review	27	Male	Black/African American			1
+DU14-03S0000889	True	True	True	mapped_to_sample_key	4AAB31	CoV other	other_or_unclear	review	25	Female	Black/African American			1
+DU18-02S0011603	True	True	True	mapped_to_sample_key	0B943B	COVID-19	covid_excluded_primary	no	33	Male	White	early	No	2
+DU18-02S0011604	True	True	True	mapped_to_sample_key	C90C79	COVID-19	covid_excluded_primary	no	32	Male	White	middle	No	1
+DU18-02S0011605	True	True	True	mapped_to_sample_key	0B943B	COVID-19	covid_excluded_primary	no	33	Male	White	middle	No	1
+DU18-02S0011606	True	True	True	mapped_to_sample_key	0D76FC	COVID-19	covid_excluded_primary	no	30	Male	White	middle	No	1
+DU18-02S0011607	True	True	True	mapped_to_sample_key	180E1A	COVID-19	covid_excluded_primary	no	28	Female	White	middle	No	1
+DU18-02S0011608	True	True	True	mapped_to_sample_key	82CCF5	COVID-19	covid_excluded_primary	no	31	Female	White	middle	No	1
+DU18-02S0011609	True	True	True	mapped_to_sample_key	318281	COVID-19	covid_excluded_primary	no	27	Female	White	middle	No	1
+DU18-02S0011610	True	True	True	mapped_to_sample_key	0E1F8E	COVID-19	covid_excluded_primary	no	20	Male	White	late	No	1
+DU18-02S0011612	True	True	True	mapped_to_sample_key	936128	COVID-19	covid_excluded_primary	no	64	Male	White	middle	Yes	1
+DU18-02S0011613	True	True	True	mapped_to_sample_key	A79738	COVID-19	covid_excluded_primary	no	35	Female	Asian	early	No	1
+DU18-02S0011614	True	True	True	mapped_to_sample_key	E4B8AD	COVID-19	covid_excluded_primary	no	46	Male	White	late	No	1
+DU18-02S0011615	True	True	True	mapped_to_sample_key	E4B8AD	COVID-19	covid_excluded_primary	no	46	Male	White	late	No	1
+DU18-02S0011616	True	True	True	mapped_to_sample_key	318281	COVID-19	covid_excluded_primary	no	27	Female	White	late	No	2
+DU18-02S0011617	True	True	True	mapped_to_sample_key	0D76FC	COVID-19	covid_excluded_primary	no	30	Male	White	late	No	1
+DU18-02S0011618	True	True	True	mapped_to_sample_key	45FBA5	COVID-19	covid_excluded_primary	no	71	Male	Unknown/Not reported	early	No	1
+DU18-02S0011619	True	True	True	mapped_to_sample_key	450905	COVID-19	covid_excluded_primary	no	60	Male	White	early	No	1
+DU18-02S0011620	True	True	True	mapped_to_sample_key	450905	COVID-19	covid_excluded_primary	no	60	Male	White	early	No	1
+DU18-02S0011621	True	True	True	mapped_to_sample_key	450905	COVID-19	covid_excluded_primary	no	60	Male	White	early	No	1
+DU18-02S0011622	True	True	True	mapped_to_sample_key	450905	COVID-19	covid_excluded_primary	no	60	Male	White	middle	No	1
+DU18-02S0011623	True	True	True	mapped_to_sample_key	0B943B	COVID-19	covid_excluded_primary	no	33	Male	White	early	No	2
+DU18-02S0011624	True	True	True	mapped_to_sample_key	450905	COVID-19	covid_excluded_primary	no	60	Male	White	late	No	1
+DU18-02S0011625	True	True	True	mapped_to_sample_key	450905	COVID-19	covid_excluded_primary	no	60	Male	White	late	No	1
+DU18-02S0011626	True	True	True	mapped_to_sample_key	450905	COVID-19	covid_excluded_primary	no	60	Male	White	middle	No	1
+DU18-02S0011627	True	True	True	mapped_to_sample_key	7085CA	COVID-19	covid_excluded_primary	no	28	Male	White	early	No	1
+DU18-02S0011628	True	True	True	mapped_to_sample_key	318281	COVID-19	covid_excluded_primary	no	27	Female	White	early	No	1
+DU18-02S0011629	True	True	True	mapped_to_sample_key	B85D75	COVID-19	covid_excluded_primary	no	31	Female	White	early	No	1
+DU18-02S0011630	True	True	True	mapped_to_sample_key	0D76FC	COVID-19	covid_excluded_primary	no	30	Male	White	early	No	1
+DU18-02S0011631	True	True	True	mapped_to_sample_key	E94CCD	COVID-19	covid_excluded_primary	no	88	Female	Black/African American	middle	Yes	2
+DU18-02S0011632	True	True	True	mapped_to_sample_key	C90C79	COVID-19	covid_excluded_primary	no	32	Male	White	middle	No	1
+DU18-02S0011633	True	True	True	mapped_to_sample_key	66D9D8	COVID-19	covid_excluded_primary	no	69	Female	Black/African American	early	Yes	2
+DU18-02S0011634	True	True	True	mapped_to_sample_key	C70520	COVID-19	covid_excluded_primary	no	28	Female	White	middle	No	2
+DU18-02S0011635	True	True	True	mapped_to_sample_key	1A9B20	COVID-19	covid_excluded_primary	no	29	Female	White	middle	No	1
+DU18-02S0011636	True	True	True	mapped_to_sample_key	BAAF62	COVID-19	covid_excluded_primary	no	28	Male	White	middle	No	2
+DU18-02S0011637	True	True	True	mapped_to_sample_key	75A2B6	COVID-19	covid_excluded_primary	no	26	Female	Asian	middle	No	2
+DU18-02S0011638	True	True	True	mapped_to_sample_key	FA9A61	COVID-19	covid_excluded_primary	no	50	Male	White	middle	No	1
+DU18-02S0011639	True	True	True	mapped_to_sample_key	441D02	COVID-19	covid_excluded_primary	no	33	Male	White	middle	No	2
+DU18-02S0011640	True	True	True	mapped_to_sample_key	3B20C7	COVID-19	covid_excluded_primary	no	29	Male	Asian	middle	No	2
+DU18-02S0011641	True	True	True	mapped_to_sample_key	6BDA69	COVID-19	covid_excluded_primary	no	29	Female	White	early	No	1
+DU18-02S0011642	True	True	True	mapped_to_sample_key	3F05F3	COVID-19	covid_excluded_primary	no	29	Male	White	middle	No	1
+DU18-02S0011643	True	True	True	mapped_to_sample_key	E4B8AD	COVID-19	covid_excluded_primary	no	46	Male	White	middle	No	1
+DU18-02S0011644	True	True	True	mapped_to_sample_key	35D90D	COVID-19	covid_excluded_primary	no	56	Female	Asian	middle	No	1
+DU18-02S0011645	True	True	True	mapped_to_sample_key	49C793	COVID-19	covid_excluded_primary	no	54	Female	White	late	No	1
+DU18-02S0011646	True	True	True	mapped_to_sample_key	40067F	COVID-19	covid_excluded_primary	no	51	Male	White	middle	No	1
+DU18-02S0011647	True	True	True	mapped_to_sample_key	023B3D	COVID-19	covid_excluded_primary	no	50	Female	White	middle	No	1
+DU18-02S0011648	True	True	True	mapped_to_sample_key	00D6EF	COVID-19	covid_excluded_primary	no	61	Male	Native Hawaiian/Pacific Islander	middle	No	1
+DU18-02S0011649	True	True	True	mapped_to_sample_key	184874	COVID-19	covid_excluded_primary	no	63	Female	White	middle	No	2
+DU18-02S0011650	True	True	True	mapped_to_sample_key	18A573	COVID-19	covid_excluded_primary	no	52	Female	White	late	No	2
+DU18-02S0011651	True	True	True	mapped_to_sample_key	E1D5C6	COVID-19	covid_excluded_primary	no	59	Male	Black/African American	middle	Yes	1
+DU18-02S0011652	True	True	True	mapped_to_sample_key	40646A	COVID-19	covid_excluded_primary	no	60	Male	Black/African American	middle	Yes	2
+DU18-02S0011653	True	True	True	mapped_to_sample_key	4275AF	COVID-19	covid_excluded_primary	no	29	Male	Asian	late	No	1
+DU18-02S0011654	True	True	True	mapped_to_sample_key	A6DA23	COVID-19	covid_excluded_primary	no	33	Male	White	early	Yes	1
+DU18-02S0011655	True	True	True	mapped_to_sample_key	0E1F8E	COVID-19	covid_excluded_primary	no	20	Male	White	middle	No	1
+DU18-02S0011656	True	True	True	mapped_to_sample_key	C90C79	COVID-19	covid_excluded_primary	no	32	Male	White	late	No	1
+DU18-02S0011657	True	True	True	mapped_to_sample_key	82CCF5	COVID-19	covid_excluded_primary	no	31	Female	White	late	No	1
+DU18-02S0011658	True	True	True	mapped_to_sample_key	180E1A	COVID-19	covid_excluded_primary	no	28	Female	White	late	No	1
+DU18-02S0011659	True	True	True	mapped_to_sample_key	35D90D	COVID-19	covid_excluded_primary	no	56	Female	Asian	late	No	1
+DU18-02S0011660	True	True	True	mapped_to_sample_key	FA9A61	COVID-19	covid_excluded_primary	no	50	Male	White	late	No	1
+DU18-02S0011661	True	True	True	mapped_to_sample_key	0E1F8E	COVID-19	covid_excluded_primary	no	20	Male	White	early	No	1
+DU18-02S0011662	True	True	True	mapped_to_sample_key	0FF381	COVID-19	covid_excluded_primary	no	>89	Female	Black/African American	early	Yes	1
+DU18-02S0011663	True	True	True	mapped_to_sample_key	35D90D	COVID-19	covid_excluded_primary	no	56	Female	Asian	late	No	1
+DU18-02S0011664	True	True	True	mapped_to_sample_key	808686	COVID-19	covid_excluded_primary	no	43	Female	White	late	No	2
+DU18-02S0011665	True	True	True	mapped_to_sample_key	FA9A61	COVID-19	covid_excluded_primary	no	50	Male	White	late	No	1
+DU18-02S0011666	True	True	True	mapped_to_sample_key	7B99A8	COVID-19	covid_excluded_primary	no	30	Male	White	late	No	1
+DU18-02S0011667	True	True	True	mapped_to_sample_key	93BAD5	COVID-19	covid_excluded_primary	no	62	Female	White	late	No	1
+DU18-02S0011668	True	True	True	mapped_to_sample_key	2DB5F9	COVID-19	covid_excluded_primary	no	31	Female	Black/African American	middle	Yes	1
+DU18-02S0011669	True	True	True	mapped_to_sample_key	45FBA5	COVID-19	covid_excluded_primary	no	71	Male	Unknown/Not reported	early	Yes	1
+DU18-02S0011670	True	True	True	mapped_to_sample_key	EB057C	COVID-19	covid_excluded_primary	no	67	Male	Black/African American	middle	Yes	1
+DU18-02S0011671	True	True	True	mapped_to_sample_key	7085CA	COVID-19	covid_excluded_primary	no	28	Male	White	middle	No	1
+DU18-02S0011672	True	True	True	mapped_to_sample_key	7085CA	COVID-19	covid_excluded_primary	no	28	Male	White	middle	No	1
+DU18-02S0011673	True	True	True	mapped_to_sample_key	1A9B20	COVID-19	covid_excluded_primary	no	29	Female	White	late	No	1
+DU18-02S0011674	True	True	True	mapped_to_sample_key	1A9B20	COVID-19	covid_excluded_primary	no	29	Female	White	late	No	1
+DU18-02S0011675	True	True	True	mapped_to_sample_key	E6D451	COVID-19	covid_excluded_primary	no	76	Male	White	early	Yes	1
+DU18-02S0011676	True	True	True	mapped_to_sample_key	12B6DB	COVID-19	covid_excluded_primary	no	70	Male	Black/African American	early	Yes	1
+DU18-02S0011677	True	True	True	mapped_to_sample_key	41EE2E	COVID-19	covid_excluded_primary	no	30	Female	Asian	middle	No	1
+DU18-02S0011678	True	True	True	mapped_to_sample_key	180E1A	COVID-19	covid_excluded_primary	no	28	Female	White	middle	No	1
+DU18-02S0011679	True	True	True	mapped_to_sample_key	03ADC4	COVID-19	covid_excluded_primary	no	32	Female	Black/African American	middle	No	1
+DU18-02S0011680	True	True	True	mapped_to_sample_key	82CCF5	COVID-19	covid_excluded_primary	no	31	Female	White	middle	No	1
