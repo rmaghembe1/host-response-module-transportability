@@ -1,0 +1,291 @@
+expression_sample_id	geo_accession	title	include_in_locked_discovery_table	include_in_primary_bacterial_vs_viral_discovery	discovery_group	infection_type_original	pathogen	site	sequencing_batch	platform_id	instrument_model	age	gender	race	source_name	mapping_status	matched_metadata_fields
+DU16-02S0004801	GSM6480111	DU16-02S0004801_L6	yes	yes	bacterial	Bacterial	Leptospira	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	43.08	male		whole blood	unique_metadata_match	title_contains
+DU14-03S0000021	GSM6479998	DU14-03S0000021_L8	yes	yes	viral	Viral	RespVirus_other	United_States	1	GPL16791	Illumina HiSeq 2500	80	female	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0004851	GSM6480150	DU16-02S0004851_L6	yes	yes	bacterial	Bacterial	Leptospira	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	50.23	male		whole blood	unique_metadata_match	title_contains
+DU10-01S0000004	GSM6479950	DU10-01S0000004_L8	yes	yes	bacterial	Bacterial	Staphylococcus	United_States	1	GPL16791	Illumina HiSeq 2500	64	female	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU09-03S0000020	GSM6479915	DU09-03S0000020_L4	yes	yes	bacterial	Bacterial	Enterobacter	United_States	1	GPL16791	Illumina HiSeq 2500	63	male	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU09-03S0000018	GSM6479913	DU09-03S0000018_L4	yes	yes	bacterial	Bacterial	Staphylococcus	United_States	1	GPL16791	Illumina HiSeq 2500	41	male	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU16-02S0004883	GSM6480174	DU16-02S0004883_L7	yes	yes	viral	Viral	Dengue	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	66.02	female		whole blood	unique_metadata_match	title_contains
+DU09-03S0000030	GSM6479925	DU09-03S0000030_L8	yes	yes	bacterial	Bacterial	Enterobacter	United_States	1	GPL16791	Illumina HiSeq 2500	64	female	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0004790	GSM6480103	DU16-02S0004790_L1	yes	yes	bacterial	Bacterial	Leptospira	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	37.55	male		whole blood	unique_metadata_match	title_contains
+DU09-03S0000031	GSM6479926	DU09-03S0000031_L1	yes	yes	bacterial	Bacterial	Enterobacter	United_States	1	GPL16791	Illumina HiSeq 2500	80	male	Native_American/Pacific_Islander	whole blood	unique_metadata_match	title_contains
+DU10-01S0000025	GSM6479970	DU10-01S0000025_L6	yes	yes	viral	Viral	Influenza_A_B	United_States	1	GPL16791	Illumina HiSeq 2500	26	female	White	whole blood	unique_metadata_match	title_contains
+DU09-03S0000040	GSM6479935	DU09-03S0000040_L3	yes	yes	bacterial	Bacterial	Streptococcus	United_States	1	GPL16791	Illumina HiSeq 2500	53	male	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU10-01S0000020	GSM6479966	DU10-01S0000020_L5	yes	yes	viral	Viral	Influenza_A_B	United_States	1	GPL16791	Illumina HiSeq 2500	25	female	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU16-02S0004787	GSM6480100	DU16-02S0004787_L1	yes	yes	bacterial	Bacterial	Rickettsia	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	18.09	female		whole blood	unique_metadata_match	title_contains
+DU09-03S0000037	GSM6479932	DU09-03S0000037_L4	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	1	GPL16791	Illumina HiSeq 2500	66	male	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU16-02S0004805	GSM6480115	DU16-02S0004805_L7	yes	yes	bacterial	Bacterial	Rickettsia	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	50.87	male		whole blood	unique_metadata_match	title_contains
+DU10-01S0000027	GSM6479972	DU10-01S0000027_L8	yes	yes	viral	Viral	Influenza_A_B	United_States	1	GPL16791	Illumina HiSeq 2500	52	male	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0004847	GSM6480148	DU16-02S0004847_L5	yes	yes	viral	Viral	Dengue	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	63.83	female		whole blood	unique_metadata_match	title_contains
+DU09-03S0000028	GSM6479923	DU09-03S0000028_L7	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	1	GPL16791	Illumina HiSeq 2500	64	male	Native_American/Pacific_Islander	whole blood	unique_metadata_match	title_contains
+DU09-03S0000021	GSM6479916	DU09-03S0000021_L7	yes	yes	viral	Viral	Influenza_A_B	United_States	1	GPL16791	Illumina HiSeq 2500	33	male	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU16-02S0004799	GSM6480110	DU16-02S0004799_L6	yes	yes	bacterial	Bacterial	Rickettsia	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	33.06	female		whole blood	unique_metadata_match	title_contains
+DU09-03S0000019	GSM6479914	DU09-03S0000019_L4	yes	yes	bacterial	Bacterial	Staphylococcus	United_States	1	GPL16791	Illumina HiSeq 2500	25	male	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0004873	GSM6480165	DU16-02S0004873_L1	yes	yes	bacterial	Bacterial	Leptospira	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	16.47	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0004795	GSM6480107	DU16-02S0004795_L5	yes	yes	viral	Viral	Dengue	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	51.15	female		whole blood	unique_metadata_match	title_contains
+DU16-02S0004813	GSM6480121	DU16-02S0004813_L2	yes	yes	bacterial	Bacterial	Rickettsia	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	43.71	female		whole blood	unique_metadata_match	title_contains
+DU16-02S0004822	GSM6480126	DU16-02S0004822_L5	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	30.26	female		whole blood	unique_metadata_match	title_contains
+DU09-03S0000013	GSM6479908	DU09-03S0000013_L3	yes	yes	bacterial	Bacterial	Staphylococcus	United_States	1	GPL16791	Illumina HiSeq 2500	70	male	Native_American/Pacific_Islander	whole blood	unique_metadata_match	title_contains
+DU14-03S0000002	GSM6479980	DU14-03S0000002_L8	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	1	GPL16791	Illumina HiSeq 2500	42	male	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU09-03S0000016	GSM6479911	DU09-03S0000016_L3	yes	yes	bacterial	Bacterial	Staphylococcus	United_States	1	GPL16791	Illumina HiSeq 2500	39	male	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0004890	GSM6480175	DU16-02S0004890_L7	yes	yes	bacterial	Bacterial	Leptospira	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	40.11	female		whole blood	unique_metadata_match	title_contains
+DU09-03S0000004	GSM6479901	DU09-03S0000004_L6	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	1	GPL16791	Illumina HiSeq 2500	23	female	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0004892	GSM6480176	DU16-02S0004892_L1	yes	yes	viral	Viral	Dengue	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	20.8	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0004825	GSM6480129	DU16-02S0004825_L5	yes	yes	bacterial	Bacterial	Leptospira	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	57	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0004766	GSM6480081	DU16-02S0004766_L3	yes	yes	viral	Viral	Dengue	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	42.02	female		whole blood	unique_metadata_match	title_contains
+DU09-03S0000038	GSM6479933	DU09-03S0000038_L1	yes	yes	bacterial	Bacterial	Staphylococcus	United_States	1	GPL16791	Illumina HiSeq 2500	68	male	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU16-02S0004831	GSM6480134	DU16-02S0004831_L7	yes	yes	viral	Viral	Dengue	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	22.81	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0004882	GSM6480173	DU16-02S0004882_L6	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	48.99	male		whole blood	unique_metadata_match	title_contains
+DU14-03S0000018	GSM6479995	DU14-03S0000018_L5	yes	yes	bacterial	Bacterial	Staphylococcus	United_States	1	GPL16791	Illumina HiSeq 2500	34	female	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0004860	GSM6480157	DU16-02S0004860_L8	yes	yes	bacterial	Bacterial	Rickettsia	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	37.35	female		whole blood	unique_metadata_match	title_contains
+DU10-01S0000014	GSM6479960	DU10-01S0000014_L1	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	1	GPL16791	Illumina HiSeq 2500	58	male	White	whole blood	unique_metadata_match	title_contains
+DU09-03S0000032	GSM6479927	DU09-03S0000032_L1	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	1	GPL16791	Illumina HiSeq 2500	44	male	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0004818	GSM6480123	DU16-02S0004818_L4	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	27.37	female		whole blood	unique_metadata_match	title_contains
+DU16-02S0004786	GSM6480099	DU16-02S0004786_L1	yes	yes	bacterial	Bacterial	Rickettsia	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	25.83	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0004893	GSM6480177	DU16-02S0004893_L1	yes	yes	viral	Viral	Dengue	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	31.1	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0004826	GSM6480130	DU16-02S0004826_L5	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	83	female		whole blood	unique_metadata_match	title_contains
+DU09-03S0000009	GSM6479904	DU09-03S0000009_L7	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	1	GPL16791	Illumina HiSeq 2500	35	female	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0004770	GSM6480085	DU16-02S0004770_L4	yes	yes	bacterial	Bacterial	Rickettsia	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	59.37	female		whole blood	unique_metadata_match	title_contains
+DU10-01S0000005	GSM6479951	DU10-01S0000005_L4	yes	yes	viral	Viral	RespVirus_other	United_States	1	GPL16791	Illumina HiSeq 2500	60	female	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU16-02S0004819	GSM6480124	DU16-02S0004819_L4	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	19.83	female		whole blood	unique_metadata_match	title_contains
+DU10-01S0000011	GSM6479957	DU10-01S0000011_L4	yes	yes	viral	Viral	Influenza_A_B	United_States	1	GPL16791	Illumina HiSeq 2500	81	male	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0004840	GSM6480141	DU16-02S0004840_L2	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	16.12	female		whole blood	unique_metadata_match	title_contains
+DU16-02S0004767	GSM6480082	DU16-02S0004767_L3	yes	yes	viral	Viral	Dengue	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	17.18	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0004768	GSM6480083	DU16-02S0004768_L4	yes	yes	viral	Viral	Dengue	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	22.61	female		whole blood	unique_metadata_match	title_contains
+DU16-02S0004793	GSM6480105	DU16-02S0004793_L5	yes	yes	viral	Viral	Dengue	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	49.04	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0004807	GSM6480117	DU16-02S0004807_L7	yes	yes	bacterial	Bacterial	Rickettsia	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	48.96	male		whole blood	unique_metadata_match	title_contains
+DU09-03S0000034	GSM6479929	DU09-03S0000034_L1	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	1	GPL16791	Illumina HiSeq 2500	43	female	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU16-02S0004769	GSM6480084	DU16-02S0004769_L4	yes	yes	bacterial	Bacterial	Rickettsia	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	58.1	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0004864	GSM6480161	DU16-02S0004864_L1	yes	yes	bacterial	Bacterial	Rickettsia	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	16.63	female		whole blood	unique_metadata_match	title_contains
+DU16-02S0004773	GSM6480088	DU16-02S0004773_L5	yes	yes	bacterial	Bacterial	Leptospira	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	20.38	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0004898	GSM6480178	DU16-02S0004898_L1	yes	yes	viral	Viral	Dengue	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	58.3	female		whole blood	unique_metadata_match	title_contains
+DU16-02S0004835	GSM6480137	DU16-02S0004835_L8	yes	yes	bacterial	Bacterial	Rickettsia	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	36.85	male		whole blood	unique_metadata_match	title_contains
+DU10-01S0000010	GSM6479956	DU10-01S0000010_L4	yes	yes	bacterial	Bacterial	Enterobacter	United_States	1	GPL16791	Illumina HiSeq 2500	66	male	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0004868	GSM6480163	DU16-02S0004868_L1	yes	yes	viral	Viral	Dengue	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	48.6	female		whole blood	unique_metadata_match	title_contains
+DU16-02S0004869	GSM6480164	DU16-02S0004869_L1	yes	yes	viral	Viral	Dengue	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	31.48	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0004827	GSM6480131	DU16-02S0004827_L6	yes	yes	bacterial	Bacterial	Leptospira	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	33.05	male		whole blood	unique_metadata_match	title_contains
+DU14-03S0000019	GSM6479996	DU14-03S0000019_L8	yes	yes	viral	Viral	RespVirus_other	United_States	1	GPL16791	Illumina HiSeq 2500	82	female	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU16-02S0004792	GSM6480104	DU16-02S0004792_L1	yes	yes	viral	Viral	Dengue	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	19.28	male		whole blood	unique_metadata_match	title_contains
+DU14-03S0000011	GSM6479988	DU14-03S0000011_L2	yes	yes	viral	Viral	Influenza_A_B	United_States	1	GPL16791	Illumina HiSeq 2500	48	male	Asian	whole blood	unique_metadata_match	title_contains
+DU16-02S0004771	GSM6480086	DU16-02S0004771_L4	yes	yes	bacterial	Bacterial	Rickettsia	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	62.69	female		whole blood	unique_metadata_match	title_contains
+DU14-03S0000015	GSM6479992	DU14-03S0000015_L3	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	1	GPL16791	Illumina HiSeq 2500	54	male	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU09-03S0000012	GSM6479907	DU09-03S0000012_L1	yes	yes	viral	Viral	Influenza_A_B	United_States	1	GPL16791	Illumina HiSeq 2500	24	male	White	whole blood	unique_metadata_match	title_contains
+DU09-03S0000039	GSM6479934	DU09-03S0000039_L2	yes	yes	viral	Viral	RespVirus_other	United_States	1	GPL16791	Illumina HiSeq 2500	25	female	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU16-02S0004902	GSM6480179	DU16-02S0004902_L2	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	30.8	female		whole blood	unique_metadata_match	title_contains
+DU16-02S0004828	GSM6480132	DU16-02S0004828_L6	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	52.87	male		whole blood	unique_metadata_match	title_contains
+DU09-03S0000024	GSM6479919	DU09-03S0000024_L3	yes	yes	viral	Viral	Influenza_A_B	United_States	1	GPL16791	Illumina HiSeq 2500	61	male	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0004845	GSM6480146	DU16-02S0004845_L1	yes	yes	viral	Viral	Dengue	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	28.56	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0004843	GSM6480144	DU16-02S0004843_L3	yes	yes	bacterial	Bacterial	Leptospira	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	43.31	male		whole blood	unique_metadata_match	title_contains
+DU10-01S0000022	GSM6479967	DU10-01S0000022_L6	yes	yes	viral	Viral	Influenza_A_B	United_States	1	GPL16791	Illumina HiSeq 2500	54	female	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU10-01S0000013	GSM6479959	DU10-01S0000013_L5	yes	yes	bacterial	Bacterial	Staphylococcus	United_States	1	GPL16791	Illumina HiSeq 2500	49	female	White	whole blood	unique_metadata_match	title_contains
+DU10-01S0000019	GSM6479965	DU10-01S0000019_L3	yes	yes	viral	Viral	Influenza_A_B	United_States	1	GPL16791	Illumina HiSeq 2500	49	female	White	whole blood	unique_metadata_match	title_contains
+DU14-03S0000014	GSM6479991	DU14-03S0000014_L3	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	1	GPL16791	Illumina HiSeq 2500	53	male	White	whole blood	unique_metadata_match	title_contains
+DU09-03S0000014	GSM6479909	DU09-03S0000014_L3	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	1	GPL16791	Illumina HiSeq 2500	44	female	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0004862	GSM6480159	DU16-02S0004862_L8	yes	yes	bacterial	Bacterial	Coxiella_burnetii	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	44.67	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0004812	GSM6480120	DU16-02S0004812_L1	yes	yes	bacterial	Bacterial	Leptospira	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	50.87	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0004875	GSM6480167	DU16-02S0004875_L3	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	34.24	female		whole blood	unique_metadata_match	title_contains
+DU16-02S0004788	GSM6480101	DU16-02S0004788_L1	yes	yes	bacterial	Bacterial	Leptospira	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	27.57	male		whole blood	unique_metadata_match	title_contains
+DU14-03S0000008	GSM6479986	DU14-03S0000008_L1	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	1	GPL16791	Illumina HiSeq 2500	34	female	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU09-03S0000015	GSM6479910	DU09-03S0000015_L3	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	1	GPL16791	Illumina HiSeq 2500	79	male	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0004846	GSM6480147	DU16-02S0004846_L5	yes	yes	viral	Viral	Dengue	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	40.1	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0004802	GSM6480112	DU16-02S0004802_L6	yes	yes	bacterial	Bacterial	Rickettsia	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	29.54	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0004856	GSM6480153	DU16-02S0004856_L7	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	37.33	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0004781	GSM6480094	DU16-02S0004781_L8	yes	yes	viral	Viral	Dengue	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	34.07	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0004874	GSM6480166	DU16-02S0004874_L2	yes	yes	bacterial	Bacterial	Leptospira	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	20.03	male		whole blood	unique_metadata_match	title_contains
+DU09-03S0000025	GSM6479920	DU09-03S0000025_L3	yes	yes	viral	Viral	RespVirus_other	United_States	1	GPL16791	Illumina HiSeq 2500	72	female	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0004789	GSM6480102	DU16-02S0004789_L1	yes	yes	bacterial	Bacterial	Rickettsia	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	54.98	female		whole blood	unique_metadata_match	title_contains
+DU10-01S0000024	GSM6479969	DU10-01S0000024_L6	yes	yes	viral	Viral	Influenza_A_B	United_States	1	GPL16791	Illumina HiSeq 2500	19	male	White	whole blood	unique_metadata_match	title_contains
+DU14-03S0000005	GSM6479983	DU14-03S0000005_L6	yes	yes	viral	Viral	Influenza_A_B	United_States	1	GPL16791	Illumina HiSeq 2500	73	female	Asian	whole blood	unique_metadata_match	title_contains
+DU16-02S0004820	GSM6480125	DU16-02S0004820_L4	yes	yes	viral	Viral	Dengue	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	16.12	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0004808	GSM6480118	DU16-02S0004808_L1	yes	yes	viral	Viral	Dengue	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	28.68	female		whole blood	unique_metadata_match	title_contains
+DU16-02S0004774	GSM6480089	DU16-02S0004774_L5	yes	yes	bacterial	Bacterial	Leptospira	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	15.67	male		whole blood	unique_metadata_match	title_contains
+DU10-01S0000007	GSM6479953	DU10-01S0000007_L2	yes	yes	viral	Viral	Influenza_A_B	United_States	1	GPL16791	Illumina HiSeq 2500	69	male	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0004783	GSM6480096	DU16-02S0004783_L8	yes	yes	viral	Viral	Dengue	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	51.19	female		whole blood	unique_metadata_match	title_contains
+DU10-01S0000016	GSM6479962	DU10-01S0000016_L7	yes	yes	viral	Viral	Influenza_A_B	United_States	1	GPL16791	Illumina HiSeq 2500	27	female	White	whole blood	unique_metadata_match	title_contains
+DU10-01S0000015	GSM6479961	DU10-01S0000015_L7	yes	yes	viral	Viral	RespVirus_other	United_States	1	GPL16791	Illumina HiSeq 2500	64	female	White	whole blood	unique_metadata_match	title_contains
+DU10-01S0000008	GSM6479954	DU10-01S0000008_L4	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	1	GPL16791	Illumina HiSeq 2500	71	male	White	whole blood	unique_metadata_match	title_contains
+DU09-03S0000003	GSM6479900	DU09-03S0000003_L6	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	1	GPL16791	Illumina HiSeq 2500	73	female	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0004810	GSM6480119	DU16-02S0004810_L1	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	64	female		whole blood	unique_metadata_match	title_contains
+DU10-01S0000001	GSM6479947	DU10-01S0000001_L4	yes	yes	bacterial	Bacterial	Enterobacter	United_States	1	GPL16791	Illumina HiSeq 2500	70	female	White	whole blood	unique_metadata_match	title_contains
+DU10-01S0000029	GSM6479974	DU10-01S0000029_L3	yes	yes	bacterial	Bacterial	Streptococcus	United_States	1	GPL16791	Illumina HiSeq 2500	45	female	White	whole blood	unique_metadata_match	title_contains
+DU09-03S0000026	GSM6479921	DU09-03S0000026_L3	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	1	GPL16791	Illumina HiSeq 2500	59	female	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU16-02S0004844	GSM6480145	DU16-02S0004844_L3	yes	yes	bacterial	Bacterial	Rickettsia	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	39.95	male		whole blood	unique_metadata_match	title_contains
+DU10-01S0000031	GSM6479976	DU10-01S0000031_L3	yes	yes	viral	Viral	RespVirus_other	United_States	1	GPL16791	Illumina HiSeq 2500	52	female	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0004880	GSM6480172	DU16-02S0004880_L4	yes	yes	bacterial	Bacterial	Leptospira	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	50.78	female		whole blood	unique_metadata_match	title_contains
+DU16-02S0004859	GSM6480156	DU16-02S0004859_L8	yes	yes	viral	Viral	Dengue	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	24.46	female		whole blood	unique_metadata_match	title_contains
+DU10-01S0000028	GSM6479973	DU10-01S0000028_L1	yes	yes	viral	Viral	Influenza_A_B	United_States	1	GPL16791	Illumina HiSeq 2500	24	female	Native_American/Pacific_Islander	whole blood	unique_metadata_match	title_contains
+DU16-02S0004784	GSM6480097	DU16-02S0004784_L1	yes	yes	viral	Viral	Dengue	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	34.39	female		whole blood	unique_metadata_match	title_contains
+DU16-02S0004863	GSM6480160	DU16-02S0004863_L1	yes	yes	bacterial	Bacterial	Leptospira	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	41.02	male		whole blood	unique_metadata_match	title_contains
+DU09-03S0000008	GSM6479903	DU09-03S0000008_L7	yes	yes	viral	Viral	RespVirus_other	United_States	1	GPL16791	Illumina HiSeq 2500	68	female	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0004804	GSM6480114	DU16-02S0004804_L7	yes	yes	bacterial	Bacterial	Rickettsia	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	48.97	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0004798	GSM6480109	DU16-02S0004798_L6	yes	yes	bacterial	Bacterial	Coxiella_burnetii	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	83.58	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0004879	GSM6480171	DU16-02S0004879_L4	yes	yes	bacterial	Bacterial	Leptospira	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	47.1	male		whole blood	unique_metadata_match	title_contains
+DU14-03S0000013	GSM6479990	DU14-03S0000013_L2	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	1	GPL16791	Illumina HiSeq 2500	26	male	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU16-02S0004841	GSM6480142	DU16-02S0004841_L2	yes	yes	bacterial	Bacterial	Rickettsia	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	31.28	male		whole blood	unique_metadata_match	title_contains
+DU09-03S0000035	GSM6479930	DU09-03S0000035_L3	yes	yes	bacterial	Bacterial	Enterobacter	United_States	1	GPL16791	Illumina HiSeq 2500	54	male	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU14-03S0000012	GSM6479989	DU14-03S0000012_L2	yes	yes	viral	Viral	RespVirus_other	United_States	1	GPL16791	Illumina HiSeq 2500	50	female	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU16-02S0004785	GSM6480098	DU16-02S0004785_L1	yes	yes	bacterial	Bacterial	Rickettsia	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	42.5	female		whole blood	unique_metadata_match	title_contains
+DU09-03S0000006	GSM6479902	DU09-03S0000006_L7	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	1	GPL16791	Illumina HiSeq 2500	35	male	White	whole blood	unique_metadata_match	title_contains
+DU10-01S0000009	GSM6479955	DU10-01S0000009_L4	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	1	GPL16791	Illumina HiSeq 2500	57	male	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0004876	GSM6480168	DU16-02S0004876_L4	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	69.47	female		whole blood	unique_metadata_match	title_contains
+DU16-02S0004877	GSM6480169	DU16-02S0004877_L4	yes	yes	viral	Viral	Dengue	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	23.88	female		whole blood	unique_metadata_match	title_contains
+DU14-03S0000007	GSM6479985	DU14-03S0000007_L7	yes	yes	bacterial	Bacterial	Enterobacter	United_States	1	GPL16791	Illumina HiSeq 2500	82	male	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0004839	GSM6480140	DU16-02S0004839_L2	yes	yes	viral	Viral	Dengue	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	30.74	female		whole blood	unique_metadata_match	title_contains
+DU09-03S0000036	GSM6479931	DU09-03S0000036_L3	yes	yes	bacterial	Bacterial	Enterobacter	United_States	1	GPL16791	Illumina HiSeq 2500	44	female	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0004823	GSM6480127	DU16-02S0004823_L5	yes	yes	bacterial	Bacterial	Leptospira	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	59.04	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0004772	GSM6480087	DU16-02S0004772_L4	yes	yes	bacterial	Bacterial	Rickettsia	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	37.3	female		whole blood	unique_metadata_match	title_contains
+DU14-03S0000010	GSM6479987	DU14-03S0000010_L1	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	1	GPL16791	Illumina HiSeq 2500	64	female	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0004858	GSM6480155	DU16-02S0004858_L8	yes	yes	viral	Viral	Dengue	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	31.16	male		whole blood	unique_metadata_match	title_contains
+DU14-03S0000006	GSM6479984	DU14-03S0000006_L1	yes	yes	bacterial	Bacterial	Streptococcus	United_States	1	GPL16791	Illumina HiSeq 2500	58	male	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU16-02S0004765	GSM6480080	DU16-02S0004765_L3	yes	yes	viral	Viral	Dengue	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	15.14	male		whole blood	unique_metadata_match	title_contains
+DU09-03S0000017	GSM6479912	DU09-03S0000017_L3	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	1	GPL16791	Illumina HiSeq 2500	41	male	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU10-01S0000023	GSM6479968	DU10-01S0000023_L6	yes	yes	viral	Viral	Influenza_A_B	United_States	1	GPL16791	Illumina HiSeq 2500	19	male	Native_American/Pacific_Islander	whole blood	unique_metadata_match	title_contains
+DU16-02S0004777	GSM6480092	DU16-02S0004777_L5	yes	yes	bacterial	Bacterial	Rickettsia	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	35.16	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0004814	GSM6480122	DU16-02S0004814_L2	yes	yes	bacterial	Bacterial	Rickettsia	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	30.99	female		whole blood	unique_metadata_match	title_contains
+DU14-03S0000004	GSM6479982	DU14-03S0000004_L3	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	1	GPL16791	Illumina HiSeq 2500	68	female	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU10-01S0000003	GSM6479949	DU10-01S0000003_L8	yes	yes	bacterial	Bacterial	Enterobacter	United_States	1	GPL16791	Illumina HiSeq 2500	49	female	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU16-02S0004776	GSM6480091	DU16-02S0004776_L5	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	65.07	male		whole blood	unique_metadata_match	title_contains
+DU10-01S0000018	GSM6479964	DU10-01S0000018_L1	yes	yes	bacterial	Bacterial	Staphylococcus	United_States	1	GPL16791	Illumina HiSeq 2500	74	male	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0004832	GSM6480135	DU16-02S0004832_L7	yes	yes	viral	Viral	Dengue	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	44.69	male		whole blood	unique_metadata_match	title_contains
+DU09-03S0000001	GSM6479898	DU09-03S0000001_L6	yes	yes	viral	Viral	Influenza_A_B	United_States	1	GPL16791	Illumina HiSeq 2500	14	female	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU16-02S0004824	GSM6480128	DU16-02S0004824_L5	yes	yes	bacterial	Bacterial	Leptospira	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	37.61	female		whole blood	unique_metadata_match	title_contains
+DU16-02S0004857	GSM6480154	DU16-02S0004857_L1	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	49.64	female		whole blood	unique_metadata_match	title_contains
+DU16-02S0004794	GSM6480106	DU16-02S0004794_L5	yes	yes	viral	Viral	Dengue	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	23.24	female		whole blood	unique_metadata_match	title_contains
+DU16-02S0004830	GSM6480133	DU16-02S0004830_L7	yes	yes	viral	Viral	Dengue	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	20.08	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0004775	GSM6480090	DU16-02S0004775_L5	yes	yes	bacterial	Bacterial	Leptospira	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	55.76	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0004842	GSM6480143	DU16-02S0004842_L3	yes	yes	bacterial	Bacterial	Leptospira	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	30.88	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0004780	GSM6480093	DU16-02S0004780_L8	yes	yes	viral	Viral	Dengue	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	23	female		whole blood	unique_metadata_match	title_contains
+DU09-03S0000027	GSM6479922	DU09-03S0000027_L6	yes	yes	viral	Viral	Influenza_A_B	United_States	1	GPL16791	Illumina HiSeq 2500	67	female	White	whole blood	unique_metadata_match	title_contains
+DU14-03S0000003	GSM6479981	DU14-03S0000003_L3	yes	yes	bacterial	Bacterial	Streptococcus	United_States	1	GPL16791	Illumina HiSeq 2500	59	male	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0004806	GSM6480116	DU16-02S0004806_L7	yes	yes	bacterial	Bacterial	Rickettsia	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	43.68	female		whole blood	unique_metadata_match	title_contains
+DU09-03S0000010	GSM6479905	DU09-03S0000010_L8	yes	yes	bacterial	Bacterial	Enterobacter	United_States	1	GPL16791	Illumina HiSeq 2500	82	male	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU16-02S0004878	GSM6480170	DU16-02S0004878_L4	yes	yes	viral	Viral	Dengue	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	16.16	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0004850	GSM6480149	DU16-02S0004850_L6	yes	yes	bacterial	Bacterial	Rickettsia	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	32.08	female		whole blood	unique_metadata_match	title_contains
+DU16-02S0004834	GSM6480136	DU16-02S0004834_L8	yes	yes	bacterial	Bacterial	Rickettsia	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	26.62	female		whole blood	unique_metadata_match	title_contains
+DU16-02S0004853	GSM6480152	DU16-02S0004853_L6	yes	yes	bacterial	Bacterial	Rickettsia	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	71.58	female		whole blood	unique_metadata_match	title_contains
+DU16-02S0004803	GSM6480113	DU16-02S0004803_L6	yes	yes	bacterial	Bacterial	Leptospira	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	53.45	male		whole blood	unique_metadata_match	title_contains
+DU09-03S0000002	GSM6479899	DU09-03S0000002_L6	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	1	GPL16791	Illumina HiSeq 2500	76	female	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0004782	GSM6480095	DU16-02S0004782_L8	yes	yes	viral	Viral	Dengue	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	21.53	male		whole blood	unique_metadata_match	title_contains
+DU14-03S0000001	GSM6479979	DU14-03S0000001_L8	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	1	GPL16791	Illumina HiSeq 2500	27	male	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU16-02S0004836	GSM6480138	DU16-02S0004836_L8	yes	yes	bacterial	Bacterial	Leptospira	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	50.44	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0004796	GSM6480108	DU16-02S0004796_L5	yes	yes	bacterial	Bacterial	Leptospira	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	25.22	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0004867	GSM6480162	DU16-02S0004867_L1	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	37.38	male		whole blood	unique_metadata_match	title_contains
+DU10-01S0000026	GSM6479971	DU10-01S0000026_L8	yes	yes	bacterial	Bacterial	Streptococcus	United_States	1	GPL16791	Illumina HiSeq 2500	54	female	White	whole blood	unique_metadata_match	title_contains
+DU14-03S0000016	GSM6479993	DU14-03S0000016_L5	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	1	GPL16791	Illumina HiSeq 2500	67	male	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0004852	GSM6480151	DU16-02S0004852_L1	yes	yes	bacterial	Bacterial	Leptospira	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	40.99	male		whole blood	unique_metadata_match	title_contains
+DU09-03S0000022	GSM6479917	DU09-03S0000022_L1	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	1	GPL16791	Illumina HiSeq 2500	86	male	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0004838	GSM6480139	DU16-02S0004838_L2	yes	yes	viral	Viral	Dengue	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	27.97	male		whole blood	unique_metadata_match	title_contains
+DU14-03S0000017	GSM6479994	DU14-03S0000017_L5	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	1	GPL16791	Illumina HiSeq 2500	37	female	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU16-02S0004861	GSM6480158	DU16-02S0004861_L8	yes	yes	bacterial	Bacterial	Coxiella_burnetii	Sri_Lanka	1	GPL16791	Illumina HiSeq 2500	47.02	male		whole blood	unique_metadata_match	title_contains
+DU09-03S0000023	GSM6479918	DU09-03S0000023_L8	yes	yes	bacterial	Bacterial	Streptococcus	United_States	1	GPL16791	Illumina HiSeq 2500	48	male	White	whole blood	unique_metadata_match	title_contains
+DU14-03S0000020	GSM6479997	DU14-03S0000020_L2	yes	yes	bacterial	Bacterial	Enterobacter	United_States	1	GPL16791	Illumina HiSeq 2500	50	female	White	whole blood	unique_metadata_match	title_contains
+DU09-03S0000011	GSM6479906	DU09-03S0000011_L1	yes	yes	viral	Viral	Influenza_A_B	United_States	1	GPL16791	Illumina HiSeq 2500	33	female	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU10-01S0000006	GSM6479952	DU10-01S0000006_L1	yes	yes	viral	Viral	RespVirus_other	United_States	1	GPL16791	Illumina HiSeq 2500	30	female	White	whole blood	unique_metadata_match	title_contains
+DU14-03S0035215	GSM6480028	DU14-03S0035215_S51	yes	yes	viral	Viral	RespVirus_other	United_States	2	GPL24676	Illumina NovaSeq 6000	51	female	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU16-02S0003184	GSM6480070	DU16-02S0003184_S10	yes	yes	viral	Viral	Dengue	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	28	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0003136	GSM6480050	DU16-02S0003136_S56	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	34	male		whole blood	unique_metadata_match	title_contains
+DU09-03S0000123	GSM6479939	DU09-03S0000123_S14	yes	yes	bacterial	Bacterial	Enterobacter	United_States	2	GPL24676	Illumina NovaSeq 6000	66	female	White	whole blood	unique_metadata_match	title_contains
+DU14-03S0035211	GSM6480024	DU14-03S0035211_S17	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	36	male	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU09-03S96913	GSM6479946	DU09-03S96913_S39	yes	yes	viral	Viral	Influenza_A_B	United_States	2	GPL24676	Illumina NovaSeq 6000	52	female	White	whole blood	unique_metadata_match	title_contains
+DU14-03S0035207	GSM6480020	DU14-03S0035207_S48	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	75	female	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU16-02S0003143	GSM6480053	DU16-02S0003143_S18	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	17	male		whole blood	unique_metadata_match	title_contains
+DU09-03S0000121	GSM6479938	DU09-03S0000121_S32	yes	yes	bacterial	Bacterial	Streptococcus	United_States	2	GPL24676	Illumina NovaSeq 6000	50	male	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU16-02S0003205	GSM6480078	DU16-02S0003205_S3	yes	yes	viral	Viral	Dengue	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	26	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0003141	GSM6480051	DU16-02S0003141_S8	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	86	male		whole blood	unique_metadata_match	title_contains
+DU09-03S0000119	GSM6479936	DU09-03S0000119_S60	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	67	male	White	whole blood	unique_metadata_match	title_contains
+DU09-03S0000129	GSM6479945	DU09-03S0000129_S11	yes	yes	viral	Viral	Influenza_A_B	United_States	2	GPL24676	Illumina NovaSeq 6000	17	male	Black/African_American	whole blood	unique_metadata_match	title_contains
+413968	GSM6479896	413968_S33	yes	yes	viral	Viral	RespVirus_other	United_States	2	GPL24676	Illumina NovaSeq 6000	70	male	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0003192	GSM6480074	DU16-02S0003192_S26	yes	yes	bacterial	Bacterial	Leptospira	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	56	female		whole blood	unique_metadata_match	title_contains
+DU16-02S0003134	GSM6480049	DU16-02S0003134_S54	yes	yes	viral	Viral	Dengue	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	67	female		whole blood	unique_metadata_match	title_contains
+286605	GSM6479890	286605_S4	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	62	female	White	whole blood	unique_metadata_match	title_contains
+8394	GSM6479897	8394_S40	yes	yes	bacterial	Bacterial	Enterobacter	United_States	2	GPL24676	Illumina NovaSeq 6000	56	male	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0003177	GSM6480066	DU16-02S0003177_S47	yes	yes	viral	Viral	Dengue	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	23	female		whole blood	unique_metadata_match	title_contains
+DU14-03S0035227	GSM6480038	DU14-03S0035227_S14	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	59	female	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU16-02S0003157	GSM6480057	DU16-02S0003157_S45	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	55	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0003173	GSM6480065	DU16-02S0003173_S29	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	23	female		whole blood	unique_metadata_match	title_contains
+DU16-02S0003120	GSM6480043	DU16-02S0003120_S17	yes	yes	viral	Viral	Dengue	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	34	male		whole blood	unique_metadata_match	title_contains
+DU14-03S0000934	GSM6479999	DU14-03S0000934_S5	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	50	female	White	whole blood	unique_metadata_match	title_contains
+352105	GSM6479895	352105_S7	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	65	female	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0003163	GSM6480059	DU16-02S0003163_S11	yes	yes	viral	Viral	Dengue	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	38	female		whole blood	unique_metadata_match	title_contains
+DU14-03S0035217	GSM6480030	DU14-03S0035217_S53	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	47	female	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0003127	GSM6480046	DU16-02S0003127_S32	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	36	male		whole blood	unique_metadata_match	title_contains
+DU14-03S0035200	GSM6480014	DU14-03S0035200_S21	yes	yes	bacterial	Bacterial	Streptococcus	United_States	2	GPL24676	Illumina NovaSeq 6000	61	male	Black/African_American	whole blood	unique_metadata_match	title_contains
+348339	GSM6479894	348339_S6	yes	yes	bacterial	Bacterial	Streptococcus	United_States	2	GPL24676	Illumina NovaSeq 6000	62	female	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU09-03S0000126	GSM6479942	DU09-03S0000126_S16	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	57	male	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU16-02S0003193	GSM6480075	DU16-02S0003193_S27	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	46	female		whole blood	unique_metadata_match	title_contains
+DU14-03S0035221	GSM6480033	DU14-03S0035221_S30	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	66	female	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU14-03S0035220	GSM6480032	DU14-03S0035220_S14	yes	yes	viral	Viral	Influenza_A_B	United_States	2	GPL24676	Illumina NovaSeq 6000	72	male	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0003185	GSM6480071	DU16-02S0003185_S11	yes	yes	viral	Viral	Dengue	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	48	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0003178	GSM6480067	DU16-02S0003178_S48	yes	yes	viral	Viral	Dengue	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	61	female		whole blood	unique_metadata_match	title_contains
+DU16-02S0003186	GSM6480072	DU16-02S0003186_S12	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	36	male		whole blood	unique_metadata_match	title_contains
+DU14-03S0000945	GSM6480010	DU14-03S0000945_S46	yes	yes	bacterial	Bacterial	Enterobacter	United_States	2	GPL24676	Illumina NovaSeq 6000	53	female	White	whole blood	unique_metadata_match	title_contains
+DU14-03S0000946	GSM6480011	DU14-03S0000946_S57	yes	yes	viral	Viral	Influenza_A_B	United_States	2	GPL24676	Illumina NovaSeq 6000	40	female	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU16-02S0003171	GSM6480063	DU16-02S0003171_S27	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	29	male		whole blood	unique_metadata_match	title_contains
+DU09-03S0000127	GSM6479943	DU09-03S0000127_S28	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	23	female	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0003206	GSM6480079	DU16-02S0003206_S10	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	24	male		whole blood	unique_metadata_match	title_contains
+DU14-03S0035225	GSM6480036	DU14-03S0035225_S12	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	34	male	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU14-03S0000937	GSM6480002	DU14-03S0000937_S20	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	53	female	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU16-02S0003128	GSM6480047	DU16-02S0003128_S40	yes	yes	bacterial	Bacterial	Leptospira	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	35	male		whole blood	unique_metadata_match	title_contains
+DU09-03S0000128	GSM6479944	DU09-03S0000128_S29	yes	yes	viral	Viral	Influenza_A_B	United_States	2	GPL24676	Illumina NovaSeq 6000	23	female	Black/African_American	whole blood	unique_metadata_match	title_contains
+286671	GSM6479892	286671_S5	yes	yes	bacterial	Bacterial	Streptococcus	United_States	2	GPL24676	Illumina NovaSeq 6000	23	male	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0003121	GSM6480044	DU16-02S0003121_S18	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	65	female		whole blood	unique_metadata_match	title_contains
+DU10-01S0000030	GSM6479975	DU10-01S0000030_S25	yes	yes	viral	Viral	Influenza_A_B	United_States	2	GPL24676	Illumina NovaSeq 6000	62	female	White	whole blood	unique_metadata_match	title_contains
+DU14-03S0000948	GSM6480013	DU14-03S0000948_S59	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	66	female	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU16-02S0003165	GSM6480061	DU16-02S0003165_S13	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	66	female		whole blood	unique_metadata_match	title_contains
+DU09-03S0000033	GSM6479928	DU09-03S0000033_S17	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	36	male	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU16-02S0003179	GSM6480068	DU16-02S0003179_S49	yes	yes	bacterial	Bacterial	Leptospira	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	37	male		whole blood	unique_metadata_match	title_contains
+DU14-03S0035208	GSM6480021	DU14-03S0035208_S49	yes	yes	bacterial	Bacterial	Enterobacter	United_States	2	GPL24676	Illumina NovaSeq 6000	58	male	White	whole blood	unique_metadata_match	title_contains
+DU14-03S0035205	GSM6480018	DU14-03S0035205_S35	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	51	female	Black/African_American	whole blood	unique_metadata_match	title_contains
+286678	GSM6479893	286678_S37	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	74	female	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0003164	GSM6480060	DU16-02S0003164_S12	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	21	male		whole blood	unique_metadata_match	title_contains
+DU14-03S0035224	GSM6480035	DU14-03S0035224_S53	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	62	female	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0003144	GSM6480054	DU16-02S0003144_S19	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	23	male		whole blood	unique_metadata_match	title_contains
+DU14-03S0000939	GSM6480004	DU14-03S0000939_S22	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	54	female	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0003180	GSM6480069	DU16-02S0003180_S50	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	56	male		whole blood	unique_metadata_match	title_contains
+DU09-03S0000125	GSM6479941	DU09-03S0000125_S15	yes	yes	bacterial	Bacterial	Streptococcus	United_States	2	GPL24676	Illumina NovaSeq 6000	66	male	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0003142	GSM6480052	DU16-02S0003142_S9	yes	yes	bacterial	Bacterial	Rickettsia	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	48	male		whole blood	unique_metadata_match	title_contains
+DU14-03S0000941	GSM6480006	DU14-03S0000941_S42	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	30	male	White	whole blood	unique_metadata_match	title_contains
+DU14-03S0000942	GSM6480007	DU14-03S0000942_S43	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	76	female	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU14-03S0035202	GSM6480016	DU14-03S0035202_S23	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	10	female	Unknown	whole blood	unique_metadata_match	title_contains
+DU10-01S0000017	GSM6479963	DU10-01S0000017_S9	yes	yes	bacterial	Bacterial	Enterobacter	United_States	2	GPL24676	Illumina NovaSeq 6000	56	male	White	whole blood	unique_metadata_match	title_contains
+DU14-03S0000943	GSM6480008	DU14-03S0000943_S44	yes	yes	viral	Viral	RespVirus_other	United_States	2	GPL24676	Illumina NovaSeq 6000	50	female	White	whole blood	unique_metadata_match	title_contains
+DU14-03S0035218	GSM6480031	DU14-03S0035218_S54	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	26	male	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0003113	GSM6480040	DU16-02S0003113_S2	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	18	male		whole blood	unique_metadata_match	title_contains
+DU14-03S0035209	GSM6480022	DU14-03S0035209_S15	yes	yes	viral	Viral	Influenza_A_B	United_States	2	GPL24676	Illumina NovaSeq 6000	45	male	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0003158	GSM6480058	DU16-02S0003158_S46	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	65	female		whole blood	unique_metadata_match	title_contains
+286615	GSM6479891	286615_S36	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	53	female	White	whole blood	unique_metadata_match	title_contains
+DU09-03S0000124	GSM6479940	DU09-03S0000124_S13	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	68	male	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU14-03S0035210	GSM6480023	DU14-03S0035210_S16	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	58	female	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0003172	GSM6480064	DU16-02S0003172_S28	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	64	female		whole blood	unique_metadata_match	title_contains
+DU14-03S0000947	GSM6480012	DU14-03S0000947_S58	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	74	female	White	whole blood	unique_metadata_match	title_contains
+DU14-03S0035214	GSM6480027	DU14-03S0035214_S39	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	48	female	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU14-03S0035212	GSM6480025	DU14-03S0035212_S18	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	47	male	White	whole blood	unique_metadata_match	title_contains
+DU14-03S0000944	GSM6480009	DU14-03S0000944_S45	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	65	female	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU10-01S0000012	GSM6479958	DU10-01S0000012_S24	yes	yes	viral	Viral	Influenza_A_B	United_States	2	GPL24676	Illumina NovaSeq 6000	48	male	White	whole blood	unique_metadata_match	title_contains
+DU09-03S0000120	GSM6479937	DU09-03S0000120_S20	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	58	female	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU14-03S0035206	GSM6480019	DU14-03S0035206_S47	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	44	male	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU10-01S0000002	GSM6479948	DU10-01S0000002_S26	yes	yes	bacterial	Bacterial	Staphylococcus	United_States	2	GPL24676	Illumina NovaSeq 6000	82	male	White	whole blood	unique_metadata_match	title_contains
+DU14-03S0000935	GSM6480000	DU14-03S0000935_S6	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	58	female	White	whole blood	unique_metadata_match	title_contains
+DU14-03S0035222	GSM6480034	DU14-03S0035222_S31	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	80	male	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0003199	GSM6480076	DU16-02S0003199_S50	yes	yes	bacterial	Bacterial	Leptospira	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	21	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0003170	GSM6480062	DU16-02S0003170_S26	yes	yes	bacterial	Bacterial	Leptospira	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	24	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0003114	GSM6480041	DU16-02S0003114_S3	yes	yes	bacterial	Bacterial	Leptospira	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	41	female		whole blood	unique_metadata_match	title_contains
+DU14-03S0035226	GSM6480037	DU14-03S0035226_S13	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	30	female	Native_American/Pacific_Islander	whole blood	unique_metadata_match	title_contains
+DU14-03S0035213	GSM6480026	DU14-03S0035213_S38	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	68	male	White	whole blood	unique_metadata_match	title_contains
+DU14-03S0000936	GSM6480001	DU14-03S0000936_S7	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	47	female	Black/African_American	whole blood	unique_metadata_match	title_contains
+136848	GSM6479889	136848_S8	yes	yes	bacterial	Bacterial	Streptococcus	United_States	2	GPL24676	Illumina NovaSeq 6000	42	male	White	whole blood	unique_metadata_match	title_contains
+DU10-01S0000100	GSM6479978	DU10-01S0000100_S56	yes	yes	viral	Viral	Influenza_A_B	United_States	2	GPL24676	Illumina NovaSeq 6000	28	female	White	whole blood	unique_metadata_match	title_contains
+DU14-03S0000938	GSM6480003	DU14-03S0000938_S21	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	42	male	White	whole blood	unique_metadata_match	title_contains
+DU14-03S0035216	GSM6480029	DU14-03S0035216_S52	yes	yes	bacterial	Bacterial	Streptococcus	United_States	2	GPL24676	Illumina NovaSeq 6000	85	male	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0003112	GSM6480039	DU16-02S0003112_S1	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	25	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0003191	GSM6480073	DU16-02S0003191_S25	yes	yes	viral	Viral	Dengue	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	51	female		whole blood	unique_metadata_match	title_contains
+DU10-01S0000099	GSM6479977	DU10-01S0000099_S61	yes	yes	bacterial	Bacterial	Streptococcus	United_States	2	GPL24676	Illumina NovaSeq 6000	61	male	White	whole blood	unique_metadata_match	title_contains
+DU14-03S0035204	GSM6480017	DU14-03S0035204_S34	yes	yes	viral	Viral	Influenza_A_B	United_States	2	GPL24676	Illumina NovaSeq 6000	30	female	Black/African_American	whole blood	unique_metadata_match	title_contains
+DU14-03S0000940	GSM6480005	DU14-03S0000940_S23	yes	yes	bacterial	Bacterial	Enterobacter	United_States	2	GPL24676	Illumina NovaSeq 6000	71	female	White	whole blood	unique_metadata_match	title_contains
+DU16-02S0003200	GSM6480077	DU16-02S0003200_S51	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	65	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0003149	GSM6480055	DU16-02S0003149_S14_L001	yes	yes	viral	Viral	Dengue	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	20	female		whole blood	unique_metadata_match	title_contains
+DU16-02S0003115	GSM6480042	DU16-02S0003115_cat	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	26	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0003122	GSM6480045	DU16-02S0003122_cat	yes	yes	bacterial	Bacterial	Rickettsia	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	28	male		whole blood	unique_metadata_match	title_contains
+DU16-02S0003150	GSM6480056	DU16-02S0003150_S15_L001	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	52	female		whole blood	unique_metadata_match	title_contains
+DU16-02S0003129	GSM6480048	DU16-02S0003129_cat	yes	yes	viral	Viral	Influenza_A_B	Sri_Lanka	2	GPL24676	Illumina NovaSeq 6000	19	female		whole blood	unique_metadata_match	title_contains
+DU14-03S0035201	GSM6480015	DU14-03S0035201_cat	yes	contextual_only	noninfection_contextual	Noninfection	Noninfection	United_States	2	GPL24676	Illumina NovaSeq 6000	61	female	White	whole blood	unique_metadata_match	title_contains
