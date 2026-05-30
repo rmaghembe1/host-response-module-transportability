@@ -1,0 +1,11 @@
+--2026-05-30 23:04:28--  https://ftp.ncbi.nlm.nih.gov/geo/series/GSE211nnn/GSE211567/matrix/GSE211567_series_matrix.txt.gz
+Resolving ftp.ncbi.nlm.nih.gov (ftp.ncbi.nlm.nih.gov)... 130.14.250.12, 130.14.250.13, 2607:f220:41e:250::31, ...
+Connecting to ftp.ncbi.nlm.nih.gov (ftp.ncbi.nlm.nih.gov)|130.14.250.12|:443... connected.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2026-05-30 23:05:04--  (try: 2)  https://ftp.ncbi.nlm.nih.gov/geo/series/GSE211nnn/GSE211567/matrix/GSE211567_series_matrix.txt.gz
+Connecting to ftp.ncbi.nlm.nih.gov (ftp.ncbi.nlm.nih.gov)|130.14.250.12|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2026-05-30 23:05:14 ERROR 404: Not Found.
+

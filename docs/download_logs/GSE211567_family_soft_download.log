@@ -1,0 +1,11 @@
+--2026-05-30 23:23:34--  https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE211567&targ=self&form=text&view=full
+Resolving www.ncbi.nlm.nih.gov (www.ncbi.nlm.nih.gov)... 130.14.29.110, 2607:f220:41e:4290::110
+Connecting to www.ncbi.nlm.nih.gov (www.ncbi.nlm.nih.gov)|130.14.29.110|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [geo/text]
+Saving to: ‘data/metadata_raw/GSE211567/GSE211567_family.soft.gz’
+
+     0K .......... .                                           2.48M=0.004s
+
+2026-05-30 23:23:55 (2.48 MB/s) - ‘data/metadata_raw/GSE211567/GSE211567_family.soft.gz’ saved [11486]
+
