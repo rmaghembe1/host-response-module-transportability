@@ -1,0 +1,7 @@
+rna_id	group	metadata_status	caution_flags	library_size	detected_genes_count_gt0	norm.factors	PC1	PC2	library_size_outlier_iqr	detected_genes_outlier_iqr	norm_factor_outlier_iqr
+434325	non_covid_viral	mapped_to_sample_key	none	130001160	17025	1.14540408059166	-1.75599796909572	60.3593584278093	TRUE	FALSE	FALSE
+434596	non_covid_viral	mapped_to_sample_key	none	16320748	26834	1.44784761679148	-7.43397904313673	-79.4234410147702	TRUE	FALSE	TRUE
+434777	non_covid_viral	mapped_to_sample_key	none	20302169	22370	1.20083867837941	-44.5973329801508	-41.1787676483041	TRUE	FALSE	FALSE
+95982	bacterial	mapped_to_sample_key	none	62144581	23621	0.592020839584224	139.727918017942	-40.553227585156	FALSE	FALSE	TRUE
+DU09-03S0000774	non_covid_viral	mapped_to_sample_key	none	43639732	25902	1.52467553204369	-38.1625104857708	-66.1101038287048	FALSE	FALSE	TRUE
+DU09-03S19478	non_covid_viral	mapped_to_sample_key	none	48547888	26655	1.40797487945881	-30.0116504443723	-56.7584328842653	FALSE	FALSE	TRUE

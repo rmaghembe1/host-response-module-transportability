@@ -1,0 +1,8 @@
+metric	value
+genes_before_filtering	60675
+genes_after_filterByExpr	20561
+genes_removed_by_filterByExpr	40114
+samples_in_sensitivity_subset	99
+bacterial_samples	23
+non_covid_viral_samples	76
+excluded_caution_samples	434482,434741,94478
