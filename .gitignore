@@ -31,3 +31,6 @@ Thumbs.db
 !data/processed/*.tsv
 !data/processed/*.csv
 !data/processed/*.md
+
+# Local R package library
+env/R_libs/
