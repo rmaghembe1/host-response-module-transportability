@@ -1,0 +1,3 @@
+group	n	median_library_size	min_library_size	max_library_size	median_detected_genes	min_detected_genes	max_detected_genes	median_norm_factor	min_norm_factor	max_norm_factor	n_any_iqr_outlier	n_metadata_caution_flagged
+non_covid_viral	78	49589217.5	1632403	130001160	21155	11320	26991	1.03538679543106	0.601374790569879	2.87086099727238	5	2
+bacterial	24	52659224	9403540	65802042	19464	5332	27451	0.850291642931365	0.607676285094902	1.24074807774259	1	1
