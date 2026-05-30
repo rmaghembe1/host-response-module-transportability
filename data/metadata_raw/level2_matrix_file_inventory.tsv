@@ -1,0 +1,6 @@
+accession	role	filename	exists	size_bytes	sha256	delimiter	n_columns	n_data_rows	first_column_name
+GSE211567	discovery_normalized_matrix	GSE211567_normData_discovery_2021MAR24.txt.gz	True	48276900	7f34cfd5a15d80c1169fcaa17946f028a3da5368fb4bdedb38bc6c41836dccc8	\t	292	19999	
+GSE161731	adult_count_matrix	GSE161731_counts.csv.gz	True	8347405	185e342ad8b476d31444a81524bcce55e9d2e3c23c66a59f103cc78152f891bc	,	202	60675	
+GSE161731	adult_counts_key	GSE161731_counts_key.csv.gz	True	2443	b43d4b253255deae6d83361c890f287b882eaebf8e858c06f12dda4631e029b8	,	9	198	rna_id
+GSE161731	adult_sample_key	GSE161731_key.csv.gz	True	2398	abe2b18841e28cdfda8f185bef139be6aaaf61260e29fb7aee36590362bed678	,	9	195	rna_id
+GSE261482	pediatric_count_matrix	GSE261482_Counts_raw_data.csv.gz	True	7078905	e679915d2bb2b1a948379422707e60903fd526c4cef73e735db09a6a04db971a	;	178	58233	Sample number 

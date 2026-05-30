@@ -21,3 +21,13 @@ renv/staging/
 # OS/editor
 .DS_Store
 Thumbs.db
+
+# Keep audit/provenance metadata under version control
+!data/metadata_raw/
+!data/metadata_raw/*
+!data/metadata_harmonized/
+!data/metadata_harmonized/*
+!data/processed/
+!data/processed/*.tsv
+!data/processed/*.csv
+!data/processed/*.md

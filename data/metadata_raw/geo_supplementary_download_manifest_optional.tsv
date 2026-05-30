@@ -1,0 +1,4 @@
+accession	role	url	filename
+GSE161731	adult_external_optional_normalized	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE161nnn/GSE161731/suppl/GSE161731_xpr_nlcpm.csv.gz	GSE161731_xpr_nlcpm.csv.gz
+GSE161731	adult_external_optional_normalized	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE161nnn/GSE161731/suppl/GSE161731_xpr_tpm_geo.txt.gz	GSE161731_xpr_tpm_geo.txt.gz
+GSE261482	pediatric_optional_normalized	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE261nnn/GSE261482/suppl/GSE261482_Normalized_data.csv.gz	GSE261482_Normalized_data.csv.gz
