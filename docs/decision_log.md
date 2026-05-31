@@ -73,3 +73,13 @@
 - Identifier rule: enrichment should use ENTREZID as the primary identifier, with SYMBOL/GENENAME retained for interpretation.
 - Interpretation safeguard: enrichment/module claims must be made at gene-level, not raw RefSeq-transcript level, unless transcript-specific biology is explicitly justified later.
 - Boundary: this decision locks the identifier universe for enrichment but does not itself define biological modules or pathway claims.
+
+## 2026-05-31 — GSE211567 first-pass GO BP ORA completion
+- Decision: Accept the manual GO Biological Process ORA as the first direction-aware enrichment discovery layer.
+- Method: manual one-sided Fisher exact over-representation analysis using org.Hs.eg.db and GO.db, avoiding the failed clusterProfiler dependency chain.
+- Universe: 9,100 modelled gene-level ENTREZ identifiers.
+- Direction-aware inputs: 1,479 bacterial-higher site-aware eligible genes and 2,854 viral-higher site-aware eligible genes.
+- Result: bacterial-higher genes yielded 7 GO BP terms at BH FDR < 0.05 and 8 at BH FDR < 0.10.
+- Result: viral-higher genes yielded 23 GO BP terms at BH FDR < 0.05 and 35 at BH FDR < 0.10.
+- Interpretation boundary: enriched GO terms are discovery evidence only; they do not yet define final biological modules.
+- Next action: perform GO-term redundancy reduction and overlap-gene inspection before assigning module names.
