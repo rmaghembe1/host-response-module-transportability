@@ -1,0 +1,5 @@
+candidate_dataset	candidate_role	initial_status	reason	next_action
+GSE161731	technical_projection_rehearsal	excluded_from_formal_validation	Already used as technical rehearsal; not to be promoted without separate lock decision	No further biological interpretation
+GSE261482	pediatric_generalizability_candidate	conditional	Requires metadata/sample-composition audit and expression identifier audit	Assess metadata and expression availability
+GSE282464	unresolved_candidate	conditional	Requires metadata/sample-composition resolution before eligibility decision	Resolve metadata and cohort composition
+other_candidate_to_be_identified	formal_external_projection_candidate	pending	Requires independent literature/GEO search and eligibility audit	Identify and audit candidate datasets
