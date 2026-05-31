@@ -1,0 +1,3 @@
+# Figure Caption Draft — GSE211567 Discovery and Module Locking
+
+Figure X. GSE211567 discovery analysis and conservative module locking. (A) Primary bacterial-versus-viral limma contrast shown as a volcano-style overview. (B) Site-aware concordance summary used to assess whether the discovery contrast was directionally stable across pooled and site-stratified analyses. (C) Locked discovery modules and their projection-ready gene counts. Modules were defined and locked before external projection, preserving the discovery/projection firewall and preventing gene reselection or module redefinition in validation cohorts.
