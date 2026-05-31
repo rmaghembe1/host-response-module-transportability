@@ -1,0 +1,5 @@
+supplementary_file_type_hint	n_files	example_files
+matrix_or_expression	2	GSE261482_Counts_raw_data.csv.gz; GSE261482_Normalized_data.csv.gz
+metadata	0	
+raw_or_fastq_sra	1	GSE261482_Counts_raw_data.csv.gz
+compressed	2	GSE261482_Counts_raw_data.csv.gz; GSE261482_Normalized_data.csv.gz

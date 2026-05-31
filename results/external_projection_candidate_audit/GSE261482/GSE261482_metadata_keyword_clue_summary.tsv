@@ -1,0 +1,8 @@
+clue	sample_rows_matching_in_SOFT	pattern
+bacterial_clues	139	bacter|sepsis|pneumonia|strept|staph|e\.?\s*coli|klebsiella|meningoc|pseudomon|haemophilus
+viral_clues	0	viral|virus|influenza|rsv|adenovirus|rhinovirus|sars|covid|coronavirus|enterovirus|dengue
+control_clues	177	control|healthy|non.?infect|afebrile
+blood_or_pbmc_clues	177	whole blood|blood|pbmc|paxgene|leukocyte|peripheral
+pediatric_clues	177	child|children|pediatric|paediatric|infant|neonate|adolescent
+rna_seq_clues	177	rna-seq|rnaseq|high throughput sequencing|next generation sequencing|illumina
+microarray_clues	0	array|microarray|affymetrix|illumina human

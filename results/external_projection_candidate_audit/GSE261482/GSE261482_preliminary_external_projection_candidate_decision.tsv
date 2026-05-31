@@ -1,0 +1,2 @@
+candidate_dataset	candidate_role	n_soft_samples	series_matrix_metadata_available	n_supplementary_files_indexed	bacterial_metadata_clue_rows	viral_metadata_clue_rows	blood_or_pbmc_clue_rows	pediatric_clue_rows	preliminary_status	next_action
+GSE261482	pediatric_generalizability_candidate	177	True	4	139	0	177	177	conditional_or_exclude_pathogen_class_labels_not_yet_confirmed	Inspect supplementary expression files and harmonize sample-level pathogen-class metadata before any cohort-lock decision.

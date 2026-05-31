@@ -1,0 +1,7 @@
+--2026-05-31 16:51:58--  https://ftp.ncbi.nlm.nih.gov/geo/series/GSE261nnn/GSE261482/soft/GSE261482_family.soft.gz
+Resolving ftp.ncbi.nlm.nih.gov (ftp.ncbi.nlm.nih.gov)... 130.14.250.31, 130.14.250.13, 2607:f220:41e:250::12, ...
+Connecting to ftp.ncbi.nlm.nih.gov (ftp.ncbi.nlm.nih.gov)|130.14.250.31|:443... connected.
+HTTP request sent, awaiting response... 416 Requested Range Not Satisfiable
+
+    The file is already fully retrieved; nothing to do.
+

@@ -1,0 +1,40 @@
+field	nonmissing_count	unique_values	example_values
+sample_record	177	177	GSM8144988; GSM8144989; GSM8144990; GSM8144991; GSM8144992
+title	177	177	Sample 1_Paediatric pneumonia_1; Sample 2_Paediatric pneumonia_2; Sample 3_Paediatric pneumonia_3; Sample 4_Paediatric pneumonia_4; Sample 5_Paediatric pneumonia_5
+geo_accession	177	177	GSM8144988; GSM8144989; GSM8144990; GSM8144991; GSM8144992
+status	177	1	Public on Dec 09 2024
+submission_date	177	1	Mar 13 2024
+last_update_date	177	1	Dec 09 2024
+type	177	1	SRA
+channel_count	177	1	1
+source_name_ch1	177	1	Whole blood
+organism_ch1	177	1	Homo sapiens
+taxid_ch1	177	1	9606
+characteristics_ch1	177	23	tissue: Whole blood | Sex: F | etiology: PB | collection tube: PAXgene | batch: A | condition: Pneumonia; tissue: Whole blood | Sex: M | etiology: PB | collection tube: PAXgene | batch: A | condition: Pneumonia; tissue: Whole blood | Sex: F | etiology: U | collection tube: PAXgene | batch: A | condition: Pneumonia; tissue: Whole blood | Sex: M | etiology: U | collection tube: PAXgene | batch: A | condition: Pneumonia; tissue: Whole blood | Sex: M | etiology: DB | collection tube: PAXgene | batch: A | condition: Pneumonia
+molecule_ch1	177	1	total RNA
+extract_protocol_ch1	177	1	RNA was extracted using PAXgene Blood RNA Kit (IVD) and Tempus™ Spin RNA Isolation Kit | The Illumina’s TruSeq RNA Sample Preparation Kit was used for library preparation, and ribosomal and globin RNA depletion was performed using the Illumina® Ribo-Zero Gold kit
+data_processing	177	1	Quality control of raw data was carried out using fastq.gzC. | Alignment and read counting were performed using STAR, alignment filtering was done with SAMtools and read counting was carried out using FeatureCounts. | Assembly: Ensembl GCh38 genome | Supplementary files format and content: Coma-delimited excell file with raw counts (Counts_raw_data.csv) | Supplementary files format and content: Coma-delimited excell file with normalized counts (Normalized_data.csv)
+platform_id	177	1	GPL20301
+contact_name	177	1	Alberto,,Gómez-Carballa
+contact_email	177	1	ksl8tr@gmail.com
+contact_department	177	1	Pediatrics
+contact_institute	177	1	GENVIP research group
+contact_address	177	1	Choupana sn
+contact_city	177	1	Santiago de Compostela
+contact_state	177	1	A coruña
+contact_zip/postal_code	177	1	15706
+contact_country	177	1	Spain
+instrument_model	177	1	Illumina HiSeq 4000
+library_selection	177	1	cDNA
+library_source	177	1	transcriptomic
+library_strategy	177	1	RNA-Seq
+relation	177	177	BioSample: https://www.ncbi.nlm.nih.gov/biosample/SAMN40436482 | SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRX23938530; BioSample: https://www.ncbi.nlm.nih.gov/biosample/SAMN40436481 | SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRX23938531; BioSample: https://www.ncbi.nlm.nih.gov/biosample/SAMN40436480 | SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRX23938532; BioSample: https://www.ncbi.nlm.nih.gov/biosample/SAMN40436479 | SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRX23938533; BioSample: https://www.ncbi.nlm.nih.gov/biosample/SAMN40436478 | SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRX23938534
+supplementary_file_1	177	1	NONE
+series_id	177	1	GSE261482
+data_row_count	177	1	0
+characteristics_tissue	177	1	Whole blood
+characteristics_sex	177	2	F; M
+characteristics_etiology	177	6	PB; U; DB; PV; DV
+characteristics_collection_tube	177	2	PAXgene; tempus
+characteristics_batch	177	2	A; B
+characteristics_condition	177	2	Pneumonia; Control

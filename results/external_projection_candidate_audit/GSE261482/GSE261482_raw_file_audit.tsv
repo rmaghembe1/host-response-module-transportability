@@ -1,0 +1,4 @@
+file	exists	size_bytes	sha256
+data/metadata_raw/GSE261482/GSE261482_family.soft.gz	True	10452	cd051fafb27759840f2c62873a8c8169de8cf3d1c7801461cc939d2686587c15
+data/metadata_raw/GSE261482/GSE261482_series_matrix.txt.gz	True	8213	d73ddf065ea5f405239699454e6d2a78173c94ef77383380bd42135cc88c15bd
+data/metadata_raw/GSE261482/GSE261482_supplementary_file_index.html	True	708	3b1abb8985b946f2e56d6f12e4c2cd2ce7293f155680c086fc113cf9705452ed
