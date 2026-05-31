@@ -253,3 +253,12 @@
 - Quality check: all panels regenerated without removed-row warnings after the site-concordance merge correction.
 - Interpretation safeguard: figure generation changes only manuscript presentation/export quality; it does not alter discovery modelling, site-aware filtering, module locking or external projection results.
 - Next action: prepare the combined manuscript Results narrative linking GSE211567 discovery, conservative module locking and GSE73461 external projection.
+
+## 2026-05-31 — Manuscript Results figure-table mapping and path audit completed
+- Decision: Accept the manuscript Results-to-figure/table mapping as the current manuscript assembly guide.
+- Scope: mapping links the combined Results narrative to GSE211567 discovery figures, GSE73461 projection figures, manuscript summary table, caption drafts and supporting source TSV outputs.
+- Audit result: 37 mapped path entries expanded to 44 checked files; all 44 mapped files were present.
+- Repair performed: replaced the obsolete GSE73461 coverage path with `results/external_projection_candidate_audit/GSE73461_identifier_coverage/GSE73461_locked_module_identifier_coverage.tsv`.
+- Quality safeguard: the mapping audit script `scripts/python/37_audit_manuscript_mapping_paths.py` can be rerun after future manuscript edits to detect missing or outdated figure/table/source references.
+- Interpretation safeguard: the mapped package supports fixed-module transportability analysis and must not be framed as diagnostic classifier training, gene rediscovery, module redefinition or causal validation.
+- Next action: use the mapped Results package to prepare the integrated manuscript Results section with figure/table callouts.
