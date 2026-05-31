@@ -1,0 +1,11 @@
+metric	value
+features_modelled	19999
+primary_samples	224
+bacterial_samples	101
+viral_samples	123
+BH_FDR_lt_0.05	9999
+BH_FDR_lt_0.10	11424
+nominal_P_lt_0.05	11152
+abs_logFC_ge_0.5_and_FDR_lt_0.05	8631
+positive_logFC_features	7486
+negative_logFC_features	12513

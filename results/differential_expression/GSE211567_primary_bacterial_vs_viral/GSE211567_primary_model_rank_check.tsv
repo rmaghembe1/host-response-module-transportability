@@ -1,0 +1,2 @@
+model	n_samples	n_columns	rank	full_rank	design_columns
+primary_pooled_group_site_batch	224	4	4	TRUE	(Intercept);discovery_groupbacterial;siteUnited_States;sequencing_batch2
