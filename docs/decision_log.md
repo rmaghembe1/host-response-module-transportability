@@ -146,3 +146,14 @@
 - Interpretation safeguard: GSE161731 remains a technical projection rehearsal resource, not a formal validation cohort.
 - Boundary: this step performs identifier coverage only; it does not compute module scores, test biological hypotheses or make transportability claims.
 - Next action: run fixed-module technical scoring rehearsal in GSE161731 using unweighted mean z-score scoring, while preserving the firewall against biological validation claims.
+
+## 2026-05-31 — GSE161731 fixed-module technical scoring rehearsal
+- Decision: Accept the GSE161731 fixed-module scoring run as a successful technical rehearsal of locked GSE211567 module scoring.
+- Input: locked GSE211567 modules BACT_M1, BACT_M2, VIR_M1a, VIR_M1b and VIR_M2.
+- Scoring method: unweighted mean z-score scoring after gene-wise z-scoring within GSE161731.
+- Technical result: 20,561 expression features and 102 samples were scored, producing 510 module-score rows.
+- Coverage result: all five modules were scoreable using ENSEMBL-mapped GSE161731 features.
+- Metadata result: the scoring script selected `rna_id` as the sample identifier column and `technical_rehearsal_group` as the technical grouping column.
+- Interpretation safeguard: GSE161731 remains a technical projection rehearsal resource only; these scores must not be described as external validation, transportability evidence or biological confirmation.
+- Boundary: no module rediscovery, gene reselection, module renaming, effect-size reweighting or validation claim was performed.
+- Next action: prepare a formal external validation/projection cohort lock before making transportability claims.
