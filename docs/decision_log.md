@@ -235,3 +235,12 @@
 - Rationale: PNG provides a high-resolution raster backup for submission systems; SVG provides an editable vector master; PDF provides a vector publication/shareable backup.
 - Scope: applies to main manuscript figures and supplementary manuscript figures, including GSE73461 projection figures and future GSE211567 discovery-module figures.
 - Implementation: use `scripts/R/00_publication_figure_export_helpers.R` and the `save_publication_figure()` helper for manuscript-facing figure export.
+
+## 2026-05-31 — GSE73461 manuscript figures regenerated at publication resolution
+- Decision: Accept the regenerated GSE73461 manuscript projection figure panels as publication-grade figure outputs.
+- Export standard: each manuscript-facing GSE73461 projection panel is exported as 1800 dpi PNG, editable SVG and vector PDF.
+- Implemented panels: module-score distributions, main-versus-sensitivity median differences and main-versus-sensitivity adjusted P-value comparison.
+- Technical implementation: `scripts/R/00_publication_figure_export_helpers.R` now exports PNG at 1800 dpi, SVG using base R `grDevices::svg()` and PDF using `cairo_pdf`.
+- Rationale: this avoids the `svglite` system-dependency issue while preserving an editable SVG backup, a vector PDF backup and high-resolution raster PNG.
+- Interpretation safeguard: figure regeneration changes only export quality and file formats; it does not alter the underlying scoring results or interpretation.
+- Next action: apply the same publication-grade export standard to all future manuscript-facing GSE211567 discovery and supplementary figures.
