@@ -1,0 +1,11 @@
+--2026-05-31 18:36:35--  https://ftp.ncbi.nlm.nih.gov/geo/series/GSE68nnn/GSE68310/suppl/GSE68310_SubjectPhenotypes1.txt.gz
+Resolving ftp.ncbi.nlm.nih.gov (ftp.ncbi.nlm.nih.gov)... 130.14.250.10, 130.14.250.11, 2607:f220:41e:250::31, ...
+Connecting to ftp.ncbi.nlm.nih.gov (ftp.ncbi.nlm.nih.gov)|130.14.250.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2529 (2.5K) [application/x-gzip]
+Saving to: ‘data/metadata_raw/GSE68310/supplementary/GSE68310_SubjectPhenotypes1.txt.gz’
+
+     0K ..                                                    100% 88.3M=0s
+
+2026-05-31 18:36:37 (88.3 MB/s) - ‘data/metadata_raw/GSE68310/supplementary/GSE68310_SubjectPhenotypes1.txt.gz’ saved [2529/2529]
+
