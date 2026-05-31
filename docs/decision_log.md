@@ -157,3 +157,11 @@
 - Interpretation safeguard: GSE161731 remains a technical projection rehearsal resource only; these scores must not be described as external validation, transportability evidence or biological confirmation.
 - Boundary: no module rediscovery, gene reselection, module renaming, effect-size reweighting or validation claim was performed.
 - Next action: prepare a formal external validation/projection cohort lock before making transportability claims.
+
+## 2026-05-31 — Transition from technical rehearsal to formal external projection planning
+- Decision: Stop interpreting GSE161731 beyond technical scoring rehearsal.
+- Rationale: GSE161731 has already served as a workflow and projection-scoring rehearsal resource and must not be promoted to formal validation without a separate cohort-lock decision.
+- Current status: GSE211567 discovery modules are locked, projection-ready scoring inputs are locked, and GSE161731 has verified the technical scoring workflow.
+- Boundary: no biological claims, validation claims or transportability claims will be made from GSE161731 technical rehearsal outputs.
+- Next phase: identify and lock a formal external projection cohort using predefined eligibility criteria before scoring fixed GSE211567 modules.
+- Required external cohort criteria: independent cohort, compatible whole-blood or comparable host transcriptome data, usable gene identifiers, adequate bacterial and viral or relevant pathogen-class metadata, sufficient sample size, and no use in discovery/module definition.
