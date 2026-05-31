@@ -1,0 +1,7 @@
+site	discovery_group	n
+Sri_Lanka	bacterial	60
+United_States	bacterial	41
+Sri_Lanka	noninfection_contextual	0
+United_States	noninfection_contextual	66
+Sri_Lanka	viral	81
+United_States	viral	42
