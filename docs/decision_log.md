@@ -31,3 +31,14 @@
 - QC note: the full rehearsal identified metadata-caution samples with QC concerns; the sensitivity rehearsal resolved the metadata-integrity concern, although ordinary IQR-defined technical outliers remained and are documented.
 - Firewall: GSE161731 has served only as a count-level workflow rehearsal resource. It must not influence GSE211567 discovery-module selection, module orientation, module weighting or biological interpretation.
 - Next action: proceed to GSE211567 discovery-side metadata and sample-structure audit before any discovery modelling.
+
+## 2026-05-31 — GSE211567 primary discovery design lock
+- Decision: Proceed to first GSE211567 discovery modelling using the locked 224-sample bacterial-versus-viral primary discovery set.
+- Primary discovery model: normalized expression ~ discovery_group + site + sequencing_batch.
+- Rationale: the primary model matrix is full-rank, and both Sri Lanka and United States contain bacterial and viral samples, allowing pooled modelling with site/batch adjustment.
+- Primary sample counts: 101 bacterial and 123 viral samples.
+- Site-stratified feasibility: both sites support bacterial-versus-viral comparisons; site-stratified concordance will be used as an important secondary/sensitivity analysis.
+- Covariates: age and gender are complete and may be considered in sensitivity models if stable; race will not be used in the primary adjustment because it is only 37.05% complete and site-linked.
+- Excluded from primary adjustment: pathogen, because it is nested within infection group and partly site-linked; noninfection, because it is contextual/control only and not part of the primary bacterial-versus-viral contrast.
+- QC-watch samples: the 18 expression-summary outliers will not be automatically excluded from the primary analysis because they passed metadata locking and matrix-integrity checks; leverage or outlier sensitivity may be evaluated later if needed.
+- Analytical boundary: this design lock does not select genes, define modules, orient modules or make biological claims.
