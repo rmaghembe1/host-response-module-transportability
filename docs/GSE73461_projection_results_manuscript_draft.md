@@ -1,0 +1,23 @@
+# Manuscript Results Draft — GSE73461 External Projection of Locked Discovery Modules
+
+## External projection cohort selection and locking
+
+After discovery-module definition in GSE211567, an independent external projection cohort was required to test whether the locked module architecture could be transported without gene reselection, module renaming or diagnostic model training. GSE73461 was selected after a staged feasibility audit because it provided a suitable host-transcriptomic projection setting with clearly labelled DefiniteBacterial and DefiniteViral groups, valid processed expression matrices and high identifier coverage for the locked module genes. The primary projection contrast was restricted to 52 DefiniteBacterial and 94 DefiniteViral samples. Fifty-five Control samples were retained only as secondary context, whereas Inflammatory, Kawasaki and Unknown groups were excluded from the primary bacterial-versus-viral projection contrast.
+
+GSE73461 passed the expression and identifier-readiness gates required for fixed-module projection. The processed expression matrices contained 47,323 feature rows, 459 expression sample columns and 459 paired detection P-value columns, with identical raw and normalized sample sets. Illumina probe annotation using `illuminaHumanv4.db` provided sufficient locked-module coverage for all five discovery modules. Coverage was 24/25 genes for BACT_M1, 21/21 for BACT_M2, 128/128 for VIR_M1a, 33/33 for VIR_M1b and 105/106 for VIR_M2.
+
+## Fixed-module projection scoring in GSE73461
+
+Locked GSE211567 modules were projected into GSE73461 using the pre-specified unweighted mean z-score scoring rule. Gene-wise z-scores were calculated within the locked projection sample set, and module scores were computed without reselecting genes, changing module membership, reweighting genes or training a diagnostic model.
+
+All five modules showed the expected direction of change in the external cohort. The bacterial-higher mitochondrial respiration and oxidative phosphorylation module, BACT_M2, was higher in DefiniteBacterial than DefiniteViral samples, with a median bacterial-minus-viral difference of +0.3328 and a Benjamini–Hochberg adjusted Wilcoxon P value of 0.0202. The bacterial-higher cytoplasmic translation and ribosomal protein programme, BACT_M1, was also directionally concordant, but the difference was borderline after multiple-testing adjustment (median difference +0.2067; BH P = 0.0799).
+
+The viral-associated modules showed the strongest external transportability. VIR_M1a, the broad antiviral and interferon-stimulated defence programme, was higher in DefiniteViral samples, with a median bacterial-minus-viral difference of −0.4629 and BH P = 4.77 × 10^-6. VIR_M1b, the viral restriction and type I interferon signalling subgroup, showed the largest directional separation, with a median difference of −0.6739 and BH P = 1.41 × 10^-6. VIR_M2, the cytokine and innate immune regulation programme, was also higher in DefiniteViral samples, with a median difference of −0.2596 and BH P = 0.00848.
+
+## Primary-only z-score sensitivity analysis
+
+To test whether the projection results depended on including Control samples in the z-score reference set, a sensitivity analysis repeated the fixed-module scoring after gene-wise z-scoring using only the 52 DefiniteBacterial and 94 DefiniteViral samples. The 55 Control samples were excluded from this z-scoring reference set.
+
+The sensitivity analysis preserved the direction and interpretation of the main projection. All five modules retained expected-direction concordance. BACT_M2 remained significantly higher in DefiniteBacterial samples (median difference +0.3504; BH P = 0.0165), whereas BACT_M1 remained directionally concordant but borderline (median difference +0.2211; BH P = 0.0778). The three viral-associated modules remained robustly higher in DefiniteViral samples: VIR_M1a (median difference −0.4441; BH P = 7.57 × 10^-6), VIR_M1b (median difference −0.6445; BH P = 2.22 × 10^-6) and VIR_M2 (median difference −0.2626; BH P = 0.00796).
+
+Together, these results support external transportability of the locked GSE211567 host-response module architecture into an independent cohort. The strongest transported signals were the viral/interferon-related modules, followed by the bacterial mitochondrial respiration and oxidative phosphorylation module. The bacterial cytoplasmic translation and ribosomal protein programme was directionally concordant in both the main and sensitivity analyses but should be interpreted cautiously because it remained statistically borderline. These findings represent fixed-module transportability analysis rather than diagnostic signature discovery, model training or causal validation.
