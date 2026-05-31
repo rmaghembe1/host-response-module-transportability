@@ -42,3 +42,13 @@
 - Excluded from primary adjustment: pathogen, because it is nested within infection group and partly site-linked; noninfection, because it is contextual/control only and not part of the primary bacterial-versus-viral contrast.
 - QC-watch samples: the 18 expression-summary outliers will not be automatically excluded from the primary analysis because they passed metadata locking and matrix-integrity checks; leverage or outlier sensitivity may be evaluated later if needed.
 - Analytical boundary: this design lock does not select genes, define modules, orient modules or make biological claims.
+
+## 2026-05-31 — GSE211567 site-stratified concordance gate
+- Decision: Proceed toward pathway/module discovery with site-aware safeguards.
+- Evidence: The pooled bacterial-versus-viral limma model was directionally concordant with the Sri Lanka site-stratified model for 87.20% of all modelled features and with the United States model for 77.34% of all modelled features.
+- Evidence: Among pooled FDR < 0.05 features, 99.14% were directionally concordant with Sri Lanka, 93.11% were directionally concordant with the United States, and 92.25% were concordant across pooled, Sri Lanka and United States analyses.
+- Site contrast note: Sri Lanka and United States showed moderate direct logFC concordance, indicating that site/pathogen ecology contributes to the signal and should remain explicit in interpretation.
+- Modelling implication: Use the pooled limma ranking as the discovery backbone, but prioritize features/pathways/modules with cross-site directional support.
+- Interpretation safeguard: Avoid presenting pooled-only top genes as universal bacterial-versus-viral biology unless supported by site-stratified concordance.
+- Next action: Generate a site-aware feature-stability table and then proceed to pathway/module discovery using concordance-filtered or concordance-annotated ranked evidence.
+- Boundary: This gate still does not define biological modules or pathway-level claims.
