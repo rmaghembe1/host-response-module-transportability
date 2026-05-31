@@ -93,3 +93,14 @@
 - Interpretation safeguard: provisional module labels are evidence-organising labels only; they are not final manuscript-ready module names.
 - Contextual/borderline rows must not be used as primary biological claims unless strengthened by manual evidence review or additional validation.
 - Next action: manually review candidate-module rows, member GO terms and overlap genes to decide which modules are retained as primary, secondary or contextual.
+
+## 2026-05-31 — GSE211567 manual candidate-module review tiering
+- Decision: Accept the manual module decision table as a controlled review-tiering layer.
+- Output: 18 provisional module rows were classified into primary, secondary and contextual/borderline tiers.
+- Primary candidate modules: 5 rows comprising 2 bacterial-higher and 3 viral-higher module rows.
+- Secondary candidate modules: 5 rows comprising 1 bacterial-higher and 4 viral-higher module rows.
+- Contextual/borderline modules: 8 rows comprising 1 bacterial-higher and 7 viral-higher module rows.
+- Primary bacterial-higher candidates: cytoplasmic translation/ribosomal protein programme and mitochondrial respiration/oxidative phosphorylation programme.
+- Primary viral-higher candidates: antiviral/interferon-response programme, cytokine/innate immune regulation programme and a compact antiviral/interferon restriction subgroup.
+- Interpretation safeguard: primary candidate modules are eligible for manual biological review only; they are not yet final manuscript claims or externally validated transportable modules.
+- Next action: inspect primary candidate-module overlap genes, directionality and site-aware stability before naming final discovery modules.
