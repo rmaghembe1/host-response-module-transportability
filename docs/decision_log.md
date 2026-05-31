@@ -228,3 +228,10 @@
 - VIR_M2: viral-higher direction matched, median difference −0.2626, Wilcoxon P = 0.00478, BH P = 0.00796.
 - Interpretation safeguard: this sensitivity supports robustness of fixed-module transportability to the z-scoring reference set; it remains external module projection, not diagnostic model discovery or causal validation.
 - Next action: update the interpretation summary to include the primary-only z-score robustness result.
+
+## 2026-05-31 — Publication-grade figure export standard
+- Decision: Adopt a uniform publication-grade export standard for all manuscript-facing figures.
+- Standard: export every manuscript-facing figure as 1800 dpi PNG, editable SVG and vector PDF.
+- Rationale: PNG provides a high-resolution raster backup for submission systems; SVG provides an editable vector master; PDF provides a vector publication/shareable backup.
+- Scope: applies to main manuscript figures and supplementary manuscript figures, including GSE73461 projection figures and future GSE211567 discovery-module figures.
+- Implementation: use `scripts/R/00_publication_figure_export_helpers.R` and the `save_publication_figure()` helper for manuscript-facing figure export.
