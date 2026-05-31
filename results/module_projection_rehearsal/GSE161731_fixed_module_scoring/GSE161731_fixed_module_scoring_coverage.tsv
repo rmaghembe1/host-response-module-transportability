@@ -1,0 +1,6 @@
+final_module_id	final_module_label	module_direction	n_locked_genes	n_genes_scored	coverage_pct	n_ensembl_features_scored
+BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	24	24	100	24
+BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	21	21	100	21
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	125	126	100	126
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	32	32	100	32
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	100	100	100	100

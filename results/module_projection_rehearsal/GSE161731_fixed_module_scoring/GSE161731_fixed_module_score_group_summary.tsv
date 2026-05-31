@@ -1,0 +1,11 @@
+final_module_id	final_module_label	module_direction	scoring_group	n_samples	median_score	mean_score	sd_score	q25_score	q75_score
+BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	non_covid_viral	78	0.0343436857471638	0.0980643402601057	0.612373016147336	-0.324763546824854	0.523621264943181
+BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	non_covid_viral	78	0.105208436574824	0.0427474096486476	0.420566014096586	-0.123214278606401	0.30612047641167
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	non_covid_viral	78	0.202843680575035	0.161457548154049	0.412292656579977	-0.0392307969120991	0.38097371898677
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	non_covid_viral	78	0.134362704646068	0.176562060751093	0.610032949674084	-0.237312706220773	0.5501904122957
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	non_covid_viral	78	0.15076835783104	0.120383581235608	0.353069928464973	0.0118695810839951	0.315188869969421
+BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	bacterial	24	-0.306567523785941	-0.318709105845343	0.587489501039978	-0.721303556601447	-0.0733547690681369
+BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	bacterial	24	-0.104605915260223	-0.138929081358104	0.523880873316994	-0.282693548605547	0.10758940021829
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	bacterial	24	-0.409586655243751	-0.524737031500659	0.657518464347109	-0.576038898066205	-0.235340320761966
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	bacterial	24	-0.489474392998938	-0.573826697441052	0.526920174870921	-0.776400687766929	-0.231761581327636
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	bacterial	24	-0.21196690052877	-0.391246639015726	0.850593953793529	-0.350623428876381	-0.0787148544565522
