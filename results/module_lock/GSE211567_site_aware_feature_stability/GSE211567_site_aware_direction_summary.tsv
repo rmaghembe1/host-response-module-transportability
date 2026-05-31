@@ -1,0 +1,7 @@
+category	n
+pooled_FDR05_all_three_concordant	9224
+stable_bacterial_higher_all_three	2788
+stable_viral_higher_all_three	6436
+eligible_for_site_aware_discovery	9224
+secondary_or_site_contextual	775
+not_prioritized	10000
