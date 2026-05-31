@@ -1,0 +1,11 @@
+--2026-05-31 18:53:04--  https://ftp.ncbi.nlm.nih.gov/geo/series/GSE73nnn/GSE73461/suppl/
+Resolving ftp.ncbi.nlm.nih.gov (ftp.ncbi.nlm.nih.gov)... 130.14.250.11, 130.14.250.10, 2607:f220:41e:250::11, ...
+Connecting to ftp.ncbi.nlm.nih.gov (ftp.ncbi.nlm.nih.gov)|130.14.250.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘data/metadata_raw/GSE73461/GSE73461_supplementary_file_index.html’
+
+     0K .                                                       159M=0s
+
+2026-05-31 18:53:04 (159 MB/s) - ‘data/metadata_raw/GSE73461/GSE73461_supplementary_file_index.html’ saved [1157]
+

@@ -1,0 +1,5 @@
+supplementary_file_type_hint	n_files	example_files
+matrix_or_expression	3	GSE73461_GEOupload_Discovery_Dataset_Normalised_Sept_15_n_459.txt.gz; GSE73461_GEOupload_Discovery_Dataset_Raw_Sept_15_n_459.txt.gz; GSE73461_RAW.tar
+metadata	0	
+raw_archive	1	GSE73461_RAW.tar
+compressed	3	GSE73461_GEOupload_Discovery_Dataset_Normalised_Sept_15_n_459.txt.gz; GSE73461_GEOupload_Discovery_Dataset_Raw_Sept_15_n_459.txt.gz; GSE73461_RAW.tar

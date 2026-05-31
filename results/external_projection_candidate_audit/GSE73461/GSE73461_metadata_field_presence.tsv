@@ -1,0 +1,36 @@
+field	nonmissing_count	unique_values	example_values
+sample_record	459	459	GSM1894312; GSM1894313; GSM1894314; GSM1894315; GSM1894316; GSM1894317; GSM1894318; GSM1894319
+title	459	459	Control_01; Control_02; Control_03; Control_04; Control_05; Control_06; Control_07; Control_08
+geo_accession	459	459	GSM1894312; GSM1894313; GSM1894314; GSM1894315; GSM1894316; GSM1894317; GSM1894318; GSM1894319
+status	459	1	Public on Aug 09 2018
+submission_date	459	1	Sep 25 2015
+last_update_date	459	1	Aug 09 2018
+type	459	1	RNA
+channel_count	459	1	1
+source_name_ch1	459	7	Whole Blood from healthy control patient; Whole Blood from patient with Definite Bacterial infection; Whole Blood from patient with Definite Viral infection; Whole Blood from patient with HSP; Whole Blood from patient with JIA; Whole Blood from patient with KD; Whole Blood from patient with infection of uncertain bacterial or viral aetiology
+organism_ch1	459	1	Homo sapiens
+taxid_ch1	459	1	9606
+characteristics_ch1	459	14	category: Control | dataset: Discovery | gender: Male; category: Control | dataset: Discovery | gender: Female; category: Definite Bacterial | dataset: Discovery | gender: Female; category: Definite Bacterial | dataset: Discovery | gender: Male; category: Definite Viral | dataset: Discovery | gender: Female; category: Definite Viral | dataset: Discovery | gender: Male; category: HSP | dataset: Discovery | gender: Female; category: HSP | dataset: Discovery | gender: Male
+molecule_ch1	459	1	total RNA
+extract_protocol_ch1	459	1	Standard PAXgene® blood RNA extraction kit protocol (Qiagen).
+label_ch1	459	1	biotin
+label_protocol_ch1	459	1	Standard Illumina TotalPrep RNA Amplification kits (Applied Biosystems).
+hyb_protocol	459	1	Standard Illumina hybridisation protocol.
+scan_protocol	459	1	Standard Illumina scanning protocol.
+data_processing	459	1	The data were normalised using RSN, after background subtraction. The software used for data normalization was 'R' Language and Environment for Statistical Computing (R) 3.2.2
+platform_id	459	1	GPL10558
+contact_name	459	1	Michael,,Levin
+contact_email	459	1	m.levin@imperial.ac.uk, m.kaforou@imperial.ac.uk, v.wright@imperial.ac.uk
+contact_laboratory	459	1	Sir Alexander Fleming Building
+contact_department	459	1	Paediatrics
+contact_institute	459	1	Imperial College London
+contact_address	459	1	South Kensington Campus
+contact_city	459	1	London
+contact_zip/postal_code	459	1	SW7 2AZ
+contact_country	459	1	United Kingdom
+supplementary_file	459	1	NONE
+series_id	459	1	GSE73461 | GSE73464
+data_row_count	459	1	47323
+characteristics_category	459	7	Control; Definite Bacterial; Definite Viral; HSP; JIA; KD; Uncertain
+characteristics_dataset	459	1	Discovery
+characteristics_gender	459	2	Male; Female
