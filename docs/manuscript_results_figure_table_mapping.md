@@ -86,7 +86,7 @@ Available formats:
 
 - `results/external_projection_candidate_audit/GSE73461_expression_files/GSE73461_candidate_primary_projection_group_counts.tsv`
 - `results/external_projection_candidate_audit/GSE73461_expression_files/GSE73461_candidate_primary_projection_sample_table.tsv`
-- `results/external_projection_candidate_audit/GSE73461_identifier_coverage/GSE73461_module_probe_symbol_coverage.tsv`
+- `results/external_projection_candidate_audit/GSE73461_identifier_coverage/GSE73461_locked_module_identifier_coverage.tsv`
 - `results/external_projection_candidate_audit/GSE73461_identifier_coverage/GSE73461_illuminaHumanv4_probe_annotation_join.tsv`
 
 ## Results Section 4
