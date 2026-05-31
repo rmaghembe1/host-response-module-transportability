@@ -136,3 +136,13 @@
 - Sensitivity rule: bounded abs(logFC)-weighted scoring is allowed only as optional sensitivity and must not replace the primary unweighted score.
 - Interpretation safeguard: external cohorts must not be used to reselect genes, rename modules or alter module composition; projection tests fixed-module transportability, not discovery.
 - Next action: prepare an external projection/rehearsal script, beginning with GSE161731 only as a technical projection rehearsal unless a formal validation cohort is separately locked.
+
+## 2026-05-31 — GSE161731 technical projection identifier-coverage audit
+- Decision: Accept the GSE161731 identifier-coverage audit as a technical projection-readiness gate only.
+- Result: GSE161731 expression features are ENSEMBL gene IDs, explaining the earlier 0% SYMBOL-only coverage result.
+- Corrected matching approach: locked GSE211567 module ENTREZID identifiers were mapped to ENSEMBL IDs using org.Hs.eg.db before checking GSE161731 expression-row coverage.
+- Coverage results: BACT_M1 = 96.00%, BACT_M2 = 100.00%, VIR_M1a = 97.66%, VIR_M1b = 96.97% and VIR_M2 = 94.34%.
+- Projection eligibility: all five locked discovery modules pass both the 50% primary and 70% sensitivity coverage thresholds.
+- Interpretation safeguard: GSE161731 remains a technical projection rehearsal resource, not a formal validation cohort.
+- Boundary: this step performs identifier coverage only; it does not compute module scores, test biological hypotheses or make transportability claims.
+- Next action: run fixed-module technical scoring rehearsal in GSE161731 using unweighted mean z-score scoring, while preserving the firewall against biological validation claims.
