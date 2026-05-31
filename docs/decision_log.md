@@ -83,3 +83,13 @@
 - Result: viral-higher genes yielded 23 GO BP terms at BH FDR < 0.05 and 35 at BH FDR < 0.10.
 - Interpretation boundary: enriched GO terms are discovery evidence only; they do not yet define final biological modules.
 - Next action: perform GO-term redundancy reduction and overlap-gene inspection before assigning module names.
+
+## 2026-05-31 — GSE211567 provisional candidate-module review table
+- Decision: Accept the provisional candidate-module review table as an evidence-organising layer for manual biological review.
+- Input: 35 redundancy-reduced GO BP candidate groups, 43 GO-term membership rows and 1,724 candidate-group overlap-gene rows.
+- Output: 18 provisional higher-order module rows with module direction, evidence grade, representative GO terms, top overlap genes and interpretation status.
+- Bacterial-higher candidate programmes include cytoplasmic translation/ribosomal proteins, mitochondrial respiration/oxidative phosphorylation, glutathione/redox metabolism and glycolytic process.
+- Viral-higher candidate programmes include antiviral/interferon response, cytokine/innate immune regulation, B-cell/adaptive activation, transcription/chromatin regulation, chemotaxis/immune trafficking, and NF-kB/kinase/signal-transduction-related evidence.
+- Interpretation safeguard: provisional module labels are evidence-organising labels only; they are not final manuscript-ready module names.
+- Contextual/borderline rows must not be used as primary biological claims unless strengthened by manual evidence review or additional validation.
+- Next action: manually review candidate-module rows, member GO terms and overlap genes to decide which modules are retained as primary, secondary or contextual.
