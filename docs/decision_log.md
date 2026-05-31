@@ -199,3 +199,19 @@
 - Primary projection contrast: DefiniteBacterial versus DefiniteViral only.
 - Interpretation safeguard: GSE73461 projection may support module transportability assessment, but must not be framed as diagnostic signature discovery or causal validation.
 - Next action: run fixed-module GSE73461 projection scoring after this lock.
+
+## 2026-05-31 — GSE73461 fixed-module external projection scoring result
+- Decision: Accept the GSE73461 fixed-module projection scoring run as the formal external projection analysis of locked GSE211567 discovery modules.
+- Input: locked GSE211567 modules BACT_M1, BACT_M2, VIR_M1a, VIR_M1b and VIR_M2.
+- Cohort: locked GSE73461 external projection cohort, restricted to the primary DefiniteBacterial versus DefiniteViral contrast, with Control retained only as secondary context.
+- Scoring method: pre-specified unweighted mean z-score scoring after gene-wise z-scoring within GSE73461; no gene reselection, module renaming, reweighting or diagnostic model training was performed.
+- Sample counts: 52 DefiniteBacterial samples, 94 DefiniteViral samples and 55 secondary Control/context samples.
+- Coverage used for scoring: BACT_M1 = 24/25 genes, BACT_M2 = 21/21 genes, VIR_M1a = 128/128 genes, VIR_M1b = 33/33 genes and VIR_M2 = 105/106 genes.
+- Result: all five modules showed expected-direction concordance in GSE73461.
+- BACT_M1: bacterial-higher direction matched, median bacterial-minus-viral difference +0.2067, Wilcoxon P = 0.0799, BH P = 0.0799; interpret as directionally concordant but borderline.
+- BACT_M2: bacterial-higher direction matched, median difference +0.3328, Wilcoxon P = 0.0162, BH P = 0.0202.
+- VIR_M1a: viral-higher direction matched, median difference −0.4629, Wilcoxon P = 1.91e-06, BH P = 4.77e-06.
+- VIR_M1b: viral-higher direction matched, median difference −0.6739, Wilcoxon P = 2.82e-07, BH P = 1.41e-06.
+- VIR_M2: viral-higher direction matched, median difference −0.2596, Wilcoxon P = 0.00509, BH P = 0.00848.
+- Interpretation safeguard: these results support fixed-module transportability across an independent external cohort; they must not be framed as new diagnostic-signature discovery, causal validation or model training.
+- Next action: prepare an interpretation summary and optional sensitivity checks before manuscript-style Results drafting.
