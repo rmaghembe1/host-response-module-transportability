@@ -215,3 +215,16 @@
 - VIR_M2: viral-higher direction matched, median difference −0.2596, Wilcoxon P = 0.00509, BH P = 0.00848.
 - Interpretation safeguard: these results support fixed-module transportability across an independent external cohort; they must not be framed as new diagnostic-signature discovery, causal validation or model training.
 - Next action: prepare an interpretation summary and optional sensitivity checks before manuscript-style Results drafting.
+
+## 2026-05-31 — GSE73461 primary-only z-score projection sensitivity
+- Decision: Accept the primary-only z-score sensitivity analysis as a valid robustness check for the GSE73461 fixed-module projection.
+- Purpose: test whether the external projection result is robust when gene-wise z-scoring is performed using only the primary DefiniteBacterial and DefiniteViral samples, excluding Control samples from the z-score reference set.
+- Sample counts: 52 DefiniteBacterial samples and 94 DefiniteViral samples were included; 55 Control samples were excluded from the z-score reference set.
+- Result: all five locked modules retained expected-direction concordance.
+- BACT_M1: bacterial-higher direction matched, median bacterial-minus-viral difference +0.2211, Wilcoxon P = 0.0778, BH P = 0.0778; remains directionally concordant but borderline.
+- BACT_M2: bacterial-higher direction matched, median difference +0.3504, Wilcoxon P = 0.0132, BH P = 0.0165.
+- VIR_M1a: viral-higher direction matched, median difference −0.4441, Wilcoxon P = 3.03e-06, BH P = 7.57e-06.
+- VIR_M1b: viral-higher direction matched, median difference −0.6445, Wilcoxon P = 4.44e-07, BH P = 2.22e-06.
+- VIR_M2: viral-higher direction matched, median difference −0.2626, Wilcoxon P = 0.00478, BH P = 0.00796.
+- Interpretation safeguard: this sensitivity supports robustness of fixed-module transportability to the z-scoring reference set; it remains external module projection, not diagnostic model discovery or causal validation.
+- Next action: update the interpretation summary to include the primary-only z-score robustness result.
