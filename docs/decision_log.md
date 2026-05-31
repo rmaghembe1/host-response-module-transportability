@@ -124,3 +124,15 @@
 - Evidence basis: all final discovery-module rows passed primary gene-level inspection, retained FDR-supported GO BP evidence and showed 100% Tier 1–3/site-aware direction-concordant gene membership after unique ENTREZID summarisation.
 - Interpretation safeguard: these are GSE211567 discovery-module labels only; they are not externally validated transportable modules, diagnostic signatures or causal claims.
 - Next action: build module scoring inputs and define projection rules before applying modules to any external cohort.
+
+## 2026-05-31 — GSE211567 projection-ready module scoring inputs
+- Decision: Accept the GSE211567 projection-ready module scoring inputs as the locked input set for downstream scoring and external projection planning.
+- Locked modules: BACT_M1, BACT_M2, VIR_M1a, VIR_M1b and VIR_M2.
+- Module sizes: BACT_M1 = 25 genes, BACT_M2 = 21 genes, VIR_M1a = 128 genes, VIR_M1b = 33 genes and VIR_M2 = 106 genes.
+- Primary scoring rule: use unweighted mean z-score module scoring after gene-wise z-scoring within each external dataset.
+- Missing-gene rule: ignore missing genes for score calculation but report per-module gene coverage.
+- Projection eligibility rule: require at least 50% locked-gene coverage for primary projection; optionally repeat using a stricter 70% coverage threshold as sensitivity.
+- Direction rule: preserve GSE211567 discovery orientation; bacterial-higher modules retain direction sign +1 and viral-higher modules retain direction sign -1. Do not flip direction using external outcomes.
+- Sensitivity rule: bounded abs(logFC)-weighted scoring is allowed only as optional sensitivity and must not replace the primary unweighted score.
+- Interpretation safeguard: external cohorts must not be used to reselect genes, rename modules or alter module composition; projection tests fixed-module transportability, not discovery.
+- Next action: prepare an external projection/rehearsal script, beginning with GSE161731 only as a technical projection rehearsal unless a formal validation cohort is separately locked.
