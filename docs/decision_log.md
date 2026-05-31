@@ -52,3 +52,13 @@
 - Interpretation safeguard: Avoid presenting pooled-only top genes as universal bacterial-versus-viral biology unless supported by site-stratified concordance.
 - Next action: Generate a site-aware feature-stability table and then proceed to pathway/module discovery using concordance-filtered or concordance-annotated ranked evidence.
 - Boundary: This gate still does not define biological modules or pathway-level claims.
+
+## 2026-05-31 — GSE211567 site-aware feature universe lock
+- Decision: Use the site-aware eligible feature set as the primary input for pathway/module discovery.
+- Eligible primary feature universe: 9,224 site-aware features with pooled FDR support and cross-site directional concordance.
+- Direction-aware subsets: 2,788 bacterial-higher eligible features and 6,436 viral-higher eligible features.
+- Primary module-discovery rule: prioritize Tier 1–3 eligible features for stable cross-site pathway/module discovery.
+- Secondary/contextual rule: treat Tier 4 partial-support features as site/ecology-contextual evidence only.
+- Exclusion rule: do not use lower/unstable features as primary module anchors.
+- Interpretation safeguard: pathway/module claims must distinguish stable cross-site programmes from site- or pathogen-ecology-specific signals.
+- Boundary: this decision locks the evidence universe for enrichment/module discovery but does not itself define biological modules or interpret pathways.
