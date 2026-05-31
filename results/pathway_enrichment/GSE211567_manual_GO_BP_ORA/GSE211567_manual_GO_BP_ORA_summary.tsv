@@ -1,0 +1,3 @@
+direction_set	query_genes	universe_genes	tested_GO_BP_terms	FDR_0.05_terms	FDR_0.10_terms
+bacterial_higher_site_aware_eligible	1479	9100	1181	7	8
+viral_higher_site_aware_eligible	2854	9100	1181	23	35
