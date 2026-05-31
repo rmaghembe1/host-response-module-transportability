@@ -62,3 +62,14 @@
 - Exclusion rule: do not use lower/unstable features as primary module anchors.
 - Interpretation safeguard: pathway/module claims must distinguish stable cross-site programmes from site- or pathogen-ecology-specific signals.
 - Boundary: this decision locks the evidence universe for enrichment/module discovery but does not itself define biological modules or interpret pathways.
+
+## 2026-05-31 — GSE211567 gene-level enrichment input lock
+- Decision: Run enrichment/module discovery using gene-level ENTREZ-backed identifiers generated from the RefSeq transcript annotation bridge.
+- Annotation result: 19,947 of 19,999 RefSeq transcript features mapped to at least one gene-level identifier; 52 unmapped RefSeq features will be excluded from enrichment identifiers.
+- Primary enrichment universe: 9,100 gene-level ENTREZ identifiers from all modelled features.
+- Primary site-aware eligible gene set: 4,324 gene-level eligible features after transcript-to-gene collapsing.
+- Direction-aware enrichment inputs: 1,479 bacterial-higher eligible genes and 2,854 viral-higher eligible genes.
+- Collapse rule: transcript-level evidence is collapsed to one representative row per ENTREZID by strongest pooled P value while retaining site-aware direction/stability annotations.
+- Identifier rule: enrichment should use ENTREZID as the primary identifier, with SYMBOL/GENENAME retained for interpretation.
+- Interpretation safeguard: enrichment/module claims must be made at gene-level, not raw RefSeq-transcript level, unless transcript-specific biology is explicitly justified later.
+- Boundary: this decision locks the identifier universe for enrichment but does not itself define biological modules or pathway claims.
