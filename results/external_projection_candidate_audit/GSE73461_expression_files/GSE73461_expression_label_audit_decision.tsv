@@ -1,0 +1,2 @@
+candidate_dataset	expression_files_usable	normalized_and_raw_same_sample_set	n_primary_bacterial_samples	n_primary_viral_samples	n_secondary_control_samples	preliminary_expression_label_status	reason	next_action
+GSE73461	True	True	52	94	55	strong_candidate_for_formal_cohort_lock_pending_identifier_coverage_audit	Expression files contain sizeable DefiniteBacterial and DefiniteViral groups with paired detection-p-value columns.	Audit feature annotation/identifier mapping and locked-module gene coverage before cohort-lock decision.

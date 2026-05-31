@@ -1,0 +1,7 @@
+projection_role	sample_group	n_samples
+exclude_from_primary_projection	Inflammatory	84
+exclude_from_primary_projection	Kawasaki	78
+exclude_from_primary_projection	Unknown	96
+primary_bacterial	DefiniteBacterial	52
+primary_viral	DefiniteViral	94
+secondary_control_context	Control	55

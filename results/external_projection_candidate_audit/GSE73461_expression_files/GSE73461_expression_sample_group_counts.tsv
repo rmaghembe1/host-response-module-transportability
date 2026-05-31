@@ -1,0 +1,13 @@
+file_label	sample_group	n_expression_samples
+normalized	Control	55
+normalized	DefiniteBacterial	52
+normalized	DefiniteViral	94
+normalized	Inflammatory	84
+normalized	Kawasaki	78
+normalized	Unknown	96
+raw	Control	55
+raw	DefiniteBacterial	52
+raw	DefiniteViral	94
+raw	Inflammatory	84
+raw	Kawasaki	78
+raw	Unknown	96
