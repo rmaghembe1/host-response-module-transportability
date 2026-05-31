@@ -104,3 +104,14 @@
 - Primary viral-higher candidates: antiviral/interferon-response programme, cytokine/innate immune regulation programme and a compact antiviral/interferon restriction subgroup.
 - Interpretation safeguard: primary candidate modules are eligible for manual biological review only; they are not yet final manuscript claims or externally validated transportable modules.
 - Next action: inspect primary candidate-module overlap genes, directionality and site-aware stability before naming final discovery modules.
+
+## 2026-05-31 — GSE211567 primary-module gene-level inspection
+- Decision: Accept the primary candidate-module gene-level inspection as a quality-control gate before final discovery-module naming.
+- Input: 5 primary candidate module rows, 15 primary-module GO-term rows and 322 primary-module overlap-gene rows.
+- Result: all five primary candidate rows passed initial gene-level inspection after duplicate gene handling.
+- Result: all five primary candidate rows showed 100% Tier 1–3/site-aware direction-concordant gene membership after unique ENTREZID summarisation.
+- Primary bacterial-higher rows: mitochondrial respiration/oxidative phosphorylation and cytoplasmic translation/ribosomal protein programmes.
+- Primary viral-higher rows: one broad antiviral/interferon-response programme, one compact antiviral/interferon restriction subgroup and one cytokine/innate immune regulation programme.
+- Antiviral/interferon merge assessment: two primary antiviral/interferon rows shared 29 genes with Jaccard overlap 0.2197; retain as related submodules pending manual biological review rather than force-merging.
+- Interpretation safeguard: these primary rows remain candidate discovery modules, not final manuscript claims or externally validated transportable modules.
+- Next action: create a final discovery-module label table with conservative labels, preserving submodule structure and evidence boundaries.
