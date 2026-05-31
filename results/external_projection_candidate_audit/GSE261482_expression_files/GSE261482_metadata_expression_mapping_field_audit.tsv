@@ -1,0 +1,3 @@
+metadata_source	n_rows	n_columns	candidate_numeric_1_to_177_columns	geo_accession_columns	title_like_columns	diagnosis_or_group_like_columns
+SOFT	177	39		sample_record;geo_accession	sample_record;title;source_name_ch1;library_source	characteristics_etiology;characteristics_condition
+series_matrix	177	31		geo_accession	title;source_name_ch1;library_source	
