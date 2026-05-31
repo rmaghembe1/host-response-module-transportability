@@ -115,3 +115,12 @@
 - Antiviral/interferon merge assessment: two primary antiviral/interferon rows shared 29 genes with Jaccard overlap 0.2197; retain as related submodules pending manual biological review rather than force-merging.
 - Interpretation safeguard: these primary rows remain candidate discovery modules, not final manuscript claims or externally validated transportable modules.
 - Next action: create a final discovery-module label table with conservative labels, preserving submodule structure and evidence boundaries.
+
+## 2026-05-31 — GSE211567 final discovery-module label lock
+- Decision: Accept the conservative final GSE211567 discovery-module label table as the locked discovery-module set for downstream scoring and projection planning.
+- Final bacterial-higher discovery modules: BACT_M1, bacterial-higher cytoplasmic translation and ribosomal protein programme; BACT_M2, bacterial-higher mitochondrial respiration and oxidative phosphorylation programme.
+- Final viral-higher discovery modules: VIR_M1a, viral-higher broad antiviral and interferon-stimulated defence programme; VIR_M1b, viral-higher viral restriction and type I interferon signalling subgroup; VIR_M2, viral-higher cytokine and innate immune regulation programme.
+- Antiviral/interferon boundary: VIR_M1a and VIR_M1b are retained as related submodules rather than force-merged because their pairwise gene-overlap Jaccard was 0.2197 with 29 shared genes.
+- Evidence basis: all final discovery-module rows passed primary gene-level inspection, retained FDR-supported GO BP evidence and showed 100% Tier 1–3/site-aware direction-concordant gene membership after unique ENTREZID summarisation.
+- Interpretation safeguard: these are GSE211567 discovery-module labels only; they are not externally validated transportable modules, diagnostic signatures or causal claims.
+- Next action: build module scoring inputs and define projection rules before applying modules to any external cohort.
