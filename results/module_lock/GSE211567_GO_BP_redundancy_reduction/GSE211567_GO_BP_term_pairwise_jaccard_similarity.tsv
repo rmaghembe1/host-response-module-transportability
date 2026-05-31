@@ -1,0 +1,624 @@
+direction_set	GO_1	TERM_1	GO_2	TERM_2	jaccard_overlap	shared_gene_count	union_gene_count
+bacterial_higher_site_aware_eligible	GO:0002181	cytoplasmic translation	GO:0006412	translation	0.64	16	25
+bacterial_higher_site_aware_eligible	GO:0002181	cytoplasmic translation	GO:0006749	glutathione metabolic process	0	0	29
+bacterial_higher_site_aware_eligible	GO:0002181	cytoplasmic translation	GO:0032981	mitochondrial respiratory chain complex I assembly	0	0	30
+bacterial_higher_site_aware_eligible	GO:0002181	cytoplasmic translation	GO:0042776	proton motive force-driven mitochondrial ATP synthesis	0	0	27
+bacterial_higher_site_aware_eligible	GO:0002181	cytoplasmic translation	GO:0009060	aerobic respiration	0	0	28
+bacterial_higher_site_aware_eligible	GO:0002181	cytoplasmic translation	GO:0006120	mitochondrial electron transport, NADH to ubiquinone	0	0	26
+bacterial_higher_site_aware_eligible	GO:0002181	cytoplasmic translation	GO:0006096	glycolytic process	0	0	25
+bacterial_higher_site_aware_eligible	GO:0006412	translation	GO:0006749	glutathione metabolic process	0	0	34
+bacterial_higher_site_aware_eligible	GO:0006412	translation	GO:0032981	mitochondrial respiratory chain complex I assembly	0	0	35
+bacterial_higher_site_aware_eligible	GO:0006412	translation	GO:0042776	proton motive force-driven mitochondrial ATP synthesis	0	0	32
+bacterial_higher_site_aware_eligible	GO:0006412	translation	GO:0009060	aerobic respiration	0	0	33
+bacterial_higher_site_aware_eligible	GO:0006412	translation	GO:0006120	mitochondrial electron transport, NADH to ubiquinone	0	0	31
+bacterial_higher_site_aware_eligible	GO:0006412	translation	GO:0006096	glycolytic process	0	0	30
+bacterial_higher_site_aware_eligible	GO:0006749	glutathione metabolic process	GO:0032981	mitochondrial respiratory chain complex I assembly	0	0	23
+bacterial_higher_site_aware_eligible	GO:0006749	glutathione metabolic process	GO:0042776	proton motive force-driven mitochondrial ATP synthesis	0	0	20
+bacterial_higher_site_aware_eligible	GO:0006749	glutathione metabolic process	GO:0009060	aerobic respiration	0	0	21
+bacterial_higher_site_aware_eligible	GO:0006749	glutathione metabolic process	GO:0006120	mitochondrial electron transport, NADH to ubiquinone	0	0	19
+bacterial_higher_site_aware_eligible	GO:0006749	glutathione metabolic process	GO:0006096	glycolytic process	0	0	18
+bacterial_higher_site_aware_eligible	GO:0032981	mitochondrial respiratory chain complex I assembly	GO:0042776	proton motive force-driven mitochondrial ATP synthesis	0.3125	5	16
+bacterial_higher_site_aware_eligible	GO:0032981	mitochondrial respiratory chain complex I assembly	GO:0009060	aerobic respiration	0.294117647058824	5	17
+bacterial_higher_site_aware_eligible	GO:0032981	mitochondrial respiratory chain complex I assembly	GO:0006120	mitochondrial electron transport, NADH to ubiquinone	0.428571428571429	6	14
+bacterial_higher_site_aware_eligible	GO:0032981	mitochondrial respiratory chain complex I assembly	GO:0006096	glycolytic process	0	0	19
+bacterial_higher_site_aware_eligible	GO:0042776	proton motive force-driven mitochondrial ATP synthesis	GO:0009060	aerobic respiration	0.461538461538462	6	13
+bacterial_higher_site_aware_eligible	GO:0042776	proton motive force-driven mitochondrial ATP synthesis	GO:0006120	mitochondrial electron transport, NADH to ubiquinone	0.545454545454545	6	11
+bacterial_higher_site_aware_eligible	GO:0042776	proton motive force-driven mitochondrial ATP synthesis	GO:0006096	glycolytic process	0	0	16
+bacterial_higher_site_aware_eligible	GO:0009060	aerobic respiration	GO:0006120	mitochondrial electron transport, NADH to ubiquinone	0.5	6	12
+bacterial_higher_site_aware_eligible	GO:0009060	aerobic respiration	GO:0006096	glycolytic process	0	0	17
+bacterial_higher_site_aware_eligible	GO:0006120	mitochondrial electron transport, NADH to ubiquinone	GO:0006096	glycolytic process	0	0	15
+viral_higher_site_aware_eligible	GO:0000122	negative regulation of transcription by RNA polymerase II	GO:0045944	positive regulation of transcription by RNA polymerase II	0.176300578034682	61	346
+viral_higher_site_aware_eligible	GO:0000122	negative regulation of transcription by RNA polymerase II	GO:0006355	regulation of DNA-templated transcription	0.121527777777778	35	288
+viral_higher_site_aware_eligible	GO:0000122	negative regulation of transcription by RNA polymerase II	GO:0051607	defense response to virus	0.0156862745098039	4	255
+viral_higher_site_aware_eligible	GO:0000122	negative regulation of transcription by RNA polymerase II	GO:0009615	response to virus	0.0225225225225225	5	222
+viral_higher_site_aware_eligible	GO:0000122	negative regulation of transcription by RNA polymerase II	GO:0001817	regulation of cytokine production	0.0784313725490196	16	204
+viral_higher_site_aware_eligible	GO:0000122	negative regulation of transcription by RNA polymerase II	GO:0045893	positive regulation of DNA-templated transcription	0.103448275862069	30	290
+viral_higher_site_aware_eligible	GO:0000122	negative regulation of transcription by RNA polymerase II	GO:0045071	negative regulation of viral genome replication	0	0	211
+viral_higher_site_aware_eligible	GO:0000122	negative regulation of transcription by RNA polymerase II	GO:0060326	cell chemotaxis	0.00469483568075117	1	213
+viral_higher_site_aware_eligible	GO:0000122	negative regulation of transcription by RNA polymerase II	GO:0006955	immune response	0.00766283524904215	2	261
+viral_higher_site_aware_eligible	GO:0000122	negative regulation of transcription by RNA polymerase II	GO:0048167	regulation of synaptic plasticity	0.00975609756097561	2	205
+viral_higher_site_aware_eligible	GO:0000122	negative regulation of transcription by RNA polymerase II	GO:0006338	chromatin remodeling	0.092436974789916	22	238
+viral_higher_site_aware_eligible	GO:0000122	negative regulation of transcription by RNA polymerase II	GO:0045892	negative regulation of DNA-templated transcription	0.131782945736434	34	258
+viral_higher_site_aware_eligible	GO:0000122	negative regulation of transcription by RNA polymerase II	GO:0032092	positive regulation of protein binding	0.00483091787439614	1	207
+viral_higher_site_aware_eligible	GO:0000122	negative regulation of transcription by RNA polymerase II	GO:0042113	B cell activation	0	0	205
+viral_higher_site_aware_eligible	GO:0000122	negative regulation of transcription by RNA polymerase II	GO:0001756	somitogenesis	0.0198019801980198	4	202
+viral_higher_site_aware_eligible	GO:0000122	negative regulation of transcription by RNA polymerase II	GO:0009617	response to bacterium	0	0	219
+viral_higher_site_aware_eligible	GO:0000122	negative regulation of transcription by RNA polymerase II	GO:0030890	positive regulation of B cell proliferation	0.0145631067961165	3	206
+viral_higher_site_aware_eligible	GO:0000122	negative regulation of transcription by RNA polymerase II	GO:0006468	protein phosphorylation	0.0268199233716475	7	261
+viral_higher_site_aware_eligible	GO:0000122	negative regulation of transcription by RNA polymerase II	GO:0060907	positive regulation of macrophage cytokine production	0.00497512437810945	1	201
+viral_higher_site_aware_eligible	GO:0000122	negative regulation of transcription by RNA polymerase II	GO:0032728	positive regulation of interferon-beta production	0.00975609756097561	2	205
+viral_higher_site_aware_eligible	GO:0000122	negative regulation of transcription by RNA polymerase II	GO:0045087	innate immune response	0.0261194029850746	7	268
+viral_higher_site_aware_eligible	GO:0000122	negative regulation of transcription by RNA polymerase II	GO:0060337	type I interferon-mediated signaling pathway	0.015	3	200
+viral_higher_site_aware_eligible	GO:0000122	negative regulation of transcription by RNA polymerase II	GO:0030509	BMP signaling pathway	0.0343137254901961	7	204
+viral_higher_site_aware_eligible	GO:0000122	negative regulation of transcription by RNA polymerase II	GO:0019722	calcium-mediated signaling	0	0	215
+viral_higher_site_aware_eligible	GO:0000122	negative regulation of transcription by RNA polymerase II	GO:0030183	B cell differentiation	0.0241545893719807	5	207
+viral_higher_site_aware_eligible	GO:0000122	negative regulation of transcription by RNA polymerase II	GO:0030501	positive regulation of bone mineralization	0.0198019801980198	4	202
+viral_higher_site_aware_eligible	GO:0000122	negative regulation of transcription by RNA polymerase II	GO:0070371	ERK1 and ERK2 cascade	0.0147783251231527	3	203
+viral_higher_site_aware_eligible	GO:0000122	negative regulation of transcription by RNA polymerase II	GO:0043123	positive regulation of canonical NF-kappaB signal transduction	0.013215859030837	3	227
+viral_higher_site_aware_eligible	GO:0000122	negative regulation of transcription by RNA polymerase II	GO:0006366	transcription by RNA polymerase II	0.091743119266055	20	218
+viral_higher_site_aware_eligible	GO:0000122	negative regulation of transcription by RNA polymerase II	GO:0032743	positive regulation of interleukin-2 production	0	0	205
+viral_higher_site_aware_eligible	GO:0000122	negative regulation of transcription by RNA polymerase II	GO:0045945	positive regulation of transcription by RNA polymerase III	0.005	1	200
+viral_higher_site_aware_eligible	GO:0000122	negative regulation of transcription by RNA polymerase II	GO:0045943	positive regulation of transcription by RNA polymerase I	0	0	203
+viral_higher_site_aware_eligible	GO:0000122	negative regulation of transcription by RNA polymerase II	GO:0007165	signal transduction	0.0289855072463768	10	345
+viral_higher_site_aware_eligible	GO:0000122	negative regulation of transcription by RNA polymerase II	GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	0.00952380952380953	2	210
+viral_higher_site_aware_eligible	GO:0045944	positive regulation of transcription by RNA polymerase II	GO:0006355	regulation of DNA-templated transcription	0.109677419354839	34	310
+viral_higher_site_aware_eligible	GO:0045944	positive regulation of transcription by RNA polymerase II	GO:0051607	defense response to virus	0.0408921933085502	11	269
+viral_higher_site_aware_eligible	GO:0045944	positive regulation of transcription by RNA polymerase II	GO:0009615	response to virus	0.0247933884297521	6	242
+viral_higher_site_aware_eligible	GO:0045944	positive regulation of transcription by RNA polymerase II	GO:0001817	regulation of cytokine production	0.0168776371308017	4	237
+viral_higher_site_aware_eligible	GO:0045944	positive regulation of transcription by RNA polymerase II	GO:0045893	positive regulation of DNA-templated transcription	0.179930795847751	52	289
+viral_higher_site_aware_eligible	GO:0045944	positive regulation of transcription by RNA polymerase II	GO:0045071	negative regulation of viral genome replication	0.00432900432900433	1	231
+viral_higher_site_aware_eligible	GO:0045944	positive regulation of transcription by RNA polymerase II	GO:0060326	cell chemotaxis	0.00427350427350427	1	234
+viral_higher_site_aware_eligible	GO:0045944	positive regulation of transcription by RNA polymerase II	GO:0006955	immune response	0.0364963503649635	10	274
+viral_higher_site_aware_eligible	GO:0045944	positive regulation of transcription by RNA polymerase II	GO:0048167	regulation of synaptic plasticity	0.00884955752212389	2	226
+viral_higher_site_aware_eligible	GO:0045944	positive regulation of transcription by RNA polymerase II	GO:0006338	chromatin remodeling	0.0891472868217054	23	258
+viral_higher_site_aware_eligible	GO:0045944	positive regulation of transcription by RNA polymerase II	GO:0045892	negative regulation of DNA-templated transcription	0.109929078014184	31	282
+viral_higher_site_aware_eligible	GO:0045944	positive regulation of transcription by RNA polymerase II	GO:0032092	positive regulation of protein binding	0.0132743362831858	3	226
+viral_higher_site_aware_eligible	GO:0045944	positive regulation of transcription by RNA polymerase II	GO:0042113	B cell activation	0.00444444444444444	1	225
+viral_higher_site_aware_eligible	GO:0045944	positive regulation of transcription by RNA polymerase II	GO:0001756	somitogenesis	0.0318181818181818	7	220
+viral_higher_site_aware_eligible	GO:0045944	positive regulation of transcription by RNA polymerase II	GO:0009617	response to bacterium	0.00840336134453782	2	238
+viral_higher_site_aware_eligible	GO:0045944	positive regulation of transcription by RNA polymerase II	GO:0030890	positive regulation of B cell proliferation	0.013215859030837	3	227
+viral_higher_site_aware_eligible	GO:0045944	positive regulation of transcription by RNA polymerase II	GO:0006468	protein phosphorylation	0.0321428571428571	9	280
+viral_higher_site_aware_eligible	GO:0045944	positive regulation of transcription by RNA polymerase II	GO:0060907	positive regulation of macrophage cytokine production	0.0229357798165138	5	218
+viral_higher_site_aware_eligible	GO:0045944	positive regulation of transcription by RNA polymerase II	GO:0032728	positive regulation of interferon-beta production	0.027027027027027	6	222
+viral_higher_site_aware_eligible	GO:0045944	positive regulation of transcription by RNA polymerase II	GO:0045087	innate immune response	0.0313588850174216	9	287
+viral_higher_site_aware_eligible	GO:0045944	positive regulation of transcription by RNA polymerase II	GO:0060337	type I interferon-mediated signaling pathway	0.0135746606334842	3	221
+viral_higher_site_aware_eligible	GO:0045944	positive regulation of transcription by RNA polymerase II	GO:0030509	BMP signaling pathway	0.0497737556561086	11	221
+viral_higher_site_aware_eligible	GO:0045944	positive regulation of transcription by RNA polymerase II	GO:0019722	calcium-mediated signaling	0	0	236
+viral_higher_site_aware_eligible	GO:0045944	positive regulation of transcription by RNA polymerase II	GO:0030183	B cell differentiation	0.026431718061674	6	227
+viral_higher_site_aware_eligible	GO:0045944	positive regulation of transcription by RNA polymerase II	GO:0030501	positive regulation of bone mineralization	0.0318181818181818	7	220
+viral_higher_site_aware_eligible	GO:0045944	positive regulation of transcription by RNA polymerase II	GO:0070371	ERK1 and ERK2 cascade	0.0179372197309417	4	223
+viral_higher_site_aware_eligible	GO:0045944	positive regulation of transcription by RNA polymerase II	GO:0043123	positive regulation of canonical NF-kappaB signal transduction	0.0203252032520325	5	246
+viral_higher_site_aware_eligible	GO:0045944	positive regulation of transcription by RNA polymerase II	GO:0006366	transcription by RNA polymerase II	0.135964912280702	31	228
+viral_higher_site_aware_eligible	GO:0045944	positive regulation of transcription by RNA polymerase II	GO:0032743	positive regulation of interleukin-2 production	0.0134529147982063	3	223
+viral_higher_site_aware_eligible	GO:0045944	positive regulation of transcription by RNA polymerase II	GO:0045945	positive regulation of transcription by RNA polymerase III	0.0230414746543779	5	217
+viral_higher_site_aware_eligible	GO:0045944	positive regulation of transcription by RNA polymerase II	GO:0045943	positive regulation of transcription by RNA polymerase I	0.0228310502283105	5	219
+viral_higher_site_aware_eligible	GO:0045944	positive regulation of transcription by RNA polymerase II	GO:0007165	signal transduction	0.0444444444444444	16	360
+viral_higher_site_aware_eligible	GO:0045944	positive regulation of transcription by RNA polymerase II	GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	0.026431718061674	6	227
+viral_higher_site_aware_eligible	GO:0006355	regulation of DNA-templated transcription	GO:0051607	defense response to virus	0.00512820512820513	1	195
+viral_higher_site_aware_eligible	GO:0006355	regulation of DNA-templated transcription	GO:0009615	response to virus	0.0123456790123457	2	162
+viral_higher_site_aware_eligible	GO:0006355	regulation of DNA-templated transcription	GO:0001817	regulation of cytokine production	0.00641025641025641	1	156
+viral_higher_site_aware_eligible	GO:0006355	regulation of DNA-templated transcription	GO:0045893	positive regulation of DNA-templated transcription	0.142222222222222	32	225
+viral_higher_site_aware_eligible	GO:0006355	regulation of DNA-templated transcription	GO:0045071	negative regulation of viral genome replication	0	0	148
+viral_higher_site_aware_eligible	GO:0006355	regulation of DNA-templated transcription	GO:0060326	cell chemotaxis	0.00666666666666667	1	150
+viral_higher_site_aware_eligible	GO:0006355	regulation of DNA-templated transcription	GO:0006955	immune response	0.0204081632653061	4	196
+viral_higher_site_aware_eligible	GO:0006355	regulation of DNA-templated transcription	GO:0048167	regulation of synaptic plasticity	0.00699300699300699	1	143
+viral_higher_site_aware_eligible	GO:0006355	regulation of DNA-templated transcription	GO:0006338	chromatin remodeling	0.0944444444444444	17	180
+viral_higher_site_aware_eligible	GO:0006355	regulation of DNA-templated transcription	GO:0045892	negative regulation of DNA-templated transcription	0.111650485436893	23	206
+viral_higher_site_aware_eligible	GO:0006355	regulation of DNA-templated transcription	GO:0032092	positive regulation of protein binding	0	0	145
+viral_higher_site_aware_eligible	GO:0006355	regulation of DNA-templated transcription	GO:0042113	B cell activation	0	0	142
+viral_higher_site_aware_eligible	GO:0006355	regulation of DNA-templated transcription	GO:0001756	somitogenesis	0.036231884057971	5	138
+viral_higher_site_aware_eligible	GO:0006355	regulation of DNA-templated transcription	GO:0009617	response to bacterium	0	0	156
+viral_higher_site_aware_eligible	GO:0006355	regulation of DNA-templated transcription	GO:0030890	positive regulation of B cell proliferation	0.0138888888888889	2	144
+viral_higher_site_aware_eligible	GO:0006355	regulation of DNA-templated transcription	GO:0006468	protein phosphorylation	0.0199004975124378	4	201
+viral_higher_site_aware_eligible	GO:0006355	regulation of DNA-templated transcription	GO:0060907	positive regulation of macrophage cytokine production	0	0	139
+viral_higher_site_aware_eligible	GO:0006355	regulation of DNA-templated transcription	GO:0032728	positive regulation of interferon-beta production	0	0	144
+viral_higher_site_aware_eligible	GO:0006355	regulation of DNA-templated transcription	GO:0045087	innate immune response	0.00952380952380953	2	210
+viral_higher_site_aware_eligible	GO:0006355	regulation of DNA-templated transcription	GO:0060337	type I interferon-mediated signaling pathway	0	0	140
+viral_higher_site_aware_eligible	GO:0006355	regulation of DNA-templated transcription	GO:0030509	BMP signaling pathway	0.0136986301369863	2	146
+viral_higher_site_aware_eligible	GO:0006355	regulation of DNA-templated transcription	GO:0019722	calcium-mediated signaling	0	0	152
+viral_higher_site_aware_eligible	GO:0006355	regulation of DNA-templated transcription	GO:0030183	B cell differentiation	0.00675675675675676	1	148
+viral_higher_site_aware_eligible	GO:0006355	regulation of DNA-templated transcription	GO:0030501	positive regulation of bone mineralization	0.0214285714285714	3	140
+viral_higher_site_aware_eligible	GO:0006355	regulation of DNA-templated transcription	GO:0070371	ERK1 and ERK2 cascade	0	0	143
+viral_higher_site_aware_eligible	GO:0006355	regulation of DNA-templated transcription	GO:0043123	positive regulation of canonical NF-kappaB signal transduction	0.0121212121212121	2	165
+viral_higher_site_aware_eligible	GO:0006355	regulation of DNA-templated transcription	GO:0006366	transcription by RNA polymerase II	0.0479041916167665	8	167
+viral_higher_site_aware_eligible	GO:0006355	regulation of DNA-templated transcription	GO:0032743	positive regulation of interleukin-2 production	0.00709219858156028	1	141
+viral_higher_site_aware_eligible	GO:0006355	regulation of DNA-templated transcription	GO:0045945	positive regulation of transcription by RNA polymerase III	0.0072992700729927	1	137
+viral_higher_site_aware_eligible	GO:0006355	regulation of DNA-templated transcription	GO:0045943	positive regulation of transcription by RNA polymerase I	0.00719424460431655	1	139
+viral_higher_site_aware_eligible	GO:0006355	regulation of DNA-templated transcription	GO:0007165	signal transduction	0.028169014084507	8	284
+viral_higher_site_aware_eligible	GO:0006355	regulation of DNA-templated transcription	GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	0.00675675675675676	1	148
+viral_higher_site_aware_eligible	GO:0051607	defense response to virus	GO:0009615	response to virus	0.25	20	80
+viral_higher_site_aware_eligible	GO:0051607	defense response to virus	GO:0001817	regulation of cytokine production	0	0	93
+viral_higher_site_aware_eligible	GO:0051607	defense response to virus	GO:0045893	positive regulation of DNA-templated transcription	0.0376344086021505	7	186
+viral_higher_site_aware_eligible	GO:0051607	defense response to virus	GO:0045071	negative regulation of viral genome replication	0.235294117647059	16	68
+viral_higher_site_aware_eligible	GO:0051607	defense response to virus	GO:0060326	cell chemotaxis	0	0	87
+viral_higher_site_aware_eligible	GO:0051607	defense response to virus	GO:0006955	immune response	0.0381679389312977	5	131
+viral_higher_site_aware_eligible	GO:0051607	defense response to virus	GO:0048167	regulation of synaptic plasticity	0	0	80
+viral_higher_site_aware_eligible	GO:0051607	defense response to virus	GO:0006338	chromatin remodeling	0.0152671755725191	2	131
+viral_higher_site_aware_eligible	GO:0051607	defense response to virus	GO:0045892	negative regulation of DNA-templated transcription	0.0122699386503067	2	163
+viral_higher_site_aware_eligible	GO:0051607	defense response to virus	GO:0032092	positive regulation of protein binding	0.0125	1	80
+viral_higher_site_aware_eligible	GO:0051607	defense response to virus	GO:0042113	B cell activation	0.012987012987013	1	77
+viral_higher_site_aware_eligible	GO:0051607	defense response to virus	GO:0001756	somitogenesis	0	0	79
+viral_higher_site_aware_eligible	GO:0051607	defense response to virus	GO:0009617	response to bacterium	0	0	92
+viral_higher_site_aware_eligible	GO:0051607	defense response to virus	GO:0030890	positive regulation of B cell proliferation	0.025	2	80
+viral_higher_site_aware_eligible	GO:0051607	defense response to virus	GO:0006468	protein phosphorylation	0.00714285714285714	1	140
+viral_higher_site_aware_eligible	GO:0051607	defense response to virus	GO:0060907	positive regulation of macrophage cytokine production	0.0563380281690141	4	71
+viral_higher_site_aware_eligible	GO:0051607	defense response to virus	GO:0032728	positive regulation of interferon-beta production	0.126760563380282	9	71
+viral_higher_site_aware_eligible	GO:0051607	defense response to virus	GO:0045087	innate immune response	0.275862068965517	32	116
+viral_higher_site_aware_eligible	GO:0051607	defense response to virus	GO:0060337	type I interferon-mediated signaling pathway	0.151515151515152	10	66
+viral_higher_site_aware_eligible	GO:0051607	defense response to virus	GO:0030509	BMP signaling pathway	0	0	84
+viral_higher_site_aware_eligible	GO:0051607	defense response to virus	GO:0019722	calcium-mediated signaling	0	0	88
+viral_higher_site_aware_eligible	GO:0051607	defense response to virus	GO:0030183	B cell differentiation	0	0	85
+viral_higher_site_aware_eligible	GO:0051607	defense response to virus	GO:0030501	positive regulation of bone mineralization	0.0128205128205128	1	78
+viral_higher_site_aware_eligible	GO:0051607	defense response to virus	GO:0070371	ERK1 and ERK2 cascade	0	0	79
+viral_higher_site_aware_eligible	GO:0051607	defense response to virus	GO:0043123	positive regulation of canonical NF-kappaB signal transduction	0.0842105263157895	8	95
+viral_higher_site_aware_eligible	GO:0051607	defense response to virus	GO:0006366	transcription by RNA polymerase II	0.018348623853211	2	109
+viral_higher_site_aware_eligible	GO:0051607	defense response to virus	GO:0032743	positive regulation of interleukin-2 production	0	0	78
+viral_higher_site_aware_eligible	GO:0051607	defense response to virus	GO:0045945	positive regulation of transcription by RNA polymerase III	0.0136986301369863	1	73
+viral_higher_site_aware_eligible	GO:0051607	defense response to virus	GO:0045943	positive regulation of transcription by RNA polymerase I	0.0133333333333333	1	75
+viral_higher_site_aware_eligible	GO:0051607	defense response to virus	GO:0007165	signal transduction	0.0133333333333333	3	225
+viral_higher_site_aware_eligible	GO:0051607	defense response to virus	GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	0.0119047619047619	1	84
+viral_higher_site_aware_eligible	GO:0009615	response to virus	GO:0001817	regulation of cytokine production	0.0166666666666667	1	60
+viral_higher_site_aware_eligible	GO:0009615	response to virus	GO:0045893	positive regulation of DNA-templated transcription	0.0320512820512821	5	156
+viral_higher_site_aware_eligible	GO:0009615	response to virus	GO:0045071	negative regulation of viral genome replication	0.333333333333333	13	39
+viral_higher_site_aware_eligible	GO:0009615	response to virus	GO:0060326	cell chemotaxis	0	0	55
+viral_higher_site_aware_eligible	GO:0009615	response to virus	GO:0006955	immune response	0.0505050505050505	5	99
+viral_higher_site_aware_eligible	GO:0009615	response to virus	GO:0048167	regulation of synaptic plasticity	0	0	48
+viral_higher_site_aware_eligible	GO:0009615	response to virus	GO:0006338	chromatin remodeling	0.0202020202020202	2	99
+viral_higher_site_aware_eligible	GO:0009615	response to virus	GO:0045892	negative regulation of DNA-templated transcription	0.0390625	5	128
+viral_higher_site_aware_eligible	GO:0009615	response to virus	GO:0032092	positive regulation of protein binding	0	0	49
+viral_higher_site_aware_eligible	GO:0009615	response to virus	GO:0042113	B cell activation	0	0	46
+viral_higher_site_aware_eligible	GO:0009615	response to virus	GO:0001756	somitogenesis	0	0	47
+viral_higher_site_aware_eligible	GO:0009615	response to virus	GO:0009617	response to bacterium	0.0344827586206897	2	58
+viral_higher_site_aware_eligible	GO:0009615	response to virus	GO:0030890	positive regulation of B cell proliferation	0	0	50
+viral_higher_site_aware_eligible	GO:0009615	response to virus	GO:0006468	protein phosphorylation	0.0283018867924528	3	106
+viral_higher_site_aware_eligible	GO:0009615	response to virus	GO:0060907	positive regulation of macrophage cytokine production	0	0	43
+viral_higher_site_aware_eligible	GO:0009615	response to virus	GO:0032728	positive regulation of interferon-beta production	0.2	8	40
+viral_higher_site_aware_eligible	GO:0009615	response to virus	GO:0045087	innate immune response	0.148514851485149	15	101
+viral_higher_site_aware_eligible	GO:0009615	response to virus	GO:0060337	type I interferon-mediated signaling pathway	0.1	4	40
+viral_higher_site_aware_eligible	GO:0009615	response to virus	GO:0030509	BMP signaling pathway	0	0	52
+viral_higher_site_aware_eligible	GO:0009615	response to virus	GO:0019722	calcium-mediated signaling	0	0	56
+viral_higher_site_aware_eligible	GO:0009615	response to virus	GO:0030183	B cell differentiation	0	0	53
+viral_higher_site_aware_eligible	GO:0009615	response to virus	GO:0030501	positive regulation of bone mineralization	0.0217391304347826	1	46
+viral_higher_site_aware_eligible	GO:0009615	response to virus	GO:0070371	ERK1 and ERK2 cascade	0	0	47
+viral_higher_site_aware_eligible	GO:0009615	response to virus	GO:0043123	positive regulation of canonical NF-kappaB signal transduction	0.0289855072463768	2	69
+viral_higher_site_aware_eligible	GO:0009615	response to virus	GO:0006366	transcription by RNA polymerase II	0.025974025974026	2	77
+viral_higher_site_aware_eligible	GO:0009615	response to virus	GO:0032743	positive regulation of interleukin-2 production	0	0	46
+viral_higher_site_aware_eligible	GO:0009615	response to virus	GO:0045945	positive regulation of transcription by RNA polymerase III	0	0	42
+viral_higher_site_aware_eligible	GO:0009615	response to virus	GO:0045943	positive regulation of transcription by RNA polymerase I	0	0	44
+viral_higher_site_aware_eligible	GO:0009615	response to virus	GO:0007165	signal transduction	0.0261780104712042	5	191
+viral_higher_site_aware_eligible	GO:0009615	response to virus	GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	0.0192307692307692	1	52
+viral_higher_site_aware_eligible	GO:0001817	regulation of cytokine production	GO:0045893	positive regulation of DNA-templated transcription	0.0198675496688742	3	151
+viral_higher_site_aware_eligible	GO:0001817	regulation of cytokine production	GO:0045071	negative regulation of viral genome replication	0	0	45
+viral_higher_site_aware_eligible	GO:0001817	regulation of cytokine production	GO:0060326	cell chemotaxis	0	0	48
+viral_higher_site_aware_eligible	GO:0001817	regulation of cytokine production	GO:0006955	immune response	0	0	97
+viral_higher_site_aware_eligible	GO:0001817	regulation of cytokine production	GO:0048167	regulation of synaptic plasticity	0.025	1	40
+viral_higher_site_aware_eligible	GO:0001817	regulation of cytokine production	GO:0006338	chromatin remodeling	0.0217391304347826	2	92
+viral_higher_site_aware_eligible	GO:0001817	regulation of cytokine production	GO:0045892	negative regulation of DNA-templated transcription	0.0327868852459016	4	122
+viral_higher_site_aware_eligible	GO:0001817	regulation of cytokine production	GO:0032092	positive regulation of protein binding	0	0	42
+viral_higher_site_aware_eligible	GO:0001817	regulation of cytokine production	GO:0042113	B cell activation	0.0540540540540541	2	37
+viral_higher_site_aware_eligible	GO:0001817	regulation of cytokine production	GO:0001756	somitogenesis	0	0	40
+viral_higher_site_aware_eligible	GO:0001817	regulation of cytokine production	GO:0009617	response to bacterium	0	0	53
+viral_higher_site_aware_eligible	GO:0001817	regulation of cytokine production	GO:0030890	positive regulation of B cell proliferation	0	0	43
+viral_higher_site_aware_eligible	GO:0001817	regulation of cytokine production	GO:0006468	protein phosphorylation	0	0	102
+viral_higher_site_aware_eligible	GO:0001817	regulation of cytokine production	GO:0060907	positive regulation of macrophage cytokine production	0	0	36
+viral_higher_site_aware_eligible	GO:0001817	regulation of cytokine production	GO:0032728	positive regulation of interferon-beta production	0.025	1	40
+viral_higher_site_aware_eligible	GO:0001817	regulation of cytokine production	GO:0045087	innate immune response	0.0186915887850467	2	107
+viral_higher_site_aware_eligible	GO:0001817	regulation of cytokine production	GO:0060337	type I interferon-mediated signaling pathway	0	0	37
+viral_higher_site_aware_eligible	GO:0001817	regulation of cytokine production	GO:0030509	BMP signaling pathway	0	0	45
+viral_higher_site_aware_eligible	GO:0001817	regulation of cytokine production	GO:0019722	calcium-mediated signaling	0	0	49
+viral_higher_site_aware_eligible	GO:0001817	regulation of cytokine production	GO:0030183	B cell differentiation	0.0222222222222222	1	45
+viral_higher_site_aware_eligible	GO:0001817	regulation of cytokine production	GO:0030501	positive regulation of bone mineralization	0	0	40
+viral_higher_site_aware_eligible	GO:0001817	regulation of cytokine production	GO:0070371	ERK1 and ERK2 cascade	0.0256410256410256	1	39
+viral_higher_site_aware_eligible	GO:0001817	regulation of cytokine production	GO:0043123	positive regulation of canonical NF-kappaB signal transduction	0.0158730158730159	1	63
+viral_higher_site_aware_eligible	GO:0001817	regulation of cytokine production	GO:0006366	transcription by RNA polymerase II	0.0140845070422535	1	71
+viral_higher_site_aware_eligible	GO:0001817	regulation of cytokine production	GO:0032743	positive regulation of interleukin-2 production	0	0	39
+viral_higher_site_aware_eligible	GO:0001817	regulation of cytokine production	GO:0045945	positive regulation of transcription by RNA polymerase III	0	0	35
+viral_higher_site_aware_eligible	GO:0001817	regulation of cytokine production	GO:0045943	positive regulation of transcription by RNA polymerase I	0	0	37
+viral_higher_site_aware_eligible	GO:0001817	regulation of cytokine production	GO:0007165	signal transduction	0.0106951871657754	2	187
+viral_higher_site_aware_eligible	GO:0001817	regulation of cytokine production	GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	0.0454545454545455	2	44
+viral_higher_site_aware_eligible	GO:0045893	positive regulation of DNA-templated transcription	GO:0045071	negative regulation of viral genome replication	0	0	145
+viral_higher_site_aware_eligible	GO:0045893	positive regulation of DNA-templated transcription	GO:0060326	cell chemotaxis	0.0136986301369863	2	146
+viral_higher_site_aware_eligible	GO:0045893	positive regulation of DNA-templated transcription	GO:0006955	immune response	0.0260416666666667	5	192
+viral_higher_site_aware_eligible	GO:0045893	positive regulation of DNA-templated transcription	GO:0048167	regulation of synaptic plasticity	0.00714285714285714	1	140
+viral_higher_site_aware_eligible	GO:0045893	positive regulation of DNA-templated transcription	GO:0006338	chromatin remodeling	0.108571428571429	19	175
+viral_higher_site_aware_eligible	GO:0045893	positive regulation of DNA-templated transcription	GO:0045892	negative regulation of DNA-templated transcription	0.124378109452736	25	201
+viral_higher_site_aware_eligible	GO:0045893	positive regulation of DNA-templated transcription	GO:0032092	positive regulation of protein binding	0.0142857142857143	2	140
+viral_higher_site_aware_eligible	GO:0045893	positive regulation of DNA-templated transcription	GO:0042113	B cell activation	0	0	139
+viral_higher_site_aware_eligible	GO:0045893	positive regulation of DNA-templated transcription	GO:0001756	somitogenesis	0.037037037037037	5	135
+viral_higher_site_aware_eligible	GO:0045893	positive regulation of DNA-templated transcription	GO:0009617	response to bacterium	0	0	153
+viral_higher_site_aware_eligible	GO:0045893	positive regulation of DNA-templated transcription	GO:0030890	positive regulation of B cell proliferation	0.0214285714285714	3	140
+viral_higher_site_aware_eligible	GO:0045893	positive regulation of DNA-templated transcription	GO:0006468	protein phosphorylation	0.0412371134020619	8	194
+viral_higher_site_aware_eligible	GO:0045893	positive regulation of DNA-templated transcription	GO:0060907	positive regulation of macrophage cytokine production	0	0	136
+viral_higher_site_aware_eligible	GO:0045893	positive regulation of DNA-templated transcription	GO:0032728	positive regulation of interferon-beta production	0.00714285714285714	1	140
+viral_higher_site_aware_eligible	GO:0045893	positive regulation of DNA-templated transcription	GO:0045087	innate immune response	0.050251256281407	10	199
+viral_higher_site_aware_eligible	GO:0045893	positive regulation of DNA-templated transcription	GO:0060337	type I interferon-mediated signaling pathway	0.0148148148148148	2	135
+viral_higher_site_aware_eligible	GO:0045893	positive regulation of DNA-templated transcription	GO:0030509	BMP signaling pathway	0.0357142857142857	5	140
+viral_higher_site_aware_eligible	GO:0045893	positive regulation of DNA-templated transcription	GO:0019722	calcium-mediated signaling	0	0	149
+viral_higher_site_aware_eligible	GO:0045893	positive regulation of DNA-templated transcription	GO:0030183	B cell differentiation	0.020979020979021	3	143
+viral_higher_site_aware_eligible	GO:0045893	positive regulation of DNA-templated transcription	GO:0030501	positive regulation of bone mineralization	0.0218978102189781	3	137
+viral_higher_site_aware_eligible	GO:0045893	positive regulation of DNA-templated transcription	GO:0070371	ERK1 and ERK2 cascade	0.0144927536231884	2	138
+viral_higher_site_aware_eligible	GO:0045893	positive regulation of DNA-templated transcription	GO:0043123	positive regulation of canonical NF-kappaB signal transduction	0.0512820512820513	8	156
+viral_higher_site_aware_eligible	GO:0045893	positive regulation of DNA-templated transcription	GO:0006366	transcription by RNA polymerase II	0.0683229813664596	11	161
+viral_higher_site_aware_eligible	GO:0045893	positive regulation of DNA-templated transcription	GO:0032743	positive regulation of interleukin-2 production	0.0145985401459854	2	137
+viral_higher_site_aware_eligible	GO:0045893	positive regulation of DNA-templated transcription	GO:0045945	positive regulation of transcription by RNA polymerase III	0	0	135
+viral_higher_site_aware_eligible	GO:0045893	positive regulation of DNA-templated transcription	GO:0045943	positive regulation of transcription by RNA polymerase I	0	0	137
+viral_higher_site_aware_eligible	GO:0045893	positive regulation of DNA-templated transcription	GO:0007165	signal transduction	0.0433212996389892	12	277
+viral_higher_site_aware_eligible	GO:0045893	positive regulation of DNA-templated transcription	GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	0.0138888888888889	2	144
+viral_higher_site_aware_eligible	GO:0045071	negative regulation of viral genome replication	GO:0060326	cell chemotaxis	0	0	39
+viral_higher_site_aware_eligible	GO:0045071	negative regulation of viral genome replication	GO:0006955	immune response	0.0114942528735632	1	87
+viral_higher_site_aware_eligible	GO:0045071	negative regulation of viral genome replication	GO:0048167	regulation of synaptic plasticity	0	0	32
+viral_higher_site_aware_eligible	GO:0045071	negative regulation of viral genome replication	GO:0006338	chromatin remodeling	0	0	85
+viral_higher_site_aware_eligible	GO:0045071	negative regulation of viral genome replication	GO:0045892	negative regulation of DNA-templated transcription	0.00862068965517241	1	116
+viral_higher_site_aware_eligible	GO:0045071	negative regulation of viral genome replication	GO:0032092	positive regulation of protein binding	0	0	33
+viral_higher_site_aware_eligible	GO:0045071	negative regulation of viral genome replication	GO:0042113	B cell activation	0	0	30
+viral_higher_site_aware_eligible	GO:0045071	negative regulation of viral genome replication	GO:0001756	somitogenesis	0	0	31
+viral_higher_site_aware_eligible	GO:0045071	negative regulation of viral genome replication	GO:0009617	response to bacterium	0	0	44
+viral_higher_site_aware_eligible	GO:0045071	negative regulation of viral genome replication	GO:0030890	positive regulation of B cell proliferation	0	0	34
+viral_higher_site_aware_eligible	GO:0045071	negative regulation of viral genome replication	GO:0006468	protein phosphorylation	0.0108695652173913	1	92
+viral_higher_site_aware_eligible	GO:0045071	negative regulation of viral genome replication	GO:0060907	positive regulation of macrophage cytokine production	0	0	27
+viral_higher_site_aware_eligible	GO:0045071	negative regulation of viral genome replication	GO:0032728	positive regulation of interferon-beta production	0.185185185185185	5	27
+viral_higher_site_aware_eligible	GO:0045071	negative regulation of viral genome replication	GO:0045087	innate immune response	0.123595505617978	11	89
+viral_higher_site_aware_eligible	GO:0045071	negative regulation of viral genome replication	GO:0060337	type I interferon-mediated signaling pathway	0.12	3	25
+viral_higher_site_aware_eligible	GO:0045071	negative regulation of viral genome replication	GO:0030509	BMP signaling pathway	0	0	36
+viral_higher_site_aware_eligible	GO:0045071	negative regulation of viral genome replication	GO:0019722	calcium-mediated signaling	0	0	40
+viral_higher_site_aware_eligible	GO:0045071	negative regulation of viral genome replication	GO:0030183	B cell differentiation	0	0	37
+viral_higher_site_aware_eligible	GO:0045071	negative regulation of viral genome replication	GO:0030501	positive regulation of bone mineralization	0.0333333333333333	1	30
+viral_higher_site_aware_eligible	GO:0045071	negative regulation of viral genome replication	GO:0070371	ERK1 and ERK2 cascade	0	0	31
+viral_higher_site_aware_eligible	GO:0045071	negative regulation of viral genome replication	GO:0043123	positive regulation of canonical NF-kappaB signal transduction	0.0377358490566038	2	53
+viral_higher_site_aware_eligible	GO:0045071	negative regulation of viral genome replication	GO:0006366	transcription by RNA polymerase II	0	0	63
+viral_higher_site_aware_eligible	GO:0045071	negative regulation of viral genome replication	GO:0032743	positive regulation of interleukin-2 production	0	0	30
+viral_higher_site_aware_eligible	GO:0045071	negative regulation of viral genome replication	GO:0045945	positive regulation of transcription by RNA polymerase III	0	0	26
+viral_higher_site_aware_eligible	GO:0045071	negative regulation of viral genome replication	GO:0045943	positive regulation of transcription by RNA polymerase I	0	0	28
+viral_higher_site_aware_eligible	GO:0045071	negative regulation of viral genome replication	GO:0007165	signal transduction	0.00558659217877095	1	179
+viral_higher_site_aware_eligible	GO:0045071	negative regulation of viral genome replication	GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	0	0	37
+viral_higher_site_aware_eligible	GO:0060326	cell chemotaxis	GO:0006955	immune response	0.151898734177215	12	79
+viral_higher_site_aware_eligible	GO:0060326	cell chemotaxis	GO:0048167	regulation of synaptic plasticity	0	0	35
+viral_higher_site_aware_eligible	GO:0060326	cell chemotaxis	GO:0006338	chromatin remodeling	0	0	88
+viral_higher_site_aware_eligible	GO:0060326	cell chemotaxis	GO:0045892	negative regulation of DNA-templated transcription	0.0169491525423729	2	118
+viral_higher_site_aware_eligible	GO:0060326	cell chemotaxis	GO:0032092	positive regulation of protein binding	0	0	36
+viral_higher_site_aware_eligible	GO:0060326	cell chemotaxis	GO:0042113	B cell activation	0.03125	1	32
+viral_higher_site_aware_eligible	GO:0060326	cell chemotaxis	GO:0001756	somitogenesis	0.0303030303030303	1	33
+viral_higher_site_aware_eligible	GO:0060326	cell chemotaxis	GO:0009617	response to bacterium	0.0217391304347826	1	46
+viral_higher_site_aware_eligible	GO:0060326	cell chemotaxis	GO:0030890	positive regulation of B cell proliferation	0	0	37
+viral_higher_site_aware_eligible	GO:0060326	cell chemotaxis	GO:0006468	protein phosphorylation	0.032258064516129	3	93
+viral_higher_site_aware_eligible	GO:0060326	cell chemotaxis	GO:0060907	positive regulation of macrophage cytokine production	0	0	30
+viral_higher_site_aware_eligible	GO:0060326	cell chemotaxis	GO:0032728	positive regulation of interferon-beta production	0	0	35
+viral_higher_site_aware_eligible	GO:0060326	cell chemotaxis	GO:0045087	innate immune response	0	0	103
+viral_higher_site_aware_eligible	GO:0060326	cell chemotaxis	GO:0060337	type I interferon-mediated signaling pathway	0	0	31
+viral_higher_site_aware_eligible	GO:0060326	cell chemotaxis	GO:0030509	BMP signaling pathway	0.0263157894736842	1	38
+viral_higher_site_aware_eligible	GO:0060326	cell chemotaxis	GO:0019722	calcium-mediated signaling	0.34375	11	32
+viral_higher_site_aware_eligible	GO:0060326	cell chemotaxis	GO:0030183	B cell differentiation	0	0	40
+viral_higher_site_aware_eligible	GO:0060326	cell chemotaxis	GO:0030501	positive regulation of bone mineralization	0	0	34
+viral_higher_site_aware_eligible	GO:0060326	cell chemotaxis	GO:0070371	ERK1 and ERK2 cascade	0	0	34
+viral_higher_site_aware_eligible	GO:0060326	cell chemotaxis	GO:0043123	positive regulation of canonical NF-kappaB signal transduction	0.0175438596491228	1	57
+viral_higher_site_aware_eligible	GO:0060326	cell chemotaxis	GO:0006366	transcription by RNA polymerase II	0.0153846153846154	1	65
+viral_higher_site_aware_eligible	GO:0060326	cell chemotaxis	GO:0032743	positive regulation of interleukin-2 production	0.0645161290322581	2	31
+viral_higher_site_aware_eligible	GO:0060326	cell chemotaxis	GO:0045945	positive regulation of transcription by RNA polymerase III	0	0	29
+viral_higher_site_aware_eligible	GO:0060326	cell chemotaxis	GO:0045943	positive regulation of transcription by RNA polymerase I	0	0	31
+viral_higher_site_aware_eligible	GO:0060326	cell chemotaxis	GO:0007165	signal transduction	0.0280898876404494	5	178
+viral_higher_site_aware_eligible	GO:0060326	cell chemotaxis	GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	0	0	40
+viral_higher_site_aware_eligible	GO:0006955	immune response	GO:0048167	regulation of synaptic plasticity	0	0	84
+viral_higher_site_aware_eligible	GO:0006955	immune response	GO:0006338	chromatin remodeling	0	0	137
+viral_higher_site_aware_eligible	GO:0006955	immune response	GO:0045892	negative regulation of DNA-templated transcription	0.0242424242424242	4	165
+viral_higher_site_aware_eligible	GO:0006955	immune response	GO:0032092	positive regulation of protein binding	0	0	85
+viral_higher_site_aware_eligible	GO:0006955	immune response	GO:0042113	B cell activation	0.025	2	80
+viral_higher_site_aware_eligible	GO:0006955	immune response	GO:0001756	somitogenesis	0.0246913580246914	2	81
+viral_higher_site_aware_eligible	GO:0006955	immune response	GO:0009617	response to bacterium	0.054945054945055	5	91
+viral_higher_site_aware_eligible	GO:0006955	immune response	GO:0030890	positive regulation of B cell proliferation	0.0238095238095238	2	84
+viral_higher_site_aware_eligible	GO:0006955	immune response	GO:0006468	protein phosphorylation	0.00694444444444444	1	144
+viral_higher_site_aware_eligible	GO:0006955	immune response	GO:0060907	positive regulation of macrophage cytokine production	0	0	79
+viral_higher_site_aware_eligible	GO:0006955	immune response	GO:0032728	positive regulation of interferon-beta production	0	0	84
+viral_higher_site_aware_eligible	GO:0006955	immune response	GO:0045087	innate immune response	0.027027027027027	4	148
+viral_higher_site_aware_eligible	GO:0006955	immune response	GO:0060337	type I interferon-mediated signaling pathway	0.0126582278481013	1	79
+viral_higher_site_aware_eligible	GO:0006955	immune response	GO:0030509	BMP signaling pathway	0.0352941176470588	3	85
+viral_higher_site_aware_eligible	GO:0006955	immune response	GO:0019722	calcium-mediated signaling	0.15	12	80
+viral_higher_site_aware_eligible	GO:0006955	immune response	GO:0030183	B cell differentiation	0.0229885057471264	2	87
+viral_higher_site_aware_eligible	GO:0006955	immune response	GO:0030501	positive regulation of bone mineralization	0.0375	3	80
+viral_higher_site_aware_eligible	GO:0006955	immune response	GO:0070371	ERK1 and ERK2 cascade	0.0121951219512195	1	82
+viral_higher_site_aware_eligible	GO:0006955	immune response	GO:0043123	positive regulation of canonical NF-kappaB signal transduction	0.0288461538461538	3	104
+viral_higher_site_aware_eligible	GO:0006955	immune response	GO:0006366	transcription by RNA polymerase II	0.0176991150442478	2	113
+viral_higher_site_aware_eligible	GO:0006955	immune response	GO:0032743	positive regulation of interleukin-2 production	0.025	2	80
+viral_higher_site_aware_eligible	GO:0006955	immune response	GO:0045945	positive regulation of transcription by RNA polymerase III	0	0	78
+viral_higher_site_aware_eligible	GO:0006955	immune response	GO:0045943	positive regulation of transcription by RNA polymerase I	0	0	80
+viral_higher_site_aware_eligible	GO:0006955	immune response	GO:0007165	signal transduction	0.0691244239631337	15	217
+viral_higher_site_aware_eligible	GO:0006955	immune response	GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	0.0229885057471264	2	87
+viral_higher_site_aware_eligible	GO:0048167	regulation of synaptic plasticity	GO:0006338	chromatin remodeling	0	0	81
+viral_higher_site_aware_eligible	GO:0048167	regulation of synaptic plasticity	GO:0045892	negative regulation of DNA-templated transcription	0	0	113
+viral_higher_site_aware_eligible	GO:0048167	regulation of synaptic plasticity	GO:0032092	positive regulation of protein binding	0.0357142857142857	1	28
+viral_higher_site_aware_eligible	GO:0048167	regulation of synaptic plasticity	GO:0042113	B cell activation	0	0	26
+viral_higher_site_aware_eligible	GO:0048167	regulation of synaptic plasticity	GO:0001756	somitogenesis	0	0	27
+viral_higher_site_aware_eligible	GO:0048167	regulation of synaptic plasticity	GO:0009617	response to bacterium	0	0	40
+viral_higher_site_aware_eligible	GO:0048167	regulation of synaptic plasticity	GO:0030890	positive regulation of B cell proliferation	0.0344827586206897	1	29
+viral_higher_site_aware_eligible	GO:0048167	regulation of synaptic plasticity	GO:0006468	protein phosphorylation	0.0113636363636364	1	88
+viral_higher_site_aware_eligible	GO:0048167	regulation of synaptic plasticity	GO:0060907	positive regulation of macrophage cytokine production	0	0	23
+viral_higher_site_aware_eligible	GO:0048167	regulation of synaptic plasticity	GO:0032728	positive regulation of interferon-beta production	0	0	28
+viral_higher_site_aware_eligible	GO:0048167	regulation of synaptic plasticity	GO:0045087	innate immune response	0.0105263157894737	1	95
+viral_higher_site_aware_eligible	GO:0048167	regulation of synaptic plasticity	GO:0060337	type I interferon-mediated signaling pathway	0	0	24
+viral_higher_site_aware_eligible	GO:0048167	regulation of synaptic plasticity	GO:0030509	BMP signaling pathway	0	0	32
+viral_higher_site_aware_eligible	GO:0048167	regulation of synaptic plasticity	GO:0019722	calcium-mediated signaling	0.0285714285714286	1	35
+viral_higher_site_aware_eligible	GO:0048167	regulation of synaptic plasticity	GO:0030183	B cell differentiation	0	0	33
+viral_higher_site_aware_eligible	GO:0048167	regulation of synaptic plasticity	GO:0030501	positive regulation of bone mineralization	0.0384615384615385	1	26
+viral_higher_site_aware_eligible	GO:0048167	regulation of synaptic plasticity	GO:0070371	ERK1 and ERK2 cascade	0	0	27
+viral_higher_site_aware_eligible	GO:0048167	regulation of synaptic plasticity	GO:0043123	positive regulation of canonical NF-kappaB signal transduction	0.02	1	50
+viral_higher_site_aware_eligible	GO:0048167	regulation of synaptic plasticity	GO:0006366	transcription by RNA polymerase II	0	0	59
+viral_higher_site_aware_eligible	GO:0048167	regulation of synaptic plasticity	GO:0032743	positive regulation of interleukin-2 production	0	0	26
+viral_higher_site_aware_eligible	GO:0048167	regulation of synaptic plasticity	GO:0045945	positive regulation of transcription by RNA polymerase III	0	0	22
+viral_higher_site_aware_eligible	GO:0048167	regulation of synaptic plasticity	GO:0045943	positive regulation of transcription by RNA polymerase I	0	0	24
+viral_higher_site_aware_eligible	GO:0048167	regulation of synaptic plasticity	GO:0007165	signal transduction	0.0114942528735632	2	174
+viral_higher_site_aware_eligible	GO:0048167	regulation of synaptic plasticity	GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	0	0	33
+viral_higher_site_aware_eligible	GO:0006338	chromatin remodeling	GO:0045892	negative regulation of DNA-templated transcription	0.0921052631578947	14	152
+viral_higher_site_aware_eligible	GO:0006338	chromatin remodeling	GO:0032092	positive regulation of protein binding	0.0123456790123457	1	81
+viral_higher_site_aware_eligible	GO:0006338	chromatin remodeling	GO:0042113	B cell activation	0	0	79
+viral_higher_site_aware_eligible	GO:0006338	chromatin remodeling	GO:0001756	somitogenesis	0	0	80
+viral_higher_site_aware_eligible	GO:0006338	chromatin remodeling	GO:0009617	response to bacterium	0	0	93
+viral_higher_site_aware_eligible	GO:0006338	chromatin remodeling	GO:0030890	positive regulation of B cell proliferation	0.0121951219512195	1	82
+viral_higher_site_aware_eligible	GO:0006338	chromatin remodeling	GO:0006468	protein phosphorylation	0.0289855072463768	4	138
+viral_higher_site_aware_eligible	GO:0006338	chromatin remodeling	GO:0060907	positive regulation of macrophage cytokine production	0	0	76
+viral_higher_site_aware_eligible	GO:0006338	chromatin remodeling	GO:0032728	positive regulation of interferon-beta production	0	0	81
+viral_higher_site_aware_eligible	GO:0006338	chromatin remodeling	GO:0045087	innate immune response	0.0205479452054795	3	146
+viral_higher_site_aware_eligible	GO:0006338	chromatin remodeling	GO:0060337	type I interferon-mediated signaling pathway	0	0	77
+viral_higher_site_aware_eligible	GO:0006338	chromatin remodeling	GO:0030509	BMP signaling pathway	0	0	85
+viral_higher_site_aware_eligible	GO:0006338	chromatin remodeling	GO:0019722	calcium-mediated signaling	0	0	89
+viral_higher_site_aware_eligible	GO:0006338	chromatin remodeling	GO:0030183	B cell differentiation	0.036144578313253	3	83
+viral_higher_site_aware_eligible	GO:0006338	chromatin remodeling	GO:0030501	positive regulation of bone mineralization	0	0	80
+viral_higher_site_aware_eligible	GO:0006338	chromatin remodeling	GO:0070371	ERK1 and ERK2 cascade	0.0126582278481013	1	79
+viral_higher_site_aware_eligible	GO:0006338	chromatin remodeling	GO:0043123	positive regulation of canonical NF-kappaB signal transduction	0.0196078431372549	2	102
+viral_higher_site_aware_eligible	GO:0006338	chromatin remodeling	GO:0006366	transcription by RNA polymerase II	0.0566037735849057	6	106
+viral_higher_site_aware_eligible	GO:0006338	chromatin remodeling	GO:0032743	positive regulation of interleukin-2 production	0.0128205128205128	1	78
+viral_higher_site_aware_eligible	GO:0006338	chromatin remodeling	GO:0045945	positive regulation of transcription by RNA polymerase III	0.0714285714285714	5	70
+viral_higher_site_aware_eligible	GO:0006338	chromatin remodeling	GO:0045943	positive regulation of transcription by RNA polymerase I	0.0694444444444445	5	72
+viral_higher_site_aware_eligible	GO:0006338	chromatin remodeling	GO:0007165	signal transduction	0.0177777777777778	4	225
+viral_higher_site_aware_eligible	GO:0006338	chromatin remodeling	GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	0.0117647058823529	1	85
+viral_higher_site_aware_eligible	GO:0045892	negative regulation of DNA-templated transcription	GO:0032092	positive regulation of protein binding	0	0	114
+viral_higher_site_aware_eligible	GO:0045892	negative regulation of DNA-templated transcription	GO:0042113	B cell activation	0	0	111
+viral_higher_site_aware_eligible	GO:0045892	negative regulation of DNA-templated transcription	GO:0001756	somitogenesis	0.0275229357798165	3	109
+viral_higher_site_aware_eligible	GO:0045892	negative regulation of DNA-templated transcription	GO:0009617	response to bacterium	0	0	125
+viral_higher_site_aware_eligible	GO:0045892	negative regulation of DNA-templated transcription	GO:0030890	positive regulation of B cell proliferation	0.0176991150442478	2	113
+viral_higher_site_aware_eligible	GO:0045892	negative regulation of DNA-templated transcription	GO:0006468	protein phosphorylation	0.0116279069767442	2	172
+viral_higher_site_aware_eligible	GO:0045892	negative regulation of DNA-templated transcription	GO:0060907	positive regulation of macrophage cytokine production	0.00934579439252336	1	107
+viral_higher_site_aware_eligible	GO:0045892	negative regulation of DNA-templated transcription	GO:0032728	positive regulation of interferon-beta production	0	0	113
+viral_higher_site_aware_eligible	GO:0045892	negative regulation of DNA-templated transcription	GO:0045087	innate immune response	0.0284090909090909	5	176
+viral_higher_site_aware_eligible	GO:0045892	negative regulation of DNA-templated transcription	GO:0060337	type I interferon-mediated signaling pathway	0	0	109
+viral_higher_site_aware_eligible	GO:0045892	negative regulation of DNA-templated transcription	GO:0030509	BMP signaling pathway	0.0263157894736842	3	114
+viral_higher_site_aware_eligible	GO:0045892	negative regulation of DNA-templated transcription	GO:0019722	calcium-mediated signaling	0	0	121
+viral_higher_site_aware_eligible	GO:0045892	negative regulation of DNA-templated transcription	GO:0030183	B cell differentiation	0.00854700854700855	1	117
+viral_higher_site_aware_eligible	GO:0045892	negative regulation of DNA-templated transcription	GO:0030501	positive regulation of bone mineralization	0	0	112
+viral_higher_site_aware_eligible	GO:0045892	negative regulation of DNA-templated transcription	GO:0070371	ERK1 and ERK2 cascade	0	0	112
+viral_higher_site_aware_eligible	GO:0045892	negative regulation of DNA-templated transcription	GO:0043123	positive regulation of canonical NF-kappaB signal transduction	0.0149253731343284	2	134
+viral_higher_site_aware_eligible	GO:0045892	negative regulation of DNA-templated transcription	GO:0006366	transcription by RNA polymerase II	0.0359712230215827	5	139
+viral_higher_site_aware_eligible	GO:0045892	negative regulation of DNA-templated transcription	GO:0032743	positive regulation of interleukin-2 production	0	0	111
+viral_higher_site_aware_eligible	GO:0045892	negative regulation of DNA-templated transcription	GO:0045945	positive regulation of transcription by RNA polymerase III	0.0190476190476191	2	105
+viral_higher_site_aware_eligible	GO:0045892	negative regulation of DNA-templated transcription	GO:0045943	positive regulation of transcription by RNA polymerase I	0.00925925925925926	1	108
+viral_higher_site_aware_eligible	GO:0045892	negative regulation of DNA-templated transcription	GO:0007165	signal transduction	0.0357142857142857	9	252
+viral_higher_site_aware_eligible	GO:0045892	negative regulation of DNA-templated transcription	GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	0.0172413793103448	2	116
+viral_higher_site_aware_eligible	GO:0032092	positive regulation of protein binding	GO:0042113	B cell activation	0	0	27
+viral_higher_site_aware_eligible	GO:0032092	positive regulation of protein binding	GO:0001756	somitogenesis	0	0	28
+viral_higher_site_aware_eligible	GO:0032092	positive regulation of protein binding	GO:0009617	response to bacterium	0	0	41
+viral_higher_site_aware_eligible	GO:0032092	positive regulation of protein binding	GO:0030890	positive regulation of B cell proliferation	0	0	31
+viral_higher_site_aware_eligible	GO:0032092	positive regulation of protein binding	GO:0006468	protein phosphorylation	0.0344827586206897	3	87
+viral_higher_site_aware_eligible	GO:0032092	positive regulation of protein binding	GO:0060907	positive regulation of macrophage cytokine production	0.0434782608695652	1	23
+viral_higher_site_aware_eligible	GO:0032092	positive regulation of protein binding	GO:0032728	positive regulation of interferon-beta production	0.0357142857142857	1	28
+viral_higher_site_aware_eligible	GO:0032092	positive regulation of protein binding	GO:0045087	innate immune response	0.0319148936170213	3	94
+viral_higher_site_aware_eligible	GO:0032092	positive regulation of protein binding	GO:0060337	type I interferon-mediated signaling pathway	0	0	25
+viral_higher_site_aware_eligible	GO:0032092	positive regulation of protein binding	GO:0030509	BMP signaling pathway	0	0	33
+viral_higher_site_aware_eligible	GO:0032092	positive regulation of protein binding	GO:0019722	calcium-mediated signaling	0	0	37
+viral_higher_site_aware_eligible	GO:0032092	positive regulation of protein binding	GO:0030183	B cell differentiation	0	0	34
+viral_higher_site_aware_eligible	GO:0032092	positive regulation of protein binding	GO:0030501	positive regulation of bone mineralization	0	0	28
+viral_higher_site_aware_eligible	GO:0032092	positive regulation of protein binding	GO:0070371	ERK1 and ERK2 cascade	0.037037037037037	1	27
+viral_higher_site_aware_eligible	GO:0032092	positive regulation of protein binding	GO:0043123	positive regulation of canonical NF-kappaB signal transduction	0.0196078431372549	1	51
+viral_higher_site_aware_eligible	GO:0032092	positive regulation of protein binding	GO:0006366	transcription by RNA polymerase II	0.0169491525423729	1	59
+viral_higher_site_aware_eligible	GO:0032092	positive regulation of protein binding	GO:0032743	positive regulation of interleukin-2 production	0.0384615384615385	1	26
+viral_higher_site_aware_eligible	GO:0032092	positive regulation of protein binding	GO:0045945	positive regulation of transcription by RNA polymerase III	0	0	23
+viral_higher_site_aware_eligible	GO:0032092	positive regulation of protein binding	GO:0045943	positive regulation of transcription by RNA polymerase I	0	0	25
+viral_higher_site_aware_eligible	GO:0032092	positive regulation of protein binding	GO:0007165	signal transduction	0.0114285714285714	2	175
+viral_higher_site_aware_eligible	GO:0032092	positive regulation of protein binding	GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	0	0	34
+viral_higher_site_aware_eligible	GO:0042113	B cell activation	GO:0001756	somitogenesis	0	0	25
+viral_higher_site_aware_eligible	GO:0042113	B cell activation	GO:0009617	response to bacterium	0.0555555555555556	2	36
+viral_higher_site_aware_eligible	GO:0042113	B cell activation	GO:0030890	positive regulation of B cell proliferation	0.0769230769230769	2	26
+viral_higher_site_aware_eligible	GO:0042113	B cell activation	GO:0006468	protein phosphorylation	0.0116279069767442	1	86
+viral_higher_site_aware_eligible	GO:0042113	B cell activation	GO:0060907	positive regulation of macrophage cytokine production	0	0	21
+viral_higher_site_aware_eligible	GO:0042113	B cell activation	GO:0032728	positive regulation of interferon-beta production	0	0	26
+viral_higher_site_aware_eligible	GO:0042113	B cell activation	GO:0045087	innate immune response	0.010752688172043	1	93
+viral_higher_site_aware_eligible	GO:0042113	B cell activation	GO:0060337	type I interferon-mediated signaling pathway	0	0	22
+viral_higher_site_aware_eligible	GO:0042113	B cell activation	GO:0030509	BMP signaling pathway	0	0	30
+viral_higher_site_aware_eligible	GO:0042113	B cell activation	GO:0019722	calcium-mediated signaling	0.0303030303030303	1	33
+viral_higher_site_aware_eligible	GO:0042113	B cell activation	GO:0030183	B cell differentiation	0.0689655172413793	2	29
+viral_higher_site_aware_eligible	GO:0042113	B cell activation	GO:0030501	positive regulation of bone mineralization	0	0	25
+viral_higher_site_aware_eligible	GO:0042113	B cell activation	GO:0070371	ERK1 and ERK2 cascade	0	0	25
+viral_higher_site_aware_eligible	GO:0042113	B cell activation	GO:0043123	positive regulation of canonical NF-kappaB signal transduction	0.0652173913043478	3	46
+viral_higher_site_aware_eligible	GO:0042113	B cell activation	GO:0006366	transcription by RNA polymerase II	0	0	57
+viral_higher_site_aware_eligible	GO:0042113	B cell activation	GO:0032743	positive regulation of interleukin-2 production	0.0434782608695652	1	23
+viral_higher_site_aware_eligible	GO:0042113	B cell activation	GO:0045945	positive regulation of transcription by RNA polymerase III	0	0	20
+viral_higher_site_aware_eligible	GO:0042113	B cell activation	GO:0045943	positive regulation of transcription by RNA polymerase I	0	0	22
+viral_higher_site_aware_eligible	GO:0042113	B cell activation	GO:0007165	signal transduction	0.0116279069767442	2	172
+viral_higher_site_aware_eligible	GO:0042113	B cell activation	GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	0.0689655172413793	2	29
+viral_higher_site_aware_eligible	GO:0001756	somitogenesis	GO:0009617	response to bacterium	0	0	39
+viral_higher_site_aware_eligible	GO:0001756	somitogenesis	GO:0030890	positive regulation of B cell proliferation	0	0	29
+viral_higher_site_aware_eligible	GO:0001756	somitogenesis	GO:0006468	protein phosphorylation	0.0114942528735632	1	87
+viral_higher_site_aware_eligible	GO:0001756	somitogenesis	GO:0060907	positive regulation of macrophage cytokine production	0	0	22
+viral_higher_site_aware_eligible	GO:0001756	somitogenesis	GO:0032728	positive regulation of interferon-beta production	0	0	27
+viral_higher_site_aware_eligible	GO:0001756	somitogenesis	GO:0045087	innate immune response	0	0	95
+viral_higher_site_aware_eligible	GO:0001756	somitogenesis	GO:0060337	type I interferon-mediated signaling pathway	0	0	23
+viral_higher_site_aware_eligible	GO:0001756	somitogenesis	GO:0030509	BMP signaling pathway	0.0689655172413793	2	29
+viral_higher_site_aware_eligible	GO:0001756	somitogenesis	GO:0019722	calcium-mediated signaling	0	0	35
+viral_higher_site_aware_eligible	GO:0001756	somitogenesis	GO:0030183	B cell differentiation	0	0	32
+viral_higher_site_aware_eligible	GO:0001756	somitogenesis	GO:0030501	positive regulation of bone mineralization	0.0833333333333333	2	24
+viral_higher_site_aware_eligible	GO:0001756	somitogenesis	GO:0070371	ERK1 and ERK2 cascade	0	0	26
+viral_higher_site_aware_eligible	GO:0001756	somitogenesis	GO:0043123	positive regulation of canonical NF-kappaB signal transduction	0	0	50
+viral_higher_site_aware_eligible	GO:0001756	somitogenesis	GO:0006366	transcription by RNA polymerase II	0.0175438596491228	1	57
+viral_higher_site_aware_eligible	GO:0001756	somitogenesis	GO:0032743	positive regulation of interleukin-2 production	0	0	25
+viral_higher_site_aware_eligible	GO:0001756	somitogenesis	GO:0045945	positive regulation of transcription by RNA polymerase III	0	0	21
+viral_higher_site_aware_eligible	GO:0001756	somitogenesis	GO:0045943	positive regulation of transcription by RNA polymerase I	0	0	23
+viral_higher_site_aware_eligible	GO:0001756	somitogenesis	GO:0007165	signal transduction	0	0	175
+viral_higher_site_aware_eligible	GO:0001756	somitogenesis	GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	0.032258064516129	1	31
+viral_higher_site_aware_eligible	GO:0009617	response to bacterium	GO:0030890	positive regulation of B cell proliferation	0.024390243902439	1	41
+viral_higher_site_aware_eligible	GO:0009617	response to bacterium	GO:0006468	protein phosphorylation	0.01	1	100
+viral_higher_site_aware_eligible	GO:0009617	response to bacterium	GO:0060907	positive regulation of macrophage cytokine production	0	0	35
+viral_higher_site_aware_eligible	GO:0009617	response to bacterium	GO:0032728	positive regulation of interferon-beta production	0	0	40
+viral_higher_site_aware_eligible	GO:0009617	response to bacterium	GO:0045087	innate immune response	0.0188679245283019	2	106
+viral_higher_site_aware_eligible	GO:0009617	response to bacterium	GO:0060337	type I interferon-mediated signaling pathway	0	0	36
+viral_higher_site_aware_eligible	GO:0009617	response to bacterium	GO:0030509	BMP signaling pathway	0	0	44
+viral_higher_site_aware_eligible	GO:0009617	response to bacterium	GO:0019722	calcium-mediated signaling	0.0212765957446809	1	47
+viral_higher_site_aware_eligible	GO:0009617	response to bacterium	GO:0030183	B cell differentiation	0.0465116279069768	2	43
+viral_higher_site_aware_eligible	GO:0009617	response to bacterium	GO:0030501	positive regulation of bone mineralization	0.0263157894736842	1	38
+viral_higher_site_aware_eligible	GO:0009617	response to bacterium	GO:0070371	ERK1 and ERK2 cascade	0	0	39
+viral_higher_site_aware_eligible	GO:0009617	response to bacterium	GO:0043123	positive regulation of canonical NF-kappaB signal transduction	0	0	63
+viral_higher_site_aware_eligible	GO:0009617	response to bacterium	GO:0006366	transcription by RNA polymerase II	0	0	71
+viral_higher_site_aware_eligible	GO:0009617	response to bacterium	GO:0032743	positive regulation of interleukin-2 production	0	0	38
+viral_higher_site_aware_eligible	GO:0009617	response to bacterium	GO:0045945	positive regulation of transcription by RNA polymerase III	0	0	34
+viral_higher_site_aware_eligible	GO:0009617	response to bacterium	GO:0045943	positive regulation of transcription by RNA polymerase I	0	0	36
+viral_higher_site_aware_eligible	GO:0009617	response to bacterium	GO:0007165	signal transduction	0.0162162162162162	3	185
+viral_higher_site_aware_eligible	GO:0009617	response to bacterium	GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	0.0227272727272727	1	44
+viral_higher_site_aware_eligible	GO:0030890	positive regulation of B cell proliferation	GO:0006468	protein phosphorylation	0.0111111111111111	1	90
+viral_higher_site_aware_eligible	GO:0030890	positive regulation of B cell proliferation	GO:0060907	positive regulation of macrophage cytokine production	0	0	25
+viral_higher_site_aware_eligible	GO:0030890	positive regulation of B cell proliferation	GO:0032728	positive regulation of interferon-beta production	0	0	30
+viral_higher_site_aware_eligible	GO:0030890	positive regulation of B cell proliferation	GO:0045087	innate immune response	0	0	98
+viral_higher_site_aware_eligible	GO:0030890	positive regulation of B cell proliferation	GO:0060337	type I interferon-mediated signaling pathway	0	0	26
+viral_higher_site_aware_eligible	GO:0030890	positive regulation of B cell proliferation	GO:0030509	BMP signaling pathway	0	0	34
+viral_higher_site_aware_eligible	GO:0030890	positive regulation of B cell proliferation	GO:0019722	calcium-mediated signaling	0	0	38
+viral_higher_site_aware_eligible	GO:0030890	positive regulation of B cell proliferation	GO:0030183	B cell differentiation	0.0606060606060606	2	33
+viral_higher_site_aware_eligible	GO:0030890	positive regulation of B cell proliferation	GO:0030501	positive regulation of bone mineralization	0.0357142857142857	1	28
+viral_higher_site_aware_eligible	GO:0030890	positive regulation of B cell proliferation	GO:0070371	ERK1 and ERK2 cascade	0	0	29
+viral_higher_site_aware_eligible	GO:0030890	positive regulation of B cell proliferation	GO:0043123	positive regulation of canonical NF-kappaB signal transduction	0.0392156862745098	2	51
+viral_higher_site_aware_eligible	GO:0030890	positive regulation of B cell proliferation	GO:0006366	transcription by RNA polymerase II	0.0166666666666667	1	60
+viral_higher_site_aware_eligible	GO:0030890	positive regulation of B cell proliferation	GO:0032743	positive regulation of interleukin-2 production	0	0	28
+viral_higher_site_aware_eligible	GO:0030890	positive regulation of B cell proliferation	GO:0045945	positive regulation of transcription by RNA polymerase III	0	0	24
+viral_higher_site_aware_eligible	GO:0030890	positive regulation of B cell proliferation	GO:0045943	positive regulation of transcription by RNA polymerase I	0	0	26
+viral_higher_site_aware_eligible	GO:0030890	positive regulation of B cell proliferation	GO:0007165	signal transduction	0.0113636363636364	2	176
+viral_higher_site_aware_eligible	GO:0030890	positive regulation of B cell proliferation	GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	0.0294117647058824	1	34
+viral_higher_site_aware_eligible	GO:0006468	protein phosphorylation	GO:0060907	positive regulation of macrophage cytokine production	0	0	84
+viral_higher_site_aware_eligible	GO:0006468	protein phosphorylation	GO:0032728	positive regulation of interferon-beta production	0	0	89
+viral_higher_site_aware_eligible	GO:0006468	protein phosphorylation	GO:0045087	innate immune response	0.0194805194805195	3	154
+viral_higher_site_aware_eligible	GO:0006468	protein phosphorylation	GO:0060337	type I interferon-mediated signaling pathway	0	0	85
+viral_higher_site_aware_eligible	GO:0006468	protein phosphorylation	GO:0030509	BMP signaling pathway	0.0568181818181818	5	88
+viral_higher_site_aware_eligible	GO:0006468	protein phosphorylation	GO:0019722	calcium-mediated signaling	0.0104166666666667	1	96
+viral_higher_site_aware_eligible	GO:0006468	protein phosphorylation	GO:0030183	B cell differentiation	0	0	94
+viral_higher_site_aware_eligible	GO:0006468	protein phosphorylation	GO:0030501	positive regulation of bone mineralization	0.0602409638554217	5	83
+viral_higher_site_aware_eligible	GO:0006468	protein phosphorylation	GO:0070371	ERK1 and ERK2 cascade	0	0	88
+viral_higher_site_aware_eligible	GO:0006468	protein phosphorylation	GO:0043123	positive regulation of canonical NF-kappaB signal transduction	0.0275229357798165	3	109
+viral_higher_site_aware_eligible	GO:0006468	protein phosphorylation	GO:0006366	transcription by RNA polymerase II	0.00840336134453782	1	119
+viral_higher_site_aware_eligible	GO:0006468	protein phosphorylation	GO:0032743	positive regulation of interleukin-2 production	0.0116279069767442	1	86
+viral_higher_site_aware_eligible	GO:0006468	protein phosphorylation	GO:0045945	positive regulation of transcription by RNA polymerase III	0	0	83
+viral_higher_site_aware_eligible	GO:0006468	protein phosphorylation	GO:0045943	positive regulation of transcription by RNA polymerase I	0.0240963855421687	2	83
+viral_higher_site_aware_eligible	GO:0006468	protein phosphorylation	GO:0007165	signal transduction	0.107476635514019	23	214
+viral_higher_site_aware_eligible	GO:0006468	protein phosphorylation	GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	0.010752688172043	1	93
+viral_higher_site_aware_eligible	GO:0060907	positive regulation of macrophage cytokine production	GO:0032728	positive regulation of interferon-beta production	0.15	3	20
+viral_higher_site_aware_eligible	GO:0060907	positive regulation of macrophage cytokine production	GO:0045087	innate immune response	0.0581395348837209	5	86
+viral_higher_site_aware_eligible	GO:0060907	positive regulation of macrophage cytokine production	GO:0060337	type I interferon-mediated signaling pathway	0	0	19
+viral_higher_site_aware_eligible	GO:0060907	positive regulation of macrophage cytokine production	GO:0030509	BMP signaling pathway	0	0	27
+viral_higher_site_aware_eligible	GO:0060907	positive regulation of macrophage cytokine production	GO:0019722	calcium-mediated signaling	0	0	31
+viral_higher_site_aware_eligible	GO:0060907	positive regulation of macrophage cytokine production	GO:0030183	B cell differentiation	0	0	28
+viral_higher_site_aware_eligible	GO:0060907	positive regulation of macrophage cytokine production	GO:0030501	positive regulation of bone mineralization	0.0476190476190476	1	21
+viral_higher_site_aware_eligible	GO:0060907	positive regulation of macrophage cytokine production	GO:0070371	ERK1 and ERK2 cascade	0.1	2	20
+viral_higher_site_aware_eligible	GO:0060907	positive regulation of macrophage cytokine production	GO:0043123	positive regulation of canonical NF-kappaB signal transduction	0.0952380952380952	4	42
+viral_higher_site_aware_eligible	GO:0060907	positive regulation of macrophage cytokine production	GO:0006366	transcription by RNA polymerase II	0	0	54
+viral_higher_site_aware_eligible	GO:0060907	positive regulation of macrophage cytokine production	GO:0032743	positive regulation of interleukin-2 production	0.05	1	20
+viral_higher_site_aware_eligible	GO:0060907	positive regulation of macrophage cytokine production	GO:0045945	positive regulation of transcription by RNA polymerase III	0	0	17
+viral_higher_site_aware_eligible	GO:0060907	positive regulation of macrophage cytokine production	GO:0045943	positive regulation of transcription by RNA polymerase I	0	0	19
+viral_higher_site_aware_eligible	GO:0060907	positive regulation of macrophage cytokine production	GO:0007165	signal transduction	0.0118343195266272	2	169
+viral_higher_site_aware_eligible	GO:0060907	positive regulation of macrophage cytokine production	GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	0	0	28
+viral_higher_site_aware_eligible	GO:0032728	positive regulation of interferon-beta production	GO:0045087	innate immune response	0.103448275862069	9	87
+viral_higher_site_aware_eligible	GO:0032728	positive regulation of interferon-beta production	GO:0060337	type I interferon-mediated signaling pathway	0.142857142857143	3	21
+viral_higher_site_aware_eligible	GO:0032728	positive regulation of interferon-beta production	GO:0030509	BMP signaling pathway	0	0	32
+viral_higher_site_aware_eligible	GO:0032728	positive regulation of interferon-beta production	GO:0019722	calcium-mediated signaling	0	0	36
+viral_higher_site_aware_eligible	GO:0032728	positive regulation of interferon-beta production	GO:0030183	B cell differentiation	0	0	33
+viral_higher_site_aware_eligible	GO:0032728	positive regulation of interferon-beta production	GO:0030501	positive regulation of bone mineralization	0.0384615384615385	1	26
+viral_higher_site_aware_eligible	GO:0032728	positive regulation of interferon-beta production	GO:0070371	ERK1 and ERK2 cascade	0.0384615384615385	1	26
+viral_higher_site_aware_eligible	GO:0032728	positive regulation of interferon-beta production	GO:0043123	positive regulation of canonical NF-kappaB signal transduction	0.0408163265306122	2	49
+viral_higher_site_aware_eligible	GO:0032728	positive regulation of interferon-beta production	GO:0006366	transcription by RNA polymerase II	0	0	59
+viral_higher_site_aware_eligible	GO:0032728	positive regulation of interferon-beta production	GO:0032743	positive regulation of interleukin-2 production	0.04	1	25
+viral_higher_site_aware_eligible	GO:0032728	positive regulation of interferon-beta production	GO:0045945	positive regulation of transcription by RNA polymerase III	0	0	22
+viral_higher_site_aware_eligible	GO:0032728	positive regulation of interferon-beta production	GO:0045943	positive regulation of transcription by RNA polymerase I	0	0	24
+viral_higher_site_aware_eligible	GO:0032728	positive regulation of interferon-beta production	GO:0007165	signal transduction	0.0114942528735632	2	174
+viral_higher_site_aware_eligible	GO:0032728	positive regulation of interferon-beta production	GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	0	0	33
+viral_higher_site_aware_eligible	GO:0045087	innate immune response	GO:0060337	type I interferon-mediated signaling pathway	0.0337078651685393	3	89
+viral_higher_site_aware_eligible	GO:0045087	innate immune response	GO:0030509	BMP signaling pathway	0	0	100
+viral_higher_site_aware_eligible	GO:0045087	innate immune response	GO:0019722	calcium-mediated signaling	0	0	104
+viral_higher_site_aware_eligible	GO:0045087	innate immune response	GO:0030183	B cell differentiation	0.01	1	100
+viral_higher_site_aware_eligible	GO:0045087	innate immune response	GO:0030501	positive regulation of bone mineralization	0.0106382978723404	1	94
+viral_higher_site_aware_eligible	GO:0045087	innate immune response	GO:0070371	ERK1 and ERK2 cascade	0.021505376344086	2	93
+viral_higher_site_aware_eligible	GO:0045087	innate immune response	GO:0043123	positive regulation of canonical NF-kappaB signal transduction	0.122641509433962	13	106
+viral_higher_site_aware_eligible	GO:0045087	innate immune response	GO:0006366	transcription by RNA polymerase II	0.016	2	125
+viral_higher_site_aware_eligible	GO:0045087	innate immune response	GO:0032743	positive regulation of interleukin-2 production	0.0217391304347826	2	92
+viral_higher_site_aware_eligible	GO:0045087	innate immune response	GO:0045945	positive regulation of transcription by RNA polymerase III	0.0112359550561798	1	89
+viral_higher_site_aware_eligible	GO:0045087	innate immune response	GO:0045943	positive regulation of transcription by RNA polymerase I	0.010989010989011	1	91
+viral_higher_site_aware_eligible	GO:0045087	innate immune response	GO:0007165	signal transduction	0.0427350427350427	10	234
+viral_higher_site_aware_eligible	GO:0045087	innate immune response	GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	0.0306122448979592	3	98
+viral_higher_site_aware_eligible	GO:0060337	type I interferon-mediated signaling pathway	GO:0030509	BMP signaling pathway	0	0	28
+viral_higher_site_aware_eligible	GO:0060337	type I interferon-mediated signaling pathway	GO:0019722	calcium-mediated signaling	0	0	32
+viral_higher_site_aware_eligible	GO:0060337	type I interferon-mediated signaling pathway	GO:0030183	B cell differentiation	0	0	29
+viral_higher_site_aware_eligible	GO:0060337	type I interferon-mediated signaling pathway	GO:0030501	positive regulation of bone mineralization	0	0	23
+viral_higher_site_aware_eligible	GO:0060337	type I interferon-mediated signaling pathway	GO:0070371	ERK1 and ERK2 cascade	0	0	23
+viral_higher_site_aware_eligible	GO:0060337	type I interferon-mediated signaling pathway	GO:0043123	positive regulation of canonical NF-kappaB signal transduction	0	0	47
+viral_higher_site_aware_eligible	GO:0060337	type I interferon-mediated signaling pathway	GO:0006366	transcription by RNA polymerase II	0	0	55
+viral_higher_site_aware_eligible	GO:0060337	type I interferon-mediated signaling pathway	GO:0032743	positive regulation of interleukin-2 production	0	0	22
+viral_higher_site_aware_eligible	GO:0060337	type I interferon-mediated signaling pathway	GO:0045945	positive regulation of transcription by RNA polymerase III	0	0	18
+viral_higher_site_aware_eligible	GO:0060337	type I interferon-mediated signaling pathway	GO:0045943	positive regulation of transcription by RNA polymerase I	0	0	20
+viral_higher_site_aware_eligible	GO:0060337	type I interferon-mediated signaling pathway	GO:0007165	signal transduction	0.00584795321637427	1	171
+viral_higher_site_aware_eligible	GO:0060337	type I interferon-mediated signaling pathway	GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	0	0	29
+viral_higher_site_aware_eligible	GO:0030509	BMP signaling pathway	GO:0019722	calcium-mediated signaling	0	0	40
+viral_higher_site_aware_eligible	GO:0030509	BMP signaling pathway	GO:0030183	B cell differentiation	0	0	37
+viral_higher_site_aware_eligible	GO:0030509	BMP signaling pathway	GO:0030501	positive regulation of bone mineralization	0.24	6	25
+viral_higher_site_aware_eligible	GO:0030509	BMP signaling pathway	GO:0070371	ERK1 and ERK2 cascade	0	0	31
+viral_higher_site_aware_eligible	GO:0030509	BMP signaling pathway	GO:0043123	positive regulation of canonical NF-kappaB signal transduction	0	0	55
+viral_higher_site_aware_eligible	GO:0030509	BMP signaling pathway	GO:0006366	transcription by RNA polymerase II	0.0161290322580645	1	62
+viral_higher_site_aware_eligible	GO:0030509	BMP signaling pathway	GO:0032743	positive regulation of interleukin-2 production	0	0	30
+viral_higher_site_aware_eligible	GO:0030509	BMP signaling pathway	GO:0045945	positive regulation of transcription by RNA polymerase III	0	0	26
+viral_higher_site_aware_eligible	GO:0030509	BMP signaling pathway	GO:0045943	positive regulation of transcription by RNA polymerase I	0	0	28
+viral_higher_site_aware_eligible	GO:0030509	BMP signaling pathway	GO:0007165	signal transduction	0.0112359550561798	2	178
+viral_higher_site_aware_eligible	GO:0030509	BMP signaling pathway	GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	0.0277777777777778	1	36
+viral_higher_site_aware_eligible	GO:0019722	calcium-mediated signaling	GO:0030183	B cell differentiation	0	0	41
+viral_higher_site_aware_eligible	GO:0019722	calcium-mediated signaling	GO:0030501	positive regulation of bone mineralization	0	0	35
+viral_higher_site_aware_eligible	GO:0019722	calcium-mediated signaling	GO:0070371	ERK1 and ERK2 cascade	0	0	35
+viral_higher_site_aware_eligible	GO:0019722	calcium-mediated signaling	GO:0043123	positive regulation of canonical NF-kappaB signal transduction	0.0172413793103448	1	58
+viral_higher_site_aware_eligible	GO:0019722	calcium-mediated signaling	GO:0006366	transcription by RNA polymerase II	0	0	67
+viral_higher_site_aware_eligible	GO:0019722	calcium-mediated signaling	GO:0032743	positive regulation of interleukin-2 production	0.0625	2	32
+viral_higher_site_aware_eligible	GO:0019722	calcium-mediated signaling	GO:0045945	positive regulation of transcription by RNA polymerase III	0	0	30
+viral_higher_site_aware_eligible	GO:0019722	calcium-mediated signaling	GO:0045943	positive regulation of transcription by RNA polymerase I	0.032258064516129	1	31
+viral_higher_site_aware_eligible	GO:0019722	calcium-mediated signaling	GO:0007165	signal transduction	0.0165745856353591	3	181
+viral_higher_site_aware_eligible	GO:0019722	calcium-mediated signaling	GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	0.025	1	40
+viral_higher_site_aware_eligible	GO:0030183	B cell differentiation	GO:0030501	positive regulation of bone mineralization	0	0	32
+viral_higher_site_aware_eligible	GO:0030183	B cell differentiation	GO:0070371	ERK1 and ERK2 cascade	0	0	32
+viral_higher_site_aware_eligible	GO:0030183	B cell differentiation	GO:0043123	positive regulation of canonical NF-kappaB signal transduction	0	0	56
+viral_higher_site_aware_eligible	GO:0030183	B cell differentiation	GO:0006366	transcription by RNA polymerase II	0.032258064516129	2	62
+viral_higher_site_aware_eligible	GO:0030183	B cell differentiation	GO:0032743	positive regulation of interleukin-2 production	0	0	31
+viral_higher_site_aware_eligible	GO:0030183	B cell differentiation	GO:0045945	positive regulation of transcription by RNA polymerase III	0	0	27
+viral_higher_site_aware_eligible	GO:0030183	B cell differentiation	GO:0045943	positive regulation of transcription by RNA polymerase I	0	0	29
+viral_higher_site_aware_eligible	GO:0030183	B cell differentiation	GO:0007165	signal transduction	0.00555555555555556	1	180
+viral_higher_site_aware_eligible	GO:0030183	B cell differentiation	GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	0.027027027027027	1	37
+viral_higher_site_aware_eligible	GO:0030501	positive regulation of bone mineralization	GO:0070371	ERK1 and ERK2 cascade	0	0	26
+viral_higher_site_aware_eligible	GO:0030501	positive regulation of bone mineralization	GO:0043123	positive regulation of canonical NF-kappaB signal transduction	0	0	50
+viral_higher_site_aware_eligible	GO:0030501	positive regulation of bone mineralization	GO:0006366	transcription by RNA polymerase II	0	0	58
+viral_higher_site_aware_eligible	GO:0030501	positive regulation of bone mineralization	GO:0032743	positive regulation of interleukin-2 production	0	0	25
+viral_higher_site_aware_eligible	GO:0030501	positive regulation of bone mineralization	GO:0045945	positive regulation of transcription by RNA polymerase III	0	0	21
+viral_higher_site_aware_eligible	GO:0030501	positive regulation of bone mineralization	GO:0045943	positive regulation of transcription by RNA polymerase I	0	0	23
+viral_higher_site_aware_eligible	GO:0030501	positive regulation of bone mineralization	GO:0007165	signal transduction	0.00574712643678161	1	174
+viral_higher_site_aware_eligible	GO:0030501	positive regulation of bone mineralization	GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	0	0	32
+viral_higher_site_aware_eligible	GO:0070371	ERK1 and ERK2 cascade	GO:0043123	positive regulation of canonical NF-kappaB signal transduction	0.0638297872340426	3	47
+viral_higher_site_aware_eligible	GO:0070371	ERK1 and ERK2 cascade	GO:0006366	transcription by RNA polymerase II	0	0	58
+viral_higher_site_aware_eligible	GO:0070371	ERK1 and ERK2 cascade	GO:0032743	positive regulation of interleukin-2 production	0.0416666666666667	1	24
+viral_higher_site_aware_eligible	GO:0070371	ERK1 and ERK2 cascade	GO:0045945	positive regulation of transcription by RNA polymerase III	0	0	21
+viral_higher_site_aware_eligible	GO:0070371	ERK1 and ERK2 cascade	GO:0045943	positive regulation of transcription by RNA polymerase I	0	0	23
+viral_higher_site_aware_eligible	GO:0070371	ERK1 and ERK2 cascade	GO:0007165	signal transduction	0.00574712643678161	1	174
+viral_higher_site_aware_eligible	GO:0070371	ERK1 and ERK2 cascade	GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	0.0666666666666667	2	30
+viral_higher_site_aware_eligible	GO:0043123	positive regulation of canonical NF-kappaB signal transduction	GO:0006366	transcription by RNA polymerase II	0.0123456790123457	1	81
+viral_higher_site_aware_eligible	GO:0043123	positive regulation of canonical NF-kappaB signal transduction	GO:0032743	positive regulation of interleukin-2 production	0.0652173913043478	3	46
+viral_higher_site_aware_eligible	GO:0043123	positive regulation of canonical NF-kappaB signal transduction	GO:0045945	positive regulation of transcription by RNA polymerase III	0.0227272727272727	1	44
+viral_higher_site_aware_eligible	GO:0043123	positive regulation of canonical NF-kappaB signal transduction	GO:0045943	positive regulation of transcription by RNA polymerase I	0.0217391304347826	1	46
+viral_higher_site_aware_eligible	GO:0043123	positive regulation of canonical NF-kappaB signal transduction	GO:0007165	signal transduction	0.0257731958762887	5	194
+viral_higher_site_aware_eligible	GO:0043123	positive regulation of canonical NF-kappaB signal transduction	GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	0.0181818181818182	1	55
+viral_higher_site_aware_eligible	GO:0006366	transcription by RNA polymerase II	GO:0032743	positive regulation of interleukin-2 production	0.0178571428571429	1	56
+viral_higher_site_aware_eligible	GO:0006366	transcription by RNA polymerase II	GO:0045945	positive regulation of transcription by RNA polymerase III	0.06	3	50
+viral_higher_site_aware_eligible	GO:0006366	transcription by RNA polymerase II	GO:0045943	positive regulation of transcription by RNA polymerase I	0.0576923076923077	3	52
+viral_higher_site_aware_eligible	GO:0006366	transcription by RNA polymerase II	GO:0007165	signal transduction	0.0147058823529412	3	204
+viral_higher_site_aware_eligible	GO:0006366	transcription by RNA polymerase II	GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	0.0491803278688525	3	61
+viral_higher_site_aware_eligible	GO:0032743	positive regulation of interleukin-2 production	GO:0045945	positive regulation of transcription by RNA polymerase III	0	0	20
+viral_higher_site_aware_eligible	GO:0032743	positive regulation of interleukin-2 production	GO:0045943	positive regulation of transcription by RNA polymerase I	0	0	22
+viral_higher_site_aware_eligible	GO:0032743	positive regulation of interleukin-2 production	GO:0007165	signal transduction	0.0175438596491228	3	171
+viral_higher_site_aware_eligible	GO:0032743	positive regulation of interleukin-2 production	GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	0.0333333333333333	1	30
+viral_higher_site_aware_eligible	GO:0045945	positive regulation of transcription by RNA polymerase III	GO:0045943	positive regulation of transcription by RNA polymerase I	0.384615384615385	5	13
+viral_higher_site_aware_eligible	GO:0045945	positive regulation of transcription by RNA polymerase III	GO:0007165	signal transduction	0.00591715976331361	1	169
+viral_higher_site_aware_eligible	GO:0045945	positive regulation of transcription by RNA polymerase III	GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	0	0	27
+viral_higher_site_aware_eligible	GO:0045943	positive regulation of transcription by RNA polymerase I	GO:0007165	signal transduction	0.0117647058823529	2	170
+viral_higher_site_aware_eligible	GO:0045943	positive regulation of transcription by RNA polymerase I	GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	0.0357142857142857	1	28
+viral_higher_site_aware_eligible	GO:0007165	signal transduction	GO:0043491	phosphatidylinositol 3-kinase/protein kinase B signal transduction	0.0284090909090909	5	176
