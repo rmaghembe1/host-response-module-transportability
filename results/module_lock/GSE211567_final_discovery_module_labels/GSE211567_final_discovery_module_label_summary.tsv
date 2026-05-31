@@ -1,0 +1,4 @@
+module_direction	final_module_status	n_final_module_rows	total_unique_genes	total_GO_terms	total_FDR05_GO_terms
+higher_in_bacterial	primary_discovery_module	2	46	6	6
+higher_in_viral	primary_discovery_submodule	2	161	6	6
+higher_in_viral	primary_discovery_module	1	106	3	3
