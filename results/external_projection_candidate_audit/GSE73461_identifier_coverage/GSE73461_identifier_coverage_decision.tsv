@@ -1,0 +1,2 @@
+candidate_dataset	annotation_package	n_expression_probe_rows	minimum_module_coverage_fraction	all_modules_pass_50pct	all_modules_pass_70pct	identifier_coverage_status	reason	next_action
+GSE73461	illuminaHumanv4.db	47323	0.96	TRUE	TRUE	eligible_for_formal_cohort_lock_pending_decision_log	All locked modules pass both the 50% primary and 70% sensitivity identifier-coverage thresholds.	If accepted, log formal GSE73461 cohort lock before any fixed-module scoring.

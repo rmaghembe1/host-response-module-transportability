@@ -1,0 +1,312 @@
+final_module_id	final_module_label	final_module_direction	ENTREZID	SYMBOL	SYMBOL_UPPER	symbol_match	entrez_match	any_match
+BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	1979	EIF4EBP2	EIF4EBP2	TRUE	TRUE	TRUE
+BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	28998	MRPL13	MRPL13	TRUE	TRUE	TRUE
+BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	29093	MRPL22	MRPL22	TRUE	TRUE	TRUE
+BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	64963	MRPS11	MRPS11	TRUE	TRUE	TRUE
+BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	51023	MRPS18C	MRPS18C	TRUE	TRUE	TRUE
+BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	6138	RPL15	RPL15	TRUE	TRUE	TRUE
+BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	6139	RPL17	RPL17	TRUE	TRUE	TRUE
+BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	9349	RPL23	RPL23	TRUE	TRUE	TRUE
+BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	6154	RPL26	RPL26	TRUE	TRUE	TRUE
+BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	51121	RPL26L1	RPL26L1	TRUE	TRUE	TRUE
+BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	6155	RPL27	RPL27	TRUE	TRUE	TRUE
+BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	6159	RPL29	RPL29	TRUE	TRUE	TRUE
+BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	6160	RPL31	RPL31	TRUE	TRUE	TRUE
+BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	6164	RPL34	RPL34	TRUE	TRUE	TRUE
+BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	6133	RPL9	RPL9	TRUE	TRUE	TRUE
+BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	6175	RPLP0	RPLP0	TRUE	TRUE	TRUE
+BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	6210	RPS15A	RPS15A	TRUE	TRUE	TRUE
+BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	6229	RPS24	RPS24	TRUE	TRUE	TRUE
+BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	6232	RPS27	RPS27	TRUE	TRUE	TRUE
+BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	6189	RPS3A	RPS3A	TRUE	TRUE	TRUE
+BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	6192	RPS4Y1	RPS4Y1	TRUE	TRUE	TRUE
+BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	6201	RPS7	RPS7	TRUE	TRUE	TRUE
+BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	6203	RPS9	RPS9	TRUE	TRUE	TRUE
+BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	7311	UBA52	UBA52	TRUE	TRUE	TRUE
+BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	498	ATP5F1A	ATP5F1A	TRUE	TRUE	TRUE
+BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	521	ATP5ME	ATP5ME	TRUE	TRUE	TRUE
+BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	9551	ATP5MF	ATP5MF	TRUE	TRUE	TRUE
+BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	847	CAT	CAT	TRUE	TRUE	TRUE
+BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	4191	MDH2	MDH2	TRUE	TRUE	TRUE
+BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	113115	MTFR2	MTFR2	TRUE	TRUE	TRUE
+BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	4696	NDUFA3	NDUFA3	TRUE	TRUE	TRUE
+BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	4697	NDUFA4	NDUFA4	TRUE	TRUE	TRUE
+BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	51103	NDUFAF1	NDUFAF1	TRUE	TRUE	TRUE
+BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	91942	NDUFAF2	NDUFAF2	TRUE	TRUE	TRUE
+BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	137682	NDUFAF6	NDUFAF6	TRUE	TRUE	TRUE
+BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	55471	NDUFAF7	NDUFAF7	TRUE	TRUE	TRUE
+BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	284184	NDUFAF8	NDUFAF8	TRUE	TRUE	TRUE
+BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	4707	NDUFB1	NDUFB1	TRUE	TRUE	TRUE
+BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	4709	NDUFB3	NDUFB3	TRUE	TRUE	TRUE
+BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	4718	NDUFC2	NDUFC2	TRUE	TRUE	TRUE
+BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	4724	NDUFS4	NDUFS4	TRUE	TRUE	TRUE
+BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	4731	NDUFV3	NDUFV3	TRUE	TRUE	TRUE
+BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	9016	SLC25A14	SLC25A14	TRUE	TRUE	TRUE
+BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	84233	TMEM126A	TMEM126A	TRUE	TRUE	TRUE
+BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	25880	TMEM186	TMEM186	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	59	ACTA2	ACTA2	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	575	ADGRB1	ADGRB1	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	9582	APOBEC3B	APOBEC3B	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	200316	APOBEC3F	APOBEC3F	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	164668	APOBEC3H	APOBEC3H	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	481	ATP1B1	ATP1B1	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	558	AXL	AXL	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	64343	AZI2	AZI2	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	596	BCL2	BCL2	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	640	BLK	BLK	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	665	BNIP3L	BNIP3L	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	717	C2	C2	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	64170	CARD9	CARD9	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	6355	CCL8	CCL8	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	11126	CD160	CD160	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	912	CD1D	CD1D	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	958	CD40	CD40	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	1021	CDK6	CDK6	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	10462	CLEC10A	CLEC10A	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	58487	CREBZF	CREBZF	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	1435	CSF1	CSF1	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	10521	DDX17	DDX17	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	9188	DDX21	DDX21	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	1654	DDX3X	DDX3X	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	55601	DDX60	DDX60	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	91351	DDX60L	DDX60L	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	1672	DEFB1	DEFB1	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	79132	DHX58	DHX58	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	151636	DTX3L	DTX3L	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	5610	EIF2AK2	EIF2AK2	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	23052	ENDOD1	ENDOD1	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	50943	FOXP3	FOXP3	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	2444	FRK	FRK	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	10146	G3BP1	G3BP1	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	9908	G3BP2	G3BP2	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	2625	GATA3	GATA3	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	2633	GBP1	GBP1	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	2635	GBP3	GBP3	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	51191	HERC5	HERC5	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	3429	IFI27	IFI27	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	3430	IFI35	IFI35	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	10561	IFI44	IFI44	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	10964	IFI44L	IFI44L	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	2537	IFI6	IFI6	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	64135	IFIH1	IFIH1	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	3434	IFIT1	IFIT1	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	439996	IFIT1B	IFIT1B	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	3433	IFIT2	IFIT2	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	3437	IFIT3	IFIT3	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	24138	IFIT5	IFIT5	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	10410	IFITM3	IFITM3	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	246778	IL27	IL27	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	10527	IPO7	IPO7	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	3665	IRF7	IRF7	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	10379	IRF9	IRF9	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	9636	ISG15	ISG15	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	3669	ISG20	ISG20	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	10219	KLRG1	KLRG1	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	23547	LILRA4	LILRA4	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	4063	LY9	LY9	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	10892	MALT1	MALT1	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	9782	MATR3	MATR3	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	255231	MCOLN2	MCOLN2	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	4210	MEFV	MEFV	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	9258	MFHAS1	MFHAS1	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	100507436	MICA	MICA	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	11043	MID2	MID2	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	4343	MOV10	MOV10	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	4599	MX1	MX1	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	4600	MX2	MX2	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	23138	N4BP3	N4BP3	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	64127	NOD2	NOD2	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	51251	NT5C3A	NT5C3A	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	4938	OAS1	OAS1	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	4939	OAS2	OAS2	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	4940	OAS3	OAS3	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	8638	OASL	OASL	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	54726	OTUD4	OTUD4	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	54625	PARP14	PARP14	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	83666	PARP9	PARP9	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	11040	PIM2	PIM2	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	122618	PLD4	PLD4	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	403313	PLPP6	PLPP6	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	5359	PLSCR1	PLSCR1	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	5366	PMAIP1	PMAIP1	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	5371	PML	PML	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	55718	POLR3E	POLR3E	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	639	PRDM1	PRDM1	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	5551	PRF1	PRF1	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	8575	PRKRA	PRKRA	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	23586	RIGI	RIGI	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	8767	RIPK2	RIPK2	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	91543	RSAD2	RSAD2	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	64108	RTP4	RTP4	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	54809	SAMD9	SAMD9	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	256987	SERINC5	SERINC5	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	710	SERPING1	SERPING1	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	117157	SH2D1B	SH2D1B	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	91607	SLFN11	SLFN11	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	146857	SLFN13	SLFN13	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	27293	SMPDL3B	SMPDL3B	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	10417	SPON2	SPON2	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	6714	SRC	SRC	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	6772	STAT1	STAT1	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	6773	STAT2	STAT2	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	10010	TANK	TANK	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	353376	TICAM2	TICAM2	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	7098	TLR3	TLR3	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	51284	TLR7	TLR7	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	7292	TNFSF4	TNFSF4	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	9618	TRAF4	TRAF4	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	11277	TREX1	TREX1	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	9830	TRIM14	TRIM14	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	10346	TRIM22	TRIM22	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	22954	TRIM32	TRIM32	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	23087	TRIM35	TRIM35	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	10475	TRIM38	TRIM38	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	85363	TRIM5	TRIM5	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	84851	TRIM52	TRIM52	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	117854	TRIM6	TRIM6	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	9246	UBE2L6	UBE2L6	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	8725	URI1	URI1	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	9213	XPR1	XPR1	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	81030	ZBP1	ZBP1	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	22890	ZBTB1	ZBTB1	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	56829	ZC3HAV1	ZC3HAV1	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	85364	ZCCHC3	ZCCHC3	TRUE	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	10771	ZMYND11	ZMYND11	TRUE	TRUE	TRUE
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	200316	APOBEC3F	APOBEC3F	TRUE	TRUE	TRUE
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	64343	AZI2	AZI2	TRUE	TRUE	TRUE
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	1654	DDX3X	DDX3X	TRUE	TRUE	TRUE
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	5610	EIF2AK2	EIF2AK2	TRUE	TRUE	TRUE
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	63901	FAM111A	FAM111A	TRUE	TRUE	TRUE
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	3429	IFI27	IFI27	TRUE	TRUE	TRUE
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	64135	IFIH1	IFIH1	TRUE	TRUE	TRUE
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	3434	IFIT1	IFIT1	TRUE	TRUE	TRUE
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	24138	IFIT5	IFIT5	TRUE	TRUE	TRUE
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	10410	IFITM3	IFITM3	TRUE	TRUE	TRUE
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	3665	IRF7	IRF7	TRUE	TRUE	TRUE
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	9636	ISG15	ISG15	TRUE	TRUE	TRUE
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	3669	ISG20	ISG20	TRUE	TRUE	TRUE
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	4599	MX1	MX1	TRUE	TRUE	TRUE
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	4938	OAS1	OAS1	TRUE	TRUE	TRUE
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	4939	OAS2	OAS2	TRUE	TRUE	TRUE
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	4940	OAS3	OAS3	TRUE	TRUE	TRUE
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	8638	OASL	OASL	TRUE	TRUE	TRUE
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	5359	PLSCR1	PLSCR1	TRUE	TRUE	TRUE
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	5781	PTPN11	PTPN11	TRUE	TRUE	TRUE
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	23586	RIGI	RIGI	TRUE	TRUE	TRUE
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	8767	RIPK2	RIPK2	TRUE	TRUE	TRUE
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	91543	RSAD2	RSAD2	TRUE	TRUE	TRUE
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	6772	STAT1	STAT1	TRUE	TRUE	TRUE
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	6773	STAT2	STAT2	TRUE	TRUE	TRUE
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	10010	TANK	TANK	TRUE	TRUE	TRUE
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	7098	TLR3	TLR3	TRUE	TRUE	TRUE
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	51284	TLR7	TLR7	TRUE	TRUE	TRUE
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	9868	TOMM70	TOMM70	TRUE	TRUE	TRUE
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	11277	TREX1	TREX1	TRUE	TRUE	TRUE
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	117854	TRIM6	TRIM6	TRUE	TRUE	TRUE
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	26137	ZBTB20	ZBTB20	TRUE	TRUE	TRUE
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	56829	ZC3HAV1	ZC3HAV1	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	57007	ACKR3	ACKR3	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	326	AIRE	AIRE	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	654	BMP6	BMP6	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	657	BMPR1A	BMPR1A	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	11120	BTN2A1	BTN2A1	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	10385	BTN2A2	BTN2A2	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	11119	BTN3A1	BTN3A1	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	64170	CARD9	CARD9	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	841	CASP8	CASP8	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	868	CBLB	CBLB	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	56477	CCL28	CCL28	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	1230	CCR1	CCR1	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	729230	CCR2	CCR2	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	1232	CCR3	CCR3	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	1233	CCR4	CCR4	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	1234	CCR5	CCR5	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	1235	CCR6	CCR6	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	1236	CCR7	CCR7	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	10803	CCR9	CCR9	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	9034	CCRL2	CCRL2	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	8763	CD164	CD164	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	912	CD1D	CD1D	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	941	CD80	CD80	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	10225	CD96	CD96	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	1240	CMKLR1	CMKLR1	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	1380	CR2	CR2	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	1514	CTSL	CTSL	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	643	CXCR5	CXCR5	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	57105	CYSLTR2	CYSLTR2	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	1672	DEFB1	DEFB1	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	1997	ELF1	ELF1	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	5167	ENPP1	ENPP1	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	114625	ERMAP	ERMAP	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	2113	ETS1	ETS1	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	5393	EXOSC9	EXOSC9	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	355	FAS	FAS	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	2213	FCGR2B	FCGR2B	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	2214	FCGR3A	FCGR3A	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	2215	FCGR3B	FCGR3B	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	2625	GATA3	GATA3	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	1880	GPR183	GPR183	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	23119	HIC2	HIC2	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	29851	ICOS	ICOS	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	23308	ICOSLG	ICOSLG	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	10561	IFI44	IFI44	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	10964	IFI44L	IFI44L	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	2537	IFI6	IFI6	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	10410	IFITM3	IFITM3	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	10643	IGF2BP3	IGF2BP3	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	3600	IL15	IL15	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	3557	IL1RN	IL1RN	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	3559	IL2RA	IL2RA	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	3575	IL7R	IL7R	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	84502	JPH4	JPH4	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	3802	KIR2DL1	KIR2DL1	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	3806	KIR2DS1	KIR2DS1	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	100132285	KIR2DS2	KIR2DS2	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	3810	KIR2DS5	KIR2DS5	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	3811	KIR3DL1	KIR3DL1	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	3813	KIR3DS1	KIR3DS1	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	54900	LAX1	LAX1	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	3976	LIF	LIF	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	55016	MARCHF1	MARCHF1	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	100507436	MICA	MICA	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	2206	MS4A2	MS4A2	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	64127	NOD2	NOD2	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	5027	P2RX7	P2RX7	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	24145	PANX1	PANX1	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	23598	PATZ1	PATZ1	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	5295	PIK3R1	PIK3R1	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	8575	PRKRA	PRKRA	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	5734	PTGER4	PTGER4	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	5996	RGS1	RGS1	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	8767	RIPK2	RIPK2	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	5272	SERPINB9	SERPINB9	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	23411	SIRT1	SIRT1	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	4088	SMAD3	SMAD3	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	8651	SOCS1	SOCS1	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	10417	SPON2	SPON2	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	6938	TCF12	TCF12	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	6932	TCF7	TCF7	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	7049	TGFBR3	TGFBR3	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	7098	TLR3	TLR3	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	51284	TLR7	TLR7	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	7293	TNFRSF4	TNFRSF4	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	8743	TNFSF10	TNFSF10	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	9966	TNFSF15	TNFSF15	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	7292	TNFSF4	TNFSF4	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	944	TNFSF8	TNFSF8	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	8744	TNFSF9	TNFSF9	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	10346	TRIM22	TRIM22	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	29802	VPREB3	VPREB3	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	22890	ZBTB1	ZBTB1	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	57621	ZBTB2	ZBTB2	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	26137	ZBTB20	ZBTB20	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	7597	ZBTB25	ZBTB25	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	57684	ZBTB26	ZBTB26	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	10009	ZBTB33	ZBTB33	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	84614	ZBTB37	ZBTB37	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	9880	ZBTB39	ZBTB39	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	166793	ZBTB49	ZBTB49	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	10773	ZBTB6	ZBTB6	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	7690	ZNF131	ZNF131	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	7693	ZNF134	ZNF134	TRUE	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	137209	ZNF572	ZNF572	TRUE	TRUE	TRUE

@@ -1,0 +1,10 @@
+metric	value
+expression_probe_rows	47323
+expression_probe_ids_with_package_key	47323
+probe_annotation_rows	57353
+unique_probes_with_symbol	35689
+unique_probes_with_entrez	35689
+unique_probes_with_ensembl	34652
+unique_symbols	21603
+unique_entrez_ids	21603
+unique_ensembl_ids	24085
