@@ -1,0 +1,6 @@
+final_module_id	final_module_label	final_module_direction	locked_genes_n	matched_genes_n	missing_genes_n	coverage_fraction	missing_symbols
+BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	25	24	1	0.96	HYDIN2
+BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	21	21	0	1	""
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	128	128	0	1	""
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	33	33	0	1	""
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	106	105	1	0.990566037735849	BTN2A3P

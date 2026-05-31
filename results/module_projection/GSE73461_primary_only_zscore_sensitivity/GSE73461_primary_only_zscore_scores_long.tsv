@@ -1,0 +1,731 @@
+base_sample_id	final_module_id	final_module_label	final_module_direction	module_score	matched_genes_n	locked_genes_n	coverage_fraction	sample_group	projection_role
+DefiniteBacterial_01	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	2.60735663433824	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_02	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.849232776982914	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_03	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.189597302159481	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_04	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.761804803390448	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_05	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.255133690603273	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_06	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.017844614236141	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_07	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.052180220429805	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_08	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.25921804989844	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_09	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.284056669735409	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_10	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.655573101218973	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_11	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.0425520094513683	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_12	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.346787176428979	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_13	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.13619843531726	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_14	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.00774525219530273	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_15	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.922345853647015	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_16	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.64610970257567	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_17	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	1.42224496141278	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_18	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.679203529987456	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_19	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	3.1721471245093	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_20	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.392390360345842	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_21	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.15825763720739	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_22	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.125591626426533	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_23	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.712788264760794	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_24	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	1.7424357402415	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_25	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.0151911584855914	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_26	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.0379524710551541	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_27	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.893771427190524	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_28	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.0086835347914081	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_29	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.613538150334998	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_30	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.0593018271151929	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_31	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.465506942434493	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_32	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.217271990768025	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_33	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.333877858376571	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_34	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.758691124233769	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_35	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.463097958435921	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_36	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.142690148230977	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_37	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.164476789239128	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_38	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.224088536018486	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_39	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.926109727586173	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_40	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.729757148611183	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_41	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.575490281479515	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_42	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-1.26592791003758	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_43	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.772257496228514	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_44	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.231930360256412	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_45	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.456230522237436	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_46	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.582351528532022	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_47	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.457255443105735	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_48	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.0927154166242319	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_49	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.0442169598757344	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_50	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.223460327213807	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_51	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.671378809248976	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_52	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.252924017499664	24	25	0.96	DefiniteBacterial	primary_bacterial
+DefiniteViral_01	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.838524314191345	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_02	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.726261150734848	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_03	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.706745240195467	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_04	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	3.05597081257787	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_05	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.409963146125226	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_06	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.230950286897053	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_07	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.825477074935059	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_08	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.196906024584556	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_09	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.567611023706557	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_10	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.775760851050543	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_11	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.190646604372123	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_12	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.174612987843025	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_13	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.537763448140722	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_14	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.488702616035134	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_15	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.189782798901884	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_16	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	2.64853451410676	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_17	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.400823482771791	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_18	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.0318138521827178	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_19	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.0890262093929983	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_20	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	1.2482505466696	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_21	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.532014820851803	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_22	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.181430090219399	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_23	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.283430765788693	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_24	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.47120293714718	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_25	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.665135201348258	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_26	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.48171758851042	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_27	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.178190944890041	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_28	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.605408461092157	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_29	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	2.34724254942131	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_30	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.403927910043124	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_31	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.04356670343314	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_32	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.739506017352989	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_33	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.037045870646355	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_34	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.759280391284213	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_35	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.912621643359946	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_36	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.0567399696840342	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_37	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.617651474157361	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_38	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.78841239934782	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_39	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.871391724270404	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_40	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.992196077646882	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_41	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-1.1050917257239	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_42	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.690752602169326	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_43	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.895219467333693	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_44	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.308231643712567	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_45	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.65436880445452	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_46	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.778269837647342	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_47	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.408804708279062	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_48	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.323413966438875	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_49	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.0220723429119995	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_50	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	3.14700412124618	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_51	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.1066395979761	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_52	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.248752702504656	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_53	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	1.68846633975625	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_54	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.00412765069867946	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_55	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	1.17696606934057	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_56	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.3077563640224	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_57	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.725870038408682	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_58	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.313110230039799	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_59	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.759008251174943	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_60	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.791761509461025	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_61	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.423230208060439	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_62	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.13322373139201	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_63	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.609349922699918	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_64	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.30190629001621	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_65	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.173577204600559	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_66	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.301282625683658	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_67	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.34639428306838	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_68	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.07760895505416	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_69	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.19542691006501	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_70	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.00889901228516137	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_71	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.0607898340869506	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_72	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.594952358017988	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_73	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.247887699649613	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_74	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-1.08166038534867	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_75	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.40861360141865	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_76	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.438373511431104	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_77	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.566103489232576	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_78	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.962192054189833	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_79	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.581421290814429	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_80	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.950265301667489	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_81	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.328242078685404	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_82	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.24985178876604	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_83	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.453653729008386	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_84	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.3632554597766	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_85	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.286059032975464	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_86	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.749350347947446	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_87	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.6051510292163	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_88	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.709850360844536	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_89	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.596408153232251	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_90	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.87054078814079	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_91	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	0.0409850104710031	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_92	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.760754118693842	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_93	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.633841143643639	24	25	0.96	DefiniteViral	primary_viral
+DefiniteViral_94	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	-0.905931896155996	24	25	0.96	DefiniteViral	primary_viral
+DefiniteBacterial_01	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	1.67753118512858	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_02	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-1.13451943579909	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_03	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.374465858942368	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_04	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.594714561544721	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_05	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.149756383437109	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_06	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.234772750235478	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_07	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.298243894157371	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_08	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.0618144083445979	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_09	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.288437993806103	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_10	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.145283303299037	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_11	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.128876663637016	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_12	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.157974181317582	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_13	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.421901505009859	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_14	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.412416771398355	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_15	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.190606677441174	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_16	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	1.10556046451468	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_17	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.96572411640829	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_18	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.857583040411632	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_19	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	1.98526871180949	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_20	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.249299384678613	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_21	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.0576141982290635	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_22	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.179578397607823	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_23	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-1.04057771970866	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_24	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	1.63774713071744	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_25	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.253456055799347	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_26	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.282542620939154	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_27	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	1.17986247702036	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_28	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.0193763243584659	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_29	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.343782050883436	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_30	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.466418736343866	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_31	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.334817075098276	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_32	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.0902034457727163	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_33	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.00404719104704123	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_34	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.200256154437731	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_35	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.213849857174585	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_36	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.379048310593663	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_37	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.195535602148534	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_38	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.158015133406362	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_39	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.73752807408705	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_40	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.541460738716982	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_41	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.787564030505285	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_42	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-1.25751930143684	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_43	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.493731406926018	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_44	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.22244684653532	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_45	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.0228112075519098	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_46	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.78372969312604	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_47	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.426028110852735	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_48	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.204766946628452	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_49	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.230066953486091	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_50	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.423273780614957	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_51	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.534706648334984	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_52	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.228016692080996	21	21	1	DefiniteBacterial	primary_bacterial
+DefiniteViral_01	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.8125299137938	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_02	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.391446063206079	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_03	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.555251991521986	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_04	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	2.13265637933529	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_05	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.231176854709378	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_06	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.215747468561403	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_07	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.578876948349818	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_08	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.177077334618035	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_09	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.353389502161021	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_10	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.552751236543437	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_11	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.784240323392601	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_12	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.40944909289471	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_13	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.122078554948902	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_14	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.76440999591973	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_15	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.0014591648621912	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_16	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	2.14118157803827	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_17	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.347850698406791	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_18	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.167380793468355	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_19	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.0248728112298999	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_20	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	1.37891567458062	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_21	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.0129995863825329	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_22	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.148198120370165	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_23	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.586015844883312	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_24	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.50661291967123	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_25	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.933288956038002	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_26	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.565501281656317	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_27	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.548469581774096	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_28	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.046522621878821	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_29	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	1.11649642486849	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_30	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.036378306568031	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_31	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.551284402336482	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_32	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.156199982736053	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_33	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.132712613800261	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_34	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.909840456544409	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_35	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.682662146729348	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_36	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.289912646848339	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_37	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.326836827560692	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_38	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.614355919957431	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_39	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.79837221057615	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_40	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.916187324689681	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_41	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.941837499492153	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_42	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.618246663827602	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_43	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-1.01357656506381	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_44	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.174368665064952	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_45	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.523613877985351	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_46	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.831168971373302	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_47	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.458707388305709	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_48	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.199882871770194	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_49	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.278987495341579	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_50	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	2.16000426804277	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_51	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.383689855426171	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_52	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.0783511627294385	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_53	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.922475340758295	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_54	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.153663206268353	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_55	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.466759050829241	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_56	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.336233791652337	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_57	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.715791686641222	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_58	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.246510245619316	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_59	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.691702192192633	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_60	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.857017648242211	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_61	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.647329692848277	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_62	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.0229453498158044	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_63	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.451424081568564	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_64	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.0903705712606636	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_65	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.165234896020179	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_66	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.595601419309885	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_67	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.0879930049338753	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_68	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.291335775552209	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_69	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.241418159820802	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_70	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.0785971984772039	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_71	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.0521423365323937	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_72	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.754701983247003	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_73	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.265993882087438	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_74	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-1.12859612925009	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_75	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.3452339876866	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_76	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.616467349760693	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_77	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.914723467451626	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_78	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.864410133442445	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_79	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.0553734727381662	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_80	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-1.04773706943834	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_81	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.713258181235861	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_82	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.0243756978680491	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_83	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.690389450410652	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_84	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.645725861714415	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_85	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.297632319494779	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_86	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.662710333370352	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_87	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.270605717340969	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_88	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.398299663510541	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_89	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.588811913545487	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_90	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	0.516476805947411	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_91	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.0350048386438395	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_92	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.627918849206096	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_93	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.589159536584396	21	21	1	DefiniteViral	primary_viral
+DefiniteViral_94	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	-0.970493879206016	21	21	1	DefiniteViral	primary_viral
+DefiniteBacterial_01	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.262775986443028	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_02	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.959758181870515	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_03	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.00617892482447554	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_04	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.3752145730634	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_05	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.189221631498965	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_06	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.547500037782538	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_07	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.337501390607425	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_08	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.637842433324766	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_09	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.101278065858953	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_10	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.461976651458609	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_11	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.278700800541489	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_12	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.658373786112726	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_13	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.43633523431379	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_14	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.0467513862973382	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_15	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.138334324021263	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_16	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.531995397486429	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_17	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.118792215678299	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_18	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.694343967540947	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_19	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.113339831989892	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_20	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.0417801809365289	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_21	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.0597429846930246	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_22	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.127763364899462	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_23	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-1.01426600256514	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_24	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.19350273256953	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_25	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.64629740871422	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_26	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.216384102747538	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_27	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.370856841293161	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_28	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.243611734673184	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_29	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.567389399400491	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_30	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.347307980936757	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_31	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.247459781055089	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_32	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.402005107014328	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_33	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.481931410974375	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_34	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.294040458783776	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_35	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.589274826795691	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_36	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.081793327405728	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_37	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.563328904306079	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_38	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.166609953736863	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_39	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.301934503540833	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_40	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.449672770187006	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_41	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.647449300549975	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_42	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-1.09055320590021	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_43	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.512906308876606	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_44	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.486519105518331	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_45	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.546637657954762	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_46	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.112484925377969	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_47	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.496229201351019	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_48	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.410036910204569	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_49	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.469954759604627	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_50	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.397303858026204	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_51	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.30951869676232	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_52	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.553398125821657	128	128	1	DefiniteBacterial	primary_bacterial
+DefiniteViral_01	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.187532298462368	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_02	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.606941928068066	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_03	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.0472394497301534	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_04	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.299637883348906	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_05	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.265131001084467	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_06	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.949613676821789	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_07	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.171860106099308	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_08	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.968215758895694	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_09	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.612716068874088	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_10	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.255343197001123	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_11	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	1.19275114294763	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_12	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.327892849554321	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_13	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	1.03495335396227	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_14	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.796688234466559	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_15	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.46533605713486	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_16	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	1.18162649283884	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_17	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.0879582701089058	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_18	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	1.22673391289814	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_19	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.116331045659449	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_20	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.644192962126701	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_21	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	1.47190641767264	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_22	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.421851328710811	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_23	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.679662899288251	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_24	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.0507821177090979	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_25	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.282542472715572	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_26	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.103302279017089	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_27	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.580905241679675	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_28	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.139985438126187	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_29	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.756509022296417	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_30	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.312272031364894	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_31	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.837946742764975	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_32	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	1.5521409113658	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_33	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.28277924724521	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_34	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	1.08462883119517	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_35	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.33519139883912	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_36	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.871338336722527	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_37	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.856996599421423	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_38	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.430137551220431	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_39	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.43969821767937	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_40	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.0806723914585689	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_41	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.662862143256275	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_42	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.168732899898023	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_43	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.078133075853087	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_44	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.929315688468419	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_45	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.41797765186682	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_46	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.520772300990597	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_47	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.0282868736794015	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_48	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.371645610791654	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_49	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.432944082384732	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_50	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.573276556422354	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_51	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.225082765446644	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_52	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.297216634950464	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_53	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.113057468949797	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_54	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.100177400535805	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_55	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.181705506209764	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_56	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.0151889976250654	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_57	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.62285662185044	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_58	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.170985581605702	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_59	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.480880077437741	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_60	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.754384584707969	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_61	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.631756781678176	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_62	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.211935823977915	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_63	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.180924001025802	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_64	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.229537642781762	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_65	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.20554400152668	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_66	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.729722910542052	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_67	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.169619023189164	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_68	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.295390975871293	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_69	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.40524697508962	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_70	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.20172396780637	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_71	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.324301490027332	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_72	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.372733168240021	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_73	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.0115852354893565	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_74	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.838734973988273	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_75	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.174108716868525	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_76	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.446312663526372	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_77	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.156912654219101	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_78	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.277633075246634	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_79	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.742714747425111	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_80	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.149542842664095	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_81	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.626339641349794	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_82	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.244702512137635	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_83	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.697419033546107	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_84	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.505764165362919	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_85	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.186917067025879	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_86	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.621436561600202	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_87	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	1.75350714355387	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_88	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.371468825745155	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_89	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.488443261274488	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_90	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.0670272636001075	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_91	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	0.00976860113763644	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_92	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.603781025678343	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_93	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.691292777460425	128	128	1	DefiniteViral	primary_viral
+DefiniteViral_94	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	-0.511129698292994	128	128	1	DefiniteViral	primary_viral
+DefiniteBacterial_01	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.0709121632020255	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_02	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.854564418001147	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_03	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.147657053268136	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_04	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.955707699770809	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_05	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.338434771791557	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_06	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.611248482344061	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_07	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.62835075308506	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_08	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.529653978889769	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_09	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.0124035738643126	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_10	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.570967608247402	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_11	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.598747770453505	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_12	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.759301301171211	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_13	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.483075579422903	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_14	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.358830779024932	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_15	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.424761231856758	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_16	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.136308324058467	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_17	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.2277186283337	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_18	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.77913983860844	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_19	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.0807904239815625	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_20	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.17426953276985	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_21	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.10640385118729	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_22	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.0878613841478722	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_23	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-1.12754526356343	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_24	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.188256776257269	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_25	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.740721028489834	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_26	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.174676345446563	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_27	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.346609763153622	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_28	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.631317449666147	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_29	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.689170719059935	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_30	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.281468379433539	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_31	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.415877961005783	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_32	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.462261600456167	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_33	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.55368469333692	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_34	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.246879554931058	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_35	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.625665750754163	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_36	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.113010349621572	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_37	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.524778524154692	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_38	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.528911175660028	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_39	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.519808775156205	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_40	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.737315289879155	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_41	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.704691436418426	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_42	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-1.24824904615259	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_43	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.702588141097738	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_44	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.549706721432151	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_45	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.560527865212253	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_46	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.266504154182442	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_47	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.383204886102609	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_48	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.623626319022573	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_49	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.392718051210926	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_50	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.520157255490738	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_51	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.299530403763653	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_52	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.684349535696381	33	33	1	DefiniteBacterial	primary_bacterial
+DefiniteViral_01	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.156800613982849	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_02	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.763820794487761	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_03	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.400556700778349	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_04	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.103635589989032	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_05	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.215071761369629	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_06	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.823983242152488	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_07	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.316368891261113	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_08	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	1.39186639086675	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_09	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.907612597663933	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_10	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.229719150522955	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_11	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	1.37281230559467	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_12	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.169581035545628	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_13	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.923820861176111	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_14	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.822992863899392	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_15	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.511918492314893	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_16	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.922114065221133	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_17	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.187952116619083	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_18	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	1.57244806030965	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_19	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.0922709432507065	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_20	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.501528970920516	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_21	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	2.05499880762127	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_22	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.507933091316489	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_23	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.645133437494199	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_24	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.346550690478953	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_25	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.115644042278416	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_26	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.0943684962336635	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_27	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.81660873215716	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_28	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.467890890863744	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_29	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.63582654359092	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_30	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.350682751355782	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_31	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.783532434547003	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_32	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	1.89126576982633	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_33	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.249976823754967	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_34	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.926026509328619	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_35	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.270993541865929	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_36	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	1.33091345634451	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_37	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	1.42345862941781	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_38	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.830029507639264	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_39	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.324075006759169	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_40	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.341193953566186	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_41	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	1.36094580050558	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_42	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.352387092133086	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_43	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.212315539019913	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_44	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	1.54267391264489	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_45	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.410607535252798	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_46	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.505227791563052	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_47	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.410160490718818	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_48	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.617139370122589	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_49	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.570134392920932	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_50	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.378430704709404	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_51	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.263246311644317	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_52	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.297840087902468	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_53	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.378423477032905	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_54	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.224937172447409	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_55	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.436056214704342	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_56	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.142832057151711	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_57	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.746887905626056	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_58	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.142089979215504	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_59	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.218618596626715	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_60	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.80670427124825	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_61	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.799945363456805	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_62	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.243621252821238	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_63	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.224071986303223	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_64	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.278125008222398	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_65	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.174009315513738	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_66	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.696912026203466	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_67	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.47517240005775	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_68	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.215575984075902	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_69	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.441046824292561	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_70	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.172588561997626	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_71	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.637227460454372	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_72	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.19485188305325	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_73	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.135579788162839	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_74	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.960506486649903	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_75	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.17499763764738	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_76	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.865999139106592	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_77	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.0193703850427453	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_78	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.066633399585007	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_79	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	1.18919807851602	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_80	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.157163204874723	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_81	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.853979626151028	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_82	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.129227674753773	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_83	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.927341337064547	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_84	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.781704926616995	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_85	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.047213486938957	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_86	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.766587660999193	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_87	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	2.14689166507915	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_88	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.557361718671967	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_89	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.289055083022584	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_90	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.239645584766347	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_91	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	0.198109968868219	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_92	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.747457527542579	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_93	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.864168628961691	33	33	1	DefiniteViral	primary_viral
+DefiniteViral_94	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	-0.465734172496338	33	33	1	DefiniteViral	primary_viral
+DefiniteBacterial_01	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.580244612421112	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_02	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.984294745737874	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_03	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.0410110801168973	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_04	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.235654603177116	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_05	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.113169800743616	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_06	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.363537086294715	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_07	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.0293916340049501	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_08	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.510381249332079	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_09	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.432559869535729	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_10	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.420680463683391	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_11	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.024139766179706	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_12	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.617074786543143	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_13	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.372980186064997	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_14	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.244256333054766	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_15	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.0767041805787151	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_16	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.723974482028934	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_17	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.183946411002802	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_18	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.549528931606871	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_19	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.355348070633898	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_20	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.00177327659371084	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_21	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.533759707896214	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_22	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.380910721912236	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_23	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-1.07453596693611	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_24	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.548014036134304	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_25	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.540615592308525	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_26	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.225362721381605	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_27	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.336432223862555	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_28	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.217413593226266	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_29	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.352901779727865	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_30	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.184383881424728	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_31	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.106383163402218	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_32	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.35433608943768	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_33	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.318206053099842	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_34	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.0364494103653569	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_35	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.322152334665645	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_36	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.11578561231569	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_37	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.377864437361431	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_38	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.168447918878055	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_39	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.248873833876015	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_40	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.176048844037696	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_41	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.563476323780636	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_42	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-1.048203945116	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_43	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.499432372199601	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_44	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.302540210828589	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_45	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.367555630292729	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_46	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.297707778464488	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_47	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.298240485233689	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_48	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.332893322175255	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_49	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.221867377445766	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_50	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.153404702621342	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_51	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.150338127671055	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteBacterial_52	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.393184289382317	105	106	0.990566037735849	DefiniteBacterial	primary_bacterial
+DefiniteViral_01	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.285215385808085	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_02	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.358333263762735	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_03	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.176645059879051	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_04	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.574990408098487	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_05	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.0660911860378098	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_06	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.89258806659898	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_07	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.0614872223035299	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_08	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.624015558275787	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_09	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.246084768795102	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_10	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.319020977646948	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_11	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.914018680602668	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_12	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.378657720134711	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_13	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.745807952682043	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_14	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.792467745095265	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_15	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.341502614140496	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_16	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	1.24937785033215	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_17	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.0289688128874186	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_18	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.795846813813106	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_19	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.223736321494107	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_20	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.542517262076997	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_21	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.737595156524555	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_22	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.233053909512236	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_23	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.8783398690821	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_24	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.0718361983607383	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_25	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.427750545348763	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_26	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.208796485906442	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_27	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.466916286350302	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_28	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.0872854008454766	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_29	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.832597207631099	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_30	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.161988673019142	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_31	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.761289676079723	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_32	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.882044720144274	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_33	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.202296022372478	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_34	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	1.19655146570935	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_35	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.342252251764832	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_36	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.382662209006124	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_37	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.423557691230727	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_38	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.111449111676278	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_39	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.286090453381501	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_40	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.143666314671675	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_41	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.0218138948666288	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_42	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.0197391867330989	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_43	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.48505195903294	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_44	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.462857188923167	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_45	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.646807614466175	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_46	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.408749136175974	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_47	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.171982074351402	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_48	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.237862319305095	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_49	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.461074134634476	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_50	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.825841342753427	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_51	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.284353844492873	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_52	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.244128633932811	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_53	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.0243818462167038	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_54	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.0653469687182674	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_55	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.206167318804337	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_56	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.00438464975364637	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_57	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.479190317685122	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_58	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.17662600819066	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_59	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.782638685365949	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_60	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.685950791770664	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_61	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.544154251631259	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_62	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.33371967133382	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_63	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.305894115939578	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_64	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.148740279385471	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_65	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.253135140177984	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_66	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.780120503150653	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_67	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.070397326251029	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_68	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.455602063673686	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_69	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.371001219293396	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_70	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.310188738059033	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_71	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.177091067825803	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_72	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.718290320719203	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_73	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.171133580388642	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_74	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.676497409814087	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_75	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.132689141654429	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_76	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.188010957190437	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_77	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.375931528226446	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_78	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.561663195587351	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_79	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.397468629210308	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_80	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.458993557547599	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_81	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.457896919750101	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_82	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.655333036139244	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_83	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.597328196558323	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_84	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.192557938791413	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_85	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.501660889253485	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_86	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.589777562397881	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_87	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	1.06826020276757	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_88	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.295606973185161	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_89	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.285051482120089	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_90	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	0.452594085687863	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_91	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.236356495071491	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_92	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.477169197341404	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_93	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.569222337677083	105	106	0.990566037735849	DefiniteViral	primary_viral
+DefiniteViral_94	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	-0.545040452699825	105	106	0.990566037735849	DefiniteViral	primary_viral
