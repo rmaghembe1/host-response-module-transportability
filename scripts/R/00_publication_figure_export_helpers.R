@@ -29,15 +29,16 @@ save_publication_figure <- function(plot,
   )
 
   # SVG: editable vector master.
-  ggplot2::ggsave(
+  # Use base R grDevices::svg to avoid requiring svglite/textshaping system dependencies.
+  grDevices::svg(
     filename = svg_file,
-    plot = plot,
     width = width,
     height = height,
-    units = units,
     bg = "white",
-    limitsize = FALSE
+    onefile = FALSE
   )
+  print(plot)
+  grDevices::dev.off()
 
   # PDF: vector backup.
   ggplot2::ggsave(

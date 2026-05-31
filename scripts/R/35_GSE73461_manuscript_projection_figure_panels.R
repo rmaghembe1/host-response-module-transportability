@@ -11,6 +11,8 @@ suppressPackageStartupMessages({
   library(ggplot2)
 })
 
+source("scripts/R/00_publication_figure_export_helpers.R")
+
 main_scores_file <- "results/module_projection/GSE73461_fixed_module_projection/GSE73461_fixed_module_scores_long.tsv"
 main_test_file <- "results/module_projection/GSE73461_fixed_module_projection/GSE73461_fixed_module_primary_projection_tests.tsv"
 sens_test_file <- "results/module_projection/GSE73461_primary_only_zscore_sensitivity/GSE73461_primary_only_zscore_primary_projection_tests.tsv"
@@ -56,8 +58,14 @@ p_scores <- ggplot(main_plot_dt, aes(x = projection_role, y = module_score)) +
     panel.grid.minor = element_blank()
   )
 
-ggsave(file.path(fig_dir, "Figure_GSE73461_A_module_score_distributions.png"), p_scores, width = 12, height = 4.8, dpi = 600)
-ggsave(file.path(fig_dir, "Figure_GSE73461_A_module_score_distributions.pdf"), p_scores, width = 12, height = 4.8)
+save_publication_figure(
+  plot = p_scores,
+  filename_base = "Figure_GSE73461_A_module_score_distributions",
+  out_dir = fig_dir,
+  width = 12,
+  height = 4.8,
+  dpi = 1800
+)
 
 main_test[, analysis := "Main projection"]
 sens_test[, analysis := "Primary-only z-score sensitivity"]
@@ -95,8 +103,14 @@ p_diff <- ggplot(diff_dt, aes(x = final_module_id, y = median_difference_bacteri
   theme_bw(base_size = 11) +
   theme(panel.grid.minor = element_blank())
 
-ggsave(file.path(fig_dir, "Figure_GSE73461_B_main_vs_sensitivity_median_differences.png"), p_diff, width = 9, height = 5, dpi = 600)
-ggsave(file.path(fig_dir, "Figure_GSE73461_B_main_vs_sensitivity_median_differences.pdf"), p_diff, width = 9, height = 5)
+save_publication_figure(
+  plot = p_diff,
+  filename_base = "Figure_GSE73461_B_main_vs_sensitivity_median_differences",
+  out_dir = fig_dir,
+  width = 9,
+  height = 5,
+  dpi = 1800
+)
 
 p_pvals <- ggplot(diff_dt, aes(x = final_module_id, y = -log10(wilcox_p_BH), group = analysis, shape = analysis)) +
   geom_hline(yintercept = -log10(0.05), linetype = "dashed") +
@@ -112,8 +126,14 @@ p_pvals <- ggplot(diff_dt, aes(x = final_module_id, y = -log10(wilcox_p_BH), gro
   theme_bw(base_size = 11) +
   theme(panel.grid.minor = element_blank())
 
-ggsave(file.path(fig_dir, "Figure_GSE73461_C_main_vs_sensitivity_pvalues.png"), p_pvals, width = 9, height = 5, dpi = 600)
-ggsave(file.path(fig_dir, "Figure_GSE73461_C_main_vs_sensitivity_pvalues.pdf"), p_pvals, width = 9, height = 5)
+save_publication_figure(
+  plot = p_pvals,
+  filename_base = "Figure_GSE73461_C_main_vs_sensitivity_pvalues",
+  out_dir = fig_dir,
+  width = 9,
+  height = 5,
+  dpi = 1800
+)
 
 caption_file <- file.path(docs_dir, "GSE73461_manuscript_projection_figure_caption.md")
 sink(caption_file)
