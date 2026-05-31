@@ -1,0 +1,12 @@
+final_module_id	ENTREZID	SYMBOL	final_module_label	module_direction	locked_entrez_present	any_ensembl_mapping	matched_by_ensembl	matched_by_symbol	matched_ensembl_ids	all_mapped_ensembl_ids
+VIR_M2	100132285	KIR2DS2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	FALSE	FALSE	""	ENSG00000274438;ENSG00000274518;ENSG00000275253;ENSG00000275452;ENSG00000275583;ENSG00000275735;ENSG00000275737;ENSG00000276139;ENSG00000276258;ENSG00000276425;ENSG00000277885;ENSG00000278152;ENSG00000278300
+BACT_M1	100288805	HYDIN2	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	TRUE	FALSE	FALSE	FALSE	""	""
+VIR_M1a	11277	TREX1	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	FALSE	FALSE	""	ENSG00000213689
+VIR_M1b	11277	TREX1	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TRUE	TRUE	FALSE	FALSE	""	ENSG00000213689
+VIR_M1a	1672	DEFB1	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	FALSE	FALSE	""	ENSG00000164825;ENSG00000284881
+VIR_M2	1672	DEFB1	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	FALSE	FALSE	""	ENSG00000164825;ENSG00000284881
+VIR_M1a	2444	FRK	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	FALSE	FALSE	""	ENSG00000111816
+VIR_M2	3806	KIR2DS1	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	FALSE	FALSE	""	ENSG00000273517;ENSG00000273603;ENSG00000275306;ENSG00000275421;ENSG00000275921;ENSG00000276327;ENSG00000278120;ENSG00000278304;ENSG00000283937;ENSG00000284120;ENSG00000284150;ENSG00000284560
+VIR_M2	3810	KIR2DS5	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	FALSE	FALSE	""	ENSG00000274243;ENSG00000274563;ENSG00000274739;ENSG00000275047;ENSG00000276676;ENSG00000277650;ENSG00000284217;ENSG00000288206;ENSG00000288357
+VIR_M2	3813	KIR3DS1	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	FALSE	FALSE	""	ENSG00000274283;ENSG00000274465;ENSG00000275037;ENSG00000275434;ENSG00000275608;ENSG00000276498;ENSG00000276534;ENSG00000283719;ENSG00000283889;ENSG00000284111
+VIR_M2	54718	BTN2A3P	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	FALSE	FALSE	""	ENSG00000291104

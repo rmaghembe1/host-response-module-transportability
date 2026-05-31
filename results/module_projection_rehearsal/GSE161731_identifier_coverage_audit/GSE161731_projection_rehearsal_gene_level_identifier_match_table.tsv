@@ -1,0 +1,314 @@
+final_module_id	ENTREZID	SYMBOL	final_module_label	module_direction	locked_entrez_present	any_ensembl_mapping	matched_by_ensembl	matched_by_symbol	matched_ensembl_ids	all_mapped_ensembl_ids
+VIR_M2	10009	ZBTB33	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000177485	ENSG00000177485
+VIR_M1a	10010	TANK	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000136560	ENSG00000136560
+VIR_M1b	10010	TANK	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000136560	ENSG00000136560
+VIR_M2	100132285	KIR2DS2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	FALSE	FALSE	""	ENSG00000274438;ENSG00000274518;ENSG00000275253;ENSG00000275452;ENSG00000275583;ENSG00000275735;ENSG00000275737;ENSG00000276139;ENSG00000276258;ENSG00000276425;ENSG00000277885;ENSG00000278152;ENSG00000278300
+BACT_M1	100288805	HYDIN2	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	TRUE	FALSE	FALSE	FALSE	""	""
+VIR_M1a	100507436	MICA	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000204520	ENSG00000183214;ENSG00000204520;ENSG00000231225;ENSG00000233051;ENSG00000235233
+VIR_M2	100507436	MICA	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000204520	ENSG00000183214;ENSG00000204520;ENSG00000231225;ENSG00000233051;ENSG00000235233
+VIR_M1a	10146	G3BP1	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000145907	ENSG00000145907
+VIR_M1a	1021	CDK6	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000105810	ENSG00000105810
+VIR_M1a	10219	KLRG1	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000139187	ENSG00000139187
+VIR_M2	10225	CD96	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000153283	ENSG00000153283
+VIR_M1a	10346	TRIM22	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000132274	ENSG00000132274
+VIR_M2	10346	TRIM22	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000132274	ENSG00000132274
+VIR_M1a	10379	IRF9	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000213928	ENSG00000213928;ENSG00000285048
+VIR_M2	10385	BTN2A2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000124508	ENSG00000124508
+VIR_M1a	10410	IFITM3	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000142089	ENSG00000142089
+VIR_M1b	10410	IFITM3	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000142089	ENSG00000142089
+VIR_M2	10410	IFITM3	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000142089	ENSG00000142089
+VIR_M1a	10417	SPON2	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000159674	ENSG00000159674
+VIR_M2	10417	SPON2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000159674	ENSG00000159674
+VIR_M1a	10462	CLEC10A	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000132514	ENSG00000132514
+VIR_M1a	10475	TRIM38	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000112343	ENSG00000112343
+VIR_M1a	10521	DDX17	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000100201	ENSG00000100201
+VIR_M1a	10527	IPO7	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000205339	ENSG00000205339
+VIR_M1a	10561	IFI44	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000137965	ENSG00000137965
+VIR_M2	10561	IFI44	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000137965	ENSG00000137965
+VIR_M2	10643	IGF2BP3	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000136231	ENSG00000136231
+VIR_M1a	10771	ZMYND11	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000015171	ENSG00000015171
+VIR_M2	10773	ZBTB6	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000186130	ENSG00000186130
+VIR_M2	10803	CCR9	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000173585	ENSG00000173585
+VIR_M1a	10892	MALT1	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000172175	ENSG00000172175
+VIR_M1a	10964	IFI44L	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000137959	ENSG00000137959
+VIR_M2	10964	IFI44L	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000137959	ENSG00000137959
+VIR_M1a	11040	PIM2	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000102096	ENSG00000102096;ENSG00000292210
+VIR_M1a	11043	MID2	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000080561	ENSG00000080561
+VIR_M2	11119	BTN3A1	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000026950	ENSG00000026950
+VIR_M2	11120	BTN2A1	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000112763	ENSG00000112763;ENSG00000292170
+VIR_M1a	11126	CD160	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000117281	ENSG00000117281
+VIR_M1a	11277	TREX1	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	FALSE	FALSE	""	ENSG00000213689
+VIR_M1b	11277	TREX1	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TRUE	TRUE	FALSE	FALSE	""	ENSG00000213689
+BACT_M2	113115	MTFR2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000146410	ENSG00000146410
+VIR_M2	114625	ERMAP	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000164010	ENSG00000164010
+VIR_M1a	117157	SH2D1B	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000198574	ENSG00000198574
+VIR_M1a	117854	TRIM6	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000121236	ENSG00000121236
+VIR_M1b	117854	TRIM6	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000121236	ENSG00000121236
+VIR_M1a	122618	PLD4	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000166428	ENSG00000166428
+VIR_M2	1230	CCR1	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000163823	ENSG00000163823
+VIR_M2	1232	CCR3	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000183625	ENSG00000183625
+VIR_M2	1233	CCR4	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000183813	ENSG00000183813
+VIR_M2	1234	CCR5	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000160791	ENSG00000160791
+VIR_M2	1235	CCR6	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000112486	ENSG00000112486
+VIR_M2	1236	CCR7	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000126353	ENSG00000126353
+VIR_M2	1240	CMKLR1	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000174600	ENSG00000174600
+VIR_M2	137209	ZNF572	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000180938	ENSG00000180938
+BACT_M2	137682	NDUFAF6	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000156170	ENSG00000156170
+VIR_M2	1380	CR2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000117322	ENSG00000117322
+VIR_M1a	1435	CSF1	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000184371	ENSG00000184371
+VIR_M1a	146857	SLFN13	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000154760	ENSG00000154760
+VIR_M2	1514	CTSL	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000135047	ENSG00000135047
+VIR_M1a	151636	DTX3L	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000163840	ENSG00000163840
+VIR_M1a	164668	APOBEC3H	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000100298	ENSG00000100298
+VIR_M1a	1654	DDX3X	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000215301	ENSG00000215301
+VIR_M1b	1654	DDX3X	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000215301	ENSG00000215301
+VIR_M2	166793	ZBTB49	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000168826	ENSG00000168826
+VIR_M1a	1672	DEFB1	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	FALSE	FALSE	""	ENSG00000164825;ENSG00000284881
+VIR_M2	1672	DEFB1	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	FALSE	FALSE	""	ENSG00000164825;ENSG00000284881
+VIR_M2	1880	GPR183	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000169508	ENSG00000169508
+BACT_M1	1979	EIF4EBP2	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000148730	ENSG00000148730
+VIR_M2	1997	ELF1	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000120690	ENSG00000120690
+VIR_M1a	200316	APOBEC3F	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000128394	ENSG00000128394
+VIR_M1b	200316	APOBEC3F	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000128394	ENSG00000128394
+VIR_M2	2113	ETS1	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000134954	ENSG00000134954
+VIR_M2	2206	MS4A2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000149534	ENSG00000149534
+VIR_M2	2213	FCGR2B	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000072694	ENSG00000072694
+VIR_M2	2214	FCGR3A	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000203747	ENSG00000203747
+VIR_M2	2215	FCGR3B	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000162747	ENSG00000162747
+VIR_M1a	22890	ZBTB1	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000126804	ENSG00000126804
+VIR_M2	22890	ZBTB1	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000126804	ENSG00000126804
+VIR_M1a	22954	TRIM32	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000119401	ENSG00000119401
+VIR_M1a	23052	ENDOD1	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000149218	ENSG00000149218
+VIR_M1a	23087	TRIM35	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000104228	ENSG00000104228
+VIR_M2	23119	HIC2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000169635	ENSG00000169635
+VIR_M1a	23138	N4BP3	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000145911	ENSG00000145911
+VIR_M2	23308	ICOSLG	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000160223	ENSG00000160223
+VIR_M2	23411	SIRT1	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000096717	ENSG00000096717
+VIR_M1a	23547	LILRA4	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000239961	ENSG00000239961;ENSG00000274185;ENSG00000276798;ENSG00000277092
+VIR_M1a	23586	RIGI	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000107201	ENSG00000107201
+VIR_M1b	23586	RIGI	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000107201	ENSG00000107201
+VIR_M2	23598	PATZ1	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000100105	ENSG00000100105
+VIR_M1a	24138	IFIT5	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000152778	ENSG00000152778
+VIR_M1b	24138	IFIT5	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000152778	ENSG00000152778
+VIR_M2	24145	PANX1	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000110218	ENSG00000110218
+VIR_M1a	2444	FRK	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	FALSE	FALSE	""	ENSG00000111816
+VIR_M1a	246778	IL27	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000197272	ENSG00000197272
+VIR_M1a	2537	IFI6	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000126709	ENSG00000126709
+VIR_M2	2537	IFI6	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000126709	ENSG00000126709
+VIR_M1a	255231	MCOLN2	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000153898	ENSG00000153898
+VIR_M1a	256987	SERINC5	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000164300	ENSG00000164300
+BACT_M2	25880	TMEM186	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000184857	ENSG00000184857
+VIR_M1b	26137	ZBTB20	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000181722	ENSG00000181722
+VIR_M2	26137	ZBTB20	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000181722	ENSG00000181722
+VIR_M1a	2625	GATA3	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000107485	ENSG00000107485
+VIR_M2	2625	GATA3	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000107485	ENSG00000107485
+VIR_M1a	2633	GBP1	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000117228	ENSG00000117228
+VIR_M1a	2635	GBP3	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000117226	ENSG00000117226
+VIR_M1a	27293	SMPDL3B	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000130768	ENSG00000130768
+BACT_M2	284184	NDUFAF8	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000224877	ENSG00000224877
+BACT_M1	28998	MRPL13	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000172172	ENSG00000172172
+BACT_M1	29093	MRPL22	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000082515	ENSG00000082515
+VIR_M2	29802	VPREB3	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000128218	ENSG00000128218
+VIR_M2	29851	ICOS	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000163600	ENSG00000163600
+VIR_M2	326	AIRE	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000160224	ENSG00000160224
+VIR_M1a	3429	IFI27	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000165949	ENSG00000165949;ENSG00000275214
+VIR_M1b	3429	IFI27	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000165949	ENSG00000165949;ENSG00000275214
+VIR_M1a	3430	IFI35	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000068079	ENSG00000068079
+VIR_M1a	3433	IFIT2	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000119922	ENSG00000119922
+VIR_M1a	3434	IFIT1	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000185745	ENSG00000185745
+VIR_M1b	3434	IFIT1	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000185745	ENSG00000185745
+VIR_M1a	3437	IFIT3	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000119917	ENSG00000119917
+VIR_M1a	353376	TICAM2	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000243414	ENSG00000243414
+VIR_M2	355	FAS	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000026103	ENSG00000026103
+VIR_M2	3557	IL1RN	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000136689	ENSG00000136689
+VIR_M2	3559	IL2RA	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000134460	ENSG00000134460
+VIR_M2	3575	IL7R	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000168685	ENSG00000168685
+VIR_M2	3600	IL15	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000164136	ENSG00000164136
+VIR_M1a	3665	IRF7	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000185507	ENSG00000185507;ENSG00000276561
+VIR_M1b	3665	IRF7	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000185507	ENSG00000185507;ENSG00000276561
+VIR_M1a	3669	ISG20	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000172183	ENSG00000172183
+VIR_M1b	3669	ISG20	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000172183	ENSG00000172183
+VIR_M2	3802	KIR2DL1	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000125498	ENSG00000125498;ENSG00000273510;ENSG00000273794;ENSG00000274692;ENSG00000274782;ENSG00000274926;ENSG00000275080;ENSG00000275196;ENSG00000275276;ENSG00000275522;ENSG00000275750;ENSG00000276310;ENSG00000276387;ENSG00000276625;ENSG00000276820;ENSG00000277356;ENSG00000277616;ENSG00000277833;ENSG00000278207;ENSG00000278248;ENSG00000278495;ENSG00000278503;ENSG00000278738;ENSG00000278755;ENSG00000278805;ENSG00000278821;ENSG00000283723;ENSG00000284100;ENSG00000284145;ENSG00000284347;ENSG00000284401;ENSG00000284514;ENSG00000284530;ENSG00000284551
+VIR_M2	3806	KIR2DS1	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	FALSE	FALSE	""	ENSG00000273517;ENSG00000273603;ENSG00000275306;ENSG00000275421;ENSG00000275921;ENSG00000276327;ENSG00000278120;ENSG00000278304;ENSG00000283937;ENSG00000284120;ENSG00000284150;ENSG00000284560
+VIR_M2	3810	KIR2DS5	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	FALSE	FALSE	""	ENSG00000274243;ENSG00000274563;ENSG00000274739;ENSG00000275047;ENSG00000276676;ENSG00000277650;ENSG00000284217;ENSG00000288206;ENSG00000288357
+VIR_M2	3811	KIR3DL1	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000167633	ENSG00000167633;ENSG00000273518;ENSG00000273775;ENSG00000274036;ENSG00000274146;ENSG00000274920;ENSG00000274948;ENSG00000275288;ENSG00000275486;ENSG00000275545;ENSG00000275659;ENSG00000275717;ENSG00000275786;ENSG00000276329;ENSG00000276379;ENSG00000276423;ENSG00000276501;ENSG00000277175;ENSG00000277272;ENSG00000278079;ENSG00000278368;ENSG00000278427;ENSG00000278856;ENSG00000283729;ENSG00000283731;ENSG00000283827;ENSG00000283954;ENSG00000284093;ENSG00000284177;ENSG00000284342;ENSG00000284426;ENSG00000284589
+VIR_M2	3813	KIR3DS1	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	FALSE	FALSE	""	ENSG00000274283;ENSG00000274465;ENSG00000275037;ENSG00000275434;ENSG00000275608;ENSG00000276498;ENSG00000276534;ENSG00000283719;ENSG00000283889;ENSG00000284111
+VIR_M2	3976	LIF	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000128342	ENSG00000128342
+VIR_M1a	403313	PLPP6	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000205808	ENSG00000205808
+VIR_M1a	4063	LY9	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000122224	ENSG00000122224
+VIR_M2	4088	SMAD3	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000166949	ENSG00000166949
+BACT_M2	4191	MDH2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000146701	ENSG00000146701
+VIR_M1a	4210	MEFV	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000103313	ENSG00000103313
+VIR_M1a	4343	MOV10	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000155363	ENSG00000155363
+VIR_M1a	439996	IFIT1B	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000204010	ENSG00000204010
+VIR_M1a	4599	MX1	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000157601	ENSG00000157601
+VIR_M1b	4599	MX1	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000157601	ENSG00000157601
+VIR_M1a	4600	MX2	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000183486	ENSG00000183486
+BACT_M2	4696	NDUFA3	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000170906	ENSG00000170906;ENSG00000273642;ENSG00000274359;ENSG00000275605;ENSG00000275724;ENSG00000276061;ENSG00000276220;ENSG00000276766;ENSG00000277722;ENSG00000278365
+BACT_M2	4697	NDUFA4	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000189043	ENSG00000189043
+BACT_M2	4707	NDUFB1	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000183648	ENSG00000183648
+BACT_M2	4709	NDUFB3	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000119013	ENSG00000119013
+BACT_M2	4718	NDUFC2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000151366	ENSG00000151366
+BACT_M2	4724	NDUFS4	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000164258	ENSG00000164258
+BACT_M2	4731	NDUFV3	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000160194	ENSG00000160194
+VIR_M1a	481	ATP1B1	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000143153	ENSG00000143153
+VIR_M1a	4938	OAS1	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000089127	ENSG00000089127
+VIR_M1b	4938	OAS1	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000089127	ENSG00000089127
+VIR_M1a	4939	OAS2	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000111335	ENSG00000111335
+VIR_M1b	4939	OAS2	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000111335	ENSG00000111335
+VIR_M1a	4940	OAS3	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000111331	ENSG00000111331
+VIR_M1b	4940	OAS3	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000111331	ENSG00000111331
+BACT_M2	498	ATP5F1A	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000152234	ENSG00000152234
+VIR_M2	5027	P2RX7	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000089041	ENSG00000089041
+VIR_M1a	50943	FOXP3	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000049768	ENSG00000049768
+BACT_M1	51023	MRPS18C	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000163319	ENSG00000163319
+BACT_M2	51103	NDUFAF1	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000137806	ENSG00000137806
+BACT_M1	51121	RPL26L1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000037241	ENSG00000037241
+VIR_M1a	51191	HERC5	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000138646	ENSG00000138646
+VIR_M1a	51251	NT5C3A	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000122643	ENSG00000122643
+VIR_M1a	51284	TLR7	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000196664	ENSG00000196664
+VIR_M1b	51284	TLR7	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000196664	ENSG00000196664
+VIR_M2	51284	TLR7	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000196664	ENSG00000196664
+VIR_M2	5167	ENPP1	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000197594	ENSG00000197594
+BACT_M2	521	ATP5ME	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000169020	ENSG00000169020
+VIR_M2	5272	SERPINB9	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000170542	ENSG00000170542
+VIR_M2	5295	PIK3R1	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000145675	ENSG00000145675
+VIR_M1a	5359	PLSCR1	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000188313	ENSG00000188313
+VIR_M1b	5359	PLSCR1	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000188313	ENSG00000188313
+VIR_M1a	5366	PMAIP1	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000141682	ENSG00000141682
+VIR_M1a	5371	PML	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000140464	ENSG00000140464
+VIR_M2	5393	EXOSC9	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000123737	ENSG00000123737
+VIR_M1a	54625	PARP14	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000173193	ENSG00000173193
+VIR_M2	54718	BTN2A3P	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	FALSE	FALSE	""	ENSG00000291104
+VIR_M1a	54726	OTUD4	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000164164	ENSG00000164164
+VIR_M1a	54809	SAMD9	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000205413	ENSG00000205413
+VIR_M2	54900	LAX1	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000122188	ENSG00000122188
+VIR_M2	55016	MARCHF1	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000145416	ENSG00000145416
+BACT_M2	55471	NDUFAF7	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000003509	ENSG00000003509
+VIR_M1a	5551	PRF1	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000180644	ENSG00000180644
+VIR_M1a	55601	DDX60	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000137628	ENSG00000137628
+VIR_M1a	55718	POLR3E	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000058600	ENSG00000058600;ENSG00000284282
+VIR_M1a	558	AXL	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000167601	ENSG00000167601
+VIR_M1a	5610	EIF2AK2	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000055332	ENSG00000055332
+VIR_M1b	5610	EIF2AK2	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000055332	ENSG00000055332
+VIR_M2	56477	CCL28	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000151882	ENSG00000151882
+VIR_M1a	56829	ZC3HAV1	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000105939	ENSG00000105939
+VIR_M1b	56829	ZC3HAV1	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000105939	ENSG00000105939
+VIR_M2	57007	ACKR3	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000144476	ENSG00000144476
+VIR_M2	57105	CYSLTR2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000152207	ENSG00000152207
+VIR_M2	5734	PTGER4	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000171522	ENSG00000171522
+VIR_M1a	575	ADGRB1	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000181790	ENSG00000181790
+VIR_M2	57621	ZBTB2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000181472	ENSG00000181472
+VIR_M2	57684	ZBTB26	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000171448	ENSG00000171448
+VIR_M1b	5781	PTPN11	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000179295	ENSG00000179295
+VIR_M1a	58487	CREBZF	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000137504	ENSG00000137504
+VIR_M1a	59	ACTA2	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000107796	ENSG00000107796
+VIR_M1a	596	BCL2	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000171791	ENSG00000171791
+VIR_M2	5996	RGS1	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000090104	ENSG00000090104
+BACT_M1	6133	RPL9	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000163682	ENSG00000163682
+BACT_M1	6138	RPL15	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000174748	ENSG00000174748
+BACT_M1	6139	RPL17	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000265681	ENSG00000265681
+BACT_M1	6154	RPL26	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000161970	ENSG00000161970
+BACT_M1	6155	RPL27	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000131469	ENSG00000131469
+BACT_M1	6159	RPL29	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000162244	ENSG00000162244
+BACT_M1	6160	RPL31	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000071082	ENSG00000071082
+BACT_M1	6164	RPL34	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000109475	ENSG00000109475
+BACT_M1	6175	RPLP0	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000089157	ENSG00000089157
+BACT_M1	6189	RPS3A	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000145425	ENSG00000145425;ENSG00000292158
+BACT_M1	6192	RPS4Y1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000129824	ENSG00000129824
+BACT_M1	6201	RPS7	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000171863	ENSG00000171863
+BACT_M1	6203	RPS9	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000170889	ENSG00000170889;ENSG00000274005;ENSG00000274626;ENSG00000274646;ENSG00000274950;ENSG00000275323;ENSG00000277079;ENSG00000277359;ENSG00000278081;ENSG00000278270
+BACT_M1	6210	RPS15A	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000134419	ENSG00000134419
+BACT_M1	6229	RPS24	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000138326	ENSG00000138326
+BACT_M1	6232	RPS27	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000177954	ENSG00000177954
+VIR_M1a	6355	CCL8	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000108700	ENSG00000108700
+VIR_M1a	639	PRDM1	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000057657	ENSG00000057657
+VIR_M1b	63901	FAM111A	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000166801	ENSG00000166801
+VIR_M1a	640	BLK	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000136573	ENSG00000136573;ENSG00000285369
+VIR_M1a	64108	RTP4	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000136514	ENSG00000136514;ENSG00000291555
+VIR_M1a	64127	NOD2	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000167207	ENSG00000167207
+VIR_M2	64127	NOD2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000167207	ENSG00000167207
+VIR_M1a	64135	IFIH1	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000115267	ENSG00000115267
+VIR_M1b	64135	IFIH1	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000115267	ENSG00000115267
+VIR_M1a	64170	CARD9	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000187796	ENSG00000187796
+VIR_M2	64170	CARD9	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000187796	ENSG00000187796
+VIR_M2	643	CXCR5	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000160683	ENSG00000160683
+VIR_M1a	64343	AZI2	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000163512	ENSG00000163512
+VIR_M1b	64343	AZI2	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000163512	ENSG00000163512
+BACT_M1	64963	MRPS11	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000181991	ENSG00000181991
+VIR_M2	654	BMP6	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000153162	ENSG00000153162
+VIR_M2	657	BMPR1A	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000107779	ENSG00000107779
+VIR_M1a	665	BNIP3L	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000104765	ENSG00000104765
+VIR_M1a	6714	SRC	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000197122	ENSG00000197122;ENSG00000291971
+VIR_M1a	6772	STAT1	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000115415	ENSG00000115415
+VIR_M1b	6772	STAT1	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000115415	ENSG00000115415
+VIR_M1a	6773	STAT2	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000170581	ENSG00000170581
+VIR_M1b	6773	STAT2	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000170581	ENSG00000170581
+VIR_M2	6932	TCF7	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000081059	ENSG00000081059
+VIR_M2	6938	TCF12	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000140262	ENSG00000140262
+VIR_M2	7049	TGFBR3	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000069702	ENSG00000069702
+VIR_M1a	7098	TLR3	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000164342	ENSG00000164342
+VIR_M1b	7098	TLR3	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000164342	ENSG00000164342
+VIR_M2	7098	TLR3	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000164342	ENSG00000164342
+VIR_M1a	710	SERPING1	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000149131	ENSG00000149131
+VIR_M1a	717	C2	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000166278	ENSG00000166278;ENSG00000204364;ENSG00000206372;ENSG00000226560;ENSG00000231543;ENSG00000235017;ENSG00000235696
+VIR_M1a	7292	TNFSF4	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000117586	ENSG00000117586
+VIR_M2	7292	TNFSF4	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000117586	ENSG00000117586
+VIR_M2	729230	CCR2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000121807	ENSG00000121807
+VIR_M2	7293	TNFRSF4	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000186827	ENSG00000186827
+BACT_M1	7311	UBA52	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000221983	ENSG00000221983
+VIR_M2	7597	ZBTB25	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000089775	ENSG00000089775
+VIR_M2	7690	ZNF131	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000172262	ENSG00000172262
+VIR_M2	7693	ZNF134	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000213762	ENSG00000213762
+VIR_M1a	79132	DHX58	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000108771	ENSG00000108771
+VIR_M1a	81030	ZBP1	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000124256	ENSG00000124256
+VIR_M1a	83666	PARP9	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000138496	ENSG00000138496
+VIR_M2	841	CASP8	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000064012	ENSG00000064012
+BACT_M2	84233	TMEM126A	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000171202	ENSG00000171202
+VIR_M2	84502	JPH4	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000092051	ENSG00000092051
+VIR_M2	84614	ZBTB37	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000185278	ENSG00000185278
+BACT_M2	847	CAT	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000121691	ENSG00000121691
+VIR_M1a	84851	TRIM52	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000183718	ENSG00000183718
+VIR_M1a	85363	TRIM5	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000132256	ENSG00000132256
+VIR_M1a	85364	ZCCHC3	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000247315	ENSG00000247315
+VIR_M1a	8575	PRKRA	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000180228	ENSG00000180228
+VIR_M2	8575	PRKRA	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000180228	ENSG00000180228
+VIR_M1a	8638	OASL	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000135114	ENSG00000135114
+VIR_M1b	8638	OASL	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000135114	ENSG00000135114
+VIR_M2	8651	SOCS1	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000185338	ENSG00000185338
+VIR_M2	868	CBLB	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000114423	ENSG00000114423
+VIR_M1a	8725	URI1	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000105176	ENSG00000105176
+VIR_M2	8743	TNFSF10	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000121858	ENSG00000121858
+VIR_M2	8744	TNFSF9	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000125657	ENSG00000125657
+VIR_M2	8763	CD164	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000135535	ENSG00000135535
+VIR_M1a	8767	RIPK2	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000104312	ENSG00000104312
+VIR_M1b	8767	RIPK2	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000104312	ENSG00000104312
+VIR_M2	8767	RIPK2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000104312	ENSG00000104312
+BACT_M2	9016	SLC25A14	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000102078	ENSG00000102078
+VIR_M2	9034	CCRL2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000121797	ENSG00000121797
+VIR_M1a	912	CD1D	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000158473	ENSG00000158473
+VIR_M2	912	CD1D	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000158473	ENSG00000158473
+VIR_M1a	91351	DDX60L	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000181381	ENSG00000181381
+VIR_M1a	91543	RSAD2	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000134321	ENSG00000134321
+VIR_M1b	91543	RSAD2	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000134321	ENSG00000134321
+VIR_M1a	91607	SLFN11	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000172716	ENSG00000172716
+VIR_M1a	9188	DDX21	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000165732	ENSG00000165732
+BACT_M2	91942	NDUFAF2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000164182	ENSG00000164182
+VIR_M1a	9213	XPR1	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000143324	ENSG00000143324
+VIR_M1a	9246	UBE2L6	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000156587	ENSG00000156587
+VIR_M1a	9258	MFHAS1	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000147324	ENSG00000147324;ENSG00000285022
+BACT_M1	9349	RPL23	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000125691	ENSG00000125691
+VIR_M2	941	CD80	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000121594	ENSG00000121594
+VIR_M2	944	TNFSF8	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000106952	ENSG00000106952
+BACT_M2	9551	ATP5MF	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	TRUE	TRUE	TRUE	FALSE	ENSG00000241468	ENSG00000241468
+VIR_M1a	958	CD40	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000101017	ENSG00000101017
+VIR_M1a	9582	APOBEC3B	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000179750	ENSG00000179750
+VIR_M1a	9618	TRAF4	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000076604	ENSG00000076604
+VIR_M1a	9636	ISG15	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000187608	ENSG00000187608
+VIR_M1b	9636	ISG15	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000187608	ENSG00000187608
+VIR_M1a	9782	MATR3	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000015479;ENSG00000280987	ENSG00000015479;ENSG00000280987
+VIR_M1a	9830	TRIM14	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000106785	ENSG00000106785
+VIR_M1b	9868	TOMM70	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000154174	ENSG00000154174
+VIR_M2	9880	ZBTB39	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000166860	ENSG00000166860
+VIR_M1a	9908	G3BP2	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000138757	ENSG00000138757
+VIR_M2	9966	TNFSF15	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRUE	TRUE	TRUE	FALSE	ENSG00000181634	ENSG00000181634
