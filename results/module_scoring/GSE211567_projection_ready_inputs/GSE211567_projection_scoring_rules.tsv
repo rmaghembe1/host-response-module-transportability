@@ -1,0 +1,11 @@
+rule_id	rule
+R1_input_identifier	Projection should use gene-level identifiers. SYMBOL may be used for cross-platform matching, with ENTREZID retained as the locked discovery identifier.
+R2_primary_scoring	Primary module score is the unweighted mean of per-gene z-scored expression values for genes available in the external cohort.
+R3_scaling	Within each external dataset, expression values should be z-scored gene-wise across samples before module scoring.
+R4_missing_gene_rule	Missing genes are ignored for a module score, but coverage must be reported.
+R5_minimum_gene_coverage	A module should be considered projection-eligible only if at least 50% of its locked genes are available after identifier matching; stricter 70% coverage can be used as sensitivity.
+R6_direction_handling	Module direction is retained as discovered: bacterial-higher modules have direction sign +1; viral-higher modules have direction sign -1. Do not flip module direction using external outcomes.
+R7_weighted_scoring	Weighted scoring using bounded absolute pooled logFC weights is optional sensitivity only and must not replace the primary unweighted score.
+R8_external_projection_boundary	External projection tests transportability of fixed discovery modules; it does not redefine modules, reweight genes, or select new genes.
+R9_no_retraining	No external cohort should be used to reselect genes, rename modules, or adjust module composition.
+R10_reporting	Report gene coverage, score distributions, group contrasts, and whether direction agrees with GSE211567 discovery orientation.
