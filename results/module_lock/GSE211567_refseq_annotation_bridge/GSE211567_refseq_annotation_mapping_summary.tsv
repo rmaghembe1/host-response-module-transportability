@@ -1,0 +1,9 @@
+metric	value
+unique_refseq_features	19999
+bridge_rows_after_one_to_many_mapping	22752
+features_with_any_mapping	19947
+features_with_symbol	19947
+features_with_entrez	19947
+features_with_ensembl	19371
+features_without_any_mapping	52
+features_with_multiple_bridge_rows	1129

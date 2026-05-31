@@ -1,0 +1,5 @@
+feature_set	transcript_features_input	gene_level_entrez_output	unique_symbols_output
+all_modelled_features	19999	9100	9100
+site_aware_eligible	9224	4324	4324
+site_aware_eligible_bacterial_higher	2788	1479	1479
+site_aware_eligible_viral_higher	6436	2854	2854
