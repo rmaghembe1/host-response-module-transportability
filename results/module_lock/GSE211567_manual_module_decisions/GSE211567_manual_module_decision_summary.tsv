@@ -1,0 +1,7 @@
+review_decision_tier	module_direction	n_module_rows	total_GO_terms	FDR05_GO_terms	median_unique_overlap_genes	max_unique_overlap_genes
+contextual_or_borderline_module	higher_in_bacterial	1	1	0	7	7
+contextual_or_borderline_module	higher_in_viral	7	15	4	27	230
+primary_candidate_module	higher_in_bacterial	2	6	6	23	25
+primary_candidate_module	higher_in_viral	3	9	9	106	128
+secondary_candidate_module	higher_in_bacterial	1	1	1	11	11
+secondary_candidate_module	higher_in_viral	4	11	10	53.5	531
