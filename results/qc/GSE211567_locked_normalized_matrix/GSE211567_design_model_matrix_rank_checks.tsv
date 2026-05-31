@@ -1,0 +1,8 @@
+model_label	formula	n_samples	n_columns	rank	full_rank	column_names
+group_only	~discovery_group	224	2	2	TRUE	(Intercept);discovery_groupbacterial
+group_plus_site	~discovery_group + site	224	3	3	TRUE	(Intercept);discovery_groupbacterial;siteUnited_States
+group_plus_batch	~discovery_group + sequencing_batch	224	3	3	TRUE	(Intercept);discovery_groupbacterial;sequencing_batch2
+group_plus_site_plus_batch	~discovery_group + site + sequencing_batch	224	4	4	TRUE	(Intercept);discovery_groupbacterial;siteUnited_States;sequencing_batch2
+group_plus_platform	~discovery_group + platform_id	224	3	3	TRUE	(Intercept);discovery_groupbacterial;platform_idGPL24676
+group_plus_instrument	~discovery_group + instrument_model	224	3	3	TRUE	(Intercept);discovery_groupbacterial;instrument_modelIllumina NovaSeq 6000
+group_site_batch_age_gender_complete_age	~discovery_group + site + sequencing_batch + age_numeric + gender	224	6	6	TRUE	(Intercept);discovery_groupbacterial;siteUnited_States;sequencing_batch2;age_numeric;gendermale
