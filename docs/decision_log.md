@@ -185,3 +185,17 @@
 - Current status: GSE68310 may remain a secondary viral-only longitudinal perturbation/generalizability candidate, but it is not eligible as the primary bacterial-versus-viral validation/projection cohort.
 - Interpretation safeguard: locked GSE211567 bacterial-versus-viral modules must not be formally validated using GSE68310 unless a separate viral-only question and cohort-lock decision are created.
 - Next action: continue searching/auditing independent cohorts with confirmed bacterial and viral labels.
+
+## 2026-05-31 — GSE73461 formal external projection cohort lock
+- Decision: Lock GSE73461 as the formal external projection cohort for fixed GSE211567 discovery-module scoring.
+- Rationale: GSE73461 passed metadata, expression-label, sample-structure and identifier-coverage gates.
+- Metadata/sample gate: GSE73461 contains 459 expression samples with clear projection-relevant groups, including 52 DefiniteBacterial samples and 94 DefiniteViral samples.
+- Control/context groups: 55 Control samples are retained as secondary context; Inflammatory, Kawasaki and Unknown groups are excluded from the primary bacterial-versus-viral projection contrast.
+- Expression gate: processed raw and normalized discovery matrices are valid, contain 47,323 feature rows, have 459 expression columns and 459 paired detection P-value columns, and raw/normalized sample sets are identical.
+- Annotation gate: GSE73461 Illumina probes were mapped using `illuminaHumanv4.db`, avoiding the oversized GPL10558 family SOFT download.
+- Identifier coverage gate: all five locked GSE211567 modules passed both the 50% primary and 70% sensitivity coverage thresholds in GSE73461.
+- Module coverage: BACT_M1 = 24/25 genes, BACT_M2 = 21/21 genes, VIR_M1a = 128/128 genes, VIR_M1b = 33/33 genes and VIR_M2 = 105/106 genes.
+- Locked scoring rule: apply the pre-specified unweighted mean z-score scoring rule using fixed GSE211567 module genes; do not reselect genes, rename modules, reweight modules or change module composition.
+- Primary projection contrast: DefiniteBacterial versus DefiniteViral only.
+- Interpretation safeguard: GSE73461 projection may support module transportability assessment, but must not be framed as diagnostic signature discovery or causal validation.
+- Next action: run fixed-module GSE73461 projection scoring after this lock.
