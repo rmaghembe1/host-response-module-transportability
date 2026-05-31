@@ -165,3 +165,13 @@
 - Boundary: no biological claims, validation claims or transportability claims will be made from GSE161731 technical rehearsal outputs.
 - Next phase: identify and lock a formal external projection cohort using predefined eligibility criteria before scoring fixed GSE211567 modules.
 - Required external cohort criteria: independent cohort, compatible whole-blood or comparable host transcriptome data, usable gene identifiers, adequate bacterial and viral or relevant pathogen-class metadata, sufficient sample size, and no use in discovery/module definition.
+
+## 2026-05-31 — GSE261482 external projection candidate audit boundary
+- Decision: Do not lock GSE261482 as the primary formal bacterial-versus-viral external projection cohort.
+- Evidence: GSE261482 has valid expression files, including raw counts with ENSEMBL-like feature IDs and normalized data with SYMBOL-like feature IDs.
+- Evidence: both expression files contain 177 sample columns numbered 1–177, and count/normalized sample columns are consistent.
+- Evidence: GEO metadata and expression mapping audits support pediatric/blood/RNA-seq feasibility and bacterial/control-related structure.
+- Blocking issue: viral/pathogen-class metadata was not recovered in the parsed GEO metadata or keyword audit.
+- Current status: GSE261482 remains a conditional secondary pediatric bacterial/control or infection/control generalizability candidate, not a bacterial-versus-viral validation cohort.
+- Interpretation safeguard: locked GSE211567 modules must not be scored in GSE261482 for bacterial-versus-viral projection unless reliable pathogen-class labels are recovered and a separate cohort-lock decision is made.
+- Next action: search for or audit a stronger independent formal external projection cohort with confirmed bacterial and viral labels.
