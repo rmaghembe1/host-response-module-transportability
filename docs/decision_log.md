@@ -175,3 +175,13 @@
 - Current status: GSE261482 remains a conditional secondary pediatric bacterial/control or infection/control generalizability candidate, not a bacterial-versus-viral validation cohort.
 - Interpretation safeguard: locked GSE211567 modules must not be scored in GSE261482 for bacterial-versus-viral projection unless reliable pathogen-class labels are recovered and a separate cohort-lock decision is made.
 - Next action: search for or audit a stronger independent formal external projection cohort with confirmed bacterial and viral labels.
+
+## 2026-05-31 — GSE68310 supplementary phenotype/expression inspection boundary
+- Decision: Do not lock GSE68310 as the primary formal bacterial-versus-viral external projection cohort.
+- Evidence: the supplementary phenotype file was valid and contained subject-level influenza metadata, including `Virus_by_PCR` values such as `influenza_A_virus`.
+- Evidence: the non-normalized expression file was valid and contains longitudinal subject-timepoint expression columns such as Baseline, Day0, Day2, Day4, Day6, Day21 and Spring, with AVG_Signal and Detection P-value measurements.
+- Technical status: GSE68310 is expression-usable and metadata-usable for a longitudinal influenza host-response analysis.
+- Blocking issue: GSE68310 does not provide a bacterial-versus-viral pathogen-class contrast for the locked GSE211567 discovery-module projection question.
+- Current status: GSE68310 may remain a secondary viral-only longitudinal perturbation/generalizability candidate, but it is not eligible as the primary bacterial-versus-viral validation/projection cohort.
+- Interpretation safeguard: locked GSE211567 bacterial-versus-viral modules must not be formally validated using GSE68310 unless a separate viral-only question and cohort-lock decision are created.
+- Next action: continue searching/auditing independent cohorts with confirmed bacterial and viral labels.
