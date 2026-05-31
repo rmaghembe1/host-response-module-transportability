@@ -1,0 +1,5 @@
+supplementary_file_type_hint	n_files	example_files
+matrix_or_expression	2	/geo/series/GSE68nnn/GSE68310/; GSE68310_non-normalized.txt.gz
+metadata	1	GSE68310_SubjectPhenotypes1.txt.gz
+raw_or_fastq_sra	1	GSE68310_RAW.tar
+compressed	3	GSE68310_RAW.tar; GSE68310_SubjectPhenotypes1.txt.gz; GSE68310_non-normalized.txt.gz

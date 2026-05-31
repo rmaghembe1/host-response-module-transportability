@@ -1,0 +1,4 @@
+file	exists	size_bytes	sha256
+data/metadata_raw/GSE68310/GSE68310_family.soft.gz	True	404592570	ab029717684216c58b030a859a9231b6bba964efb89aa67bf732a0e572146a58
+data/metadata_raw/GSE68310/GSE68310_series_matrix.txt.gz	True	204934272	3ba7898be1c6c279fb2779b1e7bf99b887374fccf4221a0c7bcb7b2cfae312de
+data/metadata_raw/GSE68310/GSE68310_supplementary_file_index.html	True	888	d66fef99db20de46819b5f2d2ba42cc95295d34ed7bf9ea71694c80f7276bea7

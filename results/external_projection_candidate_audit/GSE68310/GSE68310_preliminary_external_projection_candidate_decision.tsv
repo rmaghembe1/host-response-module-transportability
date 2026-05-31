@@ -1,0 +1,2 @@
+candidate_dataset	candidate_role	n_soft_samples	series_matrix_metadata_available	n_supplementary_files_indexed	bacterial_metadata_clue_rows	viral_metadata_clue_rows	blood_or_pbmc_clue_rows	preliminary_status	next_action
+GSE68310	formal_external_projection_candidate	880	True	6	0	880	880	not_ready_until_bacterial_viral_labels_confirmed	Inspect phenotype fields and expression matrix structure before any cohort-lock decision.

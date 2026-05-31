@@ -1,0 +1,40 @@
+field	nonmissing_count	unique_values	example_values
+sample_record	880	880	GSM1667382; GSM1667383; GSM1667384; GSM1667385; GSM1667386; GSM1667387
+title	880	880	WholeBloodRNA_JR0021_Baseline; WholeBloodRNA_JR0021_Day0; WholeBloodRNA_JR0021_Day2; WholeBloodRNA_JR0021_Day4; WholeBloodRNA_JR0021_Day6; WholeBloodRNA_JR0021_Day21
+geo_accession	880	880	GSM1667382; GSM1667383; GSM1667384; GSM1667385; GSM1667386; GSM1667387
+status	880	1	Public on Apr 28 2015
+submission_date	880	1	Apr 27 2015
+last_update_date	880	2	Dec 07 2020; Apr 28 2015
+type	880	1	RNA
+channel_count	880	1	1
+source_name_ch1	880	1	Whole blood
+organism_ch1	880	1	Homo sapiens
+taxid_ch1	880	1	9606
+characteristics_ch1	880	880	subject id: JR0021 | time point: Baseline | gender: female | infection: influenza A virus | baseline anti-a/h1n1 ab titers: 2.5 | spring anti-a/h1n1 ab titers: 6; subject id: JR0021 | time point: Day0 | gender: female | infection: influenza A virus | baseline anti-a/h1n1 ab titers: 2.5 | spring anti-a/h1n1 ab titers: 6; subject id: JR0021 | time point: Day2 | gender: female | infection: influenza A virus | baseline anti-a/h1n1 ab titers: 2.5 | spring anti-a/h1n1 ab titers: 6; subject id: JR0021 | time point: Day4 | gender: female | infection: influenza A virus | baseline anti-a/h1n1 ab titers: 2.5 | spring anti-a/h1n1 ab titers: 6; subject id: JR0021 | time point: Day6 | gender: female | infection: influenza A virus | baseline anti-a/h1n1 ab titers: 2.5 | spring anti-a/h1n1 ab titers: 6; subject id: JR0021 | time point: Day21 | gender: female | infection: influenza A virus | baseline anti-a/h1n1 ab titers: 2.5 | spring anti-a/h1n1 ab titers: 6
+molecule_ch1	880	1	total RNA
+extract_protocol_ch1	880	1	RNA was extracted with the QIAGEN PAXgene Blood RNA System, in accordance with the protocol provided with the kit. Quality control was performed on a BioRad Experion microfluidic electrophoresis system
+label_ch1	880	1	biotin
+label_protocol_ch1	880	1	Biotinylated cRNA was prepared with the Ambion Illumina TotalPrep RNA Amplification Kit
+hyb_protocol	880	1	Standard Illumina hybridization protocol
+scan_protocol	880	1	Standard Illumina scanning protocol. Scanning was performed on an Illumina iScan system
+data_processing	880	1	Raw data underwent background adjustment, variance stabilization transformation, and robust spline normalization using R package lumi (available from Bioconductor)
+platform_id	880	1	GPL10558
+contact_name	880	1	John,W,Belmont
+contact_laboratory	880	1	Belmont Lab
+contact_department	880	1	Molecular and Human Genetics
+contact_institute	880	1	Baylor College of Medicine
+contact_address	880	1	One Baylor Plaza, BCM 320
+contact_city	880	1	Houston
+contact_state	880	1	TX
+contact_zip/postal_code	880	1	77030
+contact_country	880	1	USA
+supplementary_file	880	1	NONE
+relation	766	2	Reanalyzed by: GSE162330
+series_id	880	1	GSE68310
+data_row_count	880	1	47254
+characteristics_subject_id	880	133	JR0021; JR0023; JR0035; JR0053; JR0080; JR0082
+characteristics_time_point	880	7	Baseline; Day0; Day2; Day4; Day6; Day21
+characteristics_gender	880	2	female; male
+characteristics_infection	880	18	influenza A virus; influenza A virus and human coronavirus 229E; influenza A virus and human rhinovirus; influenza A virus and human coronavirus OC43; influenza A virus and respiratory syncytial virus B; influenza B virus
+characteristics_baseline_anti_a_h1n1_ab_titers	880	14	2.5; 3; 1.5; 2; 5.5; 3.5
+characteristics_spring_anti_a_h1n1_ab_titers	880	16	6; 6.5; 8; 4.5; 5; 7
