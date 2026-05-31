@@ -244,3 +244,12 @@
 - Rationale: this avoids the `svglite` system-dependency issue while preserving an editable SVG backup, a vector PDF backup and high-resolution raster PNG.
 - Interpretation safeguard: figure regeneration changes only export quality and file formats; it does not alter the underlying scoring results or interpretation.
 - Next action: apply the same publication-grade export standard to all future manuscript-facing GSE211567 discovery and supplementary figures.
+
+## 2026-05-31 — GSE211567 manuscript discovery figures regenerated at publication resolution
+- Decision: Accept the GSE211567 manuscript discovery figure panels as publication-grade manuscript-facing outputs.
+- Export standard: each GSE211567 discovery panel is exported as 1800 dpi PNG, editable SVG and vector PDF.
+- Implemented panels: primary bacterial-versus-viral discovery volcano, site-stratified concordance summary and locked discovery-module gene-count summary.
+- Technical correction: site-concordance plotting harmonized the direction-concordance table by retaining pairwise `_all_features` rows and stripping the suffix before merging with the logFC-correlation table.
+- Quality check: all panels regenerated without removed-row warnings after the site-concordance merge correction.
+- Interpretation safeguard: figure generation changes only manuscript presentation/export quality; it does not alter discovery modelling, site-aware filtering, module locking or external projection results.
+- Next action: prepare the combined manuscript Results narrative linking GSE211567 discovery, conservative module locking and GSE73461 external projection.
