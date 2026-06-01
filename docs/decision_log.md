@@ -290,3 +290,13 @@
 - Package audit: manuscript package index contains 41 path entries, 40 unique checked paths, 40 present and 0 missing.
 - Interpretation safeguard: v0.2 preserves the fixed-module transportability framing and avoids diagnostic classifier, diagnostic model validation, gene rediscovery, module redefinition and causal-validation claims.
 - Next action: proceed to title page, keywords, data/code availability, supplementary-materials organization and journal-targeted formatting.
+
+## 2026-05-31 — Complete manuscript draft v0.4 accepted as current audited central draft
+- Decision: Accept `docs/complete_manuscript_draft_v0.4.md` as the current clean, QC-passed complete manuscript draft.
+- Basis: v0.4 incorporates front matter and corrects the v0.3 QC wording issues in the Methods and funding/front-matter source text.
+- QC result: v0.4 passed terminal-text, unresolved-placeholder, diagnostic-overclaiming, causal-overclaiming, rediscovery-language, duplicate-heading and required-phrase checks.
+- Package-index update: v0.4 is now listed as the current complete manuscript assembly; v0.3, v0.2 and v0.1 are retained as previous draft milestones.
+- Package audit: manuscript package index contains 44 path entries, 43 unique checked paths, 43 present and 0 missing.
+- Current manuscript scope: front matter, structured abstract, Introduction, Methods, Results, Discussion, main figure captions, Table 1 title/footnotes and interpretation-boundary reminder.
+- Interpretation safeguard: the manuscript remains framed as fixed-module transportability analysis of host-response programmes, not diagnostic classifier discovery, diagnostic model validation, gene rediscovery, module redefinition or causal validation.
+- Next action: proceed to journal-targeting, reference integration, supplementary-material organization and final submission-format preparation.
