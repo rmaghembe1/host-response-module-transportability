@@ -6,9 +6,9 @@ import csv
 items = [
     {
         "supplementary_item": "Supplementary Table S1",
-        "description": "External projection candidate search register",
+        "description": "External projection candidate search register to generate from search plan and candidate audit outputs",
         "path": "docs/formal_external_projection_candidate_search_register.md",
-        "required_status": "locate_or_confirm"
+        "required_status": "to_generate"
     },
     {
         "supplementary_item": "Supplementary Table S1",
@@ -19,19 +19,19 @@ items = [
     {
         "supplementary_item": "Supplementary Table S1",
         "description": "GSE261482 external projection boundary",
-        "path": "docs/GSE261482_external_projection_candidate_boundary.md",
+        "path": "docs/GSE261482_external_projection_candidate_feasibility_audit_report.md",
         "required_status": "optional_if_exists"
     },
     {
         "supplementary_item": "Supplementary Table S1",
         "description": "GSE68310 external projection boundary",
-        "path": "docs/GSE68310_external_projection_candidate_boundary.md",
+        "path": "docs/GSE68310_external_projection_candidate_feasibility_audit_report.md",
         "required_status": "optional_if_exists"
     },
     {
         "supplementary_item": "Supplementary Table S2",
         "description": "GSE211567 final discovery module label table",
-        "path": "docs/GSE211567_final_discovery_module_label_table.md",
+        "path": "docs/GSE211567_final_discovery_module_label_table_report.md",
         "required_status": "locate_or_confirm"
     },
     {
