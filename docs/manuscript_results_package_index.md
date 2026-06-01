@@ -65,6 +65,15 @@ Use as the current primary journal-targeting framework. Financial feasibility, f
 
 Use as the current supplementary register documenting candidate external-projection cohort selection and the final decision to use GSE73461 as the formal projection cohort.
 
+
+### CMI supplementary tables package
+
+- `docs/supplementary_materials/CMI_supplementary_tables_index.md`
+- `results/audits/cmi_supplementary_tables_package_audit_summary.md`
+- `results/audits/cmi_supplementary_tables_package_audit.tsv`
+
+Use as the current manuscript-ready supplementary tables package index and path audit for Supplementary Tables S1–S5.
+
 ### CMI-specific supplementary-material inventory
 
 - `docs/cmi_supplementary_material_inventory.md`
