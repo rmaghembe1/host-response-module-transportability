@@ -10,7 +10,7 @@ Total headings: 56
 
 - terminal_text: PASS
 - unresolved_placeholders: PASS
-- diagnostic_overclaiming: 1 hit(s)
+- diagnostic_overclaiming: PASS
 - causal_overclaiming: PASS
 - rediscovery_language: PASS
 - duplicate headings: PASS

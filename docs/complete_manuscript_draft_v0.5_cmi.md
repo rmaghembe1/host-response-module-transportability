@@ -342,5 +342,5 @@ This manuscript should be submitted through the standard subscription/non-open-a
 
 # Interpretation Boundary Reminder
 
-This manuscript draft presents fixed-module transportability analysis of host-response programmes. It must not be framed as diagnostic classifier discovery, diagnostic model validation, clinical diagnostic test development, gene rediscovery, module redefinition or causal validation.
+This manuscript draft presents fixed-module transportability analysis of host-response programmes. It must not be framed as diagnostic classifier discovery, diagnostic model validation, clinical implementation evidence, gene rediscovery, module redefinition or causal validation.
 

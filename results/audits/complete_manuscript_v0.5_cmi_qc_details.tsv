@@ -1,7 +1,7 @@
 check	line	content
 terminal_text	PASS	
 unresolved_placeholders	PASS	
-diagnostic_overclaiming	345	This manuscript draft presents fixed-module transportability analysis of host-response programmes. It must not be framed as diagnostic classifier discovery, diagnostic model validation, clinical diagnostic test development, gene rediscovery, module redefinition or causal validation.
+diagnostic_overclaiming	PASS	
 causal_overclaiming	PASS	
 rediscovery_language	PASS	
 duplicate_heading	PASS	
