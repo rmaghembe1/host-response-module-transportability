@@ -24,6 +24,27 @@ Use as a supporting narrative draft and fallback reference.
 
 Use for detailed external-projection wording if the manuscript needs a longer projection subsection.
 
+
+## Methods materials
+
+### Full Methods draft
+
+- `docs/methods_section_full_draft.md`
+
+Use as the current manuscript Methods draft.
+
+### Methods section skeleton
+
+- `docs/methods_section_skeleton.md`
+
+Use as the structural fallback if the full Methods section needs trimming.
+
+### Methods–Results alignment map
+
+- `docs/methods_results_alignment_map.md`
+
+Use to verify that Methods descriptions remain aligned with Results claims, scripts, outputs and interpretation boundaries.
+
 ## Main figures
 
 ### Figure 1 — GSE211567 discovery and module locking
