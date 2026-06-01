@@ -160,6 +160,15 @@ Use as the current manuscript front matter draft for title, short title, keyword
 ## Complete manuscript assembly
 
 
+
+### Complete manuscript draft v0.6 CMI front-matter-finalized draft
+
+- `docs/complete_manuscript_draft_v0.6_cmi_front_matter_finalized.md`
+- `results/audits/complete_manuscript_v0.6_cmi_qc_summary.md`
+- `results/audits/complete_manuscript_v0.6_cmi_qc_details.tsv`
+
+Use as the current clean, QC-passed, front-matter-finalized CMI-facing complete manuscript draft.
+
 ### Complete manuscript draft v0.5 CMI-facing adaptation
 
 - `docs/complete_manuscript_draft_v0.5_cmi.md`
