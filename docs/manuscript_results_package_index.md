@@ -51,6 +51,14 @@ Use as the current primary journal-targeting framework. Financial feasibility, f
 
 
 
+
+### Live-verified hybrid/no-APC guideline audit
+
+- `docs/live_verified_hybrid_no_apc_guideline_audit.md`
+- `docs/live_verified_hybrid_no_apc_guideline_audit.tsv`
+
+Use as the current live-verified financial-first journal audit. This document prioritizes journals with subscription/hybrid no-APC routes before fully open-access waiver-dependent options.
+
 ### Hybrid/no-APC target audit
 
 - `docs/hybrid_no_apc_target_audit.md`
