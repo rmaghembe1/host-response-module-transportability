@@ -13,7 +13,7 @@ Total headings: 59
 - diagnostic_overclaiming: PASS
 - causal_overclaiming: PASS
 - rediscovery_language: PASS
-- duplicate headings: 1 duplicate(s)
+- duplicate headings: PASS
 - required phrases: PASS
 
 ## Files written

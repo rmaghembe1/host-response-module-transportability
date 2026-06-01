@@ -329,7 +329,7 @@ This table summarizes fixed-module projection of the five locked GSE211567 disco
 
 **Abbreviations:** BH, Benjamini–Hochberg; OXPHOS, oxidative phosphorylation.
 
-## Interpretation boundary
+## Front-matter interpretation boundary
 
 Table 1 reports fixed-module external projection. It should not be interpreted as diagnostic classifier discovery, model training, gene rediscovery, module redefinition or causal validation.
 
