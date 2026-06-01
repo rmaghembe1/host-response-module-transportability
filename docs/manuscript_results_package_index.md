@@ -29,6 +29,15 @@ Use for detailed external-projection wording if the manuscript needs a longer pr
 
 
 
+
+## Journal targeting and submission readiness
+
+### Journal-targeting checklist
+
+- `docs/journal_targeting_submission_readiness_checklist.md`
+
+Use as the current guide for journal selection, manuscript polishing, supplementary-material organization and final submission formatting.
+
 ## Front matter material
 
 ### Front matter draft
