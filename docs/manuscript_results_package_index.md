@@ -56,6 +56,13 @@ Use as the current primary journal-targeting framework. Financial feasibility, f
 
 
 
+
+### CMI-specific manuscript polishing checklist
+
+- `docs/cmi_specific_manuscript_polishing_checklist.md`
+
+Use as the current final polishing checklist before adapting the audited v0.4 manuscript into a CMI-facing v0.5 draft.
+
 ### CMI-facing cover letter draft
 
 - `docs/cmi_facing_cover_letter_draft.md`
