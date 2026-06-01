@@ -35,6 +35,13 @@ Use for detailed external-projection wording if the manuscript needs a longer pr
 
 ### Financial-first journal screening strategy
 
+
+### Author and APC-waiver eligibility profile
+
+- `docs/author_apc_waiver_profile.md`
+
+Use as the current author-affiliation and Tanzania-based waiver-screening profile for APC/no-APC journal targeting.
+
 - `docs/financial_first_journal_screening_strategy.md`
 
 Use as the current primary journal-targeting framework. Financial feasibility, full APC waiver likelihood, no-APC publication route or hybrid/subscription option must be evaluated before scientific fit.
