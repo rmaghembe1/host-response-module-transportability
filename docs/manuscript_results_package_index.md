@@ -28,6 +28,15 @@ Use for detailed external-projection wording if the manuscript needs a longer pr
 
 
 
+
+## Front matter material
+
+### Front matter draft
+
+- `docs/front_matter_manuscript_draft.md`
+
+Use as the current manuscript front matter draft for title, short title, keywords, data/code availability, author contributions, funding, competing interests, ethics and acknowledgements.
+
 ## Complete manuscript assembly
 
 ### Complete manuscript draft v0.2
