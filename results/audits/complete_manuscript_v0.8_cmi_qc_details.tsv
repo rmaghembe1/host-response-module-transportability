@@ -1,0 +1,8 @@
+check	line	content
+terminal_text	PASS	
+unresolved_placeholders	PASS	
+diagnostic_overclaiming	193	Several limitations should guide interpretation. Public metadata were imperfect, and case definitions, clinical syndromes, pathogens, platforms and preprocessing may differ across datasets. Whole-blood transcriptomic scores may reflect both cell composition and cell-intrinsic activation states. GSE73461 provided a useful external projection cohort, but the analysis remains retrospective and does not establish diagnostic accuracy, clinical readiness or causal mechanisms. Additional prospective and multi-cohort analyses are needed to test how these modules behave across age groups, syndromes, pathogens, sampling times and treatment contexts.
+causal_overclaiming	PASS	
+rediscovery_language	PASS	
+duplicate_heading	PASS	
+missing_required_phrase	PASS	
