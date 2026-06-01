@@ -39,11 +39,23 @@ Use as the current manuscript front matter draft for title, short title, keyword
 
 ## Complete manuscript assembly
 
-### Complete manuscript draft v0.2
+### Complete manuscript draft v0.4
+
+- `docs/complete_manuscript_draft_v0.4.md`
+
+Use as the current clean, QC-passed central manuscript draft for internal review and section-level refinement.
+
+### Previous complete manuscript draft v0.3
+
+- `docs/complete_manuscript_draft_v0.3.md`
+
+Retained as the first front-matter-inclusive complete draft before v0.4 QC wording fixes.
+
+### Previous complete manuscript draft v0.2
 
 - `docs/complete_manuscript_draft_v0.2.md`
 
-Use as the current clean, QC-passed central manuscript draft for internal review and section-level refinement.
+Retained as the first QC-passed central manuscript draft before front matter was added.
 
 ### Previous complete manuscript draft v0.1
 
