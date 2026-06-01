@@ -93,7 +93,7 @@ To identify bacterial- and viral-associated host-response modules using a site-a
 
 ### Methods
 
-GSE211567 was used for discovery. A bacterial-versus-viral limma contrast was combined with site-stratified concordance assessment to support conservative feature selection. Transcript-level features were mapped to gene identifiers, followed by Gene Ontology biological-process enrichment, redundancy reduction and manual module review. Five discovery modules were locked before projection: two bacterial-higher modules and three viral-higher modules. Locked modules were scored in GSE73461 using a pre-specified unweighted mean z-score rule. The primary external contrast compared DefiniteBacterial and DefiniteViral samples. Wilcoxon tests with Benjamini–Hochberg correction assessed module-score differences. A primary-only z-score sensitivity analysis excluded Control samples from the z-score reference set.
+GSE211567 was used for discovery. A bacterial-versus-viral limma contrast was combined with site-stratified concordance assessment to support conservative feature selection; the external projection candidate search and cohort-selection decisions are summarized in Supplementary Table S1. Transcript-level features were mapped to gene identifiers, followed by Gene Ontology biological-process enrichment, redundancy reduction and manual module review. Five discovery modules were locked before projection: two bacterial-higher modules and three viral-higher modules, with locked gene membership provided in Supplementary Table S2. Locked modules were scored in GSE73461 using a pre-specified unweighted mean z-score rule; sample-level projection scores are provided in Supplementary Table S4. The primary external contrast compared DefiniteBacterial and DefiniteViral samples. Wilcoxon tests with Benjamini–Hochberg correction assessed module-score differences, with full projection statistics and sensitivity results provided in Supplementary Table S5. A primary-only z-score sensitivity analysis excluded Control samples from the z-score reference set.
 
 ### Results
 
@@ -231,7 +231,7 @@ Two locked modules were bacterial-higher: BACT_M1, representing a cytoplasmic tr
 
 After module locking, independent external projection required a cohort with compatible host-transcriptomic data, recoverable identifiers and clear bacterial-versus-viral labels. GSE73461 was selected after staged metadata, expression-file, sample-structure and identifier-coverage audits. The locked primary projection contrast contained 52 DefiniteBacterial and 94 DefiniteViral samples. Fifty-five Control samples were retained only as secondary context, while Inflammatory, Kawasaki and Unknown groups were excluded from the primary bacterial-versus-viral contrast.
 
-GSE73461 passed the identifier-coverage gate after Illumina probe annotation with `illuminaHumanv4.db`. Coverage of locked GSE211567 genes was high for all modules: 24/25 genes for BACT_M1, 21/21 for BACT_M2, 128/128 for VIR_M1a, 33/33 for VIR_M1b and 105/106 for VIR_M2 (Table 1). GSE73461 was therefore locked as the formal external projection cohort before any module scoring was performed.
+GSE73461 passed the identifier-coverage gate after Illumina probe annotation with `illuminaHumanv4.db`; module-level identifier coverage, matched genes, missing genes and projection probe choices are provided in Supplementary Table S3. Coverage of locked GSE211567 genes was high for all modules: 24/25 genes for BACT_M1, 21/21 for BACT_M2, 128/128 for VIR_M1a, 33/33 for VIR_M1b and 105/106 for VIR_M2 (Table 1). GSE73461 was therefore locked as the formal external projection cohort before any module scoring was performed.
 
 ## Fixed-module external projection supports transportability of the locked host-response architecture
 
@@ -335,6 +335,12 @@ This table summarizes fixed-module projection of the five locked GSE211567 disco
 Table 1 reports fixed-module external projection. It should not be interpreted as diagnostic classifier discovery, model training, gene rediscovery, module redefinition or causal validation.
 
 ---
+
+
+
+# Supplementary Tables Note
+
+Supplementary Tables S1–S5 provide the external cohort search register, locked GSE211567 module genes, GSE73461 identifier coverage and probe choices, sample-level fixed-module projection scores, and full projection/sensitivity statistics.
 
 # CMI Submission Route Note
 

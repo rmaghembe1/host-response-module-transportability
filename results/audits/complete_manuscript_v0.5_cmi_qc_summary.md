@@ -2,9 +2,9 @@
 
 Manuscript: `docs/complete_manuscript_draft_v0.5_cmi.md`
 
-Total lines: 346
+Total lines: 352
 
-Total headings: 56
+Total headings: 57
 
 ## Pattern checks
 
