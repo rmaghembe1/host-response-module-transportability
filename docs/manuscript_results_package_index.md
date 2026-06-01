@@ -129,6 +129,13 @@ Use as the current manuscript front matter draft for title, short title, keyword
 
 ## Complete manuscript assembly
 
+
+### Complete manuscript draft v0.5 CMI-facing adaptation
+
+- `docs/complete_manuscript_draft_v0.5_cmi.md`
+
+Use as the current clean, QC-passed CMI-facing complete manuscript draft. This version adapts the audited v0.4 manuscript for Clinical Microbiology and Infection while preserving the fixed-module transportability framing and subscription/no-APC submission route note.
+
 ### Complete manuscript draft v0.4
 
 - `docs/complete_manuscript_draft_v0.4.md`
