@@ -34,6 +34,14 @@ Use for detailed external-projection wording if the manuscript needs a longer pr
 
 ### Journal-targeting checklist
 
+
+### Candidate journal comparison table
+
+- `docs/candidate_journal_comparison_table.md`
+- `docs/candidate_journal_comparison_table.tsv`
+
+Use as the current first-pass journal ranking and positioning table.
+
 - `docs/journal_targeting_submission_readiness_checklist.md`
 
 Use as the current guide for journal selection, manuscript polishing, supplementary-material organization and final submission formatting.
