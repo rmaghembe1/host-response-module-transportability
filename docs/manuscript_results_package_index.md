@@ -63,6 +63,15 @@ Use as the structural fallback if the full Methods section needs trimming.
 
 Use to verify that Methods descriptions remain aligned with Results claims, scripts, outputs and interpretation boundaries.
 
+
+## Discussion material
+
+### Discussion draft
+
+- `docs/discussion_manuscript_draft.md`
+
+Use as the current manuscript Discussion draft.
+
 ## Main figures
 
 ### Figure 1 — GSE211567 discovery and module locking
