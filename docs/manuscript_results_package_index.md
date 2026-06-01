@@ -54,6 +54,13 @@ Use as the current primary journal-targeting framework. Financial feasibility, f
 
 
 
+
+### CMI-facing title and abstract variant
+
+- `docs/cmi_facing_title_abstract_variant.md`
+
+Use as the current CMI-facing title and structured abstract draft.
+
 ### CMI-facing manuscript adaptation checklist
 
 - `docs/cmi_facing_manuscript_adaptation_checklist.md`
