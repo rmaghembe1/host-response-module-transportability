@@ -162,6 +162,13 @@ Use as the current manuscript front matter draft for title, short title, keyword
 
 
 
+
+### CMI author-instructions compliance audit
+
+- `docs/cmi_author_instructions_compliance_audit.md`
+
+Use as the current audit of CMI author-instruction requirements before DOCX/PDF conversion and final submission formatting.
+
 ### CMI final submission-readiness checklist
 
 - `docs/cmi_final_submission_readiness_checklist.md`
