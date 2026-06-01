@@ -52,6 +52,13 @@ Use as the current primary journal-targeting framework. Financial feasibility, f
 
 
 
+
+### CMI versus JMM target-fit decision
+
+- `docs/cmi_vs_jmm_target_fit_decision.md`
+
+Use as the current decision document comparing Clinical Microbiology and Infection with Journal of Microbiological Methods as the top two financial-first targets.
+
 ### Live-verified hybrid/no-APC guideline audit
 
 - `docs/live_verified_hybrid_no_apc_guideline_audit.md`
