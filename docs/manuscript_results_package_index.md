@@ -30,11 +30,17 @@ Use for detailed external-projection wording if the manuscript needs a longer pr
 
 ## Complete manuscript assembly
 
-### Complete manuscript draft v0.1
+### Complete manuscript draft v0.2
+
+- `docs/complete_manuscript_draft_v0.2.md`
+
+Use as the current clean, QC-passed central manuscript draft for internal review and section-level refinement.
+
+### Previous complete manuscript draft v0.1
 
 - `docs/complete_manuscript_draft_v0.1.md`
 
-Use as the current central assembled manuscript draft for internal review and section-level refinement.
+Retained as the first assembled manuscript draft before v0.2 QC wording cleanup.
 
 ## Abstract material
 
