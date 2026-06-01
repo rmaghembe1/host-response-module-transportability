@@ -25,6 +25,15 @@ Use as a supporting narrative draft and fallback reference.
 Use for detailed external-projection wording if the manuscript needs a longer projection subsection.
 
 
+
+## Introduction material
+
+### Introduction draft
+
+- `docs/introduction_manuscript_draft.md`
+
+Use as the current manuscript Introduction draft.
+
 ## Methods materials
 
 ### Full Methods draft
