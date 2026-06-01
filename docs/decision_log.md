@@ -272,3 +272,12 @@
 - Interpretation safeguard: the assembled package supports fixed-module transportability analysis across discovery and external projection cohorts; it must not be framed as diagnostic classifier discovery, diagnostic model training, gene rediscovery, module redefinition or causal validation.
 - Current preferred framing: a site-aware discovery and conservative module-locking workflow identified bacterial- and viral-associated host-response programmes in GSE211567, and fixed-module projection in GSE73461 supported external transportability of the antiviral/interferon modules and the bacterial mitochondrial respiration/OXPHOS module, while the bacterial cytoplasmic translation/ribosomal module remained directionally concordant but borderline.
 - Next action: proceed from Results-package assembly to manuscript-level Methods/Results integration and journal-targeted manuscript drafting.
+
+## 2026-05-31 — Manuscript Methods package integrated with audited Results package
+- Decision: Accept the current Methods materials as integrated into the manuscript package.
+- Completed components: Methods–Results alignment map, Methods section skeleton, full Methods draft, and updated manuscript package index.
+- Package-index update: Methods materials were added to `docs/manuscript_results_package_index.md`.
+- Audit result: manuscript package index now contains 36 path entries, 35 unique checked paths, 35 present and 0 missing.
+- Scope: the Methods draft describes the discovery/projection firewall, dataset selection, GSE211567 discovery preparation, differential-expression modelling, site-aware concordance, transcript-to-gene mapping, GO enrichment, conservative module locking, projection-ready scoring rules, GSE161731 technical rehearsal, GSE73461 cohort locking, identifier mapping, fixed-module projection, primary-only z-score sensitivity, reproducibility and interpretation boundaries.
+- Interpretation safeguard: Methods wording preserves the fixed-module transportability framing and avoids diagnostic classifier, model-training, gene-rediscovery, module-redefinition and causal-validation claims.
+- Next action: proceed to manuscript-level integration of Introduction, Methods, Results, figures, table and discussion framing.
