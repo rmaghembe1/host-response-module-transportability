@@ -10,7 +10,13 @@ Transportable host-response modules in infection transcriptomes
 
 ## Author information
 
-Author list, affiliations and corresponding-author details should be completed before journal submission.
+Current draft author list:
+
+1. Reuben S. Maghembe — St. Francis University College of Health and Allied Sciences (SFUCHAS), Tanzania; first author and corresponding author.
+2. Samweli Bahati — AfroBiomics Co. Ltd, Tanzania; contributing author.
+3. Abdalah Makaranga — Mwenge Catholic University (MWECAU), Tanzania; contributing author.
+
+Corresponding-author email and full institutional address should be finalized before journal submission.
 
 ## Keywords
 

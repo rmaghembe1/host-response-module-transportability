@@ -14,6 +14,17 @@ The author has no funding for APC payment for this manuscript. A journal should 
 4. The journal provides a clearly confirmed institutional agreement or publisher arrangement covering the APC.
 5. A full discretionary waiver can be requested before or during submission and the journal/publisher indicates that full waiver is realistic.
 
+
+## Current author-affiliation profile for waiver screening
+
+Current planned authors are all Tanzania-based:
+
+1. Reuben S. Maghembe — SFUCHAS, Tanzania; first author and corresponding author.
+2. Samweli Bahati — AfroBiomics Co. Ltd, Tanzania; contributing author.
+3. Abdalah Makaranga — MWECAU, Tanzania; contributing author.
+
+This is important because some publisher policies depend only on the corresponding author's country, while others require the corresponding author and all co-authors to be from eligible countries or institutions. Therefore, the financial audit should record whether each publisher applies eligibility to the corresponding author only, all authors, all institutions, or institutional agreements.
+
 ## Revised journal-screening hierarchy
 
 ### Gate 1 — Financial feasibility
