@@ -300,3 +300,14 @@
 - Current manuscript scope: front matter, structured abstract, Introduction, Methods, Results, Discussion, main figure captions, Table 1 title/footnotes and interpretation-boundary reminder.
 - Interpretation safeguard: the manuscript remains framed as fixed-module transportability analysis of host-response programmes, not diagnostic classifier discovery, diagnostic model validation, gene rediscovery, module redefinition or causal validation.
 - Next action: proceed to journal-targeting, reference integration, supplementary-material organization and final submission-format preparation.
+
+## 2026-05-31 — CMI-facing complete manuscript draft v0.5 accepted as current target draft
+- Decision: Accept `docs/complete_manuscript_draft_v0.5_cmi.md` as the current clean, QC-passed CMI-facing complete manuscript draft.
+- Target journal: Clinical Microbiology and Infection, pursued through the standard subscription/non-open-access route unless full open-access coverage is confirmed.
+- Basis: CMI was prioritized after financial-first screening because a subscription/no-APC publication route was identified and the journal provides strong infectious-disease and clinical microbiology visibility.
+- Author/APC context: all planned authors are Tanzania-based; Reuben S. Maghembe is first and corresponding author; no APC funding is available.
+- Manuscript changes from v0.4: title/front matter and abstract were adapted using the CMI-facing title/abstract variant; Methods, Results, Discussion, figure captions and Table 1 notes were preserved from v0.4.
+- QC result: v0.5 passed terminal-text, unresolved-placeholder, diagnostic-overclaiming, causal-overclaiming, rediscovery-language, duplicate-heading and required-phrase checks after correction of a false-positive interpretation-boundary phrase.
+- Package-index update: v0.5 CMI-facing draft is now indexed as the current CMI-facing complete manuscript draft.
+- Interpretation safeguard: the manuscript remains framed as fixed-module transportability analysis of host-response programmes, not diagnostic classifier discovery, diagnostic model validation, clinical implementation evidence, gene rediscovery, module redefinition or causal validation.
+- Next action: prepare CMI-specific supplementary-material inventory, repository README, final author/contribution/funding statements and reference integration.
