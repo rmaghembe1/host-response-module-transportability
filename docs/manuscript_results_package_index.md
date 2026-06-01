@@ -53,6 +53,13 @@ Use as the current primary journal-targeting framework. Financial feasibility, f
 
 
 
+
+### CMI-facing manuscript adaptation checklist
+
+- `docs/cmi_facing_manuscript_adaptation_checklist.md`
+
+Use as the current checklist for adapting the audited v0.4 manuscript to Clinical Microbiology and Infection while preserving financial and interpretation safeguards.
+
 ### CMI versus JMM target-fit decision
 
 - `docs/cmi_vs_jmm_target_fit_decision.md`
