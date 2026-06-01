@@ -1,0 +1,8 @@
+check	line	content
+terminal_text	PASS	
+unresolved_placeholders	PASS	
+diagnostic_overclaiming	PASS	
+causal_overclaiming	96	Gene-level bacterial-higher and viral-higher feature sets were used for Gene Ontology biological-process over-representation analysis. Enriched GO biological-process terms were reviewed and redundancy-reduced to identify interpretable biological programmes. GO enrichment was used as an annotation and interpretation layer for ranked and site-aware stable genes. It was not interpreted as causal mechanism proof.
+rediscovery_language	PASS	
+duplicate_heading	PASS	
+missing_required_phrase	PASS	
