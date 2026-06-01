@@ -55,6 +55,13 @@ Use as the current primary journal-targeting framework. Financial feasibility, f
 
 
 
+
+### CMI-facing cover letter draft
+
+- `docs/cmi_facing_cover_letter_draft.md`
+
+Use as the current CMI-facing cover letter draft, including the no-APC subscription-route note and interpretation safeguards.
+
 ### CMI-facing title and abstract variant
 
 - `docs/cmi_facing_title_abstract_variant.md`
