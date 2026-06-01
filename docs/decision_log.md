@@ -323,3 +323,14 @@
 - Package-index update: v0.6 manuscript and its QC outputs are indexed; the manuscript package audit contains 69 path entries, 68 unique checked paths, 68 present and 0 missing.
 - Interpretation safeguard: the manuscript remains framed as fixed-module transportability analysis of host-response programmes, not diagnostic classifier discovery, diagnostic model validation, clinical implementation evidence, gene rediscovery, module redefinition or causal validation.
 - Next action: prepare final submission-readiness checklist and, if needed, convert the Markdown manuscript/supplementary materials into journal-submission DOCX/PDF formats.
+
+## 2026-06-01 — CMI-compressed manuscript draft v0.8 accepted as current submission-format draft
+- Decision: Accept `docs/complete_manuscript_draft_v0.8_cmi_compressed.md` as the current clean, QC-passed, CMI-compressed manuscript draft for final formatting and DOCX/PDF conversion.
+- Basis: v0.8 incorporates the CMI-compliant 241-word structured abstract, shorter running heading, keywords and compressed Introduction, Methods and Discussion while preserving the Results section, front matter, supplementary table citations, no-APC/subscription-route note and interpretation safeguards.
+- Word-count status: abstract is 241 words excluding headings; main text from Introduction through Discussion is 2036 words; full draft is 3444 words.
+- QC result: v0.8 passed terminal-text, unresolved-placeholder, diagnostic-overclaiming, causal-overclaiming, rediscovery-language, duplicate-heading and required-phrase checks after correction of a false-positive limitations phrase.
+- Package-index update: v0.8 manuscript, QC outputs and word-count audit are indexed; the manuscript package audit contains 75 path entries, 74 unique checked paths, 74 present and 0 missing.
+- Current target journal: Clinical Microbiology and Infection.
+- Financial safeguard: proceed through the standard subscription/non-open-access route unless full open-access coverage is confirmed.
+- Interpretation safeguard: the manuscript remains framed as fixed-module transportability analysis of host-response programmes, not diagnostic classifier discovery, diagnostic model validation, clinical implementation evidence, gene rediscovery, module redefinition or causal validation.
+- Next action: prepare final submission files, including DOCX/PDF manuscript conversion, supplementary table upload package and final cover-letter polishing.
