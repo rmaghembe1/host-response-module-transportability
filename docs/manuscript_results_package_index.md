@@ -58,6 +58,13 @@ Use as the current primary journal-targeting framework. Financial feasibility, f
 
 
 
+
+### Formal external projection candidate search register
+
+- `docs/formal_external_projection_candidate_search_register.md`
+
+Use as the current supplementary register documenting candidate external-projection cohort selection and the final decision to use GSE73461 as the formal projection cohort.
+
 ### CMI-specific supplementary-material inventory
 
 - `docs/cmi_supplementary_material_inventory.md`
