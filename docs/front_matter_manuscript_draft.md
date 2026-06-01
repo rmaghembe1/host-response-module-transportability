@@ -48,7 +48,7 @@ Author contributions should be finalized according to the actual author list bef
 
 ## Funding
 
-Funding information should be inserted here if applicable. If no specific funding supported this work, use the journal-appropriate no-funding statement.
+No specific funding statement has been finalized for this draft. The final funding declaration should be completed according to the target journal requirements before submission.
 
 ## Competing interests
 

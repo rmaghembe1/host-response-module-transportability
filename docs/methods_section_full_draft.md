@@ -34,7 +34,7 @@ The site-stratified concordance results were used to support a conservative site
 
 Site-aware eligible transcript-level features were mapped to gene-level identifiers using the project annotation bridge. Transcript-to-gene mapping was performed before enrichment analysis so that downstream biological interpretation used gene-level rather than transcript-level features. Bacterial-higher and viral-higher genes were handled separately to preserve the direction of the discovery contrast.
 
-Gene-level bacterial-higher and viral-higher feature sets were used for Gene Ontology biological-process over-representation analysis. Enriched GO biological-process terms were reviewed and redundancy-reduced to identify interpretable biological programmes. GO enrichment was used as an annotation and interpretation layer for ranked and site-aware stable genes. It was not interpreted as causal mechanism proof.
+Gene-level bacterial-higher and viral-higher feature sets were used for Gene Ontology biological-process over-representation analysis. Enriched GO biological-process terms were reviewed and redundancy-reduced to identify interpretable biological programmes. GO enrichment was used as an annotation and interpretation layer for ranked and site-aware stable genes, not as evidence that the enriched pathways directly drive the observed infection-associated transcriptional differences.
 
 ## Conservative module review and locking
 
