@@ -66,6 +66,13 @@ Use as the current primary journal-targeting framework. Financial feasibility, f
 Use as the current supplementary register documenting candidate external-projection cohort selection and the final decision to use GSE73461 as the formal projection cohort.
 
 
+
+### Repository README and code-availability support
+
+- `README.md`
+
+Use as the current repository overview and code/data availability support file for the CMI-facing manuscript package.
+
 ### CMI supplementary tables package
 
 - `docs/supplementary_materials/CMI_supplementary_tables_index.md`
