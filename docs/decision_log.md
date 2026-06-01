@@ -281,3 +281,12 @@
 - Scope: the Methods draft describes the discovery/projection firewall, dataset selection, GSE211567 discovery preparation, differential-expression modelling, site-aware concordance, transcript-to-gene mapping, GO enrichment, conservative module locking, projection-ready scoring rules, GSE161731 technical rehearsal, GSE73461 cohort locking, identifier mapping, fixed-module projection, primary-only z-score sensitivity, reproducibility and interpretation boundaries.
 - Interpretation safeguard: Methods wording preserves the fixed-module transportability framing and avoids diagnostic classifier, model-training, gene-rediscovery, module-redefinition and causal-validation claims.
 - Next action: proceed to manuscript-level integration of Introduction, Methods, Results, figures, table and discussion framing.
+
+## 2026-05-31 — Complete manuscript draft v0.2 accepted as current audited central draft
+- Decision: Accept `docs/complete_manuscript_draft_v0.2.md` as the current central manuscript draft for internal review and section-level refinement.
+- Basis: v0.2 was created from v0.1 after QC wording cleanup and passed the complete-manuscript QC audit.
+- QC result: terminal text, unresolved placeholders, diagnostic-overclaiming phrases, causal-overclaiming phrases, rediscovery-language phrases, duplicate headings and required-phrase checks all passed.
+- Package-index update: v0.2 is now listed as the current complete manuscript assembly, with v0.1 retained as the previous assembled draft.
+- Package audit: manuscript package index contains 41 path entries, 40 unique checked paths, 40 present and 0 missing.
+- Interpretation safeguard: v0.2 preserves the fixed-module transportability framing and avoids diagnostic classifier, diagnostic model validation, gene rediscovery, module redefinition and causal-validation claims.
+- Next action: proceed to title page, keywords, data/code availability, supplementary-materials organization and journal-targeted formatting.
