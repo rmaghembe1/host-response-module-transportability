@@ -3,7 +3,7 @@
 from pathlib import Path
 import re
 
-manuscript = Path("docs/complete_manuscript_draft_v0.4.md")
+manuscript = Path("docs/complete_manuscript_draft_v0.5_cmi.md")
 out_dir = Path("results/audits")
 out_dir.mkdir(parents=True, exist_ok=True)
 
@@ -64,8 +64,8 @@ for label, phrase in required_phrases.items():
     if phrase not in text:
         missing_required.append((label, phrase))
 
-summary_file = out_dir / "complete_manuscript_v0.4_qc_summary.md"
-detail_file = out_dir / "complete_manuscript_v0.4_qc_details.tsv"
+summary_file = out_dir / "complete_manuscript_v0.5_cmi_qc_summary.md"
+detail_file = out_dir / "complete_manuscript_v0.5_cmi_qc_details.tsv"
 
 with detail_file.open("w") as f:
     f.write("check\tline\tcontent\n")
@@ -89,7 +89,7 @@ with detail_file.open("w") as f:
         f.write("missing_required_phrase\tPASS\t\n")
 
 with summary_file.open("w") as f:
-    f.write("# Complete Manuscript Draft v0.4 QC Summary\n\n")
+    f.write("# Complete Manuscript Draft v0.5 CMI QC Summary\n\n")
     f.write(f"Manuscript: `{manuscript}`\n\n")
     f.write(f"Total lines: {len(lines)}\n\n")
     f.write(f"Total headings: {len(headings)}\n\n")
