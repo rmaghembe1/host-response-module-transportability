@@ -50,6 +50,14 @@ Use as the current primary journal-targeting framework. Financial feasibility, f
 
 
 
+
+### Hybrid/no-APC target audit
+
+- `docs/hybrid_no_apc_target_audit.md`
+- `docs/hybrid_no_apc_target_audit.tsv`
+
+Use as the current focused audit of journals that may allow no-APC publication through hybrid/subscription routes before evaluating fully open-access waiver-dependent options.
+
 ### Financial-first candidate journal comparison table
 
 - `docs/financial_first_candidate_journal_comparison_table.md`
