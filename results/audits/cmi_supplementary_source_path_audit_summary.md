@@ -2,10 +2,10 @@
 
 Total checked paths: 22
 
-Present: 21
+Present: 22
 
 Missing required: 0
 
-Missing to locate or optional: 1
+Missing to locate or optional: 0
 
 Detailed audit: `results/audits/cmi_supplementary_source_path_audit.tsv`
