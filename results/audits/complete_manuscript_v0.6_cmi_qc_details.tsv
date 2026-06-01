@@ -1,6 +1,6 @@
 check	line	content
 terminal_text	PASS	
-unresolved_placeholders	39	Email: [insert final corresponding-author email]
+unresolved_placeholders	PASS	
 diagnostic_overclaiming	PASS	
 causal_overclaiming	PASS	
 rediscovery_language	PASS	

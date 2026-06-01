@@ -30,7 +30,7 @@ Role: Contributing author
 
 Reuben S. Maghembe  
 St. Francis University College of Health and Allied Sciences (SFUCHAS), Ifakara, Tanzania  
-Email: [insert final corresponding-author email]
+Email: rmaghembe@sfuchas.ac.tz
 
 ## Funding
 

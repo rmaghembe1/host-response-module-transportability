@@ -9,7 +9,7 @@ Total headings: 59
 ## Pattern checks
 
 - terminal_text: PASS
-- unresolved_placeholders: 1 hit(s)
+- unresolved_placeholders: PASS
 - diagnostic_overclaiming: PASS
 - causal_overclaiming: PASS
 - rediscovery_language: PASS

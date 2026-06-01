@@ -36,7 +36,7 @@ Role: Contributing author
 
 Reuben S. Maghembe  
 St. Francis University College of Health and Allied Sciences (SFUCHAS), Ifakara, Tanzania  
-Email: [insert final corresponding-author email]
+Email: rmaghembe@sfuchas.ac.tz
 
 ## Funding
 
@@ -345,6 +345,6 @@ Supplementary Tables S1–S5 provide the external cohort search register, locked
 
 This manuscript should be submitted through the standard subscription/non-open-access route unless full open-access coverage is confirmed. Optional open access should not be selected without a confirmed APC waiver or coverage route.
 
-# Interpretation Boundary Reminder
+# Final Interpretation Boundary Reminder
 
 This manuscript draft presents fixed-module transportability analysis of host-response programmes. It must not be framed as diagnostic classifier discovery, diagnostic model validation, clinical implementation evidence, gene rediscovery, module redefinition or causal validation.
