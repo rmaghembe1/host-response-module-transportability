@@ -262,3 +262,13 @@
 - Quality safeguard: the mapping audit script `scripts/python/37_audit_manuscript_mapping_paths.py` can be rerun after future manuscript edits to detect missing or outdated figure/table/source references.
 - Interpretation safeguard: the mapped package supports fixed-module transportability analysis and must not be framed as diagnostic classifier training, gene rediscovery, module redefinition or causal validation.
 - Next action: use the mapped Results package to prepare the integrated manuscript Results section with figure/table callouts.
+
+## 2026-05-31 — Manuscript Results package assembly and audits completed
+- Decision: Accept the current manuscript Results package as assembled, indexed and audit-checked for manuscript drafting.
+- Completed components: integrated Results section with figure/table callouts, polished Figure 1 and Figure 2 captions, polished Table 1 title and footnotes, manuscript Results package index, manuscript Results-to-figure/table mapping, and supporting path-audit outputs.
+- Figure standard: all main manuscript-facing GSE211567 and GSE73461 figure panels are available as 1800 dpi PNG, editable SVG and vector PDF.
+- Mapping audit: manuscript Results-to-figure/table mapping expanded to 44 checked files, with 44 present and 0 missing.
+- Package-index audit: manuscript Results package index contained 32 unique checked paths, with 32 present and 0 missing.
+- Interpretation safeguard: the assembled package supports fixed-module transportability analysis across discovery and external projection cohorts; it must not be framed as diagnostic classifier discovery, diagnostic model training, gene rediscovery, module redefinition or causal validation.
+- Current preferred framing: a site-aware discovery and conservative module-locking workflow identified bacterial- and viral-associated host-response programmes in GSE211567, and fixed-module projection in GSE73461 supported external transportability of the antiviral/interferon modules and the bacterial mitochondrial respiration/OXPHOS module, while the bacterial cytoplasmic translation/ribosomal module remained directionally concordant but borderline.
+- Next action: proceed from Results-package assembly to manuscript-level Methods/Results integration and journal-targeted manuscript drafting.
