@@ -175,6 +175,16 @@ Use as the current audit of CMI author-instruction requirements before DOCX/PDF 
 
 Use as the current final checklist for remaining pre-submission tasks before CMI upload.
 
+
+### Complete manuscript draft v0.8 CMI-compressed draft
+
+- `docs/complete_manuscript_draft_v0.8_cmi_compressed.md`
+- `results/audits/complete_manuscript_v0.8_cmi_qc_summary.md`
+- `results/audits/complete_manuscript_v0.8_cmi_qc_details.tsv`
+- `results/audits/complete_manuscript_v0.8_cmi_word_count.md`
+
+Use as the current clean, QC-passed, CMI-compressed complete manuscript draft for final formatting and DOCX/PDF conversion.
+
 ### Complete manuscript draft v0.6 CMI front-matter-finalized draft
 
 - `docs/complete_manuscript_draft_v0.6_cmi_front_matter_finalized.md`
