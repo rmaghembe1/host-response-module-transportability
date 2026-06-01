@@ -49,6 +49,14 @@ Use as the current primary journal-targeting framework. Financial feasibility, f
 ### Journal-targeting checklist
 
 
+
+### Financial-first candidate journal comparison table
+
+- `docs/financial_first_candidate_journal_comparison_table.md`
+- `docs/financial_first_candidate_journal_comparison_table.tsv`
+
+Use as the current primary journal-ranking table. It supersedes the earlier scope-first journal comparison by prioritizing no-APC, hybrid/subscription, confirmed full-waiver or APC-covered options before scientific fit.
+
 ### Candidate journal comparison table
 
 - `docs/candidate_journal_comparison_table.md`
