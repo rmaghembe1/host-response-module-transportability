@@ -1,0 +1,6 @@
+supplementary_table_section	final_module_id	final_module_label	final_module_direction	locked_genes_n	matched_genes_n	missing_genes_n	coverage_fraction	pass_50pct_primary_threshold	pass_70pct_sensitivity_threshold
+S3A_module_identifier_coverage	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	25	24	1	0.96	True	True
+S3A_module_identifier_coverage	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	21	21	0	1.0	True	True
+S3A_module_identifier_coverage	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	128	128	0	1.0	True	True
+S3A_module_identifier_coverage	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	33	33	0	1.0	True	True
+S3A_module_identifier_coverage	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	106	105	1	0.990566037735849	True	True

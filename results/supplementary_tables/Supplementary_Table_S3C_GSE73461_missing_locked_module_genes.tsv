@@ -1,0 +1,3 @@
+supplementary_table_section	final_module_id	final_module_label	final_module_direction	ENTREZID	SYMBOL	SYMBOL_UPPER	symbol_match	entrez_match	any_match
+S3C_missing_locked_module_genes	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	100288805	HYDIN2	HYDIN2	False	False	False
+S3C_missing_locked_module_genes	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	54718	BTN2A3P	BTN2A3P	False	False	False
