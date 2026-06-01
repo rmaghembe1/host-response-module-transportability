@@ -57,6 +57,13 @@ Use as the current primary journal-targeting framework. Financial feasibility, f
 
 
 
+
+### CMI-specific supplementary-material inventory
+
+- `docs/cmi_supplementary_material_inventory.md`
+
+Use as the current CMI supplementary-material planning document for organizing supplementary tables, figures, reproducibility records and session information.
+
 ### CMI-specific manuscript polishing checklist
 
 - `docs/cmi_specific_manuscript_polishing_checklist.md`
