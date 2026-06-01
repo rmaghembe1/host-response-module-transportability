@@ -26,6 +26,15 @@ Use for detailed external-projection wording if the manuscript needs a longer pr
 
 
 
+
+## Abstract material
+
+### Abstract draft
+
+- `docs/abstract_manuscript_draft.md`
+
+Use as the current structured manuscript Abstract draft.
+
 ## Introduction material
 
 ### Introduction draft
