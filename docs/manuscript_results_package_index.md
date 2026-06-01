@@ -161,6 +161,13 @@ Use as the current manuscript front matter draft for title, short title, keyword
 
 
 
+
+### CMI final submission-readiness checklist
+
+- `docs/cmi_final_submission_readiness_checklist.md`
+
+Use as the current final checklist for remaining pre-submission tasks before CMI upload.
+
 ### Complete manuscript draft v0.6 CMI front-matter-finalized draft
 
 - `docs/complete_manuscript_draft_v0.6_cmi_front_matter_finalized.md`
