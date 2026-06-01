@@ -311,3 +311,15 @@
 - Package-index update: v0.5 CMI-facing draft is now indexed as the current CMI-facing complete manuscript draft.
 - Interpretation safeguard: the manuscript remains framed as fixed-module transportability analysis of host-response programmes, not diagnostic classifier discovery, diagnostic model validation, clinical implementation evidence, gene rediscovery, module redefinition or causal validation.
 - Next action: prepare CMI-specific supplementary-material inventory, repository README, final author/contribution/funding statements and reference integration.
+
+## 2026-06-01 — CMI front-matter-finalized manuscript draft v0.6 accepted as current finalized target draft
+- Decision: Accept `docs/complete_manuscript_draft_v0.6_cmi_front_matter_finalized.md` as the current clean, QC-passed, front-matter-finalized CMI-facing manuscript draft.
+- Target journal: Clinical Microbiology and Infection, pursued through the standard subscription/non-open-access route unless full open-access coverage is confirmed.
+- Financial safeguard: no dedicated APC funding is available; optional open access should not be selected unless a full waiver or full coverage route is confirmed.
+- Author/corresponding-author details: Reuben S. Maghembe is first and corresponding author; corresponding email set as `rmaghembe@sfuchas.ac.tz`; co-authors are Samweli Bahati and Abdalah Makaranga.
+- Manuscript package status: v0.6 includes finalized front-matter statements, CMI-facing structured abstract, main manuscript text, figure captions, Table 1 notes, supplementary table citations, data/code availability language, APC route note and interpretation safeguards.
+- Supplementary package status: Supplementary Tables S1–S5 are generated, indexed and path-audited; supplementary table citations have been added to the manuscript.
+- QC result: v0.6 passed terminal-text, unresolved-placeholder, diagnostic-overclaiming, causal-overclaiming, rediscovery-language, duplicate-heading and required-phrase checks.
+- Package-index update: v0.6 manuscript and its QC outputs are indexed; the manuscript package audit contains 69 path entries, 68 unique checked paths, 68 present and 0 missing.
+- Interpretation safeguard: the manuscript remains framed as fixed-module transportability analysis of host-response programmes, not diagnostic classifier discovery, diagnostic model validation, clinical implementation evidence, gene rediscovery, module redefinition or causal validation.
+- Next action: prepare final submission-readiness checklist and, if needed, convert the Markdown manuscript/supplementary materials into journal-submission DOCX/PDF formats.
