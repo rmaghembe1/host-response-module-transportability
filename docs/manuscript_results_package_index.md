@@ -32,6 +32,13 @@ Use for detailed external-projection wording if the manuscript needs a longer pr
 
 ## Journal targeting and submission readiness
 
+
+### Financial-first journal screening strategy
+
+- `docs/financial_first_journal_screening_strategy.md`
+
+Use as the current primary journal-targeting framework. Financial feasibility, full APC waiver likelihood, no-APC publication route or hybrid/subscription option must be evaluated before scientific fit.
+
 ### Journal-targeting checklist
 
 
