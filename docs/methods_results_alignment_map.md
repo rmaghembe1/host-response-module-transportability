@@ -49,7 +49,9 @@ This stage supports discovery analysis only. It does not support diagnostic mode
 
 - `results/differential_expression/GSE211567_primary_bacterial_vs_viral/GSE211567_primary_limma_bacterial_vs_viral_ranked_results.tsv`
 - `results/differential_expression/GSE211567_primary_bacterial_vs_viral/GSE211567_primary_limma_top50_preview.tsv`
-- `results/figures/GSE211567_manuscript_discovery_panels/Figure_GSE211567_A_primary_discovery_volcano.*`
+- `results/figures/GSE211567_manuscript_discovery_panels/Figure_GSE211567_A_primary_discovery_volcano.png`
+- `results/figures/GSE211567_manuscript_discovery_panels/Figure_GSE211567_A_primary_discovery_volcano.svg`
+- `results/figures/GSE211567_manuscript_discovery_panels/Figure_GSE211567_A_primary_discovery_volcano.pdf`
 
 ### Boundary
 
@@ -77,13 +79,15 @@ The primary contrast is a discovery ranking step, not a standalone diagnostic si
 - `results/differential_expression/GSE211567_site_stratified_concordance/GSE211567_pooled_site_stratified_concordance_table.tsv`
 - `results/module_lock/GSE211567_site_aware_feature_stability/GSE211567_site_aware_stable_feature_table.tsv`
 - `results/module_lock/GSE211567_site_aware_feature_stability/GSE211567_site_aware_eligible_features.tsv`
-- `results/figures/GSE211567_manuscript_discovery_panels/Figure_GSE211567_B_site_stratified_concordance_summary.*`
+- `results/figures/GSE211567_manuscript_discovery_panels/Figure_GSE211567_B_site_stratified_concordance_summary.png`
+- `results/figures/GSE211567_manuscript_discovery_panels/Figure_GSE211567_B_site_stratified_concordance_summary.svg`
+- `results/figures/GSE211567_manuscript_discovery_panels/Figure_GSE211567_B_site_stratified_concordance_summary.pdf`
 
 ### Boundary
 
 Site-aware concordance supports feature stability assessment. It does not imply that all site-specific biology is identical.
 
-## Analysis stage 4 — Transcript-to-gene mapping and pathway enrichment
+## Analysis stage 4 — Transcript-to-gene mapping and GO enrichment
 
 ### Results supported
 
@@ -133,7 +137,9 @@ GO enrichment supports biological interpretation of ranked/stable gene sets; it 
 - `results/module_lock/GSE211567_primary_module_gene_inspection/`
 - `results/module_lock/GSE211567_final_discovery_module_labels/GSE211567_final_discovery_module_label_table.tsv`
 - `results/module_lock/GSE211567_final_discovery_module_labels/GSE211567_final_discovery_module_genes.tsv`
-- `results/figures/GSE211567_manuscript_discovery_panels/Figure_GSE211567_C_locked_discovery_module_gene_counts.*`
+- `results/figures/GSE211567_manuscript_discovery_panels/Figure_GSE211567_C_locked_discovery_module_gene_counts.png`
+- `results/figures/GSE211567_manuscript_discovery_panels/Figure_GSE211567_C_locked_discovery_module_gene_counts.svg`
+- `results/figures/GSE211567_manuscript_discovery_panels/Figure_GSE211567_C_locked_discovery_module_gene_counts.pdf`
 
 ### Boundary
 
@@ -154,7 +160,7 @@ Locked modules are discovery-derived biological modules. They are not diagnostic
 - Gene-wise z-scoring within each external dataset.
 - Unweighted mean z-score calculation.
 - Coverage threshold rules.
-- Optional sensitivity rule for bounded abs(logFC)-weighted scoring, if mentioned.
+- Optional bounded abs(logFC)-weighted sensitivity scoring, if mentioned.
 
 ### Key scripts / outputs
 
@@ -245,7 +251,9 @@ External cohort choice was locked before scoring; GSE73461 was used for fixed-mo
 - `results/module_projection/GSE73461_fixed_module_projection/GSE73461_fixed_module_projection_coverage.tsv`
 - `docs/GSE73461_manuscript_projection_summary_table.md`
 - `results/tables/GSE73461_manuscript_projection_summary_table.tsv`
-- `results/figures/GSE73461_manuscript_projection_panels/Figure_GSE73461_A_module_score_distributions.*`
+- `results/figures/GSE73461_manuscript_projection_panels/Figure_GSE73461_A_module_score_distributions.png`
+- `results/figures/GSE73461_manuscript_projection_panels/Figure_GSE73461_A_module_score_distributions.svg`
+- `results/figures/GSE73461_manuscript_projection_panels/Figure_GSE73461_A_module_score_distributions.pdf`
 
 ### Boundary
 
@@ -271,8 +279,12 @@ This is fixed-module external projection, not classifier training, model discove
 
 - `results/module_projection/GSE73461_primary_only_zscore_sensitivity/GSE73461_primary_only_zscore_scores_long.tsv`
 - `results/module_projection/GSE73461_primary_only_zscore_sensitivity/GSE73461_primary_only_zscore_primary_projection_tests.tsv`
-- `results/figures/GSE73461_manuscript_projection_panels/Figure_GSE73461_B_main_vs_sensitivity_median_differences.*`
-- `results/figures/GSE73461_manuscript_projection_panels/Figure_GSE73461_C_main_vs_sensitivity_pvalues.*`
+- `results/figures/GSE73461_manuscript_projection_panels/Figure_GSE73461_B_main_vs_sensitivity_median_differences.png`
+- `results/figures/GSE73461_manuscript_projection_panels/Figure_GSE73461_B_main_vs_sensitivity_median_differences.svg`
+- `results/figures/GSE73461_manuscript_projection_panels/Figure_GSE73461_B_main_vs_sensitivity_median_differences.pdf`
+- `results/figures/GSE73461_manuscript_projection_panels/Figure_GSE73461_C_main_vs_sensitivity_pvalues.png`
+- `results/figures/GSE73461_manuscript_projection_panels/Figure_GSE73461_C_main_vs_sensitivity_pvalues.svg`
+- `results/figures/GSE73461_manuscript_projection_panels/Figure_GSE73461_C_main_vs_sensitivity_pvalues.pdf`
 
 ### Boundary
 
