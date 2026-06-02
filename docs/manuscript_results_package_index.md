@@ -180,6 +180,16 @@ Use as the current final checklist for remaining pre-submission tasks before CMI
 
 
 
+
+### CMI submission figures and Table 1 package
+
+- `submission/figures/`
+- `submission/tables/Table_1_GSE73461_projection_summary.tsv`
+- `results/audits/cmi_submission_figures_tables_audit_summary.md`
+- `results/audits/cmi_submission_figures_tables_audit.tsv`
+
+Use as the current submission-ready figure panel package and standalone Table 1 source audit.
+
 ### CMI final submission package readiness note
 
 - `docs/cmi_final_submission_package_readiness_note.md`
