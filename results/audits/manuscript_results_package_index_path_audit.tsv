@@ -26,6 +26,8 @@ docs/journal_targeting_submission_readiness_checklist.md	present
 docs/front_matter_manuscript_draft.md	present
 docs/cmi_author_instructions_compliance_audit.md	present
 docs/cmi_final_submission_readiness_checklist.md	present
+docs/cmi_cover_letter_final.md	present
+scripts/python/45_create_cmi_cover_letter_docx.py	present
 results/audits/cmi_main_manuscript_docx_creation_note.md	present
 docs/cmi_final_docx_pdf_conversion_plan.md	present
 docs/complete_manuscript_draft_v0.8_cmi_compressed.md	present
