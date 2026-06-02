@@ -1,0 +1,13 @@
+sheet	present	max_row	max_column	status
+Index	TRUE	12	4	present
+S1_candidate_register	TRUE	5	7	present
+S2_locked_genes	TRUE	323	30	present
+S3A_identifier_coverage	TRUE	6	10	present
+S3B_matched_genes	TRUE	312	10	present
+S3C_missing_genes	TRUE	3	10	present
+S3D_probe_choices	TRUE	21604	7	present
+S4A_scores_long	TRUE	1006	11	present
+S4B_scores_wide	TRUE	202	9	present
+S5A_primary_tests	TRUE	6	14	present
+S5B_sensitivity	TRUE	6	14	present
+S5C_summary	TRUE	6	12	present
