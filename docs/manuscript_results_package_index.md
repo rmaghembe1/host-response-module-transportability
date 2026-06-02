@@ -179,6 +179,13 @@ Use as the current final checklist for remaining pre-submission tasks before CMI
 
 
 
+
+### CMI final submission package readiness note
+
+- `docs/cmi_final_submission_package_readiness_note.md`
+
+Use as the final readiness note documenting that the DOCX/XLSX submission set is ready and PDF export remains optional/pending.
+
 ### CMI final cover letter DOCX
 
 - `docs/cmi_cover_letter_final.md`
