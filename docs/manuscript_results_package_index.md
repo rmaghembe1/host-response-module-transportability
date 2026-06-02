@@ -177,6 +177,14 @@ Use as the current final checklist for remaining pre-submission tasks before CMI
 
 
 
+
+### CMI main manuscript DOCX
+
+- `submission/cmi_main_manuscript_v0.8.docx`
+- `results/audits/cmi_main_manuscript_docx_creation_note.md`
+
+Use as the current generated DOCX version of the CMI-compressed v0.8 manuscript. PDF export remains pending until LibreOffice or Microsoft Word export is available.
+
 ### CMI final DOCX/PDF conversion package plan
 
 - `docs/cmi_final_docx_pdf_conversion_plan.md`
