@@ -176,6 +176,13 @@ Use as the current audit of CMI author-instruction requirements before DOCX/PDF 
 Use as the current final checklist for remaining pre-submission tasks before CMI upload.
 
 
+
+### CMI final DOCX/PDF conversion package plan
+
+- `docs/cmi_final_docx_pdf_conversion_plan.md`
+
+Use as the current final conversion plan for preparing manuscript DOCX/PDF files, cover letter files, supplementary table workbook and submission package structure.
+
 ### Complete manuscript draft v0.8 CMI-compressed draft
 
 - `docs/complete_manuscript_draft_v0.8_cmi_compressed.md`
