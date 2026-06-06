@@ -70,9 +70,6 @@ This study reanalysed publicly available transcriptomic datasets. The discovery 
 
 Analysis scripts, decision logs, audit outputs, manuscript-facing tables, supplementary tables and figure-generation outputs are organized in the project repository. The repository README provides an overview of the analysis workflow, manuscript-facing files, supplementary materials and quality-control audits.
 
-## Interpretation boundary
-
-These statements support a manuscript framed as fixed-module transportability analysis of host-response programmes. They should not imply diagnostic classifier discovery, diagnostic model validation, clinical implementation evidence, gene rediscovery, module redefinition or causal validation.
 
 ---
 
@@ -250,7 +247,6 @@ This table summarizes fixed-module projection of the five locked GSE211567 disco
 
 **Abbreviations:** BH, Benjamini–Hochberg; OXPHOS, oxidative phosphorylation.
 
-## Front-matter interpretation boundary
 
 Table 1 reports fixed-module external projection. It should not be interpreted as diagnostic classifier discovery, model training, gene rediscovery, module redefinition or causal validation.
 
