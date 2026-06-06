@@ -204,7 +204,7 @@ In summary, site-aware discovery followed by fixed external projection identifie
 
 ## Figure 2. External fixed-module projection of GSE211567 discovery modules in GSE73461
 
-(A) Distribution of locked module scores in the independent GSE73461 external projection cohort. Module scores were calculated using the pre-specified unweighted mean z-score rule in DefiniteBacterial and DefiniteViral samples. Genes were scored without reselection, reweighting, module renaming or diagnostic model training.
+(A) Distribution of locked module scores in the independent GSE73461 external projection cohort. Module scores were calculated using the pre-specified unweighted mean z-score rule in DefiniteBacterial and DefiniteViral samples. Genes were scored without gene reselection, reweighting, module renaming or diagnostic model training.
 
 (B) Median bacterial-minus-viral module-score differences in the main GSE73461 projection and in the primary-only z-score sensitivity analysis. Positive values indicate higher scores in DefiniteBacterial samples, whereas negative values indicate higher scores in DefiniteViral samples. All five modules retained the expected discovery direction in both analyses.
 
