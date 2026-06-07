@@ -3,9 +3,10 @@ required	submission/CMI_submission_package_index.md	True	967	present
 required	submission/source_markdown/cmi_main_manuscript_v1.6_single_author_source.md	True	34034	present
 required	submission/source_markdown/cmi_cover_letter_single_author_source.md	True	2200	present
 required	submission/source_markdown/cmi_supplementary_tables_index_source.md	True	3163	present
-required	submission/audits/complete_manuscript_v0.8_cmi_qc_summary.md	True	514	present
-required	submission/audits/complete_manuscript_v0.8_cmi_qc_details.tsv	True	206	present
-required	submission/audits/complete_manuscript_v0.8_cmi_word_count.md	True	365	present
+required	submission/audits/cmi_v16_word_count_limits_audit.md	True	540	present
+required	submission/audits/cmi_v12_reference_audit.md	True	362	present
+required	submission/audits/cmi_single_author_audit.md	True	201	present
+required	submission/audits/cmi_v16_figures_legends_audit_summary.md	True	437	present
 required	submission/cmi_main_manuscript_v1.6_single_author.docx	True	48152	present
 required	submission/cmi_cover_letter_single_author.docx	True	37761	present
 required	submission/cmi_supplementary_tables_S1_to_S5.xlsx	True	1188294	present
