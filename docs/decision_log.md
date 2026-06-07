@@ -334,3 +334,9 @@
 - Financial safeguard: proceed through the standard subscription/non-open-access route unless full open-access coverage is confirmed.
 - Interpretation safeguard: the manuscript remains framed as fixed-module transportability analysis of host-response programmes, not diagnostic classifier discovery, diagnostic model validation, clinical implementation evidence, gene rediscovery, module redefinition or causal validation.
 - Next action: prepare final submission files, including DOCX/PDF manuscript conversion, supplementary table upload package and final cover-letter polishing.
+
+## 2026-06-02 — CMI manuscript corrected to single-author work
+- Decision: The CMI-facing host-pathogen transcriptome transportability manuscript is a single-authored work by Reuben S. Maghembe.
+- Action: Removed Samweli Bahati and Abdalah Makaranga from the manuscript author block and contribution statements.
+- Current active manuscript source: `docs/complete_manuscript_draft_v1.6_step7b_single_author.md`.
+- Required downstream updates: cover letter, submission package index, generated DOCX, package audits and any author/contribution metadata must use single-author wording only.
