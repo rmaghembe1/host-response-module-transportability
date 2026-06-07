@@ -1,7 +1,7 @@
 file_type	path	exists	size_bytes	status
 required	submission/CMI_submission_package_index.md	True	967	present
-required	submission/source_markdown/cmi_main_manuscript_v0.8_source.md	True	28522	present
-required	submission/source_markdown/cmi_cover_letter_source.md	True	3009	present
+required	submission/source_markdown/cmi_main_manuscript_v1.6_single_author_source.md	True	34034	present
+required	submission/source_markdown/cmi_cover_letter_single_author_source.md	True	2200	present
 required	submission/source_markdown/cmi_supplementary_tables_index_source.md	True	3163	present
 required	submission/audits/complete_manuscript_v0.8_cmi_qc_summary.md	True	514	present
 required	submission/audits/complete_manuscript_v0.8_cmi_qc_details.tsv	True	206	present

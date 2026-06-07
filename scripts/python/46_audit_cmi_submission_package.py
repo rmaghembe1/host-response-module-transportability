@@ -5,8 +5,8 @@ import csv
 
 expected_files = [
     "submission/CMI_submission_package_index.md",
-    "submission/source_markdown/cmi_main_manuscript_v0.8_source.md",
-    "submission/source_markdown/cmi_cover_letter_source.md",
+    "submission/source_markdown/cmi_main_manuscript_v1.6_single_author_source.md",
+    "submission/source_markdown/cmi_cover_letter_single_author_source.md",
     "submission/source_markdown/cmi_supplementary_tables_index_source.md",
     "submission/audits/complete_manuscript_v0.8_cmi_qc_summary.md",
     "submission/audits/complete_manuscript_v0.8_cmi_qc_details.tsv",
