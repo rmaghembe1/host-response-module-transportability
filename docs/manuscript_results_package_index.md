@@ -181,6 +181,21 @@ Use as the current final checklist for remaining pre-submission tasks before CMI
 
 
 
+
+### CMI v1.6 single-author final submission readiness note
+
+- `docs/cmi_v16_single_author_final_submission_readiness_note.md`
+- `submission/cmi_main_manuscript_v1.6_single_author.docx`
+- `submission/cmi_cover_letter_single_author.docx`
+- `submission/source_markdown/cmi_main_manuscript_v1.6_single_author_source.md`
+- `submission/source_markdown/cmi_cover_letter_single_author_source.md`
+- `submission/audits/cmi_v16_word_count_limits_audit.md`
+- `submission/audits/cmi_v12_reference_audit.md`
+- `submission/audits/cmi_single_author_audit.md`
+- `submission/audits/cmi_v16_figures_legends_audit_summary.md`
+
+Use as the final indexed single-author CMI submission package milestone.
+
 ### CMI submission figures and Table 1 package
 
 - `submission/figures/`
