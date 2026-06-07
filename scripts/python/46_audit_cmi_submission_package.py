@@ -11,8 +11,8 @@ expected_files = [
     "submission/audits/complete_manuscript_v0.8_cmi_qc_summary.md",
     "submission/audits/complete_manuscript_v0.8_cmi_qc_details.tsv",
     "submission/audits/complete_manuscript_v0.8_cmi_word_count.md",
-    "submission/cmi_main_manuscript_v0.8.docx",
-    "submission/cmi_cover_letter.docx",
+    "submission/cmi_main_manuscript_v1.6_single_author.docx",
+    "submission/cmi_cover_letter_single_author.docx",
     "submission/cmi_supplementary_tables_S1_to_S5.xlsx",
     "submission/tables/Table_1_GSE73461_projection_summary.tsv",
     "submission/figures/Figure_1A_GSE211567_primary_discovery_volcano.png",
@@ -36,8 +36,8 @@ expected_files = [
 ]
 
 optional_pending_files = [
-    "submission/cmi_main_manuscript_v0.8.pdf",
-    "submission/cmi_cover_letter.pdf",
+    "submission/cmi_main_manuscript_v1.6_single_author.pdf",
+    "submission/cmi_cover_letter_single_author.pdf",
 ]
 
 out = Path("results/audits/cmi_submission_package_audit.tsv")
