@@ -12,8 +12,18 @@ out.parent.mkdir(parents=True, exist_ok=True)
 
 text = src.read_text()
 
-# Remove repository-only top draft heading.
+# Remove repository-only top draft heading and internal draft notes.
 text = re.sub(r"^# Complete Manuscript Draft.*?\n\n", "", text, count=1, flags=re.S)
+
+# Remove any residual internal draft/package notes that should not appear in submission DOCX.
+internal_note_patterns = [
+    r"Draft v0\.9 Step 1 removes internal submission-route and draft-boundary notes from the manuscript body while preserving scientific caution within the Methods, Results and Discussion\.\n*",
+    r"Draft v[0-9.]+.*?\n*",
+    r"^---\s*$",
+]
+
+for pattern in internal_note_patterns:
+    text = re.sub(pattern, "", text, flags=re.MULTILINE)
 
 doc = Document()
 section = doc.sections[0]
