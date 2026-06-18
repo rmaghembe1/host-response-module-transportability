@@ -77,3 +77,7 @@ results/qc/
 *.jpeg
 *.tif
 *.tiff
+
+# Temporary cleanup helper files
+files_to_untrack_journal_specific.txt
+files_to_remove_from_public_tree.txt
