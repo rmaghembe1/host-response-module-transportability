@@ -1,36 +1,61 @@
-# Raw and bulky public transcriptomic files
-data/raw/*
-!data/raw/.gitkeep
-data/metadata_raw/*
-!data/metadata_raw/.gitkeep
-*.fastq.gz
-*.fq.gz
-*.bam
-*.bai
+# Compressed archives
+*.zip
 *.tar
+*.tar.gz
 *.gz
 
-# R project/environment temporary output
+# Office and manuscript draft files
+*.docx
+*.pdf
+~$*
+
+# Raw/intermediate data and cache
+data/raw/
+data/intermediate/
+data/cache/
+metadata/raw/
+results/intermediate/
+results/cache/
+*.rds
+*.RData
+*.rda
+
+# Large figure exports and submission folders
+submission/jmm/
+submission/fems/
+submission/figure_panels/
+submission/figures/
+submission/*.zip
+submission/*.docx
+submission/*.pdf
+submission/*.jpg
+submission/*.jpeg
+submission/*.tif
+submission/*.tiff
+submission/jmm.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# R
 .Rhistory
 .RData
-.Ruserdata
 .Rproj.user/
 renv/library/
-renv/staging/
 
-# OS/editor
+# System files
 .DS_Store
 Thumbs.db
 
-# Keep audit/provenance metadata under version control
-!data/metadata_raw/
-!data/metadata_raw/*
-!data/metadata_harmonized/
-!data/metadata_harmonized/*
-!data/processed/
-!data/processed/*.tsv
-!data/processed/*.csv
-!data/processed/*.md
+# Keep selected publication-relevant supplementary files
+!submission/S1_Dataset_supplementary_tables_S1_to_S5.xlsx
+!submission/README.md
 
-# Local R package library
+# Local R package library - do not publish
 env/R_libs/
+
+# Old journal-specific supplementary workbook name
+submission/JMM-D-26-00274_supplementary_tables_S1_to_S5.xlsx

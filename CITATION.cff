@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Reproducibility code for host-response module transportability across public infection transcriptomic cohorts"
+message: "If you use this repository, please cite the associated manuscript."
+type: software
+authors:
+  - family-names: Maghembe
+    given-names: Reuben S.
+repository-code: "https://github.com/rmaghembe1/host-response-module-transportability"
+year: 2026
+license: MIT
