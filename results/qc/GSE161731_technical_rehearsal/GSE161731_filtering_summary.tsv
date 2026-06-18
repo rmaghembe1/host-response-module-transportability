@@ -1,7 +1,0 @@
-metric	value
-genes_before_filtering	60675
-genes_after_filterByExpr	20561
-genes_removed_by_filterByExpr	40114
-samples_in_rehearsal_subset	102
-bacterial_samples	24
-non_covid_viral_samples	78

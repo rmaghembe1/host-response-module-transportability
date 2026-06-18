@@ -1,4 +1,0 @@
-rna_id	group	metadata_status	caution_flags	library_size	detected_genes_count_gt0	norm.factors	PC1	PC2	any_qc_outlier_iqr
-434482	non_covid_viral	mapped_to_counts_key_only	counts_key_only_not_in_sample_key	40986006	11320	0.857128445505765	140.467341570155	53.8176039168958	FALSE
-434741	non_covid_viral	mapped_to_counts_key_only	counts_key_only_not_in_sample_key	1632403	12621	2.87086099727238	251.390099133968	46.2920310708145	TRUE
-94478	bacterial	mapped_to_counts_key_only	counts_key_only_not_in_sample_key	9403540	5332	1.01965516248598	508.448038146682	53.8105251978469	TRUE

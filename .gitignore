@@ -59,3 +59,21 @@ env/R_libs/
 
 # Old journal-specific supplementary workbook name
 submission/JMM-D-26-00274_supplementary_tables_S1_to_S5.xlsx
+
+# Journal-specific old preparation files and generated reports
+*CMI*
+*cmi*
+*JMM*
+*jmm*
+*FEMS*
+*fems*
+
+# Generated PDF figures and QC plots
+results/figures/
+results/qc/
+*.pdf
+*.docx
+*.jpg
+*.jpeg
+*.tif
+*.tiff
