@@ -981,11 +981,16 @@ score_population <- function(
             sort(available_symbols),
             collapse = ";"
           ),
-        missing_symbols =
+        missing_symbols = if (
+          length(missing_symbols) == 0L
+        ) {
+          "none"
+        } else {
           paste(
             sort(missing_symbols),
             collapse = ";"
           )
+        }
       )
     }
   )
