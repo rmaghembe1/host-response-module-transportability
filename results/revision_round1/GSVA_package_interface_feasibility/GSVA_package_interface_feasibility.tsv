@@ -1,0 +1,20 @@
+component	metric	value	status	detail
+package	GSVA_installed	TRUE	PASS	GSVA namespace is available.
+package	BiocParallel_installed	TRUE	PASS	BiocParallel namespace is available.
+package	SummarizedExperiment_installed	TRUE	PASS	SummarizedExperiment availability is recorded because some GSVA interfaces may accept or return container objects.
+package	GSVA_version	1.50.5	PASS	Installed GSVA package version.
+package	BiocParallel_version	1.36.0	PASS	Installed BiocParallel package version.
+package	SummarizedExperiment_version	1.32.0	PASS	Installed SummarizedExperiment package version.
+interface	detected_GSVA_interface	modern_parameter_object_api	PASS	Modern releases export gsvaParam(); older releases use the direct gsva(expression, geneSets, ...) interface.
+interface	gsva_exported	TRUE	PASS	Whether gsva() is exported from the GSVA namespace.
+interface	gsvaParam_exported	TRUE	PASS	TRUE identifies the modern parameter-object interface; FALSE may indicate a legacy GSVA release.
+interface	gsvaParam_class_available	TRUE	PASS	Whether the gsvaParam S4 class is registered.
+interface	gsva_formals	expr = <required>; gset.idx.list = <required>; ... = <required>	PASS	Formal arguments of the exported gsva() function.
+interface	gsvaParam_formals	exprData = <required>; geneSets = <required>; assay = NA_character_; annotation = NA_character_; minSize = 1; maxSize = Inf; kcdf = c("Gaussian", "Poisson", "none"); tau = 1; maxDiff = TRUE; absRanking = FALSE	PASS	Formal arguments of gsvaParam() when the modern API is available.
+synthetic_test	synthetic_test_attempted	TRUE	PASS	The synthetic test uses artificial expression values and contains no study outcome information.
+synthetic_test	synthetic_test_passed	TRUE	PASS	GSVA returned a finite 2 by 6 score matrix with the expected gene-set and sample identifiers.
+synthetic_test	synthetic_result_class	matrix;array	PASS	Class of the object returned by the synthetic GSVA call.
+synthetic_test	synthetic_score_rows	2	PASS	Expected number of synthetic gene-set score rows.
+synthetic_test	synthetic_score_columns	6	PASS	Expected number of synthetic sample columns.
+synthetic_test	synthetic_scores_all_finite	TRUE	PASS	Whether all synthetic GSVA scores are finite.
+overall	GSVA_scoring_readiness	PASS_READY_FOR_GSVA_SCORING	PASS	GSVA is installed, its interface was resolved, and the synthetic outcome-independent calculation passed.

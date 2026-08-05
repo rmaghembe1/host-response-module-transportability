@@ -1,0 +1,70 @@
+===== GSVA PACKAGE AND INTERFACE SIGNATURE =====
+
+GSVA installed: TRUE
+GSVA version: 1.50.5
+BiocParallel installed: TRUE
+BiocParallel version: 1.36.0
+Detected interface: modern_parameter_object_api
+gsva exported: TRUE
+gsvaParam exported: TRUE
+gsvaParam class available: TRUE
+
+===== gsva() FORMALS =====
+expr = <required>; gset.idx.list = <required>; ... = <required>
+
+===== gsvaParam() FORMALS =====
+exprData = <required>; geneSets = <required>; assay = NA_character_; annotation = NA_character_; minSize = 1; maxSize = Inf; kcdf = c("Gaussian", "Poisson", "none"); tau = 1; maxDiff = TRUE; absRanking = FALSE
+
+===== gsva METHODS =====
+Function: gsva (package GSVA)
+expr="dgCMatrix", gset.idx.list="list"
+expr="ExpressionSet", gset.idx.list="GeneSetCollection"
+expr="ExpressionSet", gset.idx.list="list"
+expr="gsvaParam", gset.idx.list="missing"
+expr="HDF5Array", gset.idx.list="list"
+expr="matrix", gset.idx.list="GeneSetCollection"
+expr="matrix", gset.idx.list="list"
+expr="plageParam", gset.idx.list="missing"
+expr="SingleCellExperiment", gset.idx.list="GeneSetCollection"
+expr="SingleCellExperiment", gset.idx.list="list"
+expr="ssgseaParam", gset.idx.list="missing"
+expr="SummarizedExperiment", gset.idx.list="GeneSetCollection"
+expr="SummarizedExperiment", gset.idx.list="list"
+expr="zscoreParam", gset.idx.list="missing"
+
+===== EXPORTED GSVA NAMESPACE OBJECTS =====
+.__C__GsvaExprData
+.__C__GsvaGeneSets
+.__C__GsvaMethodParam
+.__C__gsvaParam
+.__C__plageParam
+.__C__ssgseaParam
+.__C__zscoreParam
+.__T__[:base
+.__T__[[<-:base
+.__T__[<-:base
+.__T__$:base
+.__T__$<-:base
+.__T__computeGeneSetsOverlap:GSVA
+.__T__filterGeneSets:GSVA
+.__T__gsva:GSVA
+computeGeneSetsOverlap
+filterGeneSets
+gsva
+gsvaParam
+igsva
+plageParam
+ssgseaParam
+zscoreParam
+
+===== SYNTHETIC TEST =====
+Attempted: TRUE
+Passed: TRUE
+Result class: matrix;array
+Score dimensions: 2 x 6
+All scores finite: TRUE
+Error: none
+
+===== OVERALL STATUS =====
+PASS_READY_FOR_GSVA_SCORING
+GSVA is installed, its interface was resolved, and the synthetic outcome-independent calculation passed.
