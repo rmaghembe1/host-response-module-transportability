@@ -1,0 +1,13 @@
+metric	value
+matrix_sample_count	146
+soft_sample_count	146
+matrix_feature_count	48803
+unique_matrix_feature_count	48803
+soft_matrix_accession_match	1
+soft_matrix_title_match	1
+group_count_match	1
+required_metadata_complete	1
+matrix_to_platform_complete	1
+locked_module_count_match	1
+all_modules_eligible_at_50_percent	1
+all_modules_high_coverage_at_70_percent	0

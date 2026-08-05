@@ -1,0 +1,2 @@
+candidate_dataset	mapping_hierarchy	locked_module_gene_instances	mapped_gene_instances	unmapped_gene_instances	entrez_rescued_gene_instances	unsafe_alias_gene_instances_rejected	unsafe_alias_probe_rows_rejected	exact_symbol_conflict_probe_rows_rejected	modules_eligible_at_50_percent	modules_high_coverage_at_70_percent	scoring_readiness	quality_gate
+GSE72810	Exact Entrez; exact symbol only when platform Entrez is absent; synonym-only conflicting mappings rejected.	313	303	10	20	19	30	11	5	5	READY_FOR_FIXED_MODULE_SCORING	PASS

@@ -1,0 +1,11 @@
+metric	value
+platform_probe_rows	49576
+matrix_feature_rows	48803
+matrix_probe_IDs_mapped_to_platform	48803
+matrix_probe_IDs_missing_from_platform	0
+platform_probe_IDs_absent_from_matrix	773
+matrix_probes_with_at_least_one_symbol	36157
+matrix_probes_without_symbol	12646
+matrix_probes_with_multiple_symbols	0
+unique_valid_symbol_tokens	25158
+matrix_probes_with_entrez	35280

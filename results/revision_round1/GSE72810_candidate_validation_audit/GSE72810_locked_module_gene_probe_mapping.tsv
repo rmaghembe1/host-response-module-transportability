@@ -1,0 +1,523 @@
+SYMBOL_UPPER	final_module_id	final_module_label	final_module_direction	SYMBOL.x	ID_REF	SYMBOL_ORIGINAL	SYMBOL.y	ENTREZID
+EIF4EBP2	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	EIF4EBP2	ILMN_1728083	EIF4EBP2	EIF4EBP2	1979
+HYDIN2	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	HYDIN2	NA	NA	NA	NA
+MRPL13	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	MRPL13	ILMN_1671158	MRPL13	MRPL13	28998
+MRPL22	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	MRPL22	ILMN_1663220	MRPL22	MRPL22	29093
+MRPL22	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	MRPL22	ILMN_1748819	MRPL22	MRPL22	29093
+MRPS11	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	MRPS11	ILMN_1722905	MRPS11	MRPS11	64963
+MRPS11	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	MRPS11	ILMN_2405915	MRPS11	MRPS11	64963
+MRPS18C	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	MRPS18C	ILMN_1658416	MRPS18C	MRPS18C	51023
+MRPS18C	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	MRPS18C	ILMN_2085903	MRPS18C	MRPS18C	51023
+RPL15	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	RPL15	ILMN_1762747	RPL15	RPL15	6138
+RPL17	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	RPL17	ILMN_1655422	RPL17	RPL17	6139
+RPL17	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	RPL17	ILMN_1658283	RPL17	RPL17	6139
+RPL17	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	RPL17	ILMN_2383097	RPL17	RPL17	6139
+RPL23	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	RPL23	ILMN_1755115	RPL23	RPL23	9349
+RPL26	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	RPL26	ILMN_1731546	RPL26	RPL26	6154
+RPL26L1	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	RPL26L1	ILMN_1776586	RPL26L1	RPL26L1	51121
+RPL26L1	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	RPL26L1	ILMN_2110532	RPL26L1	RPL26L1	51121
+RPL27	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	RPL27	ILMN_1656807	RPL27	RPL27	6155
+RPL29	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	RPL29	ILMN_1737517	RPL29	RPL29	6159
+RPL29	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	RPL29	ILMN_1771051	RPL29	RPL29	6159
+RPL31	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	RPL31	ILMN_1754195	RPL31	RPL31	6160
+RPL34	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	RPL34	ILMN_1706873	RPL34	RPL34	6164
+RPL34	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	RPL34	ILMN_1774823	RPL34	RPL34	6164
+RPL9	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	RPL9	ILMN_1729033	RPL9	RPL9	6133
+RPL9	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	RPL9	ILMN_1750507	RPL9	RPL9	6133
+RPL9	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	RPL9	ILMN_2408415	RPL9	RPL9	6133
+RPLP0	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	RPLP0	ILMN_1709880	RPLP0	RPLP0	6175
+RPLP0	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	RPLP0	ILMN_1745075	RPLP0	RPLP0	6175
+RPLP0	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	RPLP0	ILMN_2402090	RPLP0	RPLP0	6175
+RPS15A	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	RPS15A	ILMN_1787949	RPS15A	RPS15A	6210
+RPS15A	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	RPS15A	ILMN_2255310	RPS15A	RPS15A	6210
+RPS15A	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	RPS15A	ILMN_2337241	RPS15A	RPS15A	6210
+RPS24	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	RPS24	ILMN_1656625	RPS24	RPS24	6229
+RPS24	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	RPS24	ILMN_2399893	RPS24	RPS24	6229
+RPS27	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	RPS27	ILMN_1660498	RPS27	RPS27	6232
+RPS27	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	RPS27	ILMN_1696839	RPS27	RPS27	6232
+RPS27	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	RPS27	ILMN_2160819	RPS27	RPS27	6232
+RPS3A	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	RPS3A	ILMN_1657722	RPS3A	RPS3A	6189
+RPS3A	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	RPS3A	ILMN_1673638	RPS3A	RPS3A	6189
+RPS3A	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	RPS3A	ILMN_2139943	RPS3A	RPS3A	6189
+RPS4Y1	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	RPS4Y1	ILMN_1783142	RPS4Y1	RPS4Y1	6192
+RPS7	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	RPS7	ILMN_1750722	RPS7	RPS7	6201
+RPS7	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	RPS7	ILMN_2070072	RPS7	RPS7	6201
+RPS9	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	RPS9	ILMN_1749447	RPS9	RPS9	6203
+RPS9	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	RPS9	ILMN_2038772	RPS9	RPS9	6203
+UBA52	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	UBA52	ILMN_1782977	UBA52	UBA52	7311
+UBA52	BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	UBA52	ILMN_2368576	UBA52	UBA52	7311
+ATP5F1A	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	ATP5F1A	NA	NA	NA	NA
+ATP5ME	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	ATP5ME	NA	NA	NA	NA
+ATP5MF	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	ATP5MF	NA	NA	NA	NA
+CAT	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	CAT	ILMN_1651705	CAT	CAT	847
+CAT	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	CAT	ILMN_2151739	CAT	CAT	847
+MDH2	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	MDH2	ILMN_2079004	MDH2	MDH2	4191
+MTFR2	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	MTFR2	NA	NA	NA	NA
+NDUFA3	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	NDUFA3	ILMN_1784641	NDUFA3	NDUFA3	4696
+NDUFA4	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	NDUFA4	ILMN_1751258	NDUFA4	NDUFA4	4697
+NDUFAF1	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	NDUFAF1	ILMN_1754421	NDUFAF1	NDUFAF1	51103
+NDUFAF2	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	NDUFAF2	ILMN_1682857	NDUFAF2	NDUFAF2	91942
+NDUFAF6	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	NDUFAF6	NA	NA	NA	NA
+NDUFAF7	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	NDUFAF7	NA	NA	NA	NA
+NDUFAF8	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	NDUFAF8	NA	NA	NA	NA
+NDUFB1	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	NDUFB1	ILMN_1724367	NDUFB1	NDUFB1	4707
+NDUFB3	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	NDUFB3	ILMN_2119937	NDUFB3	NDUFB3	4709
+NDUFB3	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	NDUFB3	ILMN_2119945	NDUFB3	NDUFB3	4709
+NDUFC2	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	NDUFC2	ILMN_1694274	NDUFC2	NDUFC2	4718
+NDUFS4	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	NDUFS4	ILMN_1812312	NDUFS4	NDUFS4	4724
+NDUFV3	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	NDUFV3	ILMN_1765500	NDUFV3	NDUFV3	4731
+NDUFV3	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	NDUFV3	ILMN_2387731	NDUFV3	NDUFV3	4731
+SLC25A14	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	SLC25A14	ILMN_1743770	SLC25A14	SLC25A14	9016
+SLC25A14	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	SLC25A14	ILMN_2347044	SLC25A14	SLC25A14	9016
+TMEM126A	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	TMEM126A	ILMN_2217809	TMEM126A	TMEM126A	84233
+TMEM186	BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	TMEM186	ILMN_2230998	TMEM186	TMEM186	25880
+ACTA2	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	ACTA2	ILMN_1671703	ACTA2	ACTA2	59
+ADGRB1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	ADGRB1	NA	NA	NA	NA
+APOBEC3B	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	APOBEC3B	ILMN_2219466	APOBEC3B	APOBEC3B	9582
+APOBEC3F	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	APOBEC3F	ILMN_1702706	APOBEC3F	APOBEC3F	200316
+APOBEC3F	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	APOBEC3F	ILMN_1710726	APOBEC3F	APOBEC3F	200316
+APOBEC3F	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	APOBEC3F	ILMN_2296950	APOBEC3F	APOBEC3F	200316
+APOBEC3F	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	APOBEC3F	ILMN_2412172	APOBEC3F	APOBEC3F	200316
+APOBEC3H	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	APOBEC3H	ILMN_1664828	APOBEC3H	APOBEC3H	164668
+ATP1B1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	ATP1B1	ILMN_1658071	ATP1B1	ATP1B1	481
+ATP1B1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	ATP1B1	ILMN_1730291	ATP1B1	ATP1B1	481
+ATP1B1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	ATP1B1	ILMN_2407824	ATP1B1	ATP1B1	481
+AXL	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	AXL	ILMN_1701877	AXL	AXL	558
+AXL	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	AXL	ILMN_2364521	AXL	AXL	558
+AZI2	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	AZI2	ILMN_1733680	AZI2	AZI2	64343
+BCL2	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	BCL2	ILMN_1701120	BCL2	BCL2	596
+BCL2	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	BCL2	ILMN_1801119	BCL2	BCL2	596
+BCL2	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	BCL2	ILMN_2246956	BCL2	BCL2	596
+BCL2	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	BCL2	ILMN_2363250	BCL2	BCL2	596
+BLK	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	BLK	ILMN_1668277	BLK	BLK	640
+BNIP3L	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	BNIP3L	ILMN_1718961	BNIP3L	BNIP3L	665
+BNIP3L	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	BNIP3L	ILMN_2045419	BNIP3L	BNIP3L	665
+C2	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	C2	ILMN_1710740	C2	C2	717
+CARD9	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	CARD9	ILMN_1712532	CARD9	CARD9	64170
+CCL8	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	CCL8	ILMN_1772964	CCL8	CCL8	6355
+CD160	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	CD160	ILMN_1742001	CD160	CD160	11126
+CD1D	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	CD1D	ILMN_1719433	CD1D	CD1D	912
+CD1D	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	CD1D	ILMN_1892782	CD1D	CD1D	912
+CD40	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	CD40	ILMN_1779257	CD40	CD40	958
+CD40	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	CD40	ILMN_2367818	CD40	CD40	958
+CDK6	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	CDK6	ILMN_1802615	CDK6	CDK6	1021
+CLEC10A	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	CLEC10A	ILMN_1653166	CLEC10A	CLEC10A	10462
+CLEC10A	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	CLEC10A	ILMN_1704797	CLEC10A	CLEC10A	10462
+CLEC10A	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	CLEC10A	ILMN_2415303	CLEC10A	CLEC10A	10462
+CREBZF	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	CREBZF	ILMN_1784847	CREBZF	CREBZF	58487
+CSF1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	CSF1	ILMN_1733402	CSF1	CSF1	1435
+CSF1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	CSF1	ILMN_1805930	CSF1	CSF1	1435
+CSF1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	CSF1	ILMN_2302947	CSF1	CSF1	1435
+DDX17	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	DDX17	ILMN_1675124	DDX17	DDX17	10521
+DDX17	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	DDX17	ILMN_1774513	DDX17	DDX17	10521
+DDX17	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	DDX17	ILMN_2371590	DDX17	DDX17	10521
+DDX21	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	DDX21	ILMN_1735461	DDX21	DDX21	9188
+DDX3X	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	DDX3X	ILMN_1728870	DDX3X	DDX3X	1654
+DDX3X	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	DDX3X	ILMN_1794392	DDX3X	DDX3X	1654
+DDX60	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	DDX60	ILMN_1795181	DDX60	DDX60	55601
+DDX60L	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	DDX60L	NA	NA	NA	NA
+DEFB1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	DEFB1	ILMN_1686573	DEFB1	DEFB1	1672
+DHX58	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	DHX58	ILMN_1678422	DHX58	DHX58	79132
+DTX3L	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	DTX3L	ILMN_1784380	DTX3L	DTX3L	151636
+EIF2AK2	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	EIF2AK2	ILMN_1706502	EIF2AK2	EIF2AK2	5610
+ENDOD1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	ENDOD1	ILMN_1699022	ENDOD1	ENDOD1	23052
+FOXP3	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	FOXP3	ILMN_1768049	FOXP3	FOXP3	50943
+FRK	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	FRK	ILMN_1727605	FRK	FRK	2444
+G3BP1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	G3BP1	ILMN_2344455	G3BP1	G3BP1	10146
+G3BP1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	G3BP1	ILMN_2357809	G3BP1	G3BP1	10146
+G3BP2	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	G3BP2	ILMN_1720422	G3BP2	G3BP2	9908
+G3BP2	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	G3BP2	ILMN_1759622	G3BP2	G3BP2	9908
+G3BP2	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	G3BP2	ILMN_2381753	G3BP2	G3BP2	9908
+G3BP2	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	G3BP2	ILMN_2381758	G3BP2	G3BP2	9908
+GATA3	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	GATA3	ILMN_2406656	GATA3	GATA3	2625
+GBP1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	GBP1	ILMN_1701114	GBP1	GBP1	2633
+GBP1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	GBP1	ILMN_2148785	GBP1	GBP1	2633
+GBP3	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	GBP3	ILMN_1725314	GBP3	GBP3	2635
+HERC5	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	HERC5	ILMN_1729749	HERC5	HERC5	51191
+IFI27	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	IFI27	ILMN_2058782	IFI27	IFI27	3429
+IFI35	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	IFI35	ILMN_1745374	IFI35	IFI35	3430
+IFI44	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	IFI44	ILMN_1760062	IFI44	IFI44	10561
+IFI44L	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	IFI44L	ILMN_1723912	IFI44L	IFI44L	10964
+IFI6	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	IFI6	ILMN_1687384	IFI6	IFI6	2537
+IFI6	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	IFI6	ILMN_2347798	IFI6	IFI6	2537
+IFIH1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	IFIH1	ILMN_1781373	IFIH1	IFIH1	64135
+IFIT1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	IFIT1	ILMN_1699331	IFIT1	IFIT1	3434
+IFIT1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	IFIT1	ILMN_1707695	IFIT1	IFIT1	3434
+IFIT1B	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	IFIT1B	NA	NA	NA	NA
+IFIT2	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	IFIT2	ILMN_1739428	IFIT2	IFIT2	3433
+IFIT3	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	IFIT3	ILMN_1664543	IFIT3	IFIT3	3437
+IFIT3	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	IFIT3	ILMN_1701789	IFIT3	IFIT3	3437
+IFIT3	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	IFIT3	ILMN_2239754	IFIT3	IFIT3	3437
+IFIT5	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	IFIT5	ILMN_1696654	IFIT5	IFIT5	24138
+IFITM3	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	IFITM3	ILMN_1805750	IFITM3	IFITM3	10410
+IL27	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	IL27	ILMN_1753758	IL27	IL27	246778
+IPO7	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	IPO7	ILMN_1652378	IPO7	IPO7	10527
+IRF7	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	IRF7	ILMN_1674646	IRF7	IRF7	3665
+IRF7	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	IRF7	ILMN_1798181	IRF7	IRF7	3665
+IRF7	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	IRF7	ILMN_2349061	IRF7	IRF7	3665
+IRF9	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	IRF9	ILMN_1745471	IRF9	IRF9	10379
+ISG15	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	ISG15	ILMN_2054019	ISG15	ISG15	9636
+ISG20	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	ISG20	ILMN_1659913	ISG20	ISG20	3669
+KLRG1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	KLRG1	ILMN_1658399	KLRG1	KLRG1	10219
+KLRG1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	KLRG1	ILMN_2124920	KLRG1	KLRG1	10219
+LILRA4	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	LILRA4	ILMN_1702385	LILRA4	LILRA4	23547
+LY9	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	LY9	ILMN_1731928	LY9	LY9	4063
+LY9	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	LY9	ILMN_1756275	LY9	LY9	4063
+LY9	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	LY9	ILMN_1812278	LY9	LY9	4063
+MALT1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	MALT1	ILMN_1730986	MALT1	MALT1	10892
+MALT1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	MALT1	ILMN_2387791	MALT1	MALT1	10892
+MATR3	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	MATR3	ILMN_1660179	MATR3	MATR3	9782
+MATR3	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	MATR3	ILMN_1815107	MATR3	MATR3	9782
+MATR3	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	MATR3	ILMN_2296369	MATR3	MATR3	9782
+MATR3	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	MATR3	ILMN_2411076	MATR3	MATR3	9782
+MCOLN2	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	MCOLN2	ILMN_1660462	MCOLN2	MCOLN2	255231
+MEFV	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	MEFV	ILMN_1804738	MEFV	MEFV	4210
+MEFV	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	MEFV	ILMN_2115752	MEFV	MEFV	4210
+MFHAS1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	MFHAS1	ILMN_1745686	MFHAS1	MFHAS1	9258
+MICA	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	MICA	ILMN_1797929	MICA	MICA	4276
+MID2	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	MID2	ILMN_1760180	MID2	MID2	11043
+MID2	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	MID2	ILMN_2264597	MID2	MID2	11043
+MID2	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	MID2	ILMN_2382648	MID2	MID2	11043
+MOV10	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	MOV10	ILMN_1725700	MOV10	MOV10	4343
+MX1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	MX1	ILMN_1662358	MX1	MX1	4599
+MX2	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	MX2	ILMN_2231928	MX2	MX2	4600
+N4BP3	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	N4BP3	ILMN_1678531	N4BP3	N4BP3	23138
+NOD2	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	NOD2	ILMN_1762594	NOD2	NOD2	64127
+NT5C3A	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	NT5C3A	NA	NA	NA	NA
+OAS1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	OAS1	ILMN_1658247	OAS1	OAS1	4938
+OAS1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	OAS1	ILMN_1672606	OAS1	OAS1	4938
+OAS1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	OAS1	ILMN_1675640	OAS1	OAS1	4938
+OAS1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	OAS1	ILMN_2410826	OAS1	OAS1	4938
+OAS2	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	OAS2	ILMN_1674063	OAS2	OAS2	4939
+OAS2	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	OAS2	ILMN_1709333	OAS2	OAS2	4939
+OAS2	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	OAS2	ILMN_1736729	OAS2	OAS2	4939
+OAS2	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	OAS2	ILMN_2248970	OAS2	OAS2	4939
+OAS3	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	OAS3	ILMN_1745397	OAS3	OAS3	4940
+OAS3	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	OAS3	ILMN_2184262	OAS3	OAS3	4940
+OASL	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	OASL	ILMN_1674811	OASL	OASL	8638
+OASL	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	OASL	ILMN_1681721	OASL	OASL	8638
+OTUD4	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	OTUD4	ILMN_1708203	OTUD4	OTUD4	54726
+OTUD4	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	OTUD4	ILMN_2287604	OTUD4	OTUD4	54726
+OTUD4	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	OTUD4	ILMN_2394975	OTUD4	OTUD4	54726
+PARP14	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	PARP14	ILMN_1691731	PARP14	PARP14	54625
+PARP9	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	PARP9	ILMN_1731224	PARP9	PARP9	83666
+PARP9	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	PARP9	ILMN_2053527	PARP9	PARP9	83666
+PIM2	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	PIM2	ILMN_1748283	PIM2	PIM2	11040
+PLD4	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	PLD4	ILMN_1695490	PLD4	PLD4	122618
+PLPP6	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	PLPP6	NA	NA	NA	NA
+PLSCR1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	PLSCR1	ILMN_1745242	PLSCR1	PLSCR1	5359
+PMAIP1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	PMAIP1	ILMN_1689525	PMAIP1	PMAIP1	5366
+PMAIP1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	PMAIP1	ILMN_2098446	PMAIP1	PMAIP1	5366
+PML	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	PML	ILMN_1728019	PML	PML	5371
+PML	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	PML	ILMN_1731299	PML	PML	5371
+PML	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	PML	ILMN_1750861	PML	PML	5371
+PML	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	PML	ILMN_1808599	PML	PML	5371
+PML	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	PML	ILMN_1811588	PML	PML	5371
+PML	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	PML	ILMN_2248192	PML	PML	5371
+PML	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	PML	ILMN_2398378	PML	PML	5371
+POLR3E	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	POLR3E	NA	NA	NA	NA
+PRDM1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	PRDM1	ILMN_1655077	PRDM1	PRDM1	639
+PRDM1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	PRDM1	ILMN_2294784	PRDM1	PRDM1	639
+PRDM1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	PRDM1	ILMN_2298159	PRDM1	PRDM1	639
+PRDM1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	PRDM1	ILMN_2414165	PRDM1	PRDM1	639
+PRF1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	PRF1	ILMN_1740633	PRF1	PRF1	5551
+PRKRA	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	PRKRA	ILMN_1758474	PRKRA	PRKRA	8575
+RIGI	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	RIGI	NA	NA	NA	NA
+RIPK2	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	RIPK2	ILMN_1758939	RIPK2	RIPK2	8767
+RSAD2	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	RSAD2	ILMN_1657871	RSAD2	RSAD2	91543
+RTP4	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	RTP4	ILMN_2173975	RTP4	RTP4	64108
+SAMD9	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	SAMD9	ILMN_1814305	SAMD9	SAMD9	54809
+SERINC5	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	SERINC5	ILMN_1789464	SERINC5	SERINC5	256987
+SERPING1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	SERPING1	ILMN_1670305	SERPING1	SERPING1	710
+SERPING1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	SERPING1	ILMN_1711272	SERPING1	SERPING1	710
+SH2D1B	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	SH2D1B	ILMN_1701237	SH2D1B	SH2D1B	117157
+SLFN11	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	SLFN11	ILMN_1752520	SLFN11	SLFN11	91607
+SLFN11	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	SLFN11	ILMN_2162860	SLFN11	SLFN11	91607
+SLFN13	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	SLFN13	ILMN_2215862	SLFN13	SLFN13	146857
+SMPDL3B	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	SMPDL3B	ILMN_1678095	SMPDL3B	SMPDL3B	27293
+SMPDL3B	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	SMPDL3B	ILMN_1719660	SMPDL3B	SMPDL3B	27293
+SMPDL3B	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	SMPDL3B	ILMN_1789913	SMPDL3B	SMPDL3B	27293
+SPON2	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	SPON2	ILMN_1676099	SPON2	SPON2	10417
+SRC	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	SRC	ILMN_1685898	SRC	SRC	6714
+SRC	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	SRC	ILMN_1729987	SRC	SRC	6714
+SRC	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	SRC	ILMN_1778253	SRC	SRC	6714
+STAT1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	STAT1	ILMN_1690105	STAT1	STAT1	6772
+STAT1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	STAT1	ILMN_1691364	STAT1	STAT1	6772
+STAT1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	STAT1	ILMN_1777325	STAT1	STAT1	6772
+STAT2	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	STAT2	ILMN_1690921	STAT2	STAT2	6773
+TANK	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TANK	ILMN_1715069	TANK	TANK	10010
+TANK	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TANK	ILMN_1793849	TANK	TANK	10010
+TANK	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TANK	ILMN_2292387	TANK	TANK	10010
+TANK	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TANK	ILMN_2372773	TANK	TANK	10010
+TICAM2	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TICAM2	ILMN_1651346	TICAM2	TICAM2	353376
+TLR3	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TLR3	ILMN_1689578	TLR3	TLR3	7098
+TLR3	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TLR3	ILMN_2155708	TLR3	TLR3	7098
+TLR7	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TLR7	ILMN_1677827	TLR7	TLR7	51284
+TNFSF4	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TNFSF4	ILMN_1746175	TNFSF4	TNFSF4	7292
+TNFSF4	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TNFSF4	ILMN_2089875	TNFSF4	TNFSF4	7292
+TRAF4	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRAF4	ILMN_1745976	TRAF4	TRAF4	9618
+TRAF4	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRAF4	ILMN_1763104	TRAF4	TRAF4	9618
+TREX1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TREX1	ILMN_1676997	TREX1	TREX1	11277
+TREX1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TREX1	ILMN_1770955	TREX1	TREX1	11277
+TRIM14	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRIM14	ILMN_1677542	TRIM14	TRIM14	9830
+TRIM14	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRIM14	ILMN_1713542	TRIM14	TRIM14	9830
+TRIM14	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRIM14	ILMN_1772689	TRIM14	TRIM14	9830
+TRIM14	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRIM14	ILMN_2383290	TRIM14	TRIM14	9830
+TRIM22	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRIM22	ILMN_1779252	TRIM22	TRIM22	10346
+TRIM32	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRIM32	ILMN_1654737	TRIM32	TRIM32	22954
+TRIM35	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRIM35	ILMN_1671765	TRIM35	TRIM35	23087
+TRIM35	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRIM35	ILMN_1740389	TRIM35	TRIM35	23087
+TRIM38	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRIM38	ILMN_1697971	TRIM38	TRIM38	10475
+TRIM5	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRIM5	ILMN_1704972	TRIM5	TRIM5	85363
+TRIM5	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRIM5	ILMN_1737599	TRIM5	TRIM5	85363
+TRIM5	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRIM5	ILMN_2404665	TRIM5	TRIM5	85363
+TRIM52	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRIM52	ILMN_1754130	TRIM52	TRIM52	84851
+TRIM6	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRIM6	ILMN_1654786	TRIM6	TRIM6	117854
+TRIM6	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	TRIM6	ILMN_1656910	TRIM6	TRIM6	117854
+UBE2L6	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	UBE2L6	ILMN_1703108	UBE2L6	UBE2L6	9246
+UBE2L6	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	UBE2L6	ILMN_1769520	UBE2L6	UBE2L6	9246
+UBE2L6	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	UBE2L6	ILMN_2252495	UBE2L6	UBE2L6	9246
+URI1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	URI1	NA	NA	NA	NA
+XPR1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	XPR1	ILMN_1798030	XPR1	XPR1	9213
+XPR1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	XPR1	ILMN_2104106	XPR1	XPR1	9213
+ZBP1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	ZBP1	ILMN_1765994	ZBP1	ZBP1	81030
+ZBTB1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	ZBTB1	ILMN_1750246	ZBTB1	ZBTB1	22890
+ZC3HAV1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	ZC3HAV1	ILMN_1667068	ZC3HAV1	ZC3HAV1	56829
+ZC3HAV1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	ZC3HAV1	ILMN_1724837	ZC3HAV1	ZC3HAV1	56829
+ZC3HAV1	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	ZC3HAV1	ILMN_1729973	ZC3HAV1	ZC3HAV1	56829
+ZCCHC3	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	ZCCHC3	ILMN_1786852	ZCCHC3	ZCCHC3	85364
+ZMYND11	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	ZMYND11	ILMN_1734783	ZMYND11	ZMYND11	10771
+ZMYND11	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	ZMYND11	ILMN_1753110	ZMYND11	ZMYND11	10771
+ZMYND11	VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	ZMYND11	ILMN_1754234	ZMYND11	ZMYND11	10771
+APOBEC3F	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	APOBEC3F	ILMN_1702706	APOBEC3F	APOBEC3F	200316
+APOBEC3F	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	APOBEC3F	ILMN_1710726	APOBEC3F	APOBEC3F	200316
+APOBEC3F	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	APOBEC3F	ILMN_2296950	APOBEC3F	APOBEC3F	200316
+APOBEC3F	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	APOBEC3F	ILMN_2412172	APOBEC3F	APOBEC3F	200316
+AZI2	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	AZI2	ILMN_1733680	AZI2	AZI2	64343
+DDX3X	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	DDX3X	ILMN_1728870	DDX3X	DDX3X	1654
+DDX3X	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	DDX3X	ILMN_1794392	DDX3X	DDX3X	1654
+EIF2AK2	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	EIF2AK2	ILMN_1706502	EIF2AK2	EIF2AK2	5610
+FAM111A	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	FAM111A	ILMN_1778845	FAM111A	FAM111A	63901
+FAM111A	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	FAM111A	ILMN_2410038	FAM111A	FAM111A	63901
+IFI27	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	IFI27	ILMN_2058782	IFI27	IFI27	3429
+IFIH1	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	IFIH1	ILMN_1781373	IFIH1	IFIH1	64135
+IFIT1	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	IFIT1	ILMN_1699331	IFIT1	IFIT1	3434
+IFIT1	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	IFIT1	ILMN_1707695	IFIT1	IFIT1	3434
+IFIT5	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	IFIT5	ILMN_1696654	IFIT5	IFIT5	24138
+IFITM3	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	IFITM3	ILMN_1805750	IFITM3	IFITM3	10410
+IRF7	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	IRF7	ILMN_1674646	IRF7	IRF7	3665
+IRF7	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	IRF7	ILMN_1798181	IRF7	IRF7	3665
+IRF7	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	IRF7	ILMN_2349061	IRF7	IRF7	3665
+ISG15	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	ISG15	ILMN_2054019	ISG15	ISG15	9636
+ISG20	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	ISG20	ILMN_1659913	ISG20	ISG20	3669
+MX1	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	MX1	ILMN_1662358	MX1	MX1	4599
+OAS1	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	OAS1	ILMN_1658247	OAS1	OAS1	4938
+OAS1	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	OAS1	ILMN_1672606	OAS1	OAS1	4938
+OAS1	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	OAS1	ILMN_1675640	OAS1	OAS1	4938
+OAS1	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	OAS1	ILMN_2410826	OAS1	OAS1	4938
+OAS2	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	OAS2	ILMN_1674063	OAS2	OAS2	4939
+OAS2	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	OAS2	ILMN_1709333	OAS2	OAS2	4939
+OAS2	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	OAS2	ILMN_1736729	OAS2	OAS2	4939
+OAS2	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	OAS2	ILMN_2248970	OAS2	OAS2	4939
+OAS3	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	OAS3	ILMN_1745397	OAS3	OAS3	4940
+OAS3	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	OAS3	ILMN_2184262	OAS3	OAS3	4940
+OASL	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	OASL	ILMN_1674811	OASL	OASL	8638
+OASL	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	OASL	ILMN_1681721	OASL	OASL	8638
+PLSCR1	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	PLSCR1	ILMN_1745242	PLSCR1	PLSCR1	5359
+PTPN11	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	PTPN11	ILMN_1778236	PTPN11	PTPN11	5781
+RIGI	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	RIGI	NA	NA	NA	NA
+RIPK2	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	RIPK2	ILMN_1758939	RIPK2	RIPK2	8767
+RSAD2	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	RSAD2	ILMN_1657871	RSAD2	RSAD2	91543
+STAT1	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	STAT1	ILMN_1690105	STAT1	STAT1	6772
+STAT1	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	STAT1	ILMN_1691364	STAT1	STAT1	6772
+STAT1	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	STAT1	ILMN_1777325	STAT1	STAT1	6772
+STAT2	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	STAT2	ILMN_1690921	STAT2	STAT2	6773
+TANK	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TANK	ILMN_1715069	TANK	TANK	10010
+TANK	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TANK	ILMN_1793849	TANK	TANK	10010
+TANK	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TANK	ILMN_2292387	TANK	TANK	10010
+TANK	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TANK	ILMN_2372773	TANK	TANK	10010
+TLR3	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TLR3	ILMN_1689578	TLR3	TLR3	7098
+TLR3	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TLR3	ILMN_2155708	TLR3	TLR3	7098
+TLR7	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TLR7	ILMN_1677827	TLR7	TLR7	51284
+TOMM70	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TOMM70	NA	NA	NA	NA
+TREX1	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TREX1	ILMN_1676997	TREX1	TREX1	11277
+TREX1	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TREX1	ILMN_1770955	TREX1	TREX1	11277
+TRIM6	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TRIM6	ILMN_1654786	TRIM6	TRIM6	117854
+TRIM6	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	TRIM6	ILMN_1656910	TRIM6	TRIM6	117854
+ZBTB20	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	ZBTB20	ILMN_1689456	ZBTB20	ZBTB20	26137
+ZC3HAV1	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	ZC3HAV1	ILMN_1667068	ZC3HAV1	ZC3HAV1	56829
+ZC3HAV1	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	ZC3HAV1	ILMN_1724837	ZC3HAV1	ZC3HAV1	56829
+ZC3HAV1	VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	ZC3HAV1	ILMN_1729973	ZC3HAV1	ZC3HAV1	56829
+ACKR3	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	ACKR3	NA	NA	NA	NA
+AIRE	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	AIRE	ILMN_1670282	AIRE	AIRE	326
+AIRE	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	AIRE	ILMN_1791236	AIRE	AIRE	326
+AIRE	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	AIRE	ILMN_2261519	AIRE	AIRE	326
+BMP6	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	BMP6	ILMN_1747650	BMP6	BMP6	654
+BMPR1A	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	BMPR1A	ILMN_1706957	BMPR1A	BMPR1A	657
+BMPR1A	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	BMPR1A	ILMN_2095577	BMPR1A	BMPR1A	657
+BTN2A1	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	BTN2A1	ILMN_1783392	BTN2A1	BTN2A1	11120
+BTN2A1	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	BTN2A1	ILMN_2364852	BTN2A1	BTN2A1	11120
+BTN2A2	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	BTN2A2	ILMN_1752758	BTN2A2	BTN2A2	10385
+BTN2A2	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	BTN2A2	ILMN_2256894	BTN2A2	BTN2A2	10385
+BTN2A3P	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	BTN2A3P	NA	NA	NA	NA
+BTN3A1	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	BTN3A1	ILMN_1687888	BTN3A1	BTN3A1	11119
+BTN3A1	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	BTN3A1	ILMN_1802708	BTN3A1	BTN3A1	11119
+CARD9	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CARD9	ILMN_1712532	CARD9	CARD9	64170
+CASP8	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CASP8	ILMN_1669565	CASP8	CASP8	841
+CASP8	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CASP8	ILMN_1673757	CASP8	CASP8	841
+CASP8	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CASP8	ILMN_1787749	CASP8	CASP8	841
+CASP8	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CASP8	ILMN_1809313	CASP8	CASP8	841
+CASP8	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CASP8	ILMN_2377733	CASP8	CASP8	841
+CBLB	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CBLB	ILMN_1685580	CBLB	CBLB	868
+CCL28	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CCL28	ILMN_1701347	CCL28	CCL28	56477
+CCL28	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CCL28	ILMN_1774087	CCL28	CCL28	56477
+CCL28	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CCL28	ILMN_2228845	CCL28	CCL28	56477
+CCR1	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CCR1	ILMN_1678833	CCR1	CCR1	1230
+CCR2	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CCR2	ILMN_1658299	CCR2	CCR2	1231
+CCR2	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CCR2	ILMN_1669062	CCR2	CCR2	1231
+CCR2	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CCR2	ILMN_1769895	CCR2	CCR2	1231
+CCR2	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CCR2	ILMN_1774761	CCR2	CCR2	1231
+CCR2	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CCR2	ILMN_1776706	CCR2	CCR2	1231
+CCR2	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CCR2	ILMN_1777461	CCR2	CCR2	1231
+CCR2	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CCR2	ILMN_2276996	CCR2	CCR2	1231
+CCR2	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CCR2	ILMN_2376431	CCR2	CCR2	1231
+CCR3	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CCR3	ILMN_1656684	CCR3	CCR3	1232
+CCR3	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CCR3	ILMN_1763322	CCR3	CCR3	1232
+CCR4	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CCR4	ILMN_2086143	CCR4	CCR4	1233
+CCR5	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CCR5	ILMN_1653395	CCR5	CCR5	1234
+CCR5	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CCR5	ILMN_2145033	CCR5	CCR5	1234
+CCR6	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CCR6	ILMN_1690907	CCR6	CCR6	1235
+CCR6	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CCR6	ILMN_1759635	CCR6	CCR6	1235
+CCR6	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CCR6	ILMN_2387696	CCR6	CCR6	1235
+CCR7	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CCR7	ILMN_1715131	CCR7	CCR7	1236
+CCR9	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CCR9	ILMN_1664316	CCR9	CCR9	10803
+CCR9	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CCR9	ILMN_2337386	CCR9	CCR9	10803
+CCRL2	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CCRL2	NA	NA	NA	NA
+CD164	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CD164	ILMN_1783852	CD164	CD164	8763
+CD1D	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CD1D	ILMN_1719433	CD1D	CD1D	912
+CD1D	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CD1D	ILMN_1892782	CD1D	CD1D	912
+CD80	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CD80	ILMN_1716736	CD80	CD80	941
+CD96	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CD96	ILMN_1711573	CD96	CD96	10225
+CD96	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CD96	ILMN_2415786	CD96	CD96	10225
+CMKLR1	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CMKLR1	ILMN_1673030	CMKLR1	CMKLR1	1240
+CR2	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CR2	ILMN_1684724	CR2	CR2	1380
+CR2	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CR2	ILMN_1727753	CR2	CR2	1380
+CR2	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CR2	ILMN_2369666	CR2	CR2	1380
+CTSL	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CTSL	NA	NA	NA	NA
+CXCR5	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CXCR5	ILMN_2337928	CXCR5	CXCR5	643
+CXCR5	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CXCR5	ILMN_2337931	CXCR5	CXCR5	643
+CYSLTR2	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	CYSLTR2	ILMN_1773204	CYSLTR2	CYSLTR2	57105
+DEFB1	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	DEFB1	ILMN_1686573	DEFB1	DEFB1	1672
+ELF1	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	ELF1	ILMN_1664010	ELF1	ELF1	1997
+ENPP1	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	ENPP1	ILMN_1700888	ENPP1	ENPP1	5167
+ERMAP	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	ERMAP	ILMN_1715013	ERMAP	ERMAP	114625
+ERMAP	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	ERMAP	ILMN_1785387	ERMAP	ERMAP	114625
+ETS1	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	ETS1	ILMN_1687538	ETS1	ETS1	2113
+ETS1	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	ETS1	ILMN_2122103	ETS1	ETS1	2113
+EXOSC9	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	EXOSC9	ILMN_1721713	EXOSC9	EXOSC9	5393
+EXOSC9	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	EXOSC9	ILMN_2312719	EXOSC9	EXOSC9	5393
+FAS	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	FAS	ILMN_1808132	FAS	FAS	355
+FAS	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	FAS	ILMN_2319077	FAS	FAS	355
+FCGR2B	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	FCGR2B	ILMN_1660027	FCGR2B	FCGR2B	2213
+FCGR2B	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	FCGR2B	ILMN_1804174	FCGR2B	FCGR2B	2213
+FCGR2B	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	FCGR2B	ILMN_2382403	FCGR2B	FCGR2B	2213
+FCGR3A	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	FCGR3A	ILMN_1703679	FCGR3A	FCGR3A	2214
+FCGR3A	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	FCGR3A	ILMN_2112580	FCGR3A	FCGR3A	2214
+FCGR3B	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	FCGR3B	ILMN_1728639	FCGR3B	FCGR3B	2215
+FCGR3B	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	FCGR3B	ILMN_2134453	FCGR3B	FCGR3B	2215
+GATA3	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	GATA3	ILMN_2406656	GATA3	GATA3	2625
+GPR183	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	GPR183	NA	NA	NA	NA
+HIC2	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	HIC2	ILMN_1652762	HIC2	HIC2	23119
+ICOS	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	ICOS	ILMN_1669927	ICOS	ICOS	29851
+ICOSLG	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	ICOSLG	ILMN_1675671	ICOSLG	ICOSLG	23308
+IFI44	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	IFI44	ILMN_1760062	IFI44	IFI44	10561
+IFI44L	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	IFI44L	ILMN_1723912	IFI44L	IFI44L	10964
+IFI6	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	IFI6	ILMN_1687384	IFI6	IFI6	2537
+IFI6	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	IFI6	ILMN_2347798	IFI6	IFI6	2537
+IFITM3	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	IFITM3	ILMN_1805750	IFITM3	IFITM3	10410
+IGF2BP3	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	IGF2BP3	ILMN_1807423	IGF2BP3	IGF2BP3	10643
+IL15	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	IL15	ILMN_1724181	IL15	IL15	3600
+IL15	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	IL15	ILMN_1785312	IL15	IL15	3600
+IL15	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	IL15	ILMN_2273053	IL15	IL15	3600
+IL15	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	IL15	ILMN_2369221	IL15	IL15	3600
+IL1RN	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	IL1RN	ILMN_1689734	IL1RN	IL1RN	3557
+IL1RN	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	IL1RN	ILMN_1774874	IL1RN	IL1RN	3557
+IL1RN	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	IL1RN	ILMN_1806249	IL1RN	IL1RN	3557
+IL2RA	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	IL2RA	ILMN_1683774	IL2RA	IL2RA	3559
+IL2RA	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	IL2RA	ILMN_2108699	IL2RA	IL2RA	3559
+IL7R	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	IL7R	ILMN_1691341	IL7R	IL7R	3575
+IL7R	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	IL7R	ILMN_2342579	IL7R	IL7R	3575
+JPH4	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	JPH4	ILMN_1758829	JPH4	JPH4	84502
+KIR2DL1	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	KIR2DL1	ILMN_1678882	KIR2DL1	KIR2DL1	3802
+KIR2DL1	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	KIR2DL1	ILMN_1786810	KIR2DL1	KIR2DL1	3802
+KIR2DS1	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	KIR2DS1	ILMN_1722506	KIR2DS1	KIR2DS1	3806
+KIR2DS1	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	KIR2DS1	ILMN_2166812	KIR2DS1	KIR2DS1	3806
+KIR2DS2	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	KIR2DS2	ILMN_1686831	KIR2DS2	KIR2DS2	3807
+KIR2DS5	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	KIR2DS5	ILMN_1691803	KIR2DS5	KIR2DS5	3810
+KIR3DL1	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	KIR3DL1	ILMN_1733245	KIR3DL1	KIR3DL1	3811
+KIR3DL1	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	KIR3DL1	ILMN_2131828	KIR3DL1	KIR3DL1	3811
+KIR3DS1	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	KIR3DS1	NA	NA	NA	NA
+LAX1	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	LAX1	ILMN_1769782	LAX1	LAX1	54900
+LIF	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	LIF	ILMN_1738725	LIF	LIF	3976
+MARCHF1	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	MARCHF1	NA	NA	NA	NA
+MICA	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	MICA	ILMN_1797929	MICA	MICA	4276
+MS4A2	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	MS4A2	ILMN_1806721	MS4A2	MS4A2	2206
+NOD2	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	NOD2	ILMN_1762594	NOD2	NOD2	64127
+P2RX7	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	P2RX7	ILMN_1759326	P2RX7	P2RX7	5027
+PANX1	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	PANX1	ILMN_1697817	PANX1	PANX1	24145
+PATZ1	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	PATZ1	ILMN_1660611	PATZ1	PATZ1	23598
+PATZ1	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	PATZ1	ILMN_1759297	PATZ1	PATZ1	23598
+PATZ1	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	PATZ1	ILMN_2401844	PATZ1	PATZ1	23598
+PIK3R1	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	PIK3R1	ILMN_1689057	PIK3R1	PIK3R1	5295
+PIK3R1	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	PIK3R1	ILMN_1691433	PIK3R1	PIK3R1	5295
+PIK3R1	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	PIK3R1	ILMN_1760303	PIK3R1	PIK3R1	5295
+PIK3R1	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	PIK3R1	ILMN_2289433	PIK3R1	PIK3R1	5295
+PIK3R1	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	PIK3R1	ILMN_2398235	PIK3R1	PIK3R1	5295
+PRKRA	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	PRKRA	ILMN_1758474	PRKRA	PRKRA	8575
+PTGER4	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	PTGER4	ILMN_1795930	PTGER4	PTGER4	5734
+RGS1	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	RGS1	ILMN_1656011	RGS1	RGS1	5996
+RIPK2	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	RIPK2	ILMN_1758939	RIPK2	RIPK2	8767
+SERPINB9	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	SERPINB9	ILMN_1742052	SERPINB9	SERPINB9	5272
+SERPINB9	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	SERPINB9	ILMN_2184250	SERPINB9	SERPINB9	5272
+SIRT1	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	SIRT1	ILMN_1739083	SIRT1	SIRT1	23411
+SMAD3	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	SMAD3	ILMN_1682738	SMAD3	SMAD3	4088
+SOCS1	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	SOCS1	ILMN_1774733	SOCS1	SOCS1	8651
+SPON2	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	SPON2	ILMN_1676099	SPON2	SPON2	10417
+TCF12	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TCF12	ILMN_1669832	TCF12	TCF12	6938
+TCF12	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TCF12	ILMN_1772614	TCF12	TCF12	6938
+TCF12	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TCF12	ILMN_2314007	TCF12	TCF12	6938
+TCF7	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TCF7	ILMN_1676470	TCF7	TCF7	6932
+TCF7	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TCF7	ILMN_1677846	TCF7	TCF7	6932
+TCF7	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TCF7	ILMN_1683986	TCF7	TCF7	6932
+TCF7	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TCF7	ILMN_1707005	TCF7	TCF7	6932
+TCF7	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TCF7	ILMN_1710746	TCF7	TCF7	6932
+TCF7	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TCF7	ILMN_2367141	TCF7	TCF7	6932
+TGFBR3	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TGFBR3	ILMN_1784287	TGFBR3	TGFBR3	7049
+TLR3	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TLR3	ILMN_1689578	TLR3	TLR3	7098
+TLR3	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TLR3	ILMN_2155708	TLR3	TLR3	7098
+TLR7	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TLR7	ILMN_1677827	TLR7	TLR7	51284
+TNFRSF4	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TNFRSF4	ILMN_1710204	TNFRSF4	TNFRSF4	7293
+TNFRSF4	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TNFRSF4	ILMN_2112256	TNFRSF4	TNFRSF4	7293
+TNFSF10	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TNFSF10	ILMN_1801307	TNFSF10	TNFSF10	8743
+TNFSF15	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TNFSF15	ILMN_1759501	TNFSF15	TNFSF15	9966
+TNFSF15	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TNFSF15	ILMN_2106380	TNFSF15	TNFSF15	9966
+TNFSF4	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TNFSF4	ILMN_1746175	TNFSF4	TNFSF4	7292
+TNFSF4	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TNFSF4	ILMN_2089875	TNFSF4	TNFSF4	7292
+TNFSF8	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TNFSF8	ILMN_1761778	TNFSF8	TNFSF8	944
+TNFSF9	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TNFSF9	ILMN_1751464	TNFSF9	TNFSF9	8744
+TRIM22	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	TRIM22	ILMN_1779252	TRIM22	TRIM22	10346
+VPREB3	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	VPREB3	ILMN_1700147	VPREB3	VPREB3	29802
+ZBTB1	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	ZBTB1	ILMN_1750246	ZBTB1	ZBTB1	22890
+ZBTB2	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	ZBTB2	ILMN_1766247	ZBTB2	ZBTB2	57621
+ZBTB20	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	ZBTB20	ILMN_1689456	ZBTB20	ZBTB20	26137
+ZBTB25	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	ZBTB25	ILMN_1658728	ZBTB25	ZBTB25	7597
+ZBTB25	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	ZBTB25	ILMN_2048982	ZBTB25	ZBTB25	7597
+ZBTB26	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	ZBTB26	ILMN_1718668	ZBTB26	ZBTB26	57684
+ZBTB33	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	ZBTB33	ILMN_1673138	ZBTB33	ZBTB33	10009
+ZBTB37	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	ZBTB37	ILMN_1785960	ZBTB37	ZBTB37	84614
+ZBTB39	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	ZBTB39	ILMN_1681154	ZBTB39	ZBTB39	9880
+ZBTB49	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	ZBTB49	NA	NA	NA	NA
+ZBTB6	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	ZBTB6	ILMN_1727218	ZBTB6	ZBTB6	10773
+ZNF131	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	ZNF131	ILMN_2178088	ZNF131	ZNF131	7690
+ZNF134	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	ZNF134	ILMN_1768809	ZNF134	ZNF134	7693
+ZNF572	VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	ZNF572	ILMN_1802974	ZNF572	ZNF572	137209

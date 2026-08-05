@@ -1,0 +1,6 @@
+final_module_id	symbol_only_locked_gene_count	symbol_only_mapped_gene_count	symbol_only_missing_gene_count	symbol_only_coverage_fraction	symbol_only_missing_symbols	entrez_reconciled_mapped_gene_count	entrez_reconciled_missing_gene_count	entrez_reconciled_coverage_fraction	genes_rescued_by_entrez	rescued_symbols	entrez_reconciled_missing_symbols	mapped_gene_gain
+BACT_M1	25	24	1	0.96	HYDIN2	24	1	0.96	0	none	HYDIN2	0
+BACT_M2	21	14	7	0.666666666666667	ATP5F1A;ATP5ME;ATP5MF;MTFR2;NDUFAF6;NDUFAF7;NDUFAF8	20	1	0.952380952380952	6	ATP5F1A;ATP5ME;ATP5MF;MTFR2;NDUFAF6;NDUFAF7	NDUFAF8	6
+VIR_M1a	128	120	8	0.9375	ADGRB1;DDX60L;IFIT1B;NT5C3A;PLPP6;POLR3E;RIGI;URI1	125	3	0.9765625	6	ADGRB1;IFIT1B;NT5C3A;PLPP6;RIGI;URI1	DDX60L;MICA;POLR3E	5
+VIR_M1b	33	31	2	0.939393939393939	RIGI;TOMM70	33	0	1	2	RIGI;TOMM70	none	2
+VIR_M2	106	98	8	0.924528301886792	ACKR3;BTN2A3P;CCRL2;CTSL;GPR183;KIR3DS1;MARCHF1;ZBTB49	101	5	0.952830188679245	6	ACKR3;BTN2A3P;CTSL;GPR183;MARCHF1;ZBTB49	CCR2;CCRL2;KIR2DS2;KIR3DS1;MICA	3
