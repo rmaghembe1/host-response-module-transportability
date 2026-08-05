@@ -1,0 +1,15 @@
+check_id	check_description	pass
+Q01	Expression matrix contains 48,803 unique probes	TRUE
+Q02	Expression matrix contains 146 ordered samples	TRUE
+Q03	Expression and metadata sample orders match	TRUE
+Q04	Locked module mapping contains 313 instances	TRUE
+Q05	Mapped module-gene instances equal 303	TRUE
+Q06	Unmapped module-gene instances equal 10	TRUE
+Q07	Candidate probes are present in the expression matrix	TRUE
+Q08	Candidate gene-probe keys are unique	TRUE
+Q09	No accepted probe maps to multiple locked Entrez genes	TRUE
+Q10	One frozen representative probe exists per mapped Entrez gene	TRUE
+Q11	All mapped module-gene instances receive a frozen probe	TRUE
+Q12	No unmapped module-gene instance receives a probe	TRUE
+Q13	Primary selection uses all-sample median expression	TRUE
+Q14	Primary tie-breaker is lexicographically smallest probe ID	TRUE
