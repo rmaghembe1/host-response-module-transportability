@@ -1,0 +1,11 @@
+scoring_population	final_module_id	locked_gene_count	available_gene_count	missing_gene_count	leave_one_variant_count	leave_two_variant_count	total_variant_count
+main_all_projected_reference	BACT_M1	25	24	1	24	276	300
+main_all_projected_reference	BACT_M2	21	21	0	21	210	231
+main_all_projected_reference	VIR_M1a	128	128	0	128	8128	8256
+main_all_projected_reference	VIR_M1b	33	33	0	33	528	561
+main_all_projected_reference	VIR_M2	106	105	1	105	5460	5565
+primary_only_reference	BACT_M1	25	24	1	24	276	300
+primary_only_reference	BACT_M2	21	21	0	21	210	231
+primary_only_reference	VIR_M1a	128	128	0	128	8128	8256
+primary_only_reference	VIR_M1b	33	33	0	33	528	561
+primary_only_reference	VIR_M2	106	105	1	105	5460	5565
