@@ -1,0 +1,15 @@
+check_id	check_description	pass
+VQ01	Validated source-data table is present	TRUE
+VQ02	Source-data table contains ten cohort-module rows	TRUE
+VQ03	Source-data table contains two cohorts	TRUE
+VQ04	Source-data table contains five locked modules	TRUE
+VQ05	All plotted estimates and confidence limits are finite	TRUE
+VQ06	All confidence-interval bounds are correctly ordered	TRUE
+VQ07	The plotting factor encodes the required top-to-bottom module order	TRUE
+VQ08	The in-figure footer has been removed	TRUE
+VQ09	The built forest plot contains ten confidence intervals	TRUE
+VQ10	The built forest plot contains ten point estimates	TRUE
+VQ11	PNG, SVG and PDF files were generated	TRUE
+VQ12	PNG, SVG and PDF files are non-empty	TRUE
+VQ13	The SVG contains no embedded raster image	TRUE
+VQ14	The figure manifest records the final visual configuration	TRUE

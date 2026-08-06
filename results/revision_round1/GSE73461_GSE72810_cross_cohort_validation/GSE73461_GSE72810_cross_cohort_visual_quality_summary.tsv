@@ -1,0 +1,2 @@
+total_checks	passed_checks	failed_checks	source_rows	plotted_confidence_intervals	plotted_point_estimates	top_to_bottom_module_order	in_figure_footer_present	svg_raster_image_elements	svg_path_elements	quality_gate	final_status
+14	14	0	10	10	10	BACT_M1;BACT_M2;VIR_M1a;VIR_M1b;VIR_M2	FALSE	0	1097	PASS	READY_FOR_FINAL_VISUAL_CONFIRMATION_AND_COMMIT

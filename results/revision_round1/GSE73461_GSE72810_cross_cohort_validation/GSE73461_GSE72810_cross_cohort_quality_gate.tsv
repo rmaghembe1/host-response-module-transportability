@@ -1,0 +1,28 @@
+check_id	check_description	pass
+Q01	All six locked input files are present	TRUE
+Q02	The cohort overlap and wording audit validates	TRUE
+Q03	GSE73461 primary analysis contains five unique locked modules	TRUE
+Q04	GSE72810 primary analysis contains five unique locked modules	TRUE
+Q05	Both cohorts contain exactly the locked module set	TRUE
+Q06	The harmonised in-memory source table contains ten rows	TRUE
+Q07	Harmonised cohort-module keys are unique	TRUE
+Q08	Module labels are identical between cohorts	TRUE
+Q09	Expected directions are identical between cohorts	TRUE
+Q10	Locked gene counts are identical between coverage sources	TRUE
+Q11	GSE73461 group counts are 52 bacterial and 94 viral	TRUE
+Q12	GSE72810 group counts are 23 bacterial and 28 viral	TRUE
+Q13	Every primary effect row used 10,000 bootstrap replicates	TRUE
+Q14	All effect estimates, intervals and P values are finite	TRUE
+Q15	All confidence-interval lower and upper bounds are ordered	TRUE
+Q16	All rank-biserial estimates and intervals lie between minus one and one	TRUE
+Q17	All module coverage fractions are at least 70 percent	TRUE
+Q18	All GSE72810 representative probes remain frozen	TRUE
+Q19	All ten cohort-module effects retain their expected directions	TRUE
+Q20	BACT_M1 is FDR-borderline in both cohorts and the other modules pass FDR	TRUE
+Q21	BACT_M1 confidence intervals include zero and the other module intervals exclude zero	TRUE
+Q22	The manuscript-facing summary table contains five unique modules	TRUE
+Q23	PNG, SVG and PDF figure files are present and non-empty	TRUE
+Q24	The SVG contains no embedded raster image element	TRUE
+Q25	Caption and Markdown summary-table files are present and non-empty	TRUE
+Q26	The written source-data TSV contains exactly ten physical data rows	TRUE
+Q27	The written summary TSV contains exactly five physical data rows	TRUE

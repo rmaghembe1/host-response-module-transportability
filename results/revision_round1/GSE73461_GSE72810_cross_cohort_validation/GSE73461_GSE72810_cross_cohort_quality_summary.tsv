@@ -1,0 +1,2 @@
+total_checks	passed_checks	failed_checks	source_data_rows_in_memory	source_data_rows_on_disk	summary_table_rows_in_memory	summary_table_rows_on_disk	validation_cohorts	locked_modules	expected_direction_rows	fdr_significant_rows	hl_ci_excluding_zero_rows	modules_supported_in_both_cohorts	svg_raster_image_elements	quality_gate	integration_status
+27	27	0	10	10	5	5	2	5	10	8	8	4	0	PASS	READY_FOR_VISUAL_REVIEW_AND_COMMIT
