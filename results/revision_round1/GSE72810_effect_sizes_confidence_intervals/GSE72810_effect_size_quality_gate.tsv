@@ -1,0 +1,19 @@
+check_id	check_description	pass
+Q01	Locked Script 47 projection quality summary validates	TRUE
+Q02	Module-score input contains 1,715 rows	TRUE
+Q03	Module-score keys are unique and finite	TRUE
+Q04	Analysis manifest contains four locked analyses	TRUE
+Q05	Reference test input contains 20 unique rows	TRUE
+Q06	Coverage input contains five eligible frozen modules	TRUE
+Q07	Twenty effect-size rows were generated	TRUE
+Q08	Five primary manuscript-table rows were generated	TRUE
+Q09	Twenty bootstrap-manifest rows were generated	TRUE
+Q10	Effect-size keys are unique	TRUE
+Q11	Bootstrap-manifest keys and seeds are unique	TRUE
+Q12	All group counts match Script 47	TRUE
+Q13	All recomputed group summaries match Script 47	TRUE
+Q14	All recomputed test statistics and adjusted P values match Script 47	TRUE
+Q15	All direction and significance labels match Script 47	TRUE
+Q16	All 10,000 bootstrap replicates completed for every row	TRUE
+Q17	All confidence intervals are finite and correctly ordered	TRUE
+Q18	All rank-biserial estimates and intervals remain within minus one and one	TRUE
