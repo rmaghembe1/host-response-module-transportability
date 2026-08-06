@@ -1,0 +1,9 @@
+# Supplementary Figure S1. Sensitivity and robustness of locked host-response module transportability
+
+**A, Z-reference, case-definition and probe-collapse sensitivities.** Rank-biserial bacterial-versus-viral effects and bootstrap 95% confidence intervals are shown for the two GSE73461 mean-z analyses and four GSE72810 analyses. All 30 cohort-module estimates retained the expected direction. GSE72810 score concordance across the tested z-reference and probe-collapse representations remained high, with minimum Pearson r = 0.9874 and minimum Spearman rho = 0.9814.
+
+**B, Mean-z versus GSVA scoring-method sensitivity in GSE73461.** Rank-biserial effects are displayed because they are comparable across scoring methods with different raw score scales. BACT_M2, VIR_M1a and VIR_M1b retained confidence-interval and BH-adjusted statistical support under both methods and z-reference populations. BACT_M1 was borderline under mean-z scoring but supported under GSVA. VIR_M2 retained a small viral-higher direction under GSVA but its confidence intervals included zero and its BH-adjusted P values were not significant. VIR_M2 is therefore described as scoring-method-sensitive.
+
+**C, Exhaustive leave-one/two-gene robustness in GSE73461.** Points show the minimum Pearson correlation between each deletion variant and the corresponding complete-module score. Across 29,826 variants, every leave-one and leave-two analysis retained the expected module direction. The minimum Pearson correlation was 0.9940 and the minimum Spearman correlation was 0.9897.
+
+Positive rank-biserial effects indicate bacterial-higher scores and negative effects indicate viral-higher scores. These analyses evaluate robustness of the frozen modules and do not constitute gene reselection, module redefinition, diagnostic-model training or causal validation.

@@ -1,0 +1,6 @@
+finding_id	finding	interpretation_boundary
+A1	All 30 z-reference, case-definition and probe-collapse sensitivity rows retained their expected module direction.	Direction preservation does not imply identical effect magnitude or statistical significance.
+A2	GSE72810 sensitivity-score concordance remained high; minimum Pearson r = 0.9874322 and minimum Spearman rho = 0.9813714.	Correlation measures score-level concordance and does not replace effect-size comparison.
+B1	VIR_M2 retained a viral-higher direction but lost confidence-interval and FDR support under GSVA in both z-reference populations.	VIR_M2 should be described as scoring-method-sensitive rather than uniformly robust across scoring algorithms.
+B2	BACT_M1 was borderline under mean-z scoring but gained confidence-interval and FDR support under GSVA.	The stronger GSVA result does not convert BACT_M1 into a uniformly supported module across all primary analyses.
+C1	All 29826 leave-one/two-gene variants retained the expected direction; minimum Pearson r with the complete module was 0.9940203.	Deletion robustness supports distributed module signal but does not establish causal sufficiency of individual genes.

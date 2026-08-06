@@ -1,0 +1,30 @@
+check_id	check_description	pass
+Q01	All six required input files are present	TRUE
+Q02	Panel A contains 30 sensitivity-effect rows	TRUE
+Q03	Panel B contains 20 mean-z and GSVA rows	TRUE
+Q04	Panel B wide table contains ten module-population rows	TRUE
+Q05	Panel C contains 20 deletion-summary rows	TRUE
+Q06	All three panels contain the five locked modules	TRUE
+Q07	Panel A estimates and confidence limits are finite	TRUE
+Q08	Panel B estimates and confidence limits are finite	TRUE
+Q09	Panel C minimum correlations are finite	TRUE
+Q10	All Panel A rank-biserial values lie between minus one and one	TRUE
+Q11	All Panel B rank-biserial values lie between minus one and one	TRUE
+Q12	Every Panel A estimate retains the expected direction	TRUE
+Q13	Every Panel B estimate retains the expected direction	TRUE
+Q14	Every Panel A and Panel B row used 10,000 bootstrap replicates	TRUE
+Q15	Panel A contains 24 FDR-supported rows	TRUE
+Q16	Panel A contains 25 confidence intervals excluding zero	TRUE
+Q17	Panel B contains 16 FDR-supported rows	TRUE
+Q18	Panel B contains 16 confidence intervals excluding zero	TRUE
+Q19	GSE72810 minimum sensitivity-score Pearson correlation is at least 0.987	TRUE
+Q20	Panel B wide table contains the locked syntactic Mean_z and GSVA columns	TRUE
+Q21	VIR_M2 is FDR-supported under mean-z but unsupported under GSVA	TRUE
+Q22	BACT_M1 is FDR-borderline under mean-z but supported under GSVA	TRUE
+Q23	The deletion audit contains exactly 29,826 variants	TRUE
+Q24	All deletion variants preserve the expected direction	TRUE
+Q25	All deletion variant counts match their expected counts	TRUE
+Q26	The minimum deletion-variant Pearson correlation is at least 0.994	TRUE
+Q27	Panel source TSVs contain 30, 20, 10 and 20 physical rows	TRUE
+Q28	The composite plot contains all expected point and interval layers	TRUE
+Q29	PNG, SVG and PDF files exist and the SVG contains no raster image	TRUE
