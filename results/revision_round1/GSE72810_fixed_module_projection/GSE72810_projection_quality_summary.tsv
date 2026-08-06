@@ -1,0 +1,2 @@
+total_checks	passed_checks	failed_checks	score_rows	test_rows	group_summary_rows	concordance_rows	direction_retained_rows	nominally_significant_rows	fdr_significant_rows	quality_gate	projection_status
+21	21	0	1715	20	40	10	20	16	16	PASS	READY_FOR_EFFECT_SIZE_AND_FIGURE_ANALYSIS

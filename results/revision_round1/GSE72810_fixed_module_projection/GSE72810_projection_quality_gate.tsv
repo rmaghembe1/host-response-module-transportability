@@ -1,0 +1,22 @@
+check_id	check_description	pass
+Q01	Phase R1D3A design lock validates	TRUE
+Q02	Expression matrix contains 48,803 unique probes	TRUE
+Q03	Expression matrix contains 146 samples	TRUE
+Q04	Expression and metadata sample orders match	TRUE
+Q05	Frozen representative table contains 256 unique Entrez genes	TRUE
+Q06	Frozen module-gene table contains 313 instances	TRUE
+Q07	Mapped module-gene instances equal 303	TRUE
+Q08	Unmapped module-gene instances equal 10	TRUE
+Q09	All frozen representative probes are present	TRUE
+Q10	All authorized probes are present	TRUE
+Q11	Representative all-sample reference SDs are positive	TRUE
+Q12	Representative primary-only reference SDs are positive	TRUE
+Q13	All-probe-mean all-sample reference SDs are positive	TRUE
+Q14	All module scores are finite	TRUE
+Q15	Module-score row count matches the locked design	TRUE
+Q16	Module-score keys are unique	TRUE
+Q17	Twenty analysis-test rows were generated	TRUE
+Q18	Forty group-summary rows were generated	TRUE
+Q19	Ten score-concordance rows were generated and finite	TRUE
+Q20	All five modules retain at least 70 percent mapped coverage	TRUE
+Q21	All analysis definitions prohibit reselection and model training	TRUE
