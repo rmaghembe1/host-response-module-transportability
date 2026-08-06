@@ -1,0 +1,19 @@
+check_id	check_description	pass
+Q01	GSE72810 harmonized metadata contains 146 samples	TRUE
+Q02	GSE73461 SOFT metadata contains 459 samples	TRUE
+Q03	GSE73461 series-matrix metadata contains 459 samples	TRUE
+Q04	All three accession sources contain unique valid GSM identifiers	TRUE
+Q05	GSE73461 SOFT and series-matrix accession sets match	TRUE
+Q06	GSE73461 SOFT and series-matrix titles match by accession	TRUE
+Q07	Combined accession inventory contains 605 rows	TRUE
+Q08	GSE72810 and GSE73461 have zero shared GSM accessions	TRUE
+Q09	GSE72810 contains only GPL6947	TRUE
+Q10	GSE73461 contains only GPL10558	TRUE
+Q11	The cohort platform sets are disjoint	TRUE
+Q12	No dedicated participant identifier was recovered in GSE72810	TRUE
+Q13	No dedicated participant identifier was recovered in GSE73461	TRUE
+Q14	Contact inventories were recovered for both cohorts	TRUE
+Q15	Shared broad investigator-network evidence was recovered	TRUE
+Q16	Five independence dimensions were assessed	TRUE
+Q17	Five manuscript-wording recommendations were generated	TRUE
+Q18	Preferred wording avoids unqualified participant or investigator independence	TRUE

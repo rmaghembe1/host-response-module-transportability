@@ -1,0 +1,2 @@
+gse72810_platforms	gse73461_platforms	expected_gse72810_platform	expected_gse73461_platform	gse72810_platform_matches_expected	gse73461_platform_matches_expected	platform_sets_disjoint	platform_interpretation
+GPL6947	GPL10558	GPL6947	GPL10558	TRUE	TRUE	TRUE	GSE72810 and GSE73461 use different Illumina array generations, supporting cross-platform validation.

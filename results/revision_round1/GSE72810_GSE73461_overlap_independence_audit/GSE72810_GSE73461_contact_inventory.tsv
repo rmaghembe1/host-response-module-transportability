@@ -1,0 +1,33 @@
+cohort	source_scope	contact_field	raw_value	normalized_value
+GSE72810	Series	contact_address	South Kensington Campus	southkensingtoncampus
+GSE72810	Sample	contact_address	South Kensington Campus	southkensingtoncampus
+GSE72810	Series	contact_city	London	london
+GSE72810	Sample	contact_city	London	london
+GSE72810	Series	contact_country	United Kingdom	unitedkingdom
+GSE72810	Sample	contact_country	United Kingdom	unitedkingdom
+GSE72810	Series	contact_department	Paediatrics	paediatrics
+GSE72810	Sample	contact_department	Paediatrics	paediatrics
+GSE72810	Series	contact_email	m.kaforou@imperial.ac.uk	m.kaforou@imperial.ac.uk
+GSE72810	Sample	contact_email	m.kaforou@imperial.ac.uk	m.kaforou@imperial.ac.uk
+GSE72810	Series	contact_email	m.levin@imperial.ac.uk	m.levin@imperial.ac.uk
+GSE72810	Sample	contact_email	m.levin@imperial.ac.uk	m.levin@imperial.ac.uk
+GSE72810	Series	contact_email	v.wright@imperial.ac.uk	v.wright@imperial.ac.uk
+GSE72810	Sample	contact_email	v.wright@imperial.ac.uk	v.wright@imperial.ac.uk
+GSE72810	Series	contact_institute	Imperial College London	imperialcollegelondon
+GSE72810	Sample	contact_institute	Imperial College London	imperialcollegelondon
+GSE72810	Series	contact_laboratory	Sir Alexander Fleming Building	siralexanderflemingbuilding
+GSE72810	Sample	contact_laboratory	Sir Alexander Fleming Building	siralexanderflemingbuilding
+GSE72810	Series	contact_name	Michael,,Levin	michaellevin
+GSE72810	Sample	contact_name	Michael,,Levin	michaellevin
+GSE72810	Series	contact_postal_code	SW7 2AZ	sw72az
+GSE72810	Sample	contact_postal_code	SW7 2AZ	sw72az
+GSE73461	harmonized_metadata	contact_address	South Kensington Campus	southkensingtoncampus
+GSE73461	harmonized_metadata	contact_city	London	london
+GSE73461	harmonized_metadata	contact_country	United Kingdom	unitedkingdom
+GSE73461	harmonized_metadata	contact_department	Paediatrics	paediatrics
+GSE73461	harmonized_metadata	contact_email	m.kaforou@imperial.ac.uk	m.kaforou@imperial.ac.uk
+GSE73461	harmonized_metadata	contact_email	m.levin@imperial.ac.uk	m.levin@imperial.ac.uk
+GSE73461	harmonized_metadata	contact_email	v.wright@imperial.ac.uk	v.wright@imperial.ac.uk
+GSE73461	harmonized_metadata	contact_institute	Imperial College London	imperialcollegelondon
+GSE73461	harmonized_metadata	contact_laboratory	Sir Alexander Fleming Building	siralexanderflemingbuilding
+GSE73461	harmonized_metadata	contact_name	Michael,,Levin	michaellevin

@@ -1,0 +1,6 @@
+wording_role	wording	use_status	rationale
+preferred_cohort_description	GSE72810 was analysed as a second accession-level and sample-level cohort providing cross-platform validation of the locked host-response modules.	USE	Supported by disjoint GSM accessions and distinct platforms.
+required_limitation	The GSE72810 and GSE73461 GEO sample accession sets were disjoint and the cohorts were measured on different Illumina array platforms. However, direct participant overlap could not be assessed because participant identifiers were not deposited, and the studies arose from the same broad investigator network.	USE	Required because participant identifiers are absent and contact metadata support a shared broad network.
+preferred_results_description	Projection into GSE72810 provided additional sample-level and cross-platform support for the locked module architecture, with no module reselection, reweighting or diagnostic-model training.	USE	Accurately describes the additional validation layer.
+avoid_unqualified_phrase	a fully independent external cohort	AVOID	Investigator-network independence is not supported.
+avoid_overstated_claim	participant overlap was excluded between GSE72810 and GSE73461	AVOID	Participant-level overlap is not directly assessable.

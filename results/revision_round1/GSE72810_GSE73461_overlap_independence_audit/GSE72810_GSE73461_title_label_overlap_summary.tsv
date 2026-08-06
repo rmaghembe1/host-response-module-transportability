@@ -1,0 +1,2 @@
+gse72810_unique_titles	gse73461_unique_titles	exact_full_title_overlap	normalized_label_overlap_rows	normalized_label_overlap_values	normalized_title_labels_are_participant_ids	interpretation
+146	459	0	122	122	FALSE	Reused descriptive labels are cohort-local naming conventions and do not establish participant overlap.

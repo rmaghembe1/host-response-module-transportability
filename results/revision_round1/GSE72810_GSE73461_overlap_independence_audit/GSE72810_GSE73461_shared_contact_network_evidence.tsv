@@ -1,0 +1,11 @@
+contact_field	normalized_value	gse72810_raw_value	gse73461_raw_value	network_evidence_field	interpretation
+contact_department	paediatrics	Paediatrics	Paediatrics	TRUE	Shared deposited contact or institutional field supports a shared broad investigator network.
+contact_email	m.kaforou@imperial.ac.uk	m.kaforou@imperial.ac.uk	m.kaforou@imperial.ac.uk	TRUE	Shared deposited contact or institutional field supports a shared broad investigator network.
+contact_email	m.levin@imperial.ac.uk	m.levin@imperial.ac.uk	m.levin@imperial.ac.uk	TRUE	Shared deposited contact or institutional field supports a shared broad investigator network.
+contact_email	v.wright@imperial.ac.uk	v.wright@imperial.ac.uk	v.wright@imperial.ac.uk	TRUE	Shared deposited contact or institutional field supports a shared broad investigator network.
+contact_institute	imperialcollegelondon	Imperial College London	Imperial College London	TRUE	Shared deposited contact or institutional field supports a shared broad investigator network.
+contact_laboratory	siralexanderflemingbuilding	Sir Alexander Fleming Building	Sir Alexander Fleming Building	TRUE	Shared deposited contact or institutional field supports a shared broad investigator network.
+contact_name	michaellevin	Michael,,Levin	Michael,,Levin	TRUE	Shared deposited contact or institutional field supports a shared broad investigator network.
+contact_address	southkensingtoncampus	South Kensington Campus	South Kensington Campus	FALSE	Shared contextual location field; not sufficient alone to establish investigator-network overlap.
+contact_city	london	London	London	FALSE	Shared contextual location field; not sufficient alone to establish investigator-network overlap.
+contact_country	unitedkingdom	United Kingdom	United Kingdom	FALSE	Shared contextual location field; not sufficient alone to establish investigator-network overlap.

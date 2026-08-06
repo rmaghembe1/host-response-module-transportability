@@ -1,0 +1,2 @@
+comparison	gse72810_samples	gse73461_samples	shared_gsm_accessions	gse72810_only_accessions	gse73461_only_accessions	accession_sets_disjoint	accession_level_interpretation
+GSE72810 versus GSE73461	146	459	0	146	459	TRUE	The deposited GSM accession sets are disjoint, supporting accession-level and deposited-sample-level separation.

@@ -1,0 +1,6 @@
+dimension	directly_assessable	result	evidence	manuscript_consequence
+GEO accession-level separation	TRUE	SUPPORTED	0 shared GSM accessions among 146 GSE72810 and 459 GSE73461 accessions.	The cohorts may be described as accession-level separate.
+Deposited sample-level separation	TRUE	SUPPORTED_AT_DEPOSITED_SAMPLE_ACCESSION_LEVEL	Every deposited sample has a cohort-specific GSM accession; descriptive title labels are not sample identifiers.	GSE72810 may be described as a second deposited sample cohort.
+Platform-level separation	TRUE	SUPPORTED	GPL6947 versus GPL10558.	GSE72810 provides cross-platform validation relative to GSE73461.
+Participant-level separation	FALSE	NOT_ASSESSABLE_FROM_DEPOSITED_METADATA	Neither cohort provides a dedicated participant identifier in the audited deposited metadata.	Do not claim that participant overlap was definitively excluded.
+Investigator-network independence	TRUE	NOT_SUPPORTED	7 shared contact or institutional evidence rows across contact_name, contact_email, contact_laboratory, contact_department, contact_institute.	Do not describe GSE72810 as fully investigator-independent.
