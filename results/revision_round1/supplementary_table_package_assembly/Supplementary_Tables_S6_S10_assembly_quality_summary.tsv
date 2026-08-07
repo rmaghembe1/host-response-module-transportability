@@ -1,0 +1,2 @@
+assembled_table_parts	byte_identical_parts	table_index_documents	master_index_documents	quality_checks	quality_checks_passed	quality_checks_failed	quality_gate	final_status
+19	19	5	1	11	11	0	PASS	READY_FOR_SUPPLEMENTARY_PACKAGE_REVIEW

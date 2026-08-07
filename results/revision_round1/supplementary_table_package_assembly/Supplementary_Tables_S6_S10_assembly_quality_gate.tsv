@@ -1,0 +1,12 @@
+check_id	check_description	pass	observed	expected
+Q01	Source lock contained 19 supplementary parts	TRUE	19	19
+Q02	Source-lock quality table contained 19 passing rows	TRUE	19	19
+Q03	Assembly manifest contains 19 supplementary parts	TRUE	19	19
+Q04	All assembled tables are byte-identical to their sources	TRUE	19	19
+Q05	All assembled tables contain at least one column	TRUE	4	>=1
+Q06	S7C contains 313 module-gene rows	TRUE	313	313
+Q07	S8A contains 1715 sample-score rows	TRUE	1715	1715
+Q08	S10E contains 29826 deletion-variant rows	TRUE	29826	29826
+Q09	Five S6-S10 table index documents were created	TRUE	5	5
+Q10	Revision-round supplementary master index was created	TRUE	2820	non-empty
+Q11	Existing S1-S5 representative files remain present	TRUE	5	5

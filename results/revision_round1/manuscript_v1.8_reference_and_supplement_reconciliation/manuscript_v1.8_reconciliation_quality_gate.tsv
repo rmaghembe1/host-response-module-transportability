@@ -1,0 +1,22 @@
+check_id	check_description	pass	observed	expected
+Q01	Reviewed v1.7 source checksum matched	TRUE	4d3d07a5e4f9f5a8ea28d4b9eca117275c63b124a1c2c3cab504dd36e6b40e7b	4d3d07a5e4f9f5a8ea28d4b9eca117275c63b124a1c2c3cab504dd36e6b40e7b
+Q02	v1.7 remained unchanged	TRUE	4d3d07a5e4f9f5a8ea28d4b9eca117275c63b124a1c2c3cab504dd36e6b40e7b	4d3d07a5e4f9f5a8ea28d4b9eca117275c63b124a1c2c3cab504dd36e6b40e7b
+Q03	Supplementary assembly contains 19 byte-identical parts	TRUE	19	19
+Q04	Reconciled reference list is continuous 1-21	TRUE	1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21	1-21
+Q05	GSE72810 is reference 14	TRUE	National Center for Biotechnology Information. Gene Expression Omnibus accession GSE72810. Available from: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE72810	GSE72810
+Q06	limma is reference 15	TRUE	Ritchie ME, Phipson B, Wu D, Hu Y, Law CW, Shi W, et al. limma powers differential expression analyses for RNA-sequencing and microarray studies. Nucleic Acids Res. 2015;43:e47. DOI:https://doi.org/10.1093/nar/gkv007	limma
+Q07	Benjamini-Hochberg paper is reference 18	TRUE	Benjamini Y, Hochberg Y. Controlling the false discovery rate: a practical and powerful approach to multiple testing. J R Stat Soc Series B Stat Methodol. 1995;57:289–300. DOI:https://doi.org/10.1111/j.2517-6161.1995.tb02031.x	Benjamini and Hochberg
+Q08	Russell immunometabolism reference is 21	TRUE	Russell DG, Huang L, VanderVen BC. Immunometabolism at the interface between macrophages and pathogens. Nat Rev Immunol. 2019;19:291–304. DOI:https://doi.org/10.1038/s41577-019-0124-9	Russell DG
+Q09	STARD reference was removed	TRUE	False	False
+Q10	Reference 22 no longer occurs	TRUE	False	False
+Q11	First appearance sequence for references 12-21 is ordered	TRUE	12,13,14,15,16,17,18,19,20,21	12,13,14,15,16,17,18,19,20,21
+Q12	GSE72810 dataset citation group is reconciled	TRUE	True	True
+Q13	Figure 3 sample-level wording was simplified	TRUE	False	False
+Q14	Median versus Hodges-Lehmann distinction is explicit	TRUE	True	True
+Q15	Multipart supplementary structure present: S6A-S6D	TRUE	True	True
+Q16	Multipart supplementary structure present: S7A-S7D	TRUE	True	True
+Q17	Multipart supplementary structure present: S8A-S8D	TRUE	True	True
+Q18	Multipart supplementary structure present: S9A-S9B	TRUE	True	True
+Q19	Multipart supplementary structure present: S10A-S10E	TRUE	True	True
+Q20	No trailing whitespace	TRUE	none detected	none
+Q21	Target manuscript differs from v1.7	TRUE	a4c5915638b3324bb41c835007f75ecfac53c24bb0a13bfe7f00e3c5c323cd28	different from v1.7

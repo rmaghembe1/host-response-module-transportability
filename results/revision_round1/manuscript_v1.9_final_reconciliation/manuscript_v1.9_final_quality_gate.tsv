@@ -1,0 +1,20 @@
+check_id	check_description	pass	observed	expected
+Q01	Reviewed v1.8 checksum matched	TRUE	a4c5915638b3324bb41c835007f75ecfac53c24bb0a13bfe7f00e3c5c323cd28	a4c5915638b3324bb41c835007f75ecfac53c24bb0a13bfe7f00e3c5c323cd28
+Q02	Protected v1.8 manuscript remained unchanged	TRUE	a4c5915638b3324bb41c835007f75ecfac53c24bb0a13bfe7f00e3c5c323cd28	a4c5915638b3324bb41c835007f75ecfac53c24bb0a13bfe7f00e3c5c323cd28
+Q03	GSE73461 main z-reference explicitly contains 201 samples	TRUE	True	True
+Q04	GSE73461 primary contrast explicitly remains 52 versus 94	TRUE	True	True
+Q05	GSE73461 excluded groups are outside reference and contrast	TRUE	explicit exclusion from both	True
+Q06	GSE72810 main z-reference explicitly uses all 146 samples	TRUE	all 146 samples	True
+Q07	GSE72810 primary contrast explicitly remains 23 versus 28	TRUE	23 versus 28	True
+Q08	GSE72810 controls and uncertain samples contribute to reference	TRUE	16 controls and 55 uncertain in reference	True
+Q09	GSE72810 controls and uncertain excluded from primary test	TRUE	excluded from primary test	True
+Q10	Correct GSE73461-GSE72810 supplementary wording retained	TRUE	GSE73461-GSE72810	True
+Q11	Truncated GSE7281 supplementary wording absent	TRUE	False	False
+Q12	GSE72810 remains reference 14	TRUE	reference [14]	reference [14]
+Q13	STARD remains absent	TRUE	False	False
+Q14	Multipart supplementary structure remains present	TRUE	all multipart labels present	all multipart labels present
+Q15	Cross-cohort effect-estimate distinction remains present	TRUE	explicit distinction present	True
+Q16	Investigator-network limitation remains present	TRUE	limitation present	True
+Q17	Fully investigator-independent wording remains excluded	TRUE	boundary wording present	True
+Q18	No trailing whitespace	TRUE	none detected	none
+Q19	v1.9 differs from v1.8	TRUE	4a52cf61559dda16da28d6572408731b4e7425f3d2a7fb118a5882acc9429c94	different from v1.8

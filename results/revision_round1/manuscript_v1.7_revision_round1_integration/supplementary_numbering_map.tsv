@@ -1,0 +1,12 @@
+item_id	content	revision_status
+Table S1	External cohort search and lock register	retained
+Table S2	Locked GSE211567 module definitions	retained
+Table S3	GSE73461 mapping, coverage and probe choices	retained
+Table S4	GSE73461 sample-level module scores	retained
+Table S5	GSE73461 primary and z-reference statistics	retained
+Table S6	GSE72810 cohort and case-classification audit	new
+Table S7	GSE72810 mapping, coverage and probes	new
+Table S8	GSE72810 scores, effects and sensitivities	new
+Table S9	Cross-cohort effect-size source data	new
+Table S10	GSVA and gene-deletion robustness	new
+Figure S1	Fixed-module sensitivity and robustness	new

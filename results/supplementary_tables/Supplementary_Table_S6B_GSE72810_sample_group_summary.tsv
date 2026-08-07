@@ -1,0 +1,7 @@
+category	expected_n	observed_n	count_match
+Definite Bacterial	23	23	TRUE
+Definite Viral	28	28	TRUE
+Probable Bacterial	17	17	TRUE
+Probable Viral	7	7	TRUE
+Uncertain	55	55	TRUE
+Control	16	16	TRUE

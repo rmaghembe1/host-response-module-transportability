@@ -1,0 +1,6 @@
+final_module_id	final_module_label	module_direction	locked_gene_count	mapped_gene_count	missing_gene_count	coverage_fraction	accepted_probe_count	genes_rescued_by_entrez	rescued_symbols	missing_symbols	eligible_at_50_percent	high_coverage_at_70_percent
+BACT_M1	Bacterial-higher cytoplasmic translation and ribosomal protein programme	higher_in_bacterial	25	24	1	0.96	46	0	none	HYDIN2	TRUE	TRUE
+BACT_M2	Bacterial-higher mitochondrial respiration and oxidative phosphorylation programme	higher_in_bacterial	21	20	1	0.952380952380952	31	6	ATP5F1A;ATP5ME;ATP5MF;MTFR2;NDUFAF6;NDUFAF7	NDUFAF8	TRUE	TRUE
+VIR_M1a	Viral-higher broad antiviral and interferon-stimulated defence programme	higher_in_viral	128	125	3	0.9765625	220	6	ADGRB1;IFIT1B;NT5C3A;PLPP6;RIGI;URI1	DDX60L;MICA;POLR3E	TRUE	TRUE
+VIR_M1b	Viral-higher viral restriction and type I interferon signalling subgroup	higher_in_viral	33	33	0	1	59	2	RIGI;TOMM70	none	TRUE	TRUE
+VIR_M2	Viral-higher cytokine and innate immune regulation programme	higher_in_viral	106	101	5	0.952830188679245	167	6	ACKR3;BTN2A3P;CTSL;GPR183;MARCHF1;ZBTB49	CCR2;CCRL2;KIR2DS2;KIR3DS1;MICA	TRUE	TRUE

@@ -1,0 +1,32 @@
+check_id	check_description	pass	observed	expected
+Q01	Protected v1.6 checksum matched before integration	True	1e7c46270e50ae8f247265413df37ba3dd7a3b9b05c99ca7103578deb39cd08c	1e7c46270e50ae8f247265413df37ba3dd7a3b9b05c99ca7103578deb39cd08c
+Q02	Protected v1.6 checksum remained unchanged	True	1e7c46270e50ae8f247265413df37ba3dd7a3b9b05c99ca7103578deb39cd08c	1e7c46270e50ae8f247265413df37ba3dd7a3b9b05c99ca7103578deb39cd08c
+Q03	v1.7 initially matched the protected baseline	True	1e7c46270e50ae8f247265413df37ba3dd7a3b9b05c99ca7103578deb39cd08c	1e7c46270e50ae8f247265413df37ba3dd7a3b9b05c99ca7103578deb39cd08c
+Q04	v1.7 changed after integration	True	4d3d07a5e4f9f5a8ea28d4b9eca117275c63b124a1c2c3cab504dd36e6b40e7b	different from baseline
+Q05	Structured mapping decision contained 313 locked instances	True	313	313
+Q06	Structured mapping decision contained 303 mapped instances	True	303	303
+Q07	Structured mapping quality gate passed	True	PASS	PASS
+Q08	Five locked modules passed mapping coverage checks	True	5	5
+Q09	Five cross-cohort effects retained direction	True	5	5
+Q10	Four modules were supported in both cohorts	True	4	4
+Q11	Manuscript contains GSE72810	True	37	at least 10
+Q12	Manuscript contains Figure 3	True	2	at least 2
+Q13	Manuscript contains Figure S1	True	5	at least 2
+Q14	Manuscript contains one Table 2 heading	True	1	1
+Q15	Supplementary inventory extends through Table S10	True	True	True
+Q16	Exact cohort-independence limitation is present	True	True	True
+Q17	No fully independent GSE72810 claim is present	True	False	False
+Q18	Heading occurs exactly once: # Methods	True	1	1
+Q19	Heading occurs exactly once: # Results	True	1	1
+Q20	Heading occurs exactly once: # Discussion	True	1	1
+Q21	Heading occurs exactly once: # Figure captions	True	1	1
+Q22	Heading occurs exactly once: # Table 1	True	1	1
+Q23	Heading occurs exactly once: # Table 2	True	1	1
+Q24	Heading occurs exactly once: # Supplementary material	True	1	1
+Q25	Heading occurs exactly once: # References	True	1	1
+Q26	GSE72810 GEO reference was added once	True	1	1
+Q27	New reference number is unique	True	1	1
+Q28	No TODO or manuscript placeholder remains	True	False	False
+Q29	No trailing whitespace remains	True	none detected	none
+Q30	Manuscript ends with a newline	True	True	True
+Q31	Unified diff was generated	True	55705	non-empty
