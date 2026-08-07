@@ -1,0 +1,13 @@
+check_id	check_description	pass	observed	expected
+Q01	Authoritative v2.2 manuscript SHA matched	TRUE	b2eab3a7e3c195cfa4b5c629af932b434357160d93650cae50aa921f8832f01a	b2eab3a7e3c195cfa4b5c629af932b434357160d93650cae50aa921f8832f01a
+Q02	All required manuscript anchors are present	TRUE	0	0
+Q03	Four journal/editor requirements are represented	TRUE	4	4
+Q04	Four Reviewer 1 requests are represented	TRUE	4	4
+Q05	Nine Reviewer 2 response items are represented	TRUE	9	9
+Q06	Only final formatting requirement remains package-stage pending	TRUE	1	1
+Q07	All scientific reviewer items are addressed	TRUE	all addressed	all addressed
+Q08	Figure 2C correction is documented	TRUE	documented	documented
+Q09	Deletion robustness is documented	TRUE	documented	documented
+Q10	Second external cohort is documented	TRUE	documented	documented
+Q11	GSVA is documented	TRUE	documented	documented
+Q12	Effect sizes and confidence intervals are documented	TRUE	documented	documented
