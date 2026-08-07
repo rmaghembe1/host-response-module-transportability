@@ -1,0 +1,30 @@
+check_id	check_description	pass	observed	expected
+Q01	Locked v2.2 SHA matched	TRUE	b2eab3a7e3c195cfa4b5c629af932b434357160d93650cae50aa921f8832f01a	b2eab3a7e3c195cfa4b5c629af932b434357160d93650cae50aa921f8832f01a
+Q02	Locked v2.2 source remained unchanged	TRUE	b2eab3a7e3c195cfa4b5c629af932b434357160d93650cae50aa921f8832f01a	b2eab3a7e3c195cfa4b5c629af932b434357160d93650cae50aa921f8832f01a
+Q03	Exactly two controlled replacements were applied	TRUE	2	2
+Q04	Submitted two-affiliation author marker is present	TRUE	present	present
+Q05	SFUCHAS department affiliation is restored	TRUE	present	present
+Q06	AfroBiomics affiliation is restored	TRUE	present	present
+Q07	Bridge Street spelling is correct	TRUE	Bridge Street	Bridge Street
+Q08	Brigde Street typo is absent	TRUE	0	0
+Q09	Gmail correspondence address is restored	TRUE	present	present
+Q10	SFUCHAS correspondence address is retained	TRUE	present	present
+Q11	Both correspondence emails occur in the author block order	TRUE	present	present
+Q12	Article title remains unchanged from v2.2	TRUE	present	present
+Q13	GSE211567 discovery n remains 224	TRUE	224	224
+Q14	GSE211567 groups remain 101 bacterial and 123 viral	TRUE	101 bacterial; 123 viral	101 bacterial; 123 viral
+Q15	GSE73461 reference population remains n = 201	TRUE	201	201
+Q16	GSE72810 primary contrast remains 23 versus 28	TRUE	23 versus 28	23 versus 28
+Q17	Deletion analysis remains 29,826 variants	TRUE	29,826	29,826
+Q18	Minimum deletion Pearson correlation remains 0.9940	TRUE	0.9940	0.9940
+Q19	Figure 2C independent-point correction is preserved	TRUE	present	present
+Q20	Directional concordance definition is preserved	TRUE	present	present
+Q21	Formal z-score equation is preserved	TRUE	present	present
+Q22	Formal module-score equation is preserved	TRUE	present	present
+Q23	Investigator-network limitation is preserved	TRUE	present	present
+Q24	ChatGPT/OpenAI disclosure is preserved	TRUE	present	present
+Q25	Public revision branch Code Availability is preserved	TRUE	present	present
+Q26	All three direct GEO URLs are preserved	TRUE	3 URLs present	3 URLs present
+Q27	Reference count remains 21	TRUE	21	21
+Q28	No trailing whitespace	TRUE	clean	clean
+Q29	v2.3 differs from v2.2	TRUE	f3b61e6ddb9f5d38c6211c6cfe0d8694e6ca3b761d52a3245d58df844ab5b2ae	different from source SHA
