@@ -1,0 +1,39 @@
+check_id	check_description	pass	observed	expected
+Q01	Scientific source SHA locked	TRUE	f3b61e6ddb9f5d38c6211c6cfe0d8694e6ca3b761d52a3245d58df844ab5b2ae	f3b61e6ddb9f5d38c6211c6cfe0d8694e6ca3b761d52a3245d58df844ab5b2ae
+Q02	Input DOCX SHA locked	TRUE	a82a36dac6d69fa642c0a749a1514ca2db795e8c5297418fde8d5feb69e8768e	a82a36dac6d69fa642c0a749a1514ca2db795e8c5297418fde8d5feb69e8768e
+Q03	Backup SHA locked	TRUE	a82a36dac6d69fa642c0a749a1514ca2db795e8c5297418fde8d5feb69e8768e	a82a36dac6d69fa642c0a749a1514ca2db795e8c5297418fde8d5feb69e8768e
+Q04	Candidate created	TRUE	True	True
+Q05	Two tables retained	TRUE	2	2
+Q06	Table 1 internal provenance column removed	TRUE	11	11
+Q07	Table 2 retains nine columns	TRUE	9	9
+Q08	Table 1 data preserved under reader-facing transformation	TRUE	identical	identical
+Q09	Table 2 data preserved under formatting transformation	TRUE	identical	identical
+Q10	Table 1 concise title present	TRUE	Table 1. External evaluation of the five predefined GSE211567 discovery modules in GSE73461	Table 1. External evaluation of the five predefined GSE211567 discovery modules in GSE73461
+Q11	Table 1 methodological detail retained as legend below table	TRUE	present	present
+Q12	Table 2 title preserved	TRUE	Table 2. Cross-cohort Hodges-Lehmann effects for the five locked host-response modules	Table 2. Cross-cohort Hodges-Lehmann effects for the five locked host-response modules
+Q13	Technical provenance token absent from manuscript Table 1	TRUE	['Module', 'Biological label', 'Discovery\ndirection', 'Locked\ngenes', 'GSE73461\ngenes scored', 'Main projection\nmedian difference;\nBH-adjusted P', 'Primary-only z-score\nsensitivity\nmedian difference;\nBH-adjusted P', 'Expected direction\nretained (main)', 'Expected direction\nretained (sensitivity)', 'Interpretation', 'Missing\ngenes']	token absent
+Q14	Five manuscript sections encoded	TRUE	5	5
+Q15	Two landscape table sections encoded	TRUE	2	2
+Q16	Continuous line-numbering properties encoded across sections	TRUE	5	>=5
+Q17	Table 1 header repeats across pages	TRUE	True	True
+Q18	Table 2 header repeats across pages	TRUE	True	True
+Q19	No embedded figures	TRUE	0	0
+Q20	No comment-related package parts	TRUE	NONE	NONE
+Q21	No tracked insertions	TRUE	0	0
+Q22	No tracked deletions	TRUE	0	0
+Q23	Document remains unprotected	TRUE	False	False
+Q24	Anchor preserved: Reuben S. Maghembe¹˒²*	TRUE	present	present
+Q25	Anchor preserved: 224 samples	TRUE	present	present
+Q26	Anchor preserved: 101 bacterial and 123 viral	TRUE	present	present
+Q27	Anchor preserved: 23 definite bacterial and 28 definite viral	TRUE	present	present
+Q28	Anchor preserved: 29,826	TRUE	present	present
+Q29	Anchor preserved: 0.9940	TRUE	present	present
+Q30	Anchor preserved: ChatGPT	TRUE	present	present
+Q31	Anchor preserved: OpenAI	TRUE	present	present
+Q32	Anchor preserved: plosone_revision_round1_2026	TRUE	present	present
+Q33	Anchor preserved: Fig 1.	TRUE	present	present
+Q34	Anchor preserved: Fig 2.	TRUE	present	present
+Q35	Anchor preserved: Fig 3.	TRUE	present	present
+Q36	Anchor preserved: S1 Fig.	TRUE	present	present
+Q37	LibreOffice smoke render succeeded	TRUE	status=0; bytes=196389	non-empty PDF
+Q38	Candidate promoted to canonical clean DOCX	TRUE	b6537d79201d6a750a6de0479ac756861ec5b826cb8573d9b43f66c539df65f5	b6537d79201d6a750a6de0479ac756861ec5b826cb8573d9b43f66c539df65f5

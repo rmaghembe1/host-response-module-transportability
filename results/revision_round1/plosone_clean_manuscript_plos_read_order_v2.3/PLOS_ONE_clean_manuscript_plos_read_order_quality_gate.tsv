@@ -1,0 +1,56 @@
+check_id	check_description	pass	observed	expected
+Q01	Scientific source SHA locked	TRUE	f3b61e6ddb9f5d38c6211c6cfe0d8694e6ca3b761d52a3245d58df844ab5b2ae	f3b61e6ddb9f5d38c6211c6cfe0d8694e6ca3b761d52a3245d58df844ab5b2ae
+Q02	Input DOCX SHA locked	TRUE	a21d3599e32d7479dd95402135eaaa27ee2719107bf417a727f721b082f95c8c	a21d3599e32d7479dd95402135eaaa27ee2719107bf417a727f721b082f95c8c
+Q03	Backup SHA locked	TRUE	a21d3599e32d7479dd95402135eaaa27ee2719107bf417a727f721b082f95c8c	a21d3599e32d7479dd95402135eaaa27ee2719107bf417a727f721b082f95c8c
+Q04	Candidate created	TRUE	True	True
+Q05	Two Word tables retained	TRUE	2	2
+Q06	One section retained	TRUE	1	1
+Q07	Table 1 matrix preserved	TRUE	identical	identical
+Q08	Table 2 matrix preserved	TRUE	identical	identical
+Q09	Figure captions heading removed	TRUE	0	0
+Q10	Table scaffolding 'Title' removed	TRUE	0	0
+Q11	Table scaffolding 'Editable table' removed	TRUE	0	0
+Q12	Table scaffolding 'Notes' removed	TRUE	0	0
+Q13	Table 1 title preserved	TRUE	present	present
+Q14	Table 2 title preserved	TRUE	present	present
+Q15	Read-order structure Fig 1	TRUE	PASS	PASS
+Q16	Read-order structure Fig 2	TRUE	PASS	PASS
+Q17	Read-order structure Table 1	TRUE	PASS	PASS
+Q18	Read-order structure Fig 3	TRUE	PASS	PASS
+Q19	Read-order structure Table 2	TRUE	PASS	PASS
+Q20	Read-order structure S1 Fig	TRUE	PASS	PASS
+Q21	Obsolete label 'Figure 1' absent	TRUE	0	0
+Q22	Obsolete label 'Figure 2' absent	TRUE	0	0
+Q23	Obsolete label 'Figure 3' absent	TRUE	0	0
+Q24	Obsolete label 'Figure S1' absent	TRUE	0	0
+Q25	Obsolete label 'Supplementary Figure S1' absent	TRUE	0	0
+Q26	PLOS label 'Fig 1' present	TRUE	3	>0
+Q27	PLOS label 'Fig 2' present	TRUE	3	>0
+Q28	PLOS label 'Fig 3' present	TRUE	3	>0
+Q29	PLOS label 'S1 Fig' present	TRUE	5	>0
+Q30	Anchor preserved: Reuben S. Maghembe¹˒²*	TRUE	present	present
+Q31	Anchor preserved: 224 samples	TRUE	present	present
+Q32	Anchor preserved: 101 bacterial and 123 viral	TRUE	present	present
+Q33	Anchor preserved: 52 DefiniteBacterial and 94 DefiniteViral	TRUE	present	present
+Q34	Anchor preserved: 23 definite bacterial and 28 definite viral	TRUE	present	present
+Q35	Anchor preserved: 29,826	TRUE	present	present
+Q36	Anchor preserved: 0.9940	TRUE	present	present
+Q37	Anchor preserved: 0.9874	TRUE	present	present
+Q38	Anchor preserved: 0.9814	TRUE	present	present
+Q39	Anchor preserved: ChatGPT	TRUE	present	present
+Q40	Anchor preserved: OpenAI	TRUE	present	present
+Q41	Anchor preserved: plosone_revision_round1_2026	TRUE	present	present
+Q42	Anchor preserved: The GSE72810 and GSE73461 GEO sample accessio	TRUE	present	present
+Q43	Anchor preserved: (A) Primary bacterial-versus-viral discovery 	TRUE	present	present
+Q44	Anchor preserved: (C) BH-adjusted Wilcoxon P values for the mai	TRUE	present	present
+Q45	Anchor preserved: GSE72810 was analysed as a second accession-l	TRUE	present	present
+Q46	Anchor preserved: C, Exhaustive leave-one/two-gene robustness i	TRUE	present	present
+Q47	No embedded figures	TRUE	0	0
+Q48	No comment package	TRUE	NONE	NONE
+Q49	Line numbering retained	TRUE	True	True
+Q50	Page-number field retained	TRUE	True	True
+Q51	No tracked insertions	TRUE	0	0
+Q52	No tracked deletions	TRUE	0	0
+Q53	Document unprotected	TRUE	False	False
+Q54	LibreOffice smoke render	TRUE	status=0; bytes=206955	non-empty PDF
+Q55	Candidate promoted to canonical DOCX	TRUE	a82a36dac6d69fa642c0a749a1514ca2db795e8c5297418fde8d5feb69e8768e	a82a36dac6d69fa642c0a749a1514ca2db795e8c5297418fde8d5feb69e8768e

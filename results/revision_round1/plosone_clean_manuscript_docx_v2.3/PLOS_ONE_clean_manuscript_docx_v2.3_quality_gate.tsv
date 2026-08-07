@@ -1,0 +1,41 @@
+check_id	check_description	pass	observed	expected
+Q01	Authoritative v2.3 source SHA matched	TRUE	f3b61e6ddb9f5d38c6211c6cfe0d8694e6ca3b761d52a3245d58df844ab5b2ae	f3b61e6ddb9f5d38c6211c6cfe0d8694e6ca3b761d52a3245d58df844ab5b2ae
+Q02	Authoritative v2.3 source remained unchanged	TRUE	f3b61e6ddb9f5d38c6211c6cfe0d8694e6ca3b761d52a3245d58df844ab5b2ae	f3b61e6ddb9f5d38c6211c6cfe0d8694e6ca3b761d52a3245d58df844ab5b2ae
+Q03	Clean DOCX exists	TRUE	True	True
+Q04	Internal working heading is absent	TRUE	0	0
+Q05	Internal Article category is absent	TRUE	0	0
+Q06	Front-matter Title label is absent	TRUE	absent	absent
+Q07	Two table-local Title headings are preserved	TRUE	2	2
+Q08	Two Editable table labels are preserved	TRUE	2	2
+Q09	Article title is present	TRUE	present	present
+Q10	Short title is present	TRUE	present	present
+Q11	Author line is present	TRUE	present	present
+Q12	SFUCHAS affiliation is present	TRUE	present	present
+Q13	AfroBiomics affiliation is present	TRUE	present	present
+Q14	Both correspondence emails are present	TRUE	present	present
+Q15	Discovery cohort n is preserved	TRUE	present	present
+Q16	Discovery group counts is preserved	TRUE	present	present
+Q17	GSE73461 reference population is preserved	TRUE	present	present
+Q18	GSE72810 primary contrast is preserved	TRUE	present	present
+Q19	Deletion variant count is preserved	TRUE	present	present
+Q20	Minimum Pearson correlation is preserved	TRUE	present	present
+Q21	Z-score equation is preserved	TRUE	present	present
+Q22	Module-score equation is preserved	TRUE	present	present
+Q23	Figure 2C correction is preserved	TRUE	present	present
+Q24	AI disclosure is preserved	TRUE	present	present
+Q25	Public revision branch is preserved	TRUE	present	present
+Q26	All direct GEO URLs are preserved	TRUE	3	3
+Q27	Exactly two editable tables are present	TRUE	2	2
+Q28	No figures are embedded	TRUE	0	0
+Q29	Continuous line numbering is encoded	TRUE	True	True
+Q30	Page-number field is encoded	TRUE	True	True
+Q31	Pre-cleanup comments package contained zero real comments	TRUE	0	0
+Q32	Empty comment-related package parts were removed	TRUE	NONE	NONE
+Q33	Final DOCX has zero comments	TRUE	0	0
+Q34	Final DOCX has zero comment anchors	TRUE	0/0/0	0/0/0
+Q35	No tracked insertions are present	TRUE	0	0
+Q36	No tracked deletions are present	TRUE	0	0
+Q37	Document is not protected	TRUE	False	False
+Q38	Document has one section	TRUE	1	1
+Q39	Heading hierarchy is limited to Heading 1-3	TRUE	0	0
+Q40	No obvious internal placeholders remain	TRUE	none	none

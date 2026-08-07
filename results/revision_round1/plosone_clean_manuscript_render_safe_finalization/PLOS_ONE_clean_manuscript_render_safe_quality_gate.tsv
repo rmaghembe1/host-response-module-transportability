@@ -1,0 +1,31 @@
+check_id	check_description	pass	observed	expected
+Q01	Authoritative v2.3 Markdown SHA matched	TRUE	f3b61e6ddb9f5d38c6211c6cfe0d8694e6ca3b761d52a3245d58df844ab5b2ae	f3b61e6ddb9f5d38c6211c6cfe0d8694e6ca3b761d52a3245d58df844ab5b2ae
+Q02	Pre-finalization clean DOCX SHA matched	TRUE	299e0bd45efa1be622e361905279a915cd5896ddbe6df5343420345ad1eccac9	299e0bd45efa1be622e361905279a915cd5896ddbe6df5343420345ad1eccac9
+Q03	Locked input copy SHA matched	TRUE	299e0bd45efa1be622e361905279a915cd5896ddbe6df5343420345ad1eccac9	299e0bd45efa1be622e361905279a915cd5896ddbe6df5343420345ad1eccac9
+Q04	Round-trip candidate was created	TRUE	True	True
+Q05	Paragraph count is preserved	TRUE	156	156
+Q06	Table count is preserved	TRUE	2	2
+Q07	Section count is preserved	TRUE	1	1
+Q08	Document text is exactly preserved	TRUE	identical	identical
+Q09	Exactly two editable manuscript tables remain	TRUE	2	2
+Q10	Two table-local Title headings remain	TRUE	2	2
+Q11	Two Editable table labels remain	TRUE	2	2
+Q12	Candidate has no comment-related package parts	TRUE	NONE	NONE
+Q13	Candidate has no duplicate ZIP members	TRUE	NONE	NONE
+Q14	Candidate retains continuous line numbering	TRUE	True	True
+Q15	Candidate retains page-number field	TRUE	True	True
+Q16	Candidate has zero tracked insertions	TRUE	0	0
+Q17	Candidate has zero tracked deletions	TRUE	0	0
+Q18	Candidate is not protected	TRUE	False	False
+Q19	Candidate contains no embedded manuscript figures	TRUE	0	0
+Q20	Submitted author marker is preserved	TRUE	present	present
+Q21	AfroBiomics affiliation is preserved	TRUE	present	present
+Q22	Discovery cohort size is preserved	TRUE	present	present
+Q23	Discovery group counts is preserved	TRUE	present	present
+Q24	GSE72810 primary contrast is preserved	TRUE	present	present
+Q25	Deletion variant count is preserved	TRUE	present	present
+Q26	Minimum Pearson correlation is preserved	TRUE	present	present
+Q27	AI declaration is preserved	TRUE	present	present
+Q28	Public revision branch is preserved	TRUE	present	present
+Q29	LibreOffice candidate smoke render succeeded	TRUE	pdf=True; bytes=211656; soffice_status=0	non-empty PDF
+Q30	Render-safe candidate promotion succeeded	TRUE	a21d3599e32d7479dd95402135eaaa27ee2719107bf417a727f721b082f95c8c	a21d3599e32d7479dd95402135eaaa27ee2719107bf417a727f721b082f95c8c

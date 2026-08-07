@@ -1,0 +1,35 @@
+check_id	check_description	pass	observed	expected
+Q01	Scientific source SHA locked	TRUE	f3b61e6ddb9f5d38c6211c6cfe0d8694e6ca3b761d52a3245d58df844ab5b2ae	f3b61e6ddb9f5d38c6211c6cfe0d8694e6ca3b761d52a3245d58df844ab5b2ae
+Q02	Input DOCX SHA locked	TRUE	b6537d79201d6a750a6de0479ac756861ec5b826cb8573d9b43f66c539df65f5	b6537d79201d6a750a6de0479ac756861ec5b826cb8573d9b43f66c539df65f5
+Q03	Backup SHA locked	TRUE	b6537d79201d6a750a6de0479ac756861ec5b826cb8573d9b43f66c539df65f5	b6537d79201d6a750a6de0479ac756861ec5b826cb8573d9b43f66c539df65f5
+Q04	Candidate created	TRUE	True	True
+Q05	Five sections retained	TRUE	5	5
+Q06	Two tables retained	TRUE	2	2
+Q07	Table 1 cell matrix unchanged	TRUE	identical	identical
+Q08	Table 2 cell matrix unchanged	TRUE	identical	identical
+Q09	Five section properties encoded	TRUE	5	5
+Q10	Two landscape sections retained	TRUE	2	2
+Q11	Five line-numbering definitions encoded	TRUE	5	>=5
+Q12	First section starts line numbering at 1	TRUE	1	1
+Q13	Sections 2-5 do not force line-number restart values	TRUE	NONE|NONE|NONE|NONE	NONE|NONE|NONE|NONE
+Q14	Every section uses continuous line numbering	TRUE	continuous|continuous|continuous|continuous|continuous	continuous in all sections
+Q15	Every section counts every line	TRUE	1|1|1|1|1	1 in all sections
+Q16	No embedded figures	TRUE	0	0
+Q17	No comment-related package parts	TRUE	NONE	NONE
+Q18	No tracked insertions	TRUE	0	0
+Q19	No tracked deletions	TRUE	0	0
+Q20	Page-number field retained	TRUE	True	True
+Q21	Document remains unprotected	TRUE	False	False
+Q22	Anchor preserved: Reuben S. Maghembe¹˒²*	TRUE	present	present
+Q23	Anchor preserved: Fig 1.	TRUE	present	present
+Q24	Anchor preserved: Fig 2.	TRUE	present	present
+Q25	Anchor preserved: Fig 3.	TRUE	present	present
+Q26	Anchor preserved: S1 Fig.	TRUE	present	present
+Q27	Anchor preserved: Table 1. External evaluation of the five predefine	TRUE	present	present
+Q28	Anchor preserved: Table 2. Cross-cohort Hodges-Lehmann effects for t	TRUE	present	present
+Q29	Anchor preserved: 29,826	TRUE	present	present
+Q30	Anchor preserved: 0.9940	TRUE	present	present
+Q31	Anchor preserved: ChatGPT	TRUE	present	present
+Q32	Anchor preserved: plosone_revision_round1_2026	TRUE	present	present
+Q33	LibreOffice smoke render succeeded	TRUE	status=0; bytes=196283	non-empty PDF
+Q34	Candidate promoted to canonical clean DOCX	TRUE	691f494f5f2335b1a96f5b8d009c815d733b3c74fab0f230eaa3f73274f6b38f	691f494f5f2335b1a96f5b8d009c815d733b3c74fab0f230eaa3f73274f6b38f

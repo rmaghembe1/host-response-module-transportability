@@ -1,0 +1,10 @@
+label_type	token	occurrences	expected
+obsolete	Figure 1	0	0
+obsolete	Figure 2	0	0
+obsolete	Figure 3	0	0
+obsolete	Figure S1	0	0
+obsolete	Supplementary Figure S1	0	0
+PLOS	Fig 1	3	>0
+PLOS	Fig 2	3	>0
+PLOS	Fig 3	3	>0
+PLOS	S1 Fig	5	>0

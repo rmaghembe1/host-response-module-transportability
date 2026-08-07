@@ -1,0 +1,7 @@
+item	citation_body_position	title_body_position	table_body_position	status
+Fig 1	81	82		PASS
+Fig 2	94	95		PASS
+Table 1	94	100	101	PASS
+Fig 3	118	119		PASS
+Table 2	118	125	126	PASS
+S1 Fig		240		PASS

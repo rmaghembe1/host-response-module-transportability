@@ -1,0 +1,9 @@
+transformation_id	action	detail
+T01	REMOVE_INTERNAL_VERSION_HEADING	# Complete Manuscript Draft v2.3 - Submission Candidate with Submitted Author Metadata Restored
+T02	REMOVE_INTERNAL_HORIZONTAL_RULE	---
+T03	REMOVE_INTERNAL_ARTICLE_CATEGORY_BLOCK	Article category / Original Article
+T04	REMOVE_FRONT_MATTER_TITLE_LABEL	## Title
+T05	NORMALIZE_FRONT_MATTER_SHORT_TITLE	Transportable infection modules
+T06	REMOVE_FRONT_MATTER_AUTHOR_SECTION_LABEL	## Author and affiliations
+T07	PRESERVE_TABLE_LOCAL_TITLE_HEADINGS	2 post-Abstract Title headings preserved
+T08	PROMOTE_REMAINING_HEADING_LEVELS	##->#, ###->##, ####->###, etc.

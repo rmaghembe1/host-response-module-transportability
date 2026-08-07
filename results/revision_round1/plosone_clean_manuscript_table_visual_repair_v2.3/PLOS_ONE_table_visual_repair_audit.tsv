@@ -1,0 +1,3 @@
+item	input_columns	output_columns	orientation	title	reader_facing_change
+Table 1	12	11	landscape	Table 1. External evaluation of the five predefined GSE211567 discovery modules in GSE73461	Removed internal supplementary_table_section provenance column; preserved all scientific data columns
+Table 2	9	9	landscape	Table 2. Cross-cohort Hodges-Lehmann effects for the five locked host-response modules	Preserved all columns; compacted headers and effect-cell line wrapping

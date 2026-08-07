@@ -1,0 +1,7 @@
+page	orientation	first_visible_line	last_visible_line	content	visual_status
+11	portrait	221	242	Fig 2 caption and preceding Results	PASS
+12	landscape	243	256	Table 1 and notes	PASS
+13	portrait	257	275	GSE72810 and cross-cohort Results	PASS
+14	portrait	276	293	Fig 3 caption	PASS
+15	landscape	294	296	Table 2 and notes	PASS
+16	portrait	297	317	Sensitivity and deletion Results	PASS
