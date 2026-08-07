@@ -1,0 +1,16 @@
+check_id	check_description	pass	observed	expected
+Q01	Authoritative v2.3 manuscript SHA matched	TRUE	f3b61e6ddb9f5d38c6211c6cfe0d8694e6ca3b761d52a3245d58df844ab5b2ae	f3b61e6ddb9f5d38c6211c6cfe0d8694e6ca3b761d52a3245d58df844ab5b2ae
+Q02	Response item count remains 17	TRUE	17	17
+Q03	Editor/journal item count remains four	TRUE	4	4
+Q04	Reviewer 1 item count remains four	TRUE	4	4
+Q05	Reviewer 2 item count remains nine	TRUE	9	9
+Q06	Exactly one package-stage item remains pending	TRUE	1	1
+Q07	All Reviewer 1 and Reviewer 2 items remain addressed	TRUE	none	none
+Q08	Obsolete v2.2 current-manuscript wording is absent	TRUE	0	0
+Q09	Obsolete pre-v2.3 verified commit is absent	TRUE	0	0
+Q10	Current verified public commit is represented	TRUE	present	present
+Q11	Second external cohort response remains documented	TRUE	present	present
+Q12	GSVA response remains documented	TRUE	present	present
+Q13	Effect-size response remains documented	TRUE	present	present
+Q14	Gene-deletion response remains documented	TRUE	present	present
+Q15	Figure 2C correction remains documented	TRUE	present	present
