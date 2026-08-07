@@ -1,0 +1,14 @@
+check_id	description	pass	observed	expected
+Q01	Main projection contains five module rows	TRUE	5	5
+Q02	Sensitivity analysis contains five module rows	TRUE	5	5
+Q03	Combined plot contains ten points	TRUE	10	10
+Q04	Exactly five locked module identifiers are present	TRUE	5	5
+Q05	Exactly two analysis representations are present	TRUE	2	2
+Q06	All BH-adjusted P values are finite	TRUE	10	10
+Q07	All BH-adjusted P values are greater than zero	TRUE	1.41174910314491e-06	> 0
+Q08	All BH-adjusted P values are at most one	TRUE	0.0799243564652853	<= 1
+Q09	All transformed P values are finite	TRUE	10	10
+Q10	Module identities match the five locked modules	TRUE	BACT_M1,BACT_M2,VIR_M1a,VIR_M1b,VIR_M2	BACT_M1,BACT_M2,VIR_M1a,VIR_M1b,VIR_M2
+Q11	PNG figure was written	TRUE	152201	> 0 bytes
+Q12	PDF figure was written	TRUE	5485	> 0 bytes
+Q13	SVG figure was written	TRUE	SVG written	SVG written

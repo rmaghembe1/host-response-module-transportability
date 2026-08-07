@@ -1,0 +1,20 @@
+replacement_id	label	source_occurrences	status
+R01	Update manuscript working-version heading	1	APPLIED
+R02	Simplify article title	1	APPLIED
+R03	Define transportability and fixed-module projection in plain language	1	APPLIED
+R04	Replace Introduction firewall jargon	1	APPLIED
+R05	Simplify Methods study-design wording	1	APPLIED
+R06	Expand GSE211567 cohort and define directional concordance	1	APPLIED
+R07	Clarify GO and biological module curation rationale	1	APPLIED
+R08	Add GSE73461 platform information	1	APPLIED
+R09	Add formal module-score definition	1	APPLIED
+R10	Simplify GSE211567 Results heading	1	APPLIED
+R11	Replace frozen-module Results heading	1	APPLIED
+R12	Simplify GSE72810 probe-selection wording	1	APPLIED
+R13	Simplify Discussion opening	1	APPLIED
+R14	Simplify Discussion transportability terminology	1	APPLIED
+R15	Define Figure 1B directional concordance	1	APPLIED
+R16	Simplify Figure 1C fixed-module wording	1	APPLIED
+R17	Revise Figure 2C caption for independent-point plot	1	APPLIED
+R18	Add direct GEO URLs to Data Availability	1	APPLIED
+R19	Expand generative-AI declaration	1	APPLIED

@@ -1,0 +1,38 @@
+check_id	check_description	pass	observed	expected
+Q01	Locked v1.9 source SHA matched	TRUE	4a52cf61559dda16da28d6572408731b4e7425f3d2a7fb118a5882acc9429c94	4a52cf61559dda16da28d6572408731b4e7425f3d2a7fb118a5882acc9429c94
+Q02	Locked v1.9 source remained unchanged	TRUE	4a52cf61559dda16da28d6572408731b4e7425f3d2a7fb118a5882acc9429c94	4a52cf61559dda16da28d6572408731b4e7425f3d2a7fb118a5882acc9429c94
+Q03	Revised Figure 2C passed all thirteen checks	TRUE	13/13	13/13
+Q04	Revised Figure 2C script contains no connecting-line geometry	TRUE	none detected	none detected
+Q05	Transportability is explicitly defined	TRUE	definition present	definition present
+Q06	Fixed-module projection is explicitly defined	TRUE	definition present	definition present
+Q07	Discovery/projection firewall phrase was removed	TRUE	0	0
+Q08	GSE211567 locked discovery sample size is stated	TRUE	224 samples	224 samples
+Q09	GSE211567 bacterial and viral sample counts are stated	TRUE	101 bacterial; 123 viral	101 bacterial; 123 viral
+Q10	GSE211567 Sri Lanka and United States strata are stated	TRUE	both site names present	both site names present
+Q11	Directional concordance uses same-sign log2 fold changes	TRUE	sign-based definition present	sign-based definition present
+Q12	Percentage directional concordance formula is stated	TRUE	percentage formula present	percentage formula present
+Q13	Biological curation is distinguished from mathematical optimisation	TRUE	curation boundary present	curation boundary present
+Q14	GSE73461 GPL10558 platform is stated	TRUE	GPL10558 present	GPL10558 present
+Q15	Formal gene-wise z-score expression is stated	TRUE	formula present	formula present
+Q16	Formal module mean expression is stated	TRUE	formula present	formula present
+Q17	Figure 1B legend defines directional concordance	TRUE	definition present	definition present
+Q18	Figure 2C legend describes independent categorical points	TRUE	independent-point description present	independent-point description present
+Q19	Figure 2C legend states categories are not connected	TRUE	non-connection explanation present	non-connection explanation present
+Q20	Direct GSE211567 GEO URL is present	TRUE	URL present	URL present
+Q21	Direct GSE73461 GEO URL is present	TRUE	URL present	URL present
+Q22	Direct GSE72810 GEO URL is present	TRUE	URL present	URL present
+Q23	AI declaration names ChatGPT and OpenAI	TRUE	ChatGPT/OpenAI present	ChatGPT/OpenAI present
+Q24	AI declaration states code-related assistance	TRUE	code assistance stated	code assistance stated
+Q25	AI declaration states output validation procedures	TRUE	validation procedures stated	validation procedures stated
+Q26	GSE73461 main z-score reference remains 201	TRUE	n = 201	n = 201
+Q27	GSE72810 main z-score reference remains 146	TRUE	146	146
+Q28	GSE72810 primary contrast remains 23 versus 28	TRUE	23 versus 28	23 versus 28
+Q29	Exhaustive deletion count remains 29,826	TRUE	29,826 present	29,826 present
+Q30	Minimum deletion Pearson correlation remains 0.9940	TRUE	0.9940 present	0.9940 present
+Q31	Required GSE72810/GSE73461 limitation is preserved	TRUE	limitation present	limitation present
+Q32	Manuscript does not call GSE72810 fully investigator-independent	TRUE	boundary statement present	boundary statement present
+Q33	Reference count remains 21	TRUE	21	21
+Q34	STARD reference remains absent	TRUE	0	0
+Q35	Target contains no trailing whitespace	TRUE	clean	clean
+Q36	Target differs from locked v1.9 source	TRUE	b4949e5caf29569f295f3ebd30a684ffa82fbebdbf4d604c48be88084447a677	different from source SHA
+Q37	Code Availability does not falsely claim revision branch already synchronized	TRUE	future-tense synchronization retained	future-tense synchronization retained until push

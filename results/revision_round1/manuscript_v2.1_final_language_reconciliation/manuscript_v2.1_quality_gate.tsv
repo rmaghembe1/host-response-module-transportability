@@ -1,0 +1,32 @@
+check_id	check_description	pass	observed	expected
+Q01	v2.0 source SHA matched	TRUE	b4949e5caf29569f295f3ebd30a684ffa82fbebdbf4d604c48be88084447a677	b4949e5caf29569f295f3ebd30a684ffa82fbebdbf4d604c48be88084447a677
+Q02	v2.0 source remained unchanged	TRUE	b4949e5caf29569f295f3ebd30a684ffa82fbebdbf4d604c48be88084447a677	b4949e5caf29569f295f3ebd30a684ffa82fbebdbf4d604c48be88084447a677
+Q03	All targeted replacements were applied	TRUE	22	22
+Q04	Internal Draft v0.9 note is absent	TRUE	0	0
+Q05	Site-aware terminology is absent from manuscript-facing text	TRUE	0	0
+Q06	Frozen terminology is absent	TRUE	0	0
+Q07	Discovery/projection firewall remains absent	TRUE	0	0
+Q08	Transportability definition is preserved	TRUE	present	present
+Q09	Fixed-module projection definition is preserved	TRUE	present	present
+Q10	GSE211567 discovery n remains 224	TRUE	224	224
+Q11	GSE211567 group counts remain 101 and 123	TRUE	101 bacterial; 123 viral	101 bacterial; 123 viral
+Q12	GSE73461 primary groups remain 52 and 94	TRUE	52 and 94	52 and 94
+Q13	GSE73461 main reference remains n = 201	TRUE	201	201
+Q14	GSE72810 main reference remains 146	TRUE	146	146
+Q15	GSE72810 primary contrast remains 23 versus 28	TRUE	23 versus 28	23 versus 28
+Q16	Deletion analysis remains 29,826 variants	TRUE	29,826	29,826
+Q17	Deletion minimum Pearson correlation remains 0.9940	TRUE	0.9940	0.9940
+Q18	Figure 2C independent-point explanation is preserved	TRUE	present	present
+Q19	Figure 2C non-connection explanation is preserved	TRUE	present	present
+Q20	Directional-concordance definition is preserved	TRUE	present	present
+Q21	Formal z-score equation is preserved	TRUE	present	present
+Q22	Formal module-score equation is preserved	TRUE	present	present
+Q23	GSE72810 investigator-network limitation is preserved	TRUE	present	present
+Q24	Fully investigator-independent boundary is preserved	TRUE	present	present
+Q25	ChatGPT/OpenAI disclosure is preserved	TRUE	present	present
+Q26	All three direct GEO links are preserved	TRUE	3 URLs present	3 URLs present
+Q27	Code Availability remains future tense before repository push	TRUE	future tense retained	future tense retained
+Q28	Reference count remains 21	TRUE	21	21
+Q29	STARD remains absent	TRUE	0	0
+Q30	No trailing whitespace	TRUE	clean	clean
+Q31	v2.1 differs from v2.0	TRUE	cb14e3ef8424ca7510b22db782b737ccf93e9767b690ed758c3da9818b93347e	different from source
