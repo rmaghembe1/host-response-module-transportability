@@ -1,0 +1,28 @@
+check_id	check_description	pass	observed	expected
+Q01	Locked v2.1 source SHA matched	TRUE	cb14e3ef8424ca7510b22db782b737ccf93e9767b690ed758c3da9818b93347e	cb14e3ef8424ca7510b22db782b737ccf93e9767b690ed758c3da9818b93347e
+Q02	Locked v2.1 source remained unchanged	TRUE	cb14e3ef8424ca7510b22db782b737ccf93e9767b690ed758c3da9818b93347e	cb14e3ef8424ca7510b22db782b737ccf93e9767b690ed758c3da9818b93347e
+Q03	Exactly two controlled replacements were applied	TRUE	2	2
+Q04	Submission-candidate heading is present	TRUE	present	present
+Q05	Future synchronization wording is absent	TRUE	absent	absent
+Q06	Public repository URL is present	TRUE	present	present
+Q07	Revision branch name is present	TRUE	present	present
+Q08	Direct public revision-branch URL is present	TRUE	present	present
+Q09	Code Availability states materials are available	TRUE	present-tense availability statement present	present-tense availability statement present
+Q10	GSE211567 discovery n remains 224	TRUE	224	224
+Q11	GSE211567 group counts remain 101 bacterial and 123 viral	TRUE	101 bacterial; 123 viral	101 bacterial; 123 viral
+Q12	GSE73461 main reference remains n = 201	TRUE	201	201
+Q13	GSE72810 primary contrast remains 23 versus 28	TRUE	23 versus 28	23 versus 28
+Q14	Deletion analysis remains 29,826 variants	TRUE	29,826	29,826
+Q15	Minimum deletion Pearson correlation remains 0.9940	TRUE	0.9940	0.9940
+Q16	Figure 2C independent-point language is preserved	TRUE	present	present
+Q17	Directional-concordance definition is preserved	TRUE	present	present
+Q18	Formal z-score equation is preserved	TRUE	present	present
+Q19	Formal module-score equation is preserved	TRUE	present	present
+Q20	Cross-cohort investigator-network limitation is preserved	TRUE	present	present
+Q21	Fully investigator-independent boundary is preserved	TRUE	present	present
+Q22	ChatGPT/OpenAI disclosure is preserved	TRUE	present	present
+Q23	All three direct GEO links are preserved	TRUE	3 URLs present	3 URLs present
+Q24	Reference count remains 21	TRUE	21	21
+Q25	STARD remains absent	TRUE	0	0
+Q26	No trailing whitespace is present	TRUE	clean	clean
+Q27	v2.2 differs from v2.1	TRUE	b2eab3a7e3c195cfa4b5c629af932b434357160d93650cae50aa921f8832f01a	different from source SHA
