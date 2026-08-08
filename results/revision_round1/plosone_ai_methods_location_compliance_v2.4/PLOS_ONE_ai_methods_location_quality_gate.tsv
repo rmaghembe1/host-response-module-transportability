@@ -1,0 +1,11 @@
+check_id	check_description	pass	observed	expected
+Q01	Input v2.3 source SHA locked	TRUE	f3b61e6ddb9f5d38c6211c6cfe0d8694e6ca3b761d52a3245d58df844ab5b2ae	f3b61e6ddb9f5d38c6211c6cfe0d8694e6ca3b761d52a3245d58df844ab5b2ae
+Q02	Original v2.3 source remains immutable	TRUE	f3b61e6ddb9f5d38c6211c6cfe0d8694e6ca3b761d52a3245d58df844ab5b2ae	f3b61e6ddb9f5d38c6211c6cfe0d8694e6ca3b761d52a3245d58df844ab5b2ae
+Q03	Exactly one Methods-level AI declaration heading	TRUE	1	1
+Q04	No level-1 AI declaration heading remains	TRUE	0	0
+Q05	Exactly one AI declaration paragraph remains	TRUE	1	1
+Q06	Exactly one Results heading remains	TRUE	1	1
+Q07	AI declaration is located before Results	TRUE	heading=109; declaration=111; results=113	heading < declaration < results
+Q08	AI declaration immediately precedes Results as final Methods subsection	TRUE	declaration_line=111; results_line=113	only blank line between declaration and Results
+Q09	Canonical manuscript line inventory unchanged except heading level and relocation	TRUE	identical	identical
+Q10	Output source differs from v2.3 source	TRUE	54aabce4263c581dd9685a1ae9d2fd1b05030d1c3fe072bff78512a293acd6bd	different SHA

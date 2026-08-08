@@ -1,0 +1,19 @@
+check_id	check_description	pass	observed	expected
+Q01	Clean manuscript SHA locked	TRUE	3a9db22fe7e1847bc9f994d2833f80bafd5395a92aa4fc87964218172cf4835e	3a9db22fe7e1847bc9f994d2833f80bafd5395a92aa4fc87964218172cf4835e
+Q02	Marked manuscript SHA locked	TRUE	829134652d86d049585366ef9ab61dde6eb87520a411a60c4c9c2cdf5ce92084	829134652d86d049585366ef9ab61dde6eb87520a411a60c4c9c2cdf5ce92084
+Q03	v2.4 scientific source SHA locked	TRUE	54aabce4263c581dd9685a1ae9d2fd1b05030d1c3fe072bff78512a293acd6bd	54aabce4263c581dd9685a1ae9d2fd1b05030d1c3fe072bff78512a293acd6bd
+Q04	Exactly 17 response items generated	TRUE	17	17
+Q05	All RR01-RR17 identifiers present	TRUE	RR01,RR02,RR03,RR04,RR05,RR06,RR07,RR08,RR09,RR10,RR11,RR12,RR13,RR14,RR15,RR16,RR17	RR01,RR02,RR03,RR04,RR05,RR06,RR07,RR08,RR09,RR10,RR11,RR12,RR13,RR14,RR15,RR16,RR17
+Q06	All final response statuses addressed	TRUE	17	17
+Q07	Editor/journal response count	TRUE	4	4
+Q08	Reviewer 1 response count	TRUE	4	4
+Q09	Reviewer 2 response count	TRUE	9	9
+Q10	Response DOCX created	TRUE	43730	>0 bytes
+Q11	Response Markdown audit copy created	TRUE	17458	>0 bytes
+Q12	Response TSV audit copy created	TRUE	14912	>0 bytes
+Q13	LibreOffice render succeeds	TRUE	status=0; bytes=87624	status=0 and non-empty PDF
+Q14	Rendered response has at least one page	TRUE	6	>0
+Q15	Every rendered PDF page has a PNG	TRUE	6	6
+Q16	AI response states disclosure is in Methods	TRUE	within Methods	within Methods
+Q17	RR01 updated from package-pending to addressed	TRUE	ADDRESSED	ADDRESSED
+Q18	No canonical manuscript changed during response production	TRUE	clean=3a9db22fe7e1847bc9f994d2833f80bafd5395a92aa4fc87964218172cf4835e; marked=829134652d86d049585366ef9ab61dde6eb87520a411a60c4c9c2cdf5ce92084	clean=3a9db22fe7e1847bc9f994d2833f80bafd5395a92aa4fc87964218172cf4835e; marked=829134652d86d049585366ef9ab61dde6eb87520a411a60c4c9c2cdf5ce92084

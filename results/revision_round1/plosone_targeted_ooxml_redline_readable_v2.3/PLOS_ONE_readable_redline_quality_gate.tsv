@@ -1,0 +1,20 @@
+check_id	check_description	pass	observed	expected
+Q01	Clean DOCX SHA locked	TRUE	691f494f5f2335b1a96f5b8d009c815d733b3c74fab0f230eaa3f73274f6b38f	691f494f5f2335b1a96f5b8d009c815d733b3c74fab0f230eaa3f73274f6b38f
+Q02	Baseline DOCX SHA locked	TRUE	0e0b4a2bcec736d2735ecc903ad72e99a1a3897bc09e2f991a7249000852dd34	0e0b4a2bcec736d2735ecc903ad72e99a1a3897bc09e2f991a7249000852dd34
+Q03	Scientific source SHA locked	TRUE	f3b61e6ddb9f5d38c6211c6cfe0d8694e6ca3b761d52a3245d58df844ab5b2ae	f3b61e6ddb9f5d38c6211c6cfe0d8694e6ca3b761d52a3245d58df844ab5b2ae
+Q04	Prior marked-up candidate SHA locked	TRUE	9ec494b73f6cefa344333e17a6335a6e59a9d9710f91409f137ae234527ecc11	9ec494b73f6cefa344333e17a6335a6e59a9d9710f91409f137ae234527ecc11
+Q05	Readable candidate created	TRUE	True	True
+Q06	Readable candidate differs from prior marked-up candidate	TRUE	a67dafa915184b1b0823355d8447397a7d2d644edc46054c4c1e58f867b51871	different
+Q07	Track Changes enabled	TRUE	True	True
+Q08	Tracked insertions exist	TRUE	108	>0
+Q09	No tracked deletions remain	TRUE	0	0
+Q10	Revision author correct	TRUE	Reuben S. Maghembe	Reuben S. Maghembe
+Q11	Same 71 revision-target paragraphs retained	TRUE	71	71
+Q12	Acceptance QA reproduces clean paragraph/table content	TRUE	identical	identical
+Q13	Acceptance QA preserves section orientations	TRUE	portrait|landscape|portrait|landscape|portrait	portrait|landscape|portrait|landscape|portrait
+Q14	Acceptance QA retains two editable tables	TRUE	2	2
+Q15	Acceptance QA retains five sections	TRUE	5	5
+Q16	No comment-related package parts	TRUE	NONE	NONE
+Q17	No embedded manuscript figures	TRUE	0	0
+Q18	LibreOffice smoke render succeeded	TRUE	status=0; bytes=217917	non-empty PDF
+Q19	Canonical clean DOCX remains immutable	TRUE	691f494f5f2335b1a96f5b8d009c815d733b3c74fab0f230eaa3f73274f6b38f	691f494f5f2335b1a96f5b8d009c815d733b3c74fab0f230eaa3f73274f6b38f

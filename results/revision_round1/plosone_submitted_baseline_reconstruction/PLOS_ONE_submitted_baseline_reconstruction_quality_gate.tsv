@@ -1,0 +1,26 @@
+check_id	check_description	pass	observed	expected
+Q01	Authoritative PDF SHA locked	TRUE	00b27a753e2a4b117f8063f9649c6c31de4b15ec38b53323930a3954c63fa0d3	00b27a753e2a4b117f8063f9649c6c31de4b15ec38b53323930a3954c63fa0d3
+Q02	Formatting donor SHA locked	TRUE	ec8af7db39d9db5442b633a846232c36cd5d17f029692f318a88e4c2e413f119	ec8af7db39d9db5442b633a846232c36cd5d17f029692f318a88e4c2e413f119
+Q03	Clean manuscript SHA locked	TRUE	691f494f5f2335b1a96f5b8d009c815d733b3c74fab0f230eaa3f73274f6b38f	691f494f5f2335b1a96f5b8d009c815d733b3c74fab0f230eaa3f73274f6b38f
+Q04	Scientific source SHA locked	TRUE	f3b61e6ddb9f5d38c6211c6cfe0d8694e6ca3b761d52a3245d58df844ab5b2ae	f3b61e6ddb9f5d38c6211c6cfe0d8694e6ca3b761d52a3245d58df844ab5b2ae
+Q05	Submitted title recovered after whitespace normalization	TRUE	present	present
+Q06	Submitted short title recovered	TRUE	present	present
+Q07	Submitted author metadata recovered: Reuben S. Maghembe	TRUE	present	present
+Q08	Submitted author metadata recovered: AfroBiomics Co. Ltd.	TRUE	present	present
+Q09	Submitted author metadata recovered: Bridge Street	TRUE	present	present
+Q10	Submitted author metadata recovered: rmaghembe@gmail.com	TRUE	present	present
+Q11	Submitted author metadata recovered: rmaghembe@sfuchas.ac.tz	TRUE	present	present
+Q12	Submitted scientific anchor recovered: GSE211567	TRUE	present	present
+Q13	Submitted scientific anchor recovered: GSE73461	TRUE	present	present
+Q14	Submitted scientific anchor recovered: DefiniteBacterial	TRUE	present	present
+Q15	Submitted scientific anchor recovered: DefiniteViral	TRUE	present	present
+Q16	Revision-only anchor absent from submitted baseline: GSE72810	TRUE	0	0
+Q17	Revision-only anchor absent from submitted baseline: 29,826	TRUE	0	0
+Q18	Revision-only anchor absent from submitted baseline: plosone_revision_round1_2026	TRUE	0	0
+Q19	Reconstructed DOCX preserves normalized baseline text	TRUE	identical	identical
+Q20	Baseline reconstruction contains no tracked insertions	TRUE	0	0
+Q21	Baseline reconstruction contains no tracked deletions	TRUE	0	0
+Q22	Baseline reconstruction does not enable Track Changes	TRUE	False	False
+Q23	Baseline reconstruction contains no comments	TRUE	NONE	NONE
+Q24	Baseline reconstruction contains no embedded figures	TRUE	0	0
+Q25	Baseline reconstruction smoke-renders in LibreOffice	TRUE	status=0; bytes=83794	non-empty PDF

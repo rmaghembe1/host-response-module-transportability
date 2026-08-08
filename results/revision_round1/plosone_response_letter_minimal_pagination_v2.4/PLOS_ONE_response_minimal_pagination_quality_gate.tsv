@@ -1,0 +1,17 @@
+check_id	check_description	pass	observed	expected
+Q01	Original response SHA locked	TRUE	2043b60fb61e8aa6787a1d730b46b09917465f867f9fa8f5e9c97b6253a24dd5	2043b60fb61e8aa6787a1d730b46b09917465f867f9fa8f5e9c97b6253a24dd5
+Q02	Clean manuscript SHA locked	TRUE	3a9db22fe7e1847bc9f994d2833f80bafd5395a92aa4fc87964218172cf4835e	3a9db22fe7e1847bc9f994d2833f80bafd5395a92aa4fc87964218172cf4835e
+Q03	Marked manuscript SHA locked	TRUE	829134652d86d049585366ef9ab61dde6eb87520a411a60c4c9c2cdf5ce92084	829134652d86d049585366ef9ab61dde6eb87520a411a60c4c9c2cdf5ce92084
+Q04	Scientific source SHA locked	TRUE	54aabce4263c581dd9685a1ae9d2fd1b05030d1c3fe072bff78512a293acd6bd	54aabce4263c581dd9685a1ae9d2fd1b05030d1c3fe072bff78512a293acd6bd
+Q05	Text-node sequence unchanged	TRUE	identical	identical
+Q06	RR11 location has keepNext	TRUE	True	True
+Q07	RR11 location has keepLines	TRUE	True	True
+Q08	RR11 evidence has keepLines	TRUE	True	True
+Q09	No tracked insertions introduced	TRUE	0	0
+Q10	No tracked deletions introduced	TRUE	0	0
+Q11	Track Changes remains disabled	TRUE	False	False
+Q12	LibreOffice render succeeds	TRUE	status=0; bytes=87602	status=0 and non-empty PDF
+Q13	Rendered response remains compact	TRUE	6	<=6 pages
+Q14	Every PDF page has PNG	TRUE	6	6
+Q15	Canonical response remains unchanged	TRUE	2043b60fb61e8aa6787a1d730b46b09917465f867f9fa8f5e9c97b6253a24dd5	2043b60fb61e8aa6787a1d730b46b09917465f867f9fa8f5e9c97b6253a24dd5
+Q16	Canonical manuscripts remain unchanged	TRUE	clean=3a9db22fe7e1847bc9f994d2833f80bafd5395a92aa4fc87964218172cf4835e; marked=829134652d86d049585366ef9ab61dde6eb87520a411a60c4c9c2cdf5ce92084	locked

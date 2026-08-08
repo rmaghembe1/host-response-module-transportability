@@ -1,0 +1,33 @@
+check_id	check_description	pass	observed	expected
+Q01	Clean DOCX SHA locked	TRUE	691f494f5f2335b1a96f5b8d009c815d733b3c74fab0f230eaa3f73274f6b38f	691f494f5f2335b1a96f5b8d009c815d733b3c74fab0f230eaa3f73274f6b38f
+Q02	Marked DOCX SHA locked	TRUE	a67dafa915184b1b0823355d8447397a7d2d644edc46054c4c1e58f867b51871	a67dafa915184b1b0823355d8447397a7d2d644edc46054c4c1e58f867b51871
+Q03	v2.4 source SHA locked	TRUE	54aabce4263c581dd9685a1ae9d2fd1b05030d1c3fe072bff78512a293acd6bd	54aabce4263c581dd9685a1ae9d2fd1b05030d1c3fe072bff78512a293acd6bd
+Q04	v2.3 source remains locked	TRUE	f3b61e6ddb9f5d38c6211c6cfe0d8694e6ca3b761d52a3245d58df844ab5b2ae	f3b61e6ddb9f5d38c6211c6cfe0d8694e6ca3b761d52a3245d58df844ab5b2ae
+Q05	Clean has two legitimate top-level Results headings	TRUE	2	2
+Q06	Marked has two legitimate top-level Results headings	TRUE	2	2
+Q07	Clean retains two Results headings	TRUE	2	2
+Q08	Marked retains two Results headings	TRUE	2	2
+Q09	Clean AI block immediately precedes main Results	TRUE	{'results_heading_count_before': 2, 'results_heading_count_after': 2, 'results_positions_after': '15,50', 'methods_anchor_paragraph': 45, 'ai_heading_paragraph': 48, 'ai_declaration_paragraph': 49, 'main_results_heading_paragraph': 50, 'heading_style_matches_methods_anchor': True}	AI heading -> declaration -> main Results
+Q10	Marked AI block immediately precedes main Results	TRUE	{'results_heading_count_before': 2, 'results_heading_count_after': 2, 'results_positions_after': '15,50', 'methods_anchor_paragraph': 45, 'ai_heading_paragraph': 48, 'ai_declaration_paragraph': 49, 'main_results_heading_paragraph': 50, 'heading_style_matches_methods_anchor': True}	AI heading -> declaration -> main Results
+Q11	Clean AI heading uses Methods subsection formatting	TRUE	True	True
+Q12	Marked AI heading uses Methods subsection formatting	TRUE	True	True
+Q13	Clean has no tracked insertions	TRUE	0	0
+Q14	Clean has no tracked deletions	TRUE	0	0
+Q15	Marked retains 108 tracked insertions	TRUE	108	108
+Q16	Marked retains zero tracked deletions	TRUE	0	0
+Q17	Marked keeps Track Changes enabled	TRUE	True	True
+Q18	Marked revision author preserved	TRUE	Reuben S. Maghembe	Reuben S. Maghembe
+Q19	No comments in clean	TRUE	NONE	NONE
+Q20	No comments in marked	TRUE	NONE	NONE
+Q21	No embedded media in clean	TRUE	0	0
+Q22	No embedded media in marked	TRUE	0	0
+Q23	Accepted marked reproduces clean	TRUE	identical	identical
+Q24	Accepted marked preserves orientations	TRUE	portrait|landscape|portrait|landscape|portrait	portrait|landscape|portrait|landscape|portrait
+Q25	Five sections retained	TRUE	5	5
+Q26	Two landscape sections retained	TRUE	2	2
+Q27	Two editable tables retained	TRUE	2	2
+Q28	Table cells unchanged	TRUE	identical	identical
+Q29	Clean smoke render succeeds	TRUE	status=0; bytes=196205	status=0 and non-empty PDF
+Q30	Marked smoke render succeeds	TRUE	status=0; bytes=217861	status=0 and non-empty PDF
+Q31	Original clean immutable during QA	TRUE	691f494f5f2335b1a96f5b8d009c815d733b3c74fab0f230eaa3f73274f6b38f	691f494f5f2335b1a96f5b8d009c815d733b3c74fab0f230eaa3f73274f6b38f
+Q32	Original marked immutable during QA	TRUE	a67dafa915184b1b0823355d8447397a7d2d644edc46054c4c1e58f867b51871	a67dafa915184b1b0823355d8447397a7d2d644edc46054c4c1e58f867b51871
