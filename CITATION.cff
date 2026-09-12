@@ -1,10 +1,25 @@
 cff-version: 1.2.0
 title: "Reproducibility code for host-response module transportability across public infection transcriptomic cohorts"
-message: "If you use this repository, please cite the associated manuscript."
+message: "If you use this repository, please cite the associated PLOS ONE article and the archived software release."
 type: software
+
 authors:
   - family-names: Maghembe
     given-names: Reuben S.
+
 repository-code: "https://github.com/rmaghembe1/host-response-module-transportability"
+
+version: "1.1.0"
+date-released: 2026-09-12
 year: 2026
 license: MIT
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Maghembe
+      given-names: Reuben S.
+  title: "External transportability of bacterial- and viral-associated host-response modules across public transcriptomic cohorts"
+  journal: "PLOS ONE"
+  year: 2026
+  doi: "10.1371/journal.pone.0353559"
